@@ -1,2 +1,3 @@
 0832. 🔧 refactor: remove redundant code blocks
 0453. 🎨 style: standardize quote style
+0024. 📚 docs: write FAQ section
