@@ -4,3 +4,4 @@
 0112. ✨ feat: enable dark mode toggle
 0183. 🔧 refactor: split large controller into smaller functions
 0283. ♻️ chore: add GitHub actions badge
+0702. ✨ feat: add user authentication
