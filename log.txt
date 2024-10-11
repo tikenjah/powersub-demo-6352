@@ -20,3 +20,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0926. 🔧 refactor: organize models into subfolders
 0458. ✨ feat: create admin dashboard
+0110. 🐛 fix: prevent crash on empty input
