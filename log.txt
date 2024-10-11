@@ -18,3 +18,4 @@
 0795. 📚 docs: update README with setup steps
 0352. ✨ feat: add export to CSV option
 0327. 🔧 refactor: split large controller into smaller functions
+0926. 🔧 refactor: organize models into subfolders
