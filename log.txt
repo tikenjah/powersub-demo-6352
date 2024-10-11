@@ -12,3 +12,4 @@
 0868. ✅ test: add unit test for quiz service
 0500. ✅ test: add integration test for /submit endpoint
 0412. ✅ test: increase coverage on auth module
+0068. 🐛 fix: fix null pointer exception on login
