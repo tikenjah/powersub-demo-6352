@@ -15,3 +15,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0058. ♻️ chore: add GitHub actions badge
 0011. ✅ test: add unit test for quiz service
+0795. 📚 docs: update README with setup steps
