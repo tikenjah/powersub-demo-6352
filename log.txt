@@ -5002,3 +5002,4 @@
 0088. 📚 docs: add API usage examples
 0931. 🚀 perf: reduce image load time
 0724. ✅ test: mock database connection in test suite
+0049. 🐛 fix: handle 500 error in quiz API
