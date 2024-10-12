@@ -24,3 +24,4 @@
 0481. ✅ test: add unit test for quiz service
 0778. 📚 docs: write FAQ section
 0850. ♻️ chore: rename env.example
+0014. 🔧 refactor: remove redundant code blocks
