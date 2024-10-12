@@ -29,3 +29,4 @@
 0986. 📚 docs: document token refresh logic
 0085. ✨ feat: support email verification
 0570. 🎨 style: apply consistent indentation
+0807. 🔧 refactor: remove redundant code blocks
