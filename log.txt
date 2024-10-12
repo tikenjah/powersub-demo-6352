@@ -9004,3 +9004,4 @@
 0866. 📚 docs: add API usage examples
 0594. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
+0049. 🐛 fix: handle 500 error in quiz API
