@@ -22,3 +22,4 @@
 0458. ✨ feat: create admin dashboard
 0110. 🐛 fix: prevent crash on empty input
 0481. ✅ test: add unit test for quiz service
+0778. 📚 docs: write FAQ section
