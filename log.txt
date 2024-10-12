@@ -7003,3 +7003,4 @@
 0975. 🎨 style: apply consistent indentation
 0132. ✅ test: add unit test for quiz service
 0400. 🐛 fix: fix null pointer exception on login
+0028. 🎨 style: standardize quote style
