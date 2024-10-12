@@ -28,3 +28,4 @@
 0755. 🚀 perf: cache repeated calculations
 0986. 📚 docs: document token refresh logic
 0085. ✨ feat: support email verification
+0570. 🎨 style: apply consistent indentation
