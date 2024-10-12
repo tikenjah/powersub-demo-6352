@@ -10005,3 +10005,4 @@
 0238. 🎨 style: apply consistent indentation
 0146. 🎨 style: apply consistent indentation
 0617. ✨ feat: support email verification
+0824. 🚀 perf: lazy-load components
