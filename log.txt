@@ -37,3 +37,4 @@
 0469. 🚀 perf: lazy-load components
 0019. ✨ feat: enable dark mode toggle
 0706. ✨ feat: support email verification
+0485. 📚 docs: update README with setup steps
