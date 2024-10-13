@@ -40,3 +40,4 @@
 0485. 📚 docs: update README with setup steps
 0721. 🚀 perf: optimize database query for quiz results
 0794. ♻️ chore: clean up unused files
+0025. 🚀 perf: optimize database query for quiz results
