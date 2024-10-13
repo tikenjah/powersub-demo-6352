@@ -34,3 +34,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0934. ✨ feat: support email verification
 0242. ♻️ chore: clean up unused files
+0469. 🚀 perf: lazy-load components
