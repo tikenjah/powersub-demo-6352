@@ -5006,3 +5006,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0087. ✨ feat: add export to CSV option
 0770. ♻️ chore: rename env.example
+0647. 🐛 fix: prevent crash on empty input
