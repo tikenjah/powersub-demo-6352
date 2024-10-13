@@ -38,3 +38,4 @@
 0019. ✨ feat: enable dark mode toggle
 0706. ✨ feat: support email verification
 0485. 📚 docs: update README with setup steps
+0721. 🚀 perf: optimize database query for quiz results
