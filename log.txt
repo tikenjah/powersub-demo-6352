@@ -9008,3 +9008,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0281. ✨ feat: support email verification
 0257. 📚 docs: clarify environment setup
+0514. 🐛 fix: fix broken CSS in mobile view
