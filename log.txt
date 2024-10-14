@@ -6005,3 +6005,4 @@
 0979. 🎨 style: standardize quote style
 0239. 🎨 style: standardize quote style
 0387. ✨ feat: enable dark mode toggle
+0475. 🔧 refactor: clean up auth middleware
