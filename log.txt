@@ -48,3 +48,4 @@
 0373. 📚 docs: document token refresh logic
 0629. 🔧 refactor: organize models into subfolders
 0354. 📚 docs: add API usage examples
+0579. 📚 docs: clarify environment setup
