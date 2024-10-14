@@ -41,3 +41,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0794. ♻️ chore: clean up unused files
 0025. 🚀 perf: optimize database query for quiz results
+0572. ✨ feat: add user authentication
