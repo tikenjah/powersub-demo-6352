@@ -50,3 +50,4 @@
 0354. 📚 docs: add API usage examples
 0579. 📚 docs: clarify environment setup
 0181. ♻️ chore: add GitHub actions badge
+0094. 📚 docs: document token refresh logic
