@@ -51,3 +51,4 @@
 0579. 📚 docs: clarify environment setup
 0181. ♻️ chore: add GitHub actions badge
 0094. 📚 docs: document token refresh logic
+0708. ✅ test: add integration test for /submit endpoint
