@@ -7010,3 +7010,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0697. ♻️ chore: bump dependencies
 0865. ♻️ chore: add GitHub actions badge
+0067. 🔧 refactor: remove redundant code blocks
