@@ -9010,3 +9010,4 @@
 0257. 📚 docs: clarify environment setup
 0514. 🐛 fix: fix broken CSS in mobile view
 0124. 🎨 style: reformat files with black
+0111. 📚 docs: update README with setup steps
