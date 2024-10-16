@@ -65,3 +65,4 @@
 0979. 🎨 style: standardize quote style
 0384. 📚 docs: clarify environment setup
 0847. ♻️ chore: clean up unused files
+0615. 🐛 fix: correct typo in registration form
