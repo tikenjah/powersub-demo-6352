@@ -8008,3 +8008,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0152. ✨ feat: add user authentication
 0610. 🚀 perf: lazy-load components
+0629. 🔧 refactor: organize models into subfolders
