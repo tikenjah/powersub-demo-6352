@@ -9013,3 +9013,4 @@
 0111. 📚 docs: update README with setup steps
 0244. ✨ feat: add export to CSV option
 0568. 🐛 fix: handle 500 error in quiz API
+0577. ✨ feat: implement quiz timer feature
