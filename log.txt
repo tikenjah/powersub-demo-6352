@@ -10013,3 +10013,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0837. 🚀 perf: cache repeated calculations
 0357. ✅ test: add unit test for quiz service
+0880. 🐛 fix: fix broken CSS in mobile view
