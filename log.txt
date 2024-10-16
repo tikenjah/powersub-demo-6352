@@ -64,3 +64,4 @@
 0394. 🚀 perf: lazy-load components
 0979. 🎨 style: standardize quote style
 0384. 📚 docs: clarify environment setup
+0847. ♻️ chore: clean up unused files
