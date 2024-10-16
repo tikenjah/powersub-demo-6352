@@ -70,3 +70,4 @@
 0122. ✨ feat: support email verification
 0887. 📚 docs: add API usage examples
 0480. ♻️ chore: add GitHub actions badge
+0737. 🐛 fix: handle 500 error in quiz API
