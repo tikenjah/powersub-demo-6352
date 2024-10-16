@@ -10017,3 +10017,4 @@
 0706. ✨ feat: support email verification
 0360. ✨ feat: add export to CSV option
 0861. ♻️ chore: clean up unused files
+0387. ✨ feat: enable dark mode toggle
