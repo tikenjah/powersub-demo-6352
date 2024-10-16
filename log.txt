@@ -6010,3 +6010,4 @@
 0869. ♻️ chore: bump dependencies
 0116. ✨ feat: support email verification
 0942. ✅ test: increase coverage on auth module
+0669. ✨ feat: enable dark mode toggle
