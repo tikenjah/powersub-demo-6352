@@ -80,3 +80,4 @@
 0451. ✨ feat: support email verification
 0831. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
+0758. 🚀 perf: optimize database query for quiz results
