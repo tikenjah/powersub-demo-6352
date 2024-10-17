@@ -90,3 +90,4 @@
 0204. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
 0517. ✅ test: mock database connection in test suite
+0979. 🎨 style: standardize quote style
