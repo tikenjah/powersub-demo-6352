@@ -8013,3 +8013,4 @@
 0349. ✅ test: increase coverage on auth module
 0430. 🐛 fix: fix null pointer exception on login
 0934. ✨ feat: support email verification
+0598. 🔧 refactor: remove redundant code blocks
