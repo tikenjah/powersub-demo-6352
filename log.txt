@@ -77,3 +77,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0840. 🔧 refactor: refactor quiz grading logic
 0822. 🔧 refactor: remove redundant code blocks
+0451. ✨ feat: support email verification
