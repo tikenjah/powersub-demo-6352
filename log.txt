@@ -10024,3 +10024,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0161. ✨ feat: create admin dashboard
 0959. 🐛 fix: fix null pointer exception on login
+0330. ✅ test: test user registration edge cases
