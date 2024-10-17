@@ -8010,3 +8010,4 @@
 0610. 🚀 perf: lazy-load components
 0629. 🔧 refactor: organize models into subfolders
 0648. ♻️ chore: bump dependencies
+0349. ✅ test: increase coverage on auth module
