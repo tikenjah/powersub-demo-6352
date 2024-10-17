@@ -8011,3 +8011,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0648. ♻️ chore: bump dependencies
 0349. ✅ test: increase coverage on auth module
+0430. 🐛 fix: fix null pointer exception on login
