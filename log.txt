@@ -92,3 +92,4 @@
 0517. ✅ test: mock database connection in test suite
 0979. 🎨 style: standardize quote style
 0347. ♻️ chore: update .gitignore
+0624. ✅ test: add unit test for quiz service
