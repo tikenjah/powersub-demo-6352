@@ -10026,3 +10026,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0330. ✅ test: test user registration edge cases
 0423. ✅ test: mock database connection in test suite
+0621. 🔧 refactor: clean up auth middleware
