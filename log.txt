@@ -96,3 +96,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0460. 📚 docs: write FAQ section
 0729. 🔧 refactor: refactor quiz grading logic
+0472. 🐛 fix: fix null pointer exception on login
