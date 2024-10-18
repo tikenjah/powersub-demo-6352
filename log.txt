@@ -93,3 +93,4 @@
 0979. 🎨 style: standardize quote style
 0347. ♻️ chore: update .gitignore
 0624. ✅ test: add unit test for quiz service
+0380. 🐛 fix: fix null pointer exception on login
