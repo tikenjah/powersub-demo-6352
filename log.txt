@@ -10027,3 +10027,4 @@
 0330. ✅ test: test user registration edge cases
 0423. ✅ test: mock database connection in test suite
 0621. 🔧 refactor: clean up auth middleware
+0345. 📚 docs: document token refresh logic
