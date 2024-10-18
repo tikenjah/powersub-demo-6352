@@ -94,3 +94,4 @@
 0347. ♻️ chore: update .gitignore
 0624. ✅ test: add unit test for quiz service
 0380. 🐛 fix: fix null pointer exception on login
+0460. 📚 docs: write FAQ section
