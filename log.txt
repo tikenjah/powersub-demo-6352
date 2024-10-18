@@ -6014,3 +6014,4 @@
 0837. 🚀 perf: cache repeated calculations
 0681. ✨ feat: create admin dashboard
 0674. 🔧 refactor: split large controller into smaller functions
+0749. ✨ feat: support email verification
