@@ -7021,3 +7021,4 @@
 0002. 🚀 perf: cache repeated calculations
 0597. 🚀 perf: cache repeated calculations
 0886. ♻️ chore: clean up unused files
+0178. ✨ feat: support email verification
