@@ -9025,3 +9025,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0078. ♻️ chore: update .gitignore
 0302. ✨ feat: implement quiz timer feature
+0186. ✅ test: test user registration edge cases
