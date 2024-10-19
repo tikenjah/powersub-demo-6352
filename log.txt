@@ -119,3 +119,4 @@
 0691. 🎨 style: rename variables for clarity
 0427. ✅ test: mock database connection in test suite
 0506. 🐛 fix: handle 500 error in quiz API
+0198. 📚 docs: clarify environment setup
