@@ -5019,3 +5019,4 @@
 0394. 🚀 perf: lazy-load components
 0046. 🎨 style: rename variables for clarity
 0243. 🔧 refactor: clean up auth middleware
+0828. ♻️ chore: add GitHub actions badge
