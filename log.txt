@@ -10031,3 +10031,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0630. 🚀 perf: lazy-load components
 0535. 📚 docs: write FAQ section
+0419. 🎨 style: remove trailing whitespace
