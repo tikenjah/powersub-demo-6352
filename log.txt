@@ -10030,3 +10030,4 @@
 0345. 📚 docs: document token refresh logic
 0625. 🐛 fix: handle 500 error in quiz API
 0630. 🚀 perf: lazy-load components
+0535. 📚 docs: write FAQ section
