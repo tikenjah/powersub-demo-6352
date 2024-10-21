@@ -145,3 +145,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0575. ✅ test: add unit test for quiz service
 0029. 🚀 perf: lazy-load components
+0960. ✅ test: increase coverage on auth module
