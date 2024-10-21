@@ -147,3 +147,4 @@
 0029. 🚀 perf: lazy-load components
 0960. ✅ test: increase coverage on auth module
 0921. 🐛 fix: correct typo in registration form
+0667. ✨ feat: add export to CSV option
