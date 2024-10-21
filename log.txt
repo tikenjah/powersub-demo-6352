@@ -8028,3 +8028,4 @@
 0061. ✨ feat: create admin dashboard
 0146. 🎨 style: apply consistent indentation
 0892. ✅ test: add unit test for quiz service
+0095. ✅ test: mock database connection in test suite
