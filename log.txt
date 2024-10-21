@@ -143,3 +143,4 @@
 0946. ✅ test: add unit test for quiz service
 0047. 🎨 style: rename variables for clarity
 0479. 🐛 fix: fix null pointer exception on login
+0575. ✅ test: add unit test for quiz service
