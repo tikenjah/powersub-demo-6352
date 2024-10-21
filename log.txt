@@ -139,3 +139,4 @@
 0128. ♻️ chore: rename env.example
 0097. 🐛 fix: handle 500 error in quiz API
 0641. 📚 docs: write FAQ section
+0304. 🔧 refactor: remove redundant code blocks
