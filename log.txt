@@ -146,3 +146,4 @@
 0575. ✅ test: add unit test for quiz service
 0029. 🚀 perf: lazy-load components
 0960. ✅ test: increase coverage on auth module
+0921. 🐛 fix: correct typo in registration form
