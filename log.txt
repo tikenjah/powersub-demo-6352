@@ -151,3 +151,4 @@
 0577. ✨ feat: implement quiz timer feature
 0807. 🔧 refactor: remove redundant code blocks
 0076. 🎨 style: reformat files with black
+0096. 🐛 fix: prevent crash on empty input
