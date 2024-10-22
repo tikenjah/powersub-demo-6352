@@ -155,3 +155,4 @@
 0302. ✨ feat: implement quiz timer feature
 0061. ✨ feat: create admin dashboard
 0906. 📚 docs: add API usage examples
+0542. 🔧 refactor: organize models into subfolders
