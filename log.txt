@@ -7029,3 +7029,4 @@
 0271. ✅ test: add unit test for quiz service
 0142. ✨ feat: implement quiz timer feature
 0389. 📚 docs: improve code comments in utils
+0856. 🐛 fix: fix null pointer exception on login
