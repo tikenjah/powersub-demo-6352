@@ -158,3 +158,4 @@
 0542. 🔧 refactor: organize models into subfolders
 0001. 🚀 perf: cache repeated calculations
 0053. ✅ test: increase coverage on auth module
+0269. ✅ test: test user registration edge cases
