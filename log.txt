@@ -169,3 +169,4 @@
 0673. 🐛 fix: correct typo in registration form
 0606. 📚 docs: improve code comments in utils
 0113. ✨ feat: add user authentication
+0838. 🎨 style: standardize quote style
