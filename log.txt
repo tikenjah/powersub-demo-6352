@@ -165,3 +165,4 @@
 0980. 🎨 style: reformat files with black
 0530. 🔧 refactor: refactor quiz grading logic
 0847. ♻️ chore: clean up unused files
+0558. ✨ feat: enable dark mode toggle
