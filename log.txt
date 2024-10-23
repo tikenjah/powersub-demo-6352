@@ -163,3 +163,4 @@
 0442. 🎨 style: standardize quote style
 0541. 🐛 fix: correct typo in registration form
 0980. 🎨 style: reformat files with black
+0530. 🔧 refactor: refactor quiz grading logic
