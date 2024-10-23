@@ -172,3 +172,4 @@
 0838. 🎨 style: standardize quote style
 0577. ✨ feat: implement quiz timer feature
 0399. ✅ test: mock database connection in test suite
+0036. 🔧 refactor: clean up auth middleware
