@@ -160,3 +160,4 @@
 0053. ✅ test: increase coverage on auth module
 0269. ✅ test: test user registration edge cases
 0355. 🚀 perf: optimize database query for quiz results
+0442. 🎨 style: standardize quote style
