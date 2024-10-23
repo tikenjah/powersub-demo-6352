@@ -171,3 +171,4 @@
 0113. ✨ feat: add user authentication
 0838. 🎨 style: standardize quote style
 0577. ✨ feat: implement quiz timer feature
+0399. ✅ test: mock database connection in test suite
