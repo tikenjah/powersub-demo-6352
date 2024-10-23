@@ -6025,3 +6025,4 @@
 0333. 🚀 perf: cache repeated calculations
 0218. 🔧 refactor: clean up auth middleware
 0208. 🔧 refactor: clean up auth middleware
+0467. ✅ test: add integration test for /submit endpoint
