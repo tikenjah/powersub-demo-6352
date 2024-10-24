@@ -178,3 +178,4 @@
 0569. 📚 docs: document token refresh logic
 0005. ✅ test: add unit test for quiz service
 0198. 📚 docs: clarify environment setup
+0140. 🐛 fix: handle 500 error in quiz API
