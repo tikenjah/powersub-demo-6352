@@ -181,3 +181,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0541. 🐛 fix: correct typo in registration form
 0215. 🎨 style: reformat files with black
+0880. 🐛 fix: fix broken CSS in mobile view
