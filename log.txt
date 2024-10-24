@@ -185,3 +185,4 @@
 0870. ♻️ chore: clean up unused files
 0365. 🚀 perf: reduce image load time
 0294. 🐛 fix: prevent crash on empty input
+0464. 🎨 style: remove trailing whitespace
