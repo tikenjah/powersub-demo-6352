@@ -8034,3 +8034,4 @@
 0012. 🚀 perf: cache repeated calculations
 0211. 🔧 refactor: remove redundant code blocks
 0637. 🎨 style: apply consistent indentation
+0278. 🔧 refactor: clean up auth middleware
