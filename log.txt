@@ -8037,3 +8037,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0405. ✅ test: mock database connection in test suite
 0862. ♻️ chore: bump dependencies
+0962. ✨ feat: create admin dashboard
