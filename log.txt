@@ -199,3 +199,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0412. ✅ test: increase coverage on auth module
 0147. ♻️ chore: bump dependencies
+0440. 📚 docs: update README with setup steps
