@@ -6028,3 +6028,4 @@
 0467. ✅ test: add integration test for /submit endpoint
 0443. 🎨 style: standardize quote style
 0366. 🔧 refactor: remove redundant code blocks
+0363. 📚 docs: clarify environment setup
