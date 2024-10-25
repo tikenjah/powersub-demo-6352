@@ -5031,3 +5031,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0786. ✨ feat: enable dark mode toggle
 0165. 🎨 style: remove trailing whitespace
+0956. 📚 docs: clarify environment setup
