@@ -217,3 +217,4 @@
 0529. 📚 docs: write FAQ section
 0396. 🔧 refactor: split large controller into smaller functions
 0319. 🐛 fix: handle 500 error in quiz API
+0896. 🚀 perf: reduce image load time
