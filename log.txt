@@ -205,3 +205,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0959. 🐛 fix: fix null pointer exception on login
 0587. 🔧 refactor: remove redundant code blocks
+0273. 🚀 perf: reduce image load time
