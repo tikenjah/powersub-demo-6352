@@ -5036,3 +5036,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0919. 🚀 perf: optimize database query for quiz results
 0316. 🐛 fix: fix broken CSS in mobile view
+0740. 🐛 fix: resolve issue with date parsing
