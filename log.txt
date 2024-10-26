@@ -213,3 +213,4 @@
 0494. 🎨 style: rename variables for clarity
 0245. 🐛 fix: resolve issue with date parsing
 0215. 🎨 style: reformat files with black
+0178. ✨ feat: support email verification
