@@ -9046,3 +9046,4 @@
 0742. 📚 docs: clarify environment setup
 0136. 🚀 perf: lazy-load components
 0439. 🐛 fix: correct typo in registration form
+0436. ✅ test: add integration test for /submit endpoint
