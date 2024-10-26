@@ -214,3 +214,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0215. 🎨 style: reformat files with black
 0178. ✨ feat: support email verification
+0529. 📚 docs: write FAQ section
