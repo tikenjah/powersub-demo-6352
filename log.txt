@@ -208,3 +208,4 @@
 0273. 🚀 perf: reduce image load time
 0950. 🎨 style: reformat files with black
 0361. ✨ feat: support email verification
+0969. ✨ feat: create admin dashboard
