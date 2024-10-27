@@ -222,3 +222,4 @@
 0295. 🎨 style: remove trailing whitespace
 0633. ✨ feat: add user authentication
 0289. 🐛 fix: resolve issue with date parsing
+0595. ✨ feat: enable dark mode toggle
