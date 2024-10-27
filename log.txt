@@ -225,3 +225,4 @@
 0595. ✨ feat: enable dark mode toggle
 0285. 🐛 fix: resolve issue with date parsing
 0363. 📚 docs: clarify environment setup
+0848. 📚 docs: update README with setup steps
