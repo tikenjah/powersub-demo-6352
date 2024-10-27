@@ -227,3 +227,4 @@
 0363. 📚 docs: clarify environment setup
 0848. 📚 docs: update README with setup steps
 0906. 📚 docs: add API usage examples
+0051. ✨ feat: enable dark mode toggle
