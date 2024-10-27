@@ -7041,3 +7041,4 @@
 0615. 🐛 fix: correct typo in registration form
 0714. 📚 docs: improve code comments in utils
 0162. ♻️ chore: add GitHub actions badge
+0348. ✅ test: test user registration edge cases
