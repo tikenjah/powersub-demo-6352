@@ -228,3 +228,4 @@
 0848. 📚 docs: update README with setup steps
 0906. 📚 docs: add API usage examples
 0051. ✨ feat: enable dark mode toggle
+0778. 📚 docs: write FAQ section
