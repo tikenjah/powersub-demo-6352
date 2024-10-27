@@ -8042,3 +8042,4 @@
 0558. ✨ feat: enable dark mode toggle
 0184. 📚 docs: improve code comments in utils
 0118. 🚀 perf: reduce image load time
+0482. ✨ feat: add export to CSV option
