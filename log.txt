@@ -5044,3 +5044,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0929. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
+0574. ✨ feat: enable dark mode toggle
