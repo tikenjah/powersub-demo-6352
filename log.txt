@@ -5043,3 +5043,4 @@
 0643. 🎨 style: apply consistent indentation
 0588. 🔧 refactor: organize models into subfolders
 0929. ✨ feat: support email verification
+0565. ♻️ chore: add GitHub actions badge
