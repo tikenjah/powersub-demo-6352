@@ -238,3 +238,4 @@
 0778. 📚 docs: write FAQ section
 0187. ✨ feat: support email verification
 0625. 🐛 fix: handle 500 error in quiz API
+0655. 🚀 perf: cache repeated calculations
