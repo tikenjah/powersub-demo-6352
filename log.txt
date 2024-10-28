@@ -242,3 +242,4 @@
 0838. 🎨 style: standardize quote style
 0138. 🎨 style: rename variables for clarity
 0478. 🐛 fix: resolve issue with date parsing
+0178. ✨ feat: support email verification
