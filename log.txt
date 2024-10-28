@@ -248,3 +248,4 @@
 0555. ✨ feat: create admin dashboard
 0164. 📚 docs: document token refresh logic
 0995. ✅ test: mock database connection in test suite
+0624. ✅ test: add unit test for quiz service
