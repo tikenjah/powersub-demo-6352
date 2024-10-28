@@ -236,3 +236,4 @@
 0031. 📚 docs: document token refresh logic
 0462. ♻️ chore: update .gitignore
 0778. 📚 docs: write FAQ section
+0187. ✨ feat: support email verification
