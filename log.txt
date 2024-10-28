@@ -234,3 +234,4 @@
 0010. ✨ feat: add user authentication
 0478. 🐛 fix: resolve issue with date parsing
 0031. 📚 docs: document token refresh logic
+0462. ♻️ chore: update .gitignore
