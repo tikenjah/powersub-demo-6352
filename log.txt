@@ -253,3 +253,4 @@
 0174. 📚 docs: clarify environment setup
 0375. 🐛 fix: handle 500 error in quiz API
 0402. 🎨 style: reformat files with black
+0870. ♻️ chore: clean up unused files
