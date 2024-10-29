@@ -254,3 +254,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0402. 🎨 style: reformat files with black
 0870. ♻️ chore: clean up unused files
+0620. ✨ feat: implement quiz timer feature
