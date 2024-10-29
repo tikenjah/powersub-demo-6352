@@ -10056,3 +10056,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0064. 📚 docs: clarify environment setup
 0957. 🐛 fix: fix null pointer exception on login
+0804. ♻️ chore: add GitHub actions badge
