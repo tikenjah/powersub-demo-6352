@@ -251,3 +251,4 @@
 0624. ✅ test: add unit test for quiz service
 0088. 📚 docs: add API usage examples
 0174. 📚 docs: clarify environment setup
+0375. 🐛 fix: handle 500 error in quiz API
