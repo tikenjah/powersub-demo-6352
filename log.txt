@@ -5047,3 +5047,4 @@
 0574. ✨ feat: enable dark mode toggle
 0656. 🎨 style: apply consistent indentation
 0722. 📚 docs: add API usage examples
+0353. ♻️ chore: rename env.example
