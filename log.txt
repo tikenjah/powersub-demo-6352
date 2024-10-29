@@ -256,3 +256,4 @@
 0870. ♻️ chore: clean up unused files
 0620. ✨ feat: implement quiz timer feature
 0182. 🔧 refactor: remove redundant code blocks
+0234. ♻️ chore: rename env.example
