@@ -262,3 +262,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0724. ✅ test: mock database connection in test suite
 0423. ✅ test: mock database connection in test suite
+0185. 📚 docs: write FAQ section
