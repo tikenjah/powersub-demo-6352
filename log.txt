@@ -252,3 +252,4 @@
 0088. 📚 docs: add API usage examples
 0174. 📚 docs: clarify environment setup
 0375. 🐛 fix: handle 500 error in quiz API
+0402. 🎨 style: reformat files with black
