@@ -10053,3 +10053,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0379. ✨ feat: support email verification
 0248. 🐛 fix: handle 500 error in quiz API
+0589. 🐛 fix: fix broken CSS in mobile view
