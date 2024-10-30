@@ -7049,3 +7049,4 @@
 0363. 📚 docs: clarify environment setup
 0830. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
+0030. 🐛 fix: fix null pointer exception on login
