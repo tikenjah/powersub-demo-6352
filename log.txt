@@ -278,3 +278,4 @@
 0335. ♻️ chore: update .gitignore
 0279. ✨ feat: support email verification
 0599. ✅ test: test user registration edge cases
+0598. 🔧 refactor: remove redundant code blocks
