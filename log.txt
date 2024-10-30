@@ -9054,3 +9054,4 @@
 0297. 🎨 style: remove trailing whitespace
 0799. ♻️ chore: clean up unused files
 0523. ♻️ chore: bump dependencies
+0201. 🔧 refactor: clean up auth middleware
