@@ -267,3 +267,4 @@
 0885. ♻️ chore: update .gitignore
 0132. ✅ test: add unit test for quiz service
 0862. ♻️ chore: bump dependencies
+0058. ♻️ chore: add GitHub actions badge
