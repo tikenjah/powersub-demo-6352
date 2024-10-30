@@ -268,3 +268,4 @@
 0132. ✅ test: add unit test for quiz service
 0862. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
+0958. 🐛 fix: prevent crash on empty input
