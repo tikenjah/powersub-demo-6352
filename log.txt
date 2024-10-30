@@ -275,3 +275,4 @@
 0045. 🎨 style: apply consistent indentation
 0787. ♻️ chore: rename env.example
 0434. 📚 docs: document token refresh logic
+0335. ♻️ chore: update .gitignore
