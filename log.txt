@@ -276,3 +276,4 @@
 0787. ♻️ chore: rename env.example
 0434. 📚 docs: document token refresh logic
 0335. ♻️ chore: update .gitignore
+0279. ✨ feat: support email verification
