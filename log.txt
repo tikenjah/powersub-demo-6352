@@ -5050,3 +5050,4 @@
 0353. ♻️ chore: rename env.example
 0382. 📚 docs: improve code comments in utils
 0681. ✨ feat: create admin dashboard
+0492. 🎨 style: remove trailing whitespace
