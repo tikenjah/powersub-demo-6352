@@ -264,3 +264,4 @@
 0423. ✅ test: mock database connection in test suite
 0185. 📚 docs: write FAQ section
 0051. ✨ feat: enable dark mode toggle
+0885. ♻️ chore: update .gitignore
