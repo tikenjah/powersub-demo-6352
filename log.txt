@@ -271,3 +271,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0570. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
+0736. 🐛 fix: fix null pointer exception on login
