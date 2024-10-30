@@ -272,3 +272,4 @@
 0570. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
 0736. 🐛 fix: fix null pointer exception on login
+0045. 🎨 style: apply consistent indentation
