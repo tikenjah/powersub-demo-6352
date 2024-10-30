@@ -277,3 +277,4 @@
 0434. 📚 docs: document token refresh logic
 0335. ♻️ chore: update .gitignore
 0279. ✨ feat: support email verification
+0599. ✅ test: test user registration edge cases
