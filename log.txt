@@ -7050,3 +7050,4 @@
 0830. 🎨 style: apply consistent indentation
 0306. 🎨 style: apply consistent indentation
 0030. 🐛 fix: fix null pointer exception on login
+0354. 📚 docs: add API usage examples
