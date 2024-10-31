@@ -280,3 +280,4 @@
 0599. ✅ test: test user registration edge cases
 0598. 🔧 refactor: remove redundant code blocks
 0337. 📚 docs: document token refresh logic
+0937. 🐛 fix: handle 500 error in quiz API
