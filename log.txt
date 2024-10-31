@@ -286,3 +286,4 @@
 0597. 🚀 perf: cache repeated calculations
 0529. 📚 docs: write FAQ section
 0085. ✨ feat: support email verification
+0968. 🎨 style: standardize quote style
