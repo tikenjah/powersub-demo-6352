@@ -288,3 +288,4 @@
 0085. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
 0993. ✨ feat: implement quiz timer feature
+0712. 🎨 style: apply consistent indentation
