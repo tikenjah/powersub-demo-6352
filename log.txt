@@ -284,3 +284,4 @@
 0461. ✨ feat: add user authentication
 0472. 🐛 fix: fix null pointer exception on login
 0597. 🚀 perf: cache repeated calculations
+0529. 📚 docs: write FAQ section
