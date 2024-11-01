@@ -7059,3 +7059,4 @@
 0574. ✨ feat: enable dark mode toggle
 0902. ✨ feat: enable dark mode toggle
 0735. ♻️ chore: add GitHub actions badge
+0586. 🎨 style: remove trailing whitespace
