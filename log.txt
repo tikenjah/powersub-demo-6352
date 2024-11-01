@@ -7055,3 +7055,4 @@
 0987. ✨ feat: create admin dashboard
 0730. ✅ test: test user registration edge cases
 0965. 🎨 style: reformat files with black
+0246. ✅ test: add integration test for /submit endpoint
