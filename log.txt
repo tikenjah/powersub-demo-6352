@@ -319,3 +319,4 @@
 0024. 📚 docs: write FAQ section
 0603. 🐛 fix: fix broken CSS in mobile view
 0181. ♻️ chore: add GitHub actions badge
+0573. ✅ test: add integration test for /submit endpoint
