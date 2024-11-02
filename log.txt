@@ -316,3 +316,4 @@
 0682. ♻️ chore: rename env.example
 0082. 🔧 refactor: refactor quiz grading logic
 0266. 🔧 refactor: remove redundant code blocks
+0024. 📚 docs: write FAQ section
