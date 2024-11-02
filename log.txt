@@ -310,3 +310,4 @@
 0927. ♻️ chore: bump dependencies
 0993. ✨ feat: implement quiz timer feature
 0102. ✨ feat: support email verification
+0967. ♻️ chore: add GitHub actions badge
