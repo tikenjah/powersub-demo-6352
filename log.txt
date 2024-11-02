@@ -305,3 +305,4 @@
 0966. 📚 docs: improve code comments in utils
 0945. ♻️ chore: add GitHub actions badge
 0394. 🚀 perf: lazy-load components
+0316. 🐛 fix: fix broken CSS in mobile view
