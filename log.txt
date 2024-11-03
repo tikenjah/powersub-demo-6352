@@ -8059,3 +8059,4 @@
 0360. ✨ feat: add export to CSV option
 0873. 🚀 perf: cache repeated calculations
 0502. 📚 docs: update README with setup steps
+0291. 📚 docs: write FAQ section
