@@ -327,3 +327,4 @@
 0194. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
 0393. 🚀 perf: lazy-load components
+0114. ♻️ chore: update .gitignore
