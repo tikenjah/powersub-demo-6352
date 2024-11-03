@@ -326,3 +326,4 @@
 0803. ✅ test: mock database connection in test suite
 0194. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
+0393. 🚀 perf: lazy-load components
