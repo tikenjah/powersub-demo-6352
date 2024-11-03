@@ -324,3 +324,4 @@
 0238. 🎨 style: apply consistent indentation
 0026. 🔧 refactor: clean up auth middleware
 0803. ✅ test: mock database connection in test suite
+0194. 🎨 style: standardize quote style
