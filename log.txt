@@ -5058,3 +5058,4 @@
 0461. ✨ feat: add user authentication
 0643. 🎨 style: apply consistent indentation
 0959. 🐛 fix: fix null pointer exception on login
+0231. 🔧 refactor: clean up auth middleware
