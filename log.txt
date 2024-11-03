@@ -6050,3 +6050,4 @@
 0924. ✅ test: mock database connection in test suite
 0280. ✅ test: add integration test for /submit endpoint
 0211. 🔧 refactor: remove redundant code blocks
+0850. ♻️ chore: rename env.example
