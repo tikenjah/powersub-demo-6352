@@ -330,3 +330,4 @@
 0114. ♻️ chore: update .gitignore
 0963. 🚀 perf: reduce image load time
 0054. ♻️ chore: update .gitignore
+0746. ♻️ chore: add GitHub actions badge
