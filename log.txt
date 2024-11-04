@@ -7074,3 +7074,4 @@
 0875. ✅ test: increase coverage on auth module
 0336. ✨ feat: add export to CSV option
 0937. 🐛 fix: handle 500 error in quiz API
+0696. 🔧 refactor: clean up auth middleware
