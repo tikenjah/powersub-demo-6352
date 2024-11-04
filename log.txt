@@ -339,3 +339,4 @@
 0035. ✅ test: increase coverage on auth module
 0812. 🔧 refactor: refactor quiz grading logic
 0693. 📚 docs: add API usage examples
+0017. ✅ test: mock database connection in test suite
