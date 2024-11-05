@@ -8066,3 +8066,4 @@
 0638. 📚 docs: improve code comments in utils
 0421. 🔧 refactor: split large controller into smaller functions
 0757. 🔧 refactor: remove redundant code blocks
+0205. 📚 docs: update README with setup steps
