@@ -8067,3 +8067,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0757. 🔧 refactor: remove redundant code blocks
 0205. 📚 docs: update README with setup steps
+0588. 🔧 refactor: organize models into subfolders
