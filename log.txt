@@ -346,3 +346,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0080. ✨ feat: support email verification
 0023. 📚 docs: clarify environment setup
+0770. ♻️ chore: rename env.example
