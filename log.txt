@@ -353,3 +353,4 @@
 0781. 🚀 perf: reduce image load time
 0810. 🔧 refactor: refactor quiz grading logic
 0207. 🐛 fix: prevent crash on empty input
+0152. ✨ feat: add user authentication
