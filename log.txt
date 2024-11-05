@@ -350,3 +350,4 @@
 0225. 🚀 perf: reduce image load time
 0436. ✅ test: add integration test for /submit endpoint
 0400. 🐛 fix: fix null pointer exception on login
+0781. 🚀 perf: reduce image load time
