@@ -344,3 +344,4 @@
 0904. ✨ feat: implement quiz timer feature
 0925. ✨ feat: add export to CSV option
 0588. 🔧 refactor: organize models into subfolders
+0080. ✨ feat: support email verification
