@@ -349,3 +349,4 @@
 0770. ♻️ chore: rename env.example
 0225. 🚀 perf: reduce image load time
 0436. ✅ test: add integration test for /submit endpoint
+0400. 🐛 fix: fix null pointer exception on login
