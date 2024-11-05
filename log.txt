@@ -352,3 +352,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0781. 🚀 perf: reduce image load time
 0810. 🔧 refactor: refactor quiz grading logic
+0207. 🐛 fix: prevent crash on empty input
