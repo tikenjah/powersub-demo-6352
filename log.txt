@@ -6059,3 +6059,4 @@
 0984. ♻️ chore: clean up unused files
 0318. 🔧 refactor: refactor quiz grading logic
 0249. ✅ test: increase coverage on auth module
+0231. 🔧 refactor: clean up auth middleware
