@@ -9066,3 +9066,4 @@
 0045. 🎨 style: apply consistent indentation
 0291. 📚 docs: write FAQ section
 0383. 🐛 fix: fix broken CSS in mobile view
+0022. 📚 docs: document token refresh logic
