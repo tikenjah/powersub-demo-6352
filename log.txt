@@ -358,3 +358,4 @@
 0454. ♻️ chore: bump dependencies
 0792. 🎨 style: standardize quote style
 0519. 📚 docs: document token refresh logic
+0597. 🚀 perf: cache repeated calculations
