@@ -372,3 +372,4 @@
 0118. 🚀 perf: reduce image load time
 0191. 🔧 refactor: refactor quiz grading logic
 0061. ✨ feat: create admin dashboard
+0540. ♻️ chore: add GitHub actions badge
