@@ -8068,3 +8068,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0205. 📚 docs: update README with setup steps
 0588. 🔧 refactor: organize models into subfolders
+0906. 📚 docs: add API usage examples
