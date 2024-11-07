@@ -374,3 +374,4 @@
 0061. ✨ feat: create admin dashboard
 0540. ♻️ chore: add GitHub actions badge
 0844. 📚 docs: update README with setup steps
+0186. ✅ test: test user registration edge cases
