@@ -382,3 +382,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0647. 🐛 fix: prevent crash on empty input
 0608. 🔧 refactor: remove redundant code blocks
+0734. ✨ feat: add export to CSV option
