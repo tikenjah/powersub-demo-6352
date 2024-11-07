@@ -5069,3 +5069,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0092. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
+0618. ✨ feat: support email verification
