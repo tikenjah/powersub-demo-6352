@@ -387,3 +387,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0367. 🐛 fix: fix null pointer exception on login
 0699. 🎨 style: standardize quote style
+0933. 📚 docs: clarify environment setup
