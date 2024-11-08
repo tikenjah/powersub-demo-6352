@@ -10075,3 +10075,4 @@
 0051. ✨ feat: enable dark mode toggle
 0737. 🐛 fix: handle 500 error in quiz API
 0058. ♻️ chore: add GitHub actions badge
+0546. 🐛 fix: fix null pointer exception on login
