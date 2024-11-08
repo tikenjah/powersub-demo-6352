@@ -8076,3 +8076,4 @@
 0902. ✨ feat: enable dark mode toggle
 0056. ♻️ chore: rename env.example
 0063. 🐛 fix: handle 500 error in quiz API
+0688. 🚀 perf: reduce image load time
