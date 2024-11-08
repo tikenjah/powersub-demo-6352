@@ -8078,3 +8078,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0688. 🚀 perf: reduce image load time
 0908. ♻️ chore: bump dependencies
+0402. 🎨 style: reformat files with black
