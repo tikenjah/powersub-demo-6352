@@ -396,3 +396,4 @@
 0116. ✨ feat: support email verification
 0186. ✅ test: test user registration edge cases
 0549. ✨ feat: enable dark mode toggle
+0441. 📚 docs: add API usage examples
