@@ -8073,3 +8073,4 @@
 0793. 📚 docs: clarify environment setup
 0338. ♻️ chore: add GitHub actions badge
 0308. 🚀 perf: reduce image load time
+0902. ✨ feat: enable dark mode toggle
