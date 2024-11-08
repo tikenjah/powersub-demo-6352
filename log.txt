@@ -10074,3 +10074,4 @@
 0947. 📚 docs: write FAQ section
 0051. ✨ feat: enable dark mode toggle
 0737. 🐛 fix: handle 500 error in quiz API
+0058. ♻️ chore: add GitHub actions badge
