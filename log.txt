@@ -394,3 +394,4 @@
 0914. ✅ test: test user registration edge cases
 0762. 🚀 perf: lazy-load components
 0116. ✨ feat: support email verification
+0186. ✅ test: test user registration edge cases
