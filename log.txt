@@ -6067,3 +6067,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0292. 📚 docs: clarify environment setup
 0533. ♻️ chore: add GitHub actions badge
+0040. 🔧 refactor: clean up auth middleware
