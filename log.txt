@@ -399,3 +399,4 @@
 0441. 📚 docs: add API usage examples
 0095. ✅ test: mock database connection in test suite
 0782. 📚 docs: improve code comments in utils
+0939. 📚 docs: update README with setup steps
