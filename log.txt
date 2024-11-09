@@ -6065,3 +6065,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0688. 🚀 perf: reduce image load time
 0191. 🔧 refactor: refactor quiz grading logic
+0292. 📚 docs: clarify environment setup
