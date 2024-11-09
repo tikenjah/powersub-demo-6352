@@ -398,3 +398,4 @@
 0549. ✨ feat: enable dark mode toggle
 0441. 📚 docs: add API usage examples
 0095. ✅ test: mock database connection in test suite
+0782. 📚 docs: improve code comments in utils
