@@ -402,3 +402,4 @@
 0939. 📚 docs: update README with setup steps
 0029. 🚀 perf: lazy-load components
 0487. 🎨 style: reformat files with black
+0676. 🐛 fix: prevent crash on empty input
