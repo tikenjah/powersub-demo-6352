@@ -406,3 +406,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0619. ✨ feat: create admin dashboard
 0768. 🎨 style: remove trailing whitespace
+0295. 🎨 style: remove trailing whitespace
