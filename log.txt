@@ -409,3 +409,4 @@
 0295. 🎨 style: remove trailing whitespace
 0427. ✅ test: mock database connection in test suite
 0300. ✨ feat: add export to CSV option
+0877. 🚀 perf: optimize database query for quiz results
