@@ -9075,3 +9075,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0921. 🐛 fix: correct typo in registration form
 0643. 🎨 style: apply consistent indentation
+0068. 🐛 fix: fix null pointer exception on login
