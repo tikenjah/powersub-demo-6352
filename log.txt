@@ -404,3 +404,4 @@
 0487. 🎨 style: reformat files with black
 0676. 🐛 fix: prevent crash on empty input
 0948. 🐛 fix: fix broken CSS in mobile view
+0619. ✨ feat: create admin dashboard
