@@ -418,3 +418,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0098. 🎨 style: rename variables for clarity
 0342. 🚀 perf: cache repeated calculations
+0971. 🎨 style: standardize quote style
