@@ -7090,3 +7090,4 @@
 0925. ✨ feat: add export to CSV option
 0101. 📚 docs: clarify environment setup
 0228. 🔧 refactor: remove redundant code blocks
+0079. 🐛 fix: correct typo in registration form
