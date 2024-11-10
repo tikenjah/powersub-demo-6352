@@ -415,3 +415,4 @@
 0965. 🎨 style: reformat files with black
 0702. ✨ feat: add user authentication
 0508. ✅ test: add unit test for quiz service
+0808. 🚀 perf: optimize database query for quiz results
