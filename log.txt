@@ -7088,3 +7088,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0053. ✅ test: increase coverage on auth module
 0925. ✨ feat: add export to CSV option
+0101. 📚 docs: clarify environment setup
