@@ -417,3 +417,4 @@
 0508. ✅ test: add unit test for quiz service
 0808. 🚀 perf: optimize database query for quiz results
 0098. 🎨 style: rename variables for clarity
+0342. 🚀 perf: cache repeated calculations
