@@ -422,3 +422,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0395. 📚 docs: write FAQ section
 0798. 🚀 perf: reduce image load time
+0376. 🎨 style: apply consistent indentation
