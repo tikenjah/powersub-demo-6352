@@ -431,3 +431,4 @@
 0439. 🐛 fix: correct typo in registration form
 0291. 📚 docs: write FAQ section
 0994. 🚀 perf: reduce image load time
+0251. ♻️ chore: update .gitignore
