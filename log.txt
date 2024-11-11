@@ -428,3 +428,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0213. ✅ test: add integration test for /submit endpoint
 0796. 🔧 refactor: refactor quiz grading logic
+0439. 🐛 fix: correct typo in registration form
