@@ -419,3 +419,4 @@
 0098. 🎨 style: rename variables for clarity
 0342. 🚀 perf: cache repeated calculations
 0971. 🎨 style: standardize quote style
+0041. 🐛 fix: fix broken CSS in mobile view
