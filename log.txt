@@ -5076,3 +5076,4 @@
 0045. 🎨 style: apply consistent indentation
 0884. 📚 docs: clarify environment setup
 0788. 📚 docs: add API usage examples
+0876. ♻️ chore: rename env.example
