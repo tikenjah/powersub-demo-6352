@@ -423,3 +423,4 @@
 0395. 📚 docs: write FAQ section
 0798. 🚀 perf: reduce image load time
 0376. 🎨 style: apply consistent indentation
+0512. 🚀 perf: reduce image load time
