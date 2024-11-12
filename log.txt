@@ -10086,3 +10086,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0499. 🎨 style: reformat files with black
 0990. ♻️ chore: rename env.example
+0583. ✅ test: increase coverage on auth module
