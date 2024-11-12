@@ -433,3 +433,4 @@
 0994. 🚀 perf: reduce image load time
 0251. ♻️ chore: update .gitignore
 0377. ✨ feat: add user authentication
+0048. 📚 docs: update README with setup steps
