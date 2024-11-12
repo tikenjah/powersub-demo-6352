@@ -441,3 +441,4 @@
 0942. ✅ test: increase coverage on auth module
 0956. 📚 docs: clarify environment setup
 0403. ✅ test: mock database connection in test suite
+0251. ♻️ chore: update .gitignore
