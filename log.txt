@@ -10088,3 +10088,4 @@
 0990. ♻️ chore: rename env.example
 0583. ✅ test: increase coverage on auth module
 0670. ✨ feat: add export to CSV option
+0021. ✨ feat: support email verification
