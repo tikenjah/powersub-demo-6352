@@ -452,3 +452,4 @@
 0976. ✨ feat: implement quiz timer feature
 0300. ✨ feat: add export to CSV option
 0820. 📚 docs: add API usage examples
+0262. 🎨 style: remove trailing whitespace
