@@ -446,3 +446,4 @@
 0360. ✨ feat: add export to CSV option
 0631. ✨ feat: create admin dashboard
 0306. 🎨 style: apply consistent indentation
+0047. 🎨 style: rename variables for clarity
