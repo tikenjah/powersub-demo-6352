@@ -451,3 +451,4 @@
 0124. 🎨 style: reformat files with black
 0976. ✨ feat: implement quiz timer feature
 0300. ✨ feat: add export to CSV option
+0820. 📚 docs: add API usage examples
