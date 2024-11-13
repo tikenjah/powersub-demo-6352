@@ -5081,3 +5081,4 @@
 0503. ♻️ chore: rename env.example
 0237. 🎨 style: standardize quote style
 0688. 🚀 perf: reduce image load time
+0375. 🐛 fix: handle 500 error in quiz API
