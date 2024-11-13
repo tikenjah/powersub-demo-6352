@@ -7095,3 +7095,4 @@
 0259. 🚀 perf: lazy-load components
 0885. ♻️ chore: update .gitignore
 0738. 🐛 fix: prevent crash on empty input
+0884. 📚 docs: clarify environment setup
