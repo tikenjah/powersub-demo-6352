@@ -9089,3 +9089,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0404. 📚 docs: improve code comments in utils
 0300. ✨ feat: add export to CSV option
+0749. ✨ feat: support email verification
