@@ -6073,3 +6073,4 @@
 0476. 🚀 perf: reduce image load time
 0352. ✨ feat: add export to CSV option
 0990. ♻️ chore: rename env.example
+0726. ✨ feat: enable dark mode toggle
