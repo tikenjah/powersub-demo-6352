@@ -463,3 +463,4 @@
 0916. ♻️ chore: bump dependencies
 0235. 🐛 fix: fix null pointer exception on login
 0021. ✨ feat: support email verification
+0682. ♻️ chore: rename env.example
