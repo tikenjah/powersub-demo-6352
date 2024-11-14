@@ -466,3 +466,4 @@
 0682. ♻️ chore: rename env.example
 0991. ♻️ chore: clean up unused files
 0012. 🚀 perf: cache repeated calculations
+0792. 🎨 style: standardize quote style
