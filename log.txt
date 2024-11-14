@@ -10090,3 +10090,4 @@
 0670. ✨ feat: add export to CSV option
 0021. ✨ feat: support email verification
 0682. ♻️ chore: rename env.example
+0539. 🔧 refactor: organize models into subfolders
