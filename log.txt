@@ -9090,3 +9090,4 @@
 0404. 📚 docs: improve code comments in utils
 0300. ✨ feat: add export to CSV option
 0749. ✨ feat: support email verification
+0406. ✨ feat: add export to CSV option
