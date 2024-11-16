@@ -492,3 +492,4 @@
 0931. 🚀 perf: reduce image load time
 0726. ✨ feat: enable dark mode toggle
 0161. ✨ feat: create admin dashboard
+0003. ✅ test: increase coverage on auth module
