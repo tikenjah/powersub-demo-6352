@@ -10094,3 +10094,4 @@
 0334. 🚀 perf: cache repeated calculations
 0403. ✅ test: mock database connection in test suite
 0392. 🎨 style: remove trailing whitespace
+0042. 📚 docs: document token refresh logic
