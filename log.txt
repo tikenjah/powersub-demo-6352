@@ -495,3 +495,4 @@
 0003. ✅ test: increase coverage on auth module
 0127. 🐛 fix: fix null pointer exception on login
 0298. ♻️ chore: update .gitignore
+0264. 🚀 perf: optimize database query for quiz results
