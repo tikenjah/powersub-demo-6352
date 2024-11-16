@@ -494,3 +494,4 @@
 0161. ✨ feat: create admin dashboard
 0003. ✅ test: increase coverage on auth module
 0127. 🐛 fix: fix null pointer exception on login
+0298. ♻️ chore: update .gitignore
