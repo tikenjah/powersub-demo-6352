@@ -489,3 +489,4 @@
 0292. 📚 docs: clarify environment setup
 0688. 🚀 perf: reduce image load time
 0483. 📚 docs: update README with setup steps
+0931. 🚀 perf: reduce image load time
