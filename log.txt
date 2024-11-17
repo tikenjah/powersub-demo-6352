@@ -5089,3 +5089,4 @@
 0388. 🎨 style: reformat files with black
 0312. ✨ feat: add user authentication
 0141. 📚 docs: document token refresh logic
+0977. 🔧 refactor: organize models into subfolders
