@@ -497,3 +497,4 @@
 0298. ♻️ chore: update .gitignore
 0264. 🚀 perf: optimize database query for quiz results
 0677. 📚 docs: add API usage examples
+0671. 🐛 fix: fix null pointer exception on login
