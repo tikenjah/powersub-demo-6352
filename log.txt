@@ -8094,3 +8094,4 @@
 0650. ✅ test: add unit test for quiz service
 0572. ✨ feat: add user authentication
 0728. 🔧 refactor: split large controller into smaller functions
+0960. ✅ test: increase coverage on auth module
