@@ -507,3 +507,4 @@
 0659. 📚 docs: add API usage examples
 0685. ✅ test: test user registration edge cases
 0987. ✨ feat: create admin dashboard
+0208. 🔧 refactor: clean up auth middleware
