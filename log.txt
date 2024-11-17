@@ -504,3 +504,4 @@
 0070. ✨ feat: implement quiz timer feature
 0155. ✨ feat: create admin dashboard
 0264. 🚀 perf: optimize database query for quiz results
+0659. 📚 docs: add API usage examples
