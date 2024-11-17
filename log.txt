@@ -7105,3 +7105,4 @@
 0719. 🎨 style: apply consistent indentation
 0649. 📚 docs: update README with setup steps
 0038. 🎨 style: rename variables for clarity
+0922. 📚 docs: write FAQ section
