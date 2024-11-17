@@ -9097,3 +9097,4 @@
 0669. ✨ feat: enable dark mode toggle
 0283. ♻️ chore: add GitHub actions badge
 0579. 📚 docs: clarify environment setup
+0617. ✨ feat: support email verification
