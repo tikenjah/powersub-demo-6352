@@ -513,3 +513,4 @@
 0242. ♻️ chore: clean up unused files
 0196. ♻️ chore: bump dependencies
 0220. 🐛 fix: fix null pointer exception on login
+0922. 📚 docs: write FAQ section
