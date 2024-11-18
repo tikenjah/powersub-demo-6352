@@ -520,3 +520,4 @@
 0611. ✅ test: test user registration edge cases
 0562. 🔧 refactor: clean up auth middleware
 0658. 🎨 style: rename variables for clarity
+0765. ♻️ chore: clean up unused files
