@@ -522,3 +522,4 @@
 0658. 🎨 style: rename variables for clarity
 0765. ♻️ chore: clean up unused files
 0927. ♻️ chore: bump dependencies
+0293. ✅ test: add integration test for /submit endpoint
