@@ -8095,3 +8095,4 @@
 0572. ✨ feat: add user authentication
 0728. 🔧 refactor: split large controller into smaller functions
 0960. ✅ test: increase coverage on auth module
+0495. 🔧 refactor: remove redundant code blocks
