@@ -9098,3 +9098,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0579. 📚 docs: clarify environment setup
 0617. ✨ feat: support email verification
+0391. 🐛 fix: fix null pointer exception on login
