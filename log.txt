@@ -9100,3 +9100,4 @@
 0617. ✨ feat: support email verification
 0391. 🐛 fix: fix null pointer exception on login
 0983. 🔧 refactor: split large controller into smaller functions
+0448. 🐛 fix: correct typo in registration form
