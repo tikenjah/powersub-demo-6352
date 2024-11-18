@@ -516,3 +516,4 @@
 0922. 📚 docs: write FAQ section
 0489. 🔧 refactor: organize models into subfolders
 0960. ✅ test: increase coverage on auth module
+0832. 🔧 refactor: remove redundant code blocks
