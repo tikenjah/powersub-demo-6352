@@ -6090,3 +6090,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0529. 📚 docs: write FAQ section
 0791. 🔧 refactor: clean up auth middleware
+0085. ✨ feat: support email verification
