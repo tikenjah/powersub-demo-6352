@@ -6088,3 +6088,4 @@
 0156. 🎨 style: rename variables for clarity
 0455. ♻️ chore: clean up unused files
 0978. 🐛 fix: prevent crash on empty input
+0529. 📚 docs: write FAQ section
