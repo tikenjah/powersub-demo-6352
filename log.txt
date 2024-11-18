@@ -6091,3 +6091,4 @@
 0529. 📚 docs: write FAQ section
 0791. 🔧 refactor: clean up auth middleware
 0085. ✨ feat: support email verification
+0345. 📚 docs: document token refresh logic
