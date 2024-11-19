@@ -6093,3 +6093,4 @@
 0085. ✨ feat: support email verification
 0345. 📚 docs: document token refresh logic
 0219. ✅ test: increase coverage on auth module
+0367. 🐛 fix: fix null pointer exception on login
