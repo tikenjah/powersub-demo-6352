@@ -529,3 +529,4 @@
 0033. 🎨 style: apply consistent indentation
 0185. 📚 docs: write FAQ section
 0797. 📚 docs: add API usage examples
+0936. 🔧 refactor: organize models into subfolders
