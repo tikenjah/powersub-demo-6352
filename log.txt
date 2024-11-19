@@ -534,3 +534,4 @@
 0144. ✅ test: increase coverage on auth module
 0254. 🚀 perf: reduce image load time
 0249. ✅ test: increase coverage on auth module
+0145. 📚 docs: improve code comments in utils
