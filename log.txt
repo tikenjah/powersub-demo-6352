@@ -8097,3 +8097,4 @@
 0960. ✅ test: increase coverage on auth module
 0495. 🔧 refactor: remove redundant code blocks
 0768. 🎨 style: remove trailing whitespace
+0299. 🐛 fix: resolve issue with date parsing
