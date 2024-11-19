@@ -7112,3 +7112,4 @@
 0402. 🎨 style: reformat files with black
 0104. 🎨 style: apply consistent indentation
 0327. 🔧 refactor: split large controller into smaller functions
+0706. ✨ feat: support email verification
