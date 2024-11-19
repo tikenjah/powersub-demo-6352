@@ -10102,3 +10102,4 @@
 0812. 🔧 refactor: refactor quiz grading logic
 0197. 📚 docs: update README with setup steps
 0152. ✨ feat: add user authentication
+0762. 🚀 perf: lazy-load components
