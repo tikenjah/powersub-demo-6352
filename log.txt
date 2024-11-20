@@ -7120,3 +7120,4 @@
 0001. 🚀 perf: cache repeated calculations
 0153. ♻️ chore: rename env.example
 0473. 📚 docs: write FAQ section
+0646. ✅ test: test user registration edge cases
