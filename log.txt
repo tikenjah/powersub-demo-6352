@@ -543,3 +543,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0911. ✅ test: increase coverage on auth module
 0754. 🐛 fix: handle 500 error in quiz API
+0670. ✨ feat: add export to CSV option
