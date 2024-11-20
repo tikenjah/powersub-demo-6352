@@ -8100,3 +8100,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0572. ✨ feat: add user authentication
 0468. 📚 docs: update README with setup steps
+0224. 🐛 fix: fix broken CSS in mobile view
