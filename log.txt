@@ -538,3 +538,4 @@
 0695. ✨ feat: create admin dashboard
 0110. 🐛 fix: prevent crash on empty input
 0669. ✨ feat: enable dark mode toggle
+0088. 📚 docs: add API usage examples
