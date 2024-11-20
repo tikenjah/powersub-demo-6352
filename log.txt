@@ -9110,3 +9110,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0163. ✨ feat: implement quiz timer feature
 0680. ♻️ chore: add GitHub actions badge
+0726. ✨ feat: enable dark mode toggle
