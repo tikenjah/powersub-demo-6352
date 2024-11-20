@@ -9107,3 +9107,4 @@
 0279. ✨ feat: support email verification
 0744. 🔧 refactor: remove redundant code blocks
 0773. 📚 docs: document token refresh logic
+0522. 🐛 fix: handle 500 error in quiz API
