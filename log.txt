@@ -547,3 +547,4 @@
 0389. 📚 docs: improve code comments in utils
 0229. 🚀 perf: optimize database query for quiz results
 0287. 📚 docs: write FAQ section
+0581. ✅ test: add integration test for /submit endpoint
