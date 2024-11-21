@@ -7123,3 +7123,4 @@
 0646. ✅ test: test user registration edge cases
 0377. ✨ feat: add user authentication
 0277. 🎨 style: standardize quote style
+0489. 🔧 refactor: organize models into subfolders
