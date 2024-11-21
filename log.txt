@@ -6095,3 +6095,4 @@
 0219. ✅ test: increase coverage on auth module
 0367. 🐛 fix: fix null pointer exception on login
 0329. 📚 docs: update README with setup steps
+0076. 🎨 style: reformat files with black
