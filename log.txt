@@ -5096,3 +5096,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0215. 🎨 style: reformat files with black
 0210. 🎨 style: apply consistent indentation
+0280. ✅ test: add integration test for /submit endpoint
