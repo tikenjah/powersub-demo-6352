@@ -8102,3 +8102,4 @@
 0468. 📚 docs: update README with setup steps
 0224. 🐛 fix: fix broken CSS in mobile view
 0064. 📚 docs: clarify environment setup
+0918. ✨ feat: enable dark mode toggle
