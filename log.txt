@@ -568,3 +568,4 @@
 0777. 📚 docs: document token refresh logic
 0304. 🔧 refactor: remove redundant code blocks
 0482. ✨ feat: add export to CSV option
+0572. ✨ feat: add user authentication
