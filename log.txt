@@ -9118,3 +9118,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0395. 📚 docs: write FAQ section
 0708. ✅ test: add integration test for /submit endpoint
+0855. 🎨 style: reformat files with black
