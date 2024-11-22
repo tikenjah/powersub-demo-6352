@@ -561,3 +561,4 @@
 0844. 📚 docs: update README with setup steps
 0583. ✅ test: increase coverage on auth module
 0783. 🐛 fix: handle 500 error in quiz API
+0652. 🔧 refactor: organize models into subfolders
