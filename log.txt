@@ -570,3 +570,4 @@
 0482. ✨ feat: add export to CSV option
 0572. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
+0539. 🔧 refactor: organize models into subfolders
