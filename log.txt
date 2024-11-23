@@ -8106,3 +8106,4 @@
 0824. 🚀 perf: lazy-load components
 0627. 📚 docs: document token refresh logic
 0716. ✨ feat: implement quiz timer feature
+0506. 🐛 fix: handle 500 error in quiz API
