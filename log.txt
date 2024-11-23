@@ -571,3 +571,4 @@
 0572. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
 0539. 🔧 refactor: organize models into subfolders
+0010. ✨ feat: add user authentication
