@@ -7131,3 +7131,4 @@
 0412. ✅ test: increase coverage on auth module
 0686. 🎨 style: standardize quote style
 0336. ✨ feat: add export to CSV option
+0187. ✨ feat: support email verification
