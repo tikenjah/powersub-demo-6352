@@ -5103,3 +5103,4 @@
 0403. ✅ test: mock database connection in test suite
 0678. ✨ feat: add user authentication
 0890. 🔧 refactor: organize models into subfolders
+0401. 🚀 perf: reduce image load time
