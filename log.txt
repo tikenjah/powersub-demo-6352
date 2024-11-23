@@ -580,3 +580,4 @@
 0906. 📚 docs: add API usage examples
 0180. ✨ feat: add export to CSV option
 0819. 🚀 perf: reduce image load time
+0105. 🐛 fix: correct typo in registration form
