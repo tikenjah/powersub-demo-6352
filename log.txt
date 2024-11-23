@@ -10112,3 +10112,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0865. ♻️ chore: add GitHub actions badge
 0025. 🚀 perf: optimize database query for quiz results
+0820. 📚 docs: add API usage examples
