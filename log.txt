@@ -578,3 +578,4 @@
 0461. ✨ feat: add user authentication
 0301. 🎨 style: apply consistent indentation
 0906. 📚 docs: add API usage examples
+0180. ✨ feat: add export to CSV option
