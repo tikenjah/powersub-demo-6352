@@ -584,3 +584,4 @@
 0889. 🚀 perf: lazy-load components
 0055. 📚 docs: update README with setup steps
 0376. 🎨 style: apply consistent indentation
+0579. 📚 docs: clarify environment setup
