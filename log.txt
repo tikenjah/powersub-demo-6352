@@ -586,3 +586,4 @@
 0376. 🎨 style: apply consistent indentation
 0579. 📚 docs: clarify environment setup
 0351. ✨ feat: add export to CSV option
+0934. ✨ feat: support email verification
