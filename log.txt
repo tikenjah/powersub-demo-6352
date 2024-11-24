@@ -9128,3 +9128,4 @@
 0031. 📚 docs: document token refresh logic
 0999. 🔧 refactor: split large controller into smaller functions
 0505. ♻️ chore: add GitHub actions badge
+0547. 📚 docs: write FAQ section
