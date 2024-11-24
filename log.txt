@@ -588,3 +588,4 @@
 0351. ✨ feat: add export to CSV option
 0934. ✨ feat: support email verification
 0869. ♻️ chore: bump dependencies
+0737. 🐛 fix: handle 500 error in quiz API
