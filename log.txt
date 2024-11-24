@@ -589,3 +589,4 @@
 0934. ✨ feat: support email verification
 0869. ♻️ chore: bump dependencies
 0737. 🐛 fix: handle 500 error in quiz API
+0995. ✅ test: mock database connection in test suite
