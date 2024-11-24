@@ -596,3 +596,4 @@
 0687. 🎨 style: remove trailing whitespace
 0301. 🎨 style: apply consistent indentation
 0176. 🔧 refactor: remove redundant code blocks
+0625. 🐛 fix: handle 500 error in quiz API
