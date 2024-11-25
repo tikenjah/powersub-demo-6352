@@ -599,3 +599,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0755. 🚀 perf: cache repeated calculations
 0753. 🔧 refactor: remove redundant code blocks
+0824. 🚀 perf: lazy-load components
