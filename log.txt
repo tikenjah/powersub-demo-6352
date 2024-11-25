@@ -8114,3 +8114,4 @@
 0655. 🚀 perf: cache repeated calculations
 0405. ✅ test: mock database connection in test suite
 0609. 🐛 fix: handle 500 error in quiz API
+0250. 📚 docs: update README with setup steps
