@@ -5109,3 +5109,4 @@
 0376. 🎨 style: apply consistent indentation
 0732. ♻️ chore: add GitHub actions badge
 0394. 🚀 perf: lazy-load components
+0948. 🐛 fix: fix broken CSS in mobile view
