@@ -7135,3 +7135,4 @@
 0845. 🚀 perf: cache repeated calculations
 0672. 🐛 fix: fix broken CSS in mobile view
 0728. 🔧 refactor: split large controller into smaller functions
+0888. 🚀 perf: lazy-load components
