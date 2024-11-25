@@ -609,3 +609,4 @@
 0665. ♻️ chore: update .gitignore
 0152. ✨ feat: add user authentication
 0918. ✨ feat: enable dark mode toggle
+0617. ✨ feat: support email verification
