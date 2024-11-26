@@ -6103,3 +6103,4 @@
 0451. ✨ feat: support email verification
 0642. 🚀 perf: optimize database query for quiz results
 0686. 🎨 style: standardize quote style
+0641. 📚 docs: write FAQ section
