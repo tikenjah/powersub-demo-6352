@@ -629,3 +629,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0498. ✅ test: mock database connection in test suite
 0308. 🚀 perf: reduce image load time
+0745. ✅ test: add unit test for quiz service
