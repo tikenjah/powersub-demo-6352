@@ -626,3 +626,4 @@
 0654. ✨ feat: create admin dashboard
 0553. 🐛 fix: correct typo in registration form
 0111. 📚 docs: update README with setup steps
+0718. 🐛 fix: resolve issue with date parsing
