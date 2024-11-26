@@ -628,3 +628,4 @@
 0111. 📚 docs: update README with setup steps
 0718. 🐛 fix: resolve issue with date parsing
 0498. ✅ test: mock database connection in test suite
+0308. 🚀 perf: reduce image load time
