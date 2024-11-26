@@ -9129,3 +9129,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0505. ♻️ chore: add GitHub actions badge
 0547. 📚 docs: write FAQ section
+0998. 🐛 fix: fix null pointer exception on login
