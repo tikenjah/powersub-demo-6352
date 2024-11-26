@@ -8118,3 +8118,4 @@
 0165. 🎨 style: remove trailing whitespace
 0185. 📚 docs: write FAQ section
 0503. ♻️ chore: rename env.example
+0894. ✅ test: add integration test for /submit endpoint
