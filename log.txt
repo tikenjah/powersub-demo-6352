@@ -620,3 +620,4 @@
 0157. ✅ test: mock database connection in test suite
 0083. 🎨 style: reformat files with black
 0040. 🔧 refactor: clean up auth middleware
+0507. 🔧 refactor: clean up auth middleware
