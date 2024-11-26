@@ -8117,3 +8117,4 @@
 0250. 📚 docs: update README with setup steps
 0165. 🎨 style: remove trailing whitespace
 0185. 📚 docs: write FAQ section
+0503. ♻️ chore: rename env.example
