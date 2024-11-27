@@ -634,3 +634,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0636. ✅ test: increase coverage on auth module
 0346. ✅ test: mock database connection in test suite
+0575. ✅ test: add unit test for quiz service
