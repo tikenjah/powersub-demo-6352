@@ -6105,3 +6105,4 @@
 0686. 🎨 style: standardize quote style
 0641. 📚 docs: write FAQ section
 0462. ♻️ chore: update .gitignore
+0737. 🐛 fix: handle 500 error in quiz API
