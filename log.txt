@@ -10123,3 +10123,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0213. ✅ test: add integration test for /submit endpoint
 0091. ✨ feat: add user authentication
+0222. 🐛 fix: handle 500 error in quiz API
