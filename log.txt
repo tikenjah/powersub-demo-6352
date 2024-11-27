@@ -632,3 +632,4 @@
 0745. ✅ test: add unit test for quiz service
 0425. 🔧 refactor: refactor quiz grading logic
 0236. 🔧 refactor: remove redundant code blocks
+0636. ✅ test: increase coverage on auth module
