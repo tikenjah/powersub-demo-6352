@@ -6107,3 +6107,4 @@
 0462. ♻️ chore: update .gitignore
 0737. 🐛 fix: handle 500 error in quiz API
 0176. 🔧 refactor: remove redundant code blocks
+0797. 📚 docs: add API usage examples
