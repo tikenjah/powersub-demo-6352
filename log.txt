@@ -8120,3 +8120,4 @@
 0503. ♻️ chore: rename env.example
 0894. ✅ test: add integration test for /submit endpoint
 0181. ♻️ chore: add GitHub actions badge
+0299. 🐛 fix: resolve issue with date parsing
