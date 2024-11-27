@@ -636,3 +636,4 @@
 0346. ✅ test: mock database connection in test suite
 0575. ✅ test: add unit test for quiz service
 0650. ✅ test: add unit test for quiz service
+0411. ✅ test: add unit test for quiz service
