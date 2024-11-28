@@ -665,3 +665,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0837. 🚀 perf: cache repeated calculations
 0701. 🔧 refactor: clean up auth middleware
+0111. 📚 docs: update README with setup steps
