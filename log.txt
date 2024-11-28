@@ -7138,3 +7138,4 @@
 0888. 🚀 perf: lazy-load components
 0499. 🎨 style: reformat files with black
 0691. 🎨 style: rename variables for clarity
+0958. 🐛 fix: prevent crash on empty input
