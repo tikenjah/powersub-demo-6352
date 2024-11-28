@@ -652,3 +652,4 @@
 0114. ♻️ chore: update .gitignore
 0179. 🔧 refactor: split large controller into smaller functions
 0936. 🔧 refactor: organize models into subfolders
+0003. ✅ test: increase coverage on auth module
