@@ -656,3 +656,4 @@
 0976. ✨ feat: implement quiz timer feature
 0544. 🔧 refactor: organize models into subfolders
 0386. 🚀 perf: optimize database query for quiz results
+0727. ♻️ chore: add GitHub actions badge
