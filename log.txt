@@ -9136,3 +9136,4 @@
 0271. ✅ test: add unit test for quiz service
 0494. 🎨 style: rename variables for clarity
 0288. 🔧 refactor: refactor quiz grading logic
+0589. 🐛 fix: fix broken CSS in mobile view
