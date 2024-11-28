@@ -651,3 +651,4 @@
 0369. 🎨 style: standardize quote style
 0114. ♻️ chore: update .gitignore
 0179. 🔧 refactor: split large controller into smaller functions
+0936. 🔧 refactor: organize models into subfolders
