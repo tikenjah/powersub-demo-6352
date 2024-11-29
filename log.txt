@@ -669,3 +669,4 @@
 0646. ✅ test: test user registration edge cases
 0742. 📚 docs: clarify environment setup
 0002. 🚀 perf: cache repeated calculations
+0187. ✨ feat: support email verification
