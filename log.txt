@@ -9140,3 +9140,4 @@
 0778. 📚 docs: write FAQ section
 0515. 🚀 perf: optimize database query for quiz results
 0525. ✅ test: mock database connection in test suite
+0856. 🐛 fix: fix null pointer exception on login
