@@ -10126,3 +10126,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0292. 📚 docs: clarify environment setup
 0212. 🎨 style: standardize quote style
+0617. ✨ feat: support email verification
