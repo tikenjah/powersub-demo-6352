@@ -9138,3 +9138,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0589. 🐛 fix: fix broken CSS in mobile view
 0778. 📚 docs: write FAQ section
+0515. 🚀 perf: optimize database query for quiz results
