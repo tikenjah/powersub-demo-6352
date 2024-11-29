@@ -673,3 +673,4 @@
 0517. ✅ test: mock database connection in test suite
 0472. 🐛 fix: fix null pointer exception on login
 0052. 🎨 style: standardize quote style
+0174. 📚 docs: clarify environment setup
