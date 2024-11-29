@@ -670,3 +670,4 @@
 0742. 📚 docs: clarify environment setup
 0002. 🚀 perf: cache repeated calculations
 0187. ✨ feat: support email verification
+0517. ✅ test: mock database connection in test suite
