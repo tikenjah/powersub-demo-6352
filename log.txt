@@ -7141,3 +7141,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0255. 🔧 refactor: refactor quiz grading logic
 0914. ✅ test: test user registration edge cases
+0375. 🐛 fix: handle 500 error in quiz API
