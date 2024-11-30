@@ -5121,3 +5121,4 @@
 0901. ✨ feat: add user authentication
 0792. 🎨 style: standardize quote style
 0155. ✨ feat: create admin dashboard
+0889. 🚀 perf: lazy-load components
