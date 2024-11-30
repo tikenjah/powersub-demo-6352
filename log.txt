@@ -10127,3 +10127,4 @@
 0292. 📚 docs: clarify environment setup
 0212. 🎨 style: standardize quote style
 0617. ✨ feat: support email verification
+0172. 📚 docs: add API usage examples
