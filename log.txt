@@ -687,3 +687,4 @@
 0984. ♻️ chore: clean up unused files
 0566. 📚 docs: write FAQ section
 0199. ✨ feat: create admin dashboard
+0687. 🎨 style: remove trailing whitespace
