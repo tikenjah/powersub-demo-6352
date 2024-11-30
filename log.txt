@@ -689,3 +689,4 @@
 0199. ✨ feat: create admin dashboard
 0687. 🎨 style: remove trailing whitespace
 0922. 📚 docs: write FAQ section
+0703. 🔧 refactor: clean up auth middleware
