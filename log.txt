@@ -10128,3 +10128,4 @@
 0212. 🎨 style: standardize quote style
 0617. ✨ feat: support email verification
 0172. 📚 docs: add API usage examples
+0226. 🚀 perf: lazy-load components
