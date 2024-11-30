@@ -10129,3 +10129,4 @@
 0617. ✨ feat: support email verification
 0172. 📚 docs: add API usage examples
 0226. 🚀 perf: lazy-load components
+0306. 🎨 style: apply consistent indentation
