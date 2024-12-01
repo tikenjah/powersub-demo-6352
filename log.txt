@@ -9146,3 +9146,4 @@
 0986. 📚 docs: document token refresh logic
 0964. ♻️ chore: clean up unused files
 0699. 🎨 style: standardize quote style
+0737. 🐛 fix: handle 500 error in quiz API
