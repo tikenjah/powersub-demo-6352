@@ -692,3 +692,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0242. ♻️ chore: clean up unused files
 0281. ✨ feat: support email verification
+0582. ✨ feat: add export to CSV option
