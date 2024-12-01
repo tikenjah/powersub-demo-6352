@@ -10132,3 +10132,4 @@
 0306. 🎨 style: apply consistent indentation
 0743. 🎨 style: apply consistent indentation
 0035. ✅ test: increase coverage on auth module
+0295. 🎨 style: remove trailing whitespace
