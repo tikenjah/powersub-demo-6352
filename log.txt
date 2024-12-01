@@ -8133,3 +8133,4 @@
 0886. ♻️ chore: clean up unused files
 0981. 🚀 perf: lazy-load components
 0865. ♻️ chore: add GitHub actions badge
+0507. 🔧 refactor: clean up auth middleware
