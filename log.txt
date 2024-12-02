@@ -709,3 +709,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0035. ✅ test: increase coverage on auth module
 0967. ♻️ chore: add GitHub actions badge
+0781. 🚀 perf: reduce image load time
