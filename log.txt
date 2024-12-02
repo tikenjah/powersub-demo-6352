@@ -9150,3 +9150,4 @@
 0183. 🔧 refactor: split large controller into smaller functions
 0923. ✨ feat: support email verification
 0171. 🐛 fix: fix broken CSS in mobile view
+0479. 🐛 fix: fix null pointer exception on login
