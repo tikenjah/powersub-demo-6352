@@ -707,3 +707,4 @@
 0849. 🐛 fix: correct typo in registration form
 0607. 🐛 fix: prevent crash on empty input
 0672. 🐛 fix: fix broken CSS in mobile view
+0035. ✅ test: increase coverage on auth module
