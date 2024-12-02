@@ -9149,3 +9149,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0183. 🔧 refactor: split large controller into smaller functions
 0923. ✨ feat: support email verification
+0171. 🐛 fix: fix broken CSS in mobile view
