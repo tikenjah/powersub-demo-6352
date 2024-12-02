@@ -8135,3 +8135,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0507. 🔧 refactor: clean up auth middleware
 0884. 📚 docs: clarify environment setup
+0017. ✅ test: mock database connection in test suite
