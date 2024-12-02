@@ -710,3 +710,4 @@
 0035. ✅ test: increase coverage on auth module
 0967. ♻️ chore: add GitHub actions badge
 0781. 🚀 perf: reduce image load time
+0974. ✨ feat: add export to CSV option
