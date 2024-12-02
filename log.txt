@@ -7144,3 +7144,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0114. ♻️ chore: update .gitignore
 0910. 🎨 style: remove trailing whitespace
+0784. ♻️ chore: clean up unused files
