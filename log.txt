@@ -708,3 +708,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0672. 🐛 fix: fix broken CSS in mobile view
 0035. ✅ test: increase coverage on auth module
+0967. ♻️ chore: add GitHub actions badge
