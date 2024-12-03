@@ -7146,3 +7146,4 @@
 0910. 🎨 style: remove trailing whitespace
 0784. ♻️ chore: clean up unused files
 0490. ✨ feat: create admin dashboard
+0307. ✨ feat: support email verification
