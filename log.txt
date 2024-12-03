@@ -723,3 +723,4 @@
 0605. ✨ feat: support email verification
 0074. ♻️ chore: add GitHub actions badge
 0231. 🔧 refactor: clean up auth middleware
+0222. 🐛 fix: handle 500 error in quiz API
