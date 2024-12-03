@@ -717,3 +717,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
 0323. 📚 docs: clarify environment setup
+0949. 📚 docs: write FAQ section
