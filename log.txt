@@ -727,3 +727,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0141. 📚 docs: document token refresh logic
 0910. 🎨 style: remove trailing whitespace
+0013. ✅ test: increase coverage on auth module
