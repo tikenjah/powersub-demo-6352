@@ -8137,3 +8137,4 @@
 0884. 📚 docs: clarify environment setup
 0017. ✅ test: mock database connection in test suite
 0862. ♻️ chore: bump dependencies
+0590. 🐛 fix: fix null pointer exception on login
