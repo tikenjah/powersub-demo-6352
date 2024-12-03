@@ -720,3 +720,4 @@
 0949. 📚 docs: write FAQ section
 0191. 🔧 refactor: refactor quiz grading logic
 0886. ♻️ chore: clean up unused files
+0605. ✨ feat: support email verification
