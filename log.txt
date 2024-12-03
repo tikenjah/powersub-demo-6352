@@ -716,3 +716,4 @@
 0078. ♻️ chore: update .gitignore
 0488. ♻️ chore: add GitHub actions badge
 0435. ✅ test: add unit test for quiz service
+0323. 📚 docs: clarify environment setup
