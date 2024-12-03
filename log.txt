@@ -726,3 +726,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0552. 🐛 fix: fix null pointer exception on login
 0141. 📚 docs: document token refresh logic
+0910. 🎨 style: remove trailing whitespace
