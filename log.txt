@@ -722,3 +722,4 @@
 0886. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
 0074. ♻️ chore: add GitHub actions badge
+0231. 🔧 refactor: clean up auth middleware
