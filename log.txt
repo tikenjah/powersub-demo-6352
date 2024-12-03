@@ -721,3 +721,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0886. ♻️ chore: clean up unused files
 0605. ✨ feat: support email verification
+0074. ♻️ chore: add GitHub actions badge
