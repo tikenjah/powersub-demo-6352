@@ -10139,3 +10139,4 @@
 0940. 📚 docs: document token refresh logic
 0360. ✨ feat: add export to CSV option
 0269. ✅ test: test user registration edge cases
+0162. ♻️ chore: add GitHub actions badge
