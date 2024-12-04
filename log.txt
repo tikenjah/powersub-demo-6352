@@ -729,3 +729,4 @@
 0910. 🎨 style: remove trailing whitespace
 0013. ✅ test: increase coverage on auth module
 0191. 🔧 refactor: refactor quiz grading logic
+0956. 📚 docs: clarify environment setup
