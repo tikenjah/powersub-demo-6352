@@ -5131,3 +5131,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0939. 📚 docs: update README with setup steps
 0149. ✨ feat: add export to CSV option
+0207. 🐛 fix: prevent crash on empty input
