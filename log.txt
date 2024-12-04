@@ -735,3 +735,4 @@
 0644. 🎨 style: apply consistent indentation
 0035. ✅ test: increase coverage on auth module
 0424. ✨ feat: add user authentication
+0048. 📚 docs: update README with setup steps
