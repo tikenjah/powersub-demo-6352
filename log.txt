@@ -6125,3 +6125,4 @@
 0323. 📚 docs: clarify environment setup
 0936. 🔧 refactor: organize models into subfolders
 0077. ♻️ chore: rename env.example
+0341. 🚀 perf: lazy-load components
