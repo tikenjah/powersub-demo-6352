@@ -756,3 +756,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0380. 🐛 fix: fix null pointer exception on login
 0226. 🚀 perf: lazy-load components
+0614. 🚀 perf: reduce image load time
