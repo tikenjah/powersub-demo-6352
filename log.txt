@@ -748,3 +748,4 @@
 0679. ♻️ chore: bump dependencies
 0398. 🚀 perf: cache repeated calculations
 0814. 🔧 refactor: remove redundant code blocks
+0989. 📚 docs: write FAQ section
