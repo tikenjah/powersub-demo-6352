@@ -5133,3 +5133,4 @@
 0149. ✨ feat: add export to CSV option
 0207. 🐛 fix: prevent crash on empty input
 0123. ✨ feat: implement quiz timer feature
+0852. ✨ feat: enable dark mode toggle
