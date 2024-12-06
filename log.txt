@@ -764,3 +764,4 @@
 0528. ♻️ chore: clean up unused files
 0618. ✨ feat: support email verification
 0993. ✨ feat: implement quiz timer feature
+0206. 🐛 fix: handle 500 error in quiz API
