@@ -765,3 +765,4 @@
 0618. ✨ feat: support email verification
 0993. ✨ feat: implement quiz timer feature
 0206. 🐛 fix: handle 500 error in quiz API
+0132. ✅ test: add unit test for quiz service
