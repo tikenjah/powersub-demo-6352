@@ -9159,3 +9159,4 @@
 0885. ♻️ chore: update .gitignore
 0848. 📚 docs: update README with setup steps
 0562. 🔧 refactor: clean up auth middleware
+0125. ✅ test: add integration test for /submit endpoint
