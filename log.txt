@@ -9158,3 +9158,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0885. ♻️ chore: update .gitignore
 0848. 📚 docs: update README with setup steps
+0562. 🔧 refactor: clean up auth middleware
