@@ -767,3 +767,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0132. ✅ test: add unit test for quiz service
 0840. 🔧 refactor: refactor quiz grading logic
+0526. ✨ feat: add user authentication
