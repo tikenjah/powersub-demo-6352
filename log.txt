@@ -6129,3 +6129,4 @@
 0594. 🎨 style: reformat files with black
 0021. ✨ feat: support email verification
 0627. 📚 docs: document token refresh logic
+0160. ♻️ chore: bump dependencies
