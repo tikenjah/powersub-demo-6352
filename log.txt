@@ -772,3 +772,4 @@
 0488. ♻️ chore: add GitHub actions badge
 0872. 🎨 style: rename variables for clarity
 0747. 🔧 refactor: clean up auth middleware
+0562. 🔧 refactor: clean up auth middleware
