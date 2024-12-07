@@ -780,3 +780,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0610. 🚀 perf: lazy-load components
 0047. 🎨 style: rename variables for clarity
+0801. ✨ feat: enable dark mode toggle
