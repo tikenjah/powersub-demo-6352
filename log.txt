@@ -777,3 +777,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0939. 📚 docs: update README with setup steps
 0722. 📚 docs: add API usage examples
+0522. 🐛 fix: handle 500 error in quiz API
