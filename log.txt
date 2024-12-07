@@ -6133,3 +6133,4 @@
 0964. ♻️ chore: clean up unused files
 0760. 🐛 fix: resolve issue with date parsing
 0081. 🐛 fix: fix null pointer exception on login
+0053. ✅ test: increase coverage on auth module
