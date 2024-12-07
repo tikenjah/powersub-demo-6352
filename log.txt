@@ -6132,3 +6132,4 @@
 0160. ♻️ chore: bump dependencies
 0964. ♻️ chore: clean up unused files
 0760. 🐛 fix: resolve issue with date parsing
+0081. 🐛 fix: fix null pointer exception on login
