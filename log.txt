@@ -5139,3 +5139,4 @@
 0119. 📚 docs: improve code comments in utils
 0162. ♻️ chore: add GitHub actions badge
 0783. 🐛 fix: handle 500 error in quiz API
+0982. 🚀 perf: lazy-load components
