@@ -799,3 +799,4 @@
 0849. 🐛 fix: correct typo in registration form
 0103. 🔧 refactor: remove redundant code blocks
 0092. 🚀 perf: reduce image load time
+0713. 🐛 fix: handle 500 error in quiz API
