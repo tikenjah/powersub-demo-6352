@@ -5140,3 +5140,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0783. 🐛 fix: handle 500 error in quiz API
 0982. 🚀 perf: lazy-load components
+0207. 🐛 fix: prevent crash on empty input
