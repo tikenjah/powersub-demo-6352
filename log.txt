@@ -8151,3 +8151,4 @@
 0854. ♻️ chore: rename env.example
 0798. 🚀 perf: reduce image load time
 0986. 📚 docs: document token refresh logic
+0911. ✅ test: increase coverage on auth module
