@@ -787,3 +787,4 @@
 0075. ✅ test: mock database connection in test suite
 0008. 🚀 perf: reduce image load time
 0787. ♻️ chore: rename env.example
+0868. ✅ test: add unit test for quiz service
