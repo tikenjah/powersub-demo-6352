@@ -8153,3 +8153,4 @@
 0986. 📚 docs: document token refresh logic
 0911. ✅ test: increase coverage on auth module
 0768. 🎨 style: remove trailing whitespace
+0592. 📚 docs: add API usage examples
