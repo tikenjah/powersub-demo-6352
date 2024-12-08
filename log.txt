@@ -791,3 +791,4 @@
 0788. 📚 docs: add API usage examples
 0731. 🎨 style: standardize quote style
 0544. 🔧 refactor: organize models into subfolders
+0383. 🐛 fix: fix broken CSS in mobile view
