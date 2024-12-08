@@ -794,3 +794,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0739. 🎨 style: remove trailing whitespace
 0450. 🐛 fix: fix broken CSS in mobile view
+0565. ♻️ chore: add GitHub actions badge
