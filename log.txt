@@ -796,3 +796,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0565. ♻️ chore: add GitHub actions badge
 0829. 🔧 refactor: organize models into subfolders
+0849. 🐛 fix: correct typo in registration form
