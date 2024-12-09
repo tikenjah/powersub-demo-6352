@@ -808,3 +808,4 @@
 0523. ♻️ chore: bump dependencies
 0378. 🐛 fix: prevent crash on empty input
 0831. 📚 docs: clarify environment setup
+0283. ♻️ chore: add GitHub actions badge
