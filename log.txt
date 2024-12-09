@@ -812,3 +812,4 @@
 0271. ✅ test: add unit test for quiz service
 0273. 🚀 perf: reduce image load time
 0746. ♻️ chore: add GitHub actions badge
+0698. 🐛 fix: handle 500 error in quiz API
