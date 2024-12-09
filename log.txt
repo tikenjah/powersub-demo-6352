@@ -9166,3 +9166,4 @@
 0944. ✨ feat: add user authentication
 0254. 🚀 perf: reduce image load time
 0870. ♻️ chore: clean up unused files
+0583. ✅ test: increase coverage on auth module
