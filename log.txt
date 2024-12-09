@@ -6139,3 +6139,4 @@
 0669. ✨ feat: enable dark mode toggle
 0064. 📚 docs: clarify environment setup
 0444. ✅ test: add unit test for quiz service
+0315. ✅ test: add integration test for /submit endpoint
