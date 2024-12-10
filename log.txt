@@ -815,3 +815,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0374. 🎨 style: standardize quote style
 0205. 📚 docs: update README with setup steps
+0996. ✅ test: test user registration edge cases
