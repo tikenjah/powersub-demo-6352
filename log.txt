@@ -6142,3 +6142,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0772. 🐛 fix: fix null pointer exception on login
 0842. 🎨 style: remove trailing whitespace
+0804. ♻️ chore: add GitHub actions badge
