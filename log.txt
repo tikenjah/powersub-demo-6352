@@ -5146,3 +5146,4 @@
 0091. ✨ feat: add user authentication
 0396. 🔧 refactor: split large controller into smaller functions
 0944. ✨ feat: add user authentication
+0842. 🎨 style: remove trailing whitespace
