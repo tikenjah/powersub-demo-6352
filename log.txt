@@ -7160,3 +7160,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0846. ✨ feat: implement quiz timer feature
 0295. 🎨 style: remove trailing whitespace
+0154. 🐛 fix: prevent crash on empty input
