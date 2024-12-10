@@ -818,3 +818,4 @@
 0996. ✅ test: test user registration edge cases
 0076. 🎨 style: reformat files with black
 0170. ✅ test: increase coverage on auth module
+0187. ✨ feat: support email verification
