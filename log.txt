@@ -822,3 +822,4 @@
 0186. ✅ test: test user registration edge cases
 0911. ✅ test: increase coverage on auth module
 0431. 🎨 style: reformat files with black
+0419. 🎨 style: remove trailing whitespace
