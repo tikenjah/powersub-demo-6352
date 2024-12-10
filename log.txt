@@ -8158,3 +8158,4 @@
 0627. 📚 docs: document token refresh logic
 0336. ✨ feat: add export to CSV option
 0798. 🚀 perf: reduce image load time
+0683. ✅ test: mock database connection in test suite
