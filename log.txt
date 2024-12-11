@@ -826,3 +826,4 @@
 0358. 🚀 perf: reduce image load time
 0863. 🐛 fix: correct typo in registration form
 0758. 🚀 perf: optimize database query for quiz results
+0557. 🔧 refactor: clean up auth middleware
