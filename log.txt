@@ -839,3 +839,4 @@
 0471. ✨ feat: support email verification
 0958. 🐛 fix: prevent crash on empty input
 0963. 🚀 perf: reduce image load time
+0639. 🐛 fix: correct typo in registration form
