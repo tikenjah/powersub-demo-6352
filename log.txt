@@ -838,3 +838,4 @@
 0678. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
 0958. 🐛 fix: prevent crash on empty input
+0963. 🚀 perf: reduce image load time
