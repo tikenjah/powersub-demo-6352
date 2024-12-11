@@ -8159,3 +8159,4 @@
 0336. ✨ feat: add export to CSV option
 0798. 🚀 perf: reduce image load time
 0683. ✅ test: mock database connection in test suite
+0198. 📚 docs: clarify environment setup
