@@ -9171,3 +9171,4 @@
 0080. ✨ feat: support email verification
 0675. 🔧 refactor: organize models into subfolders
 0845. 🚀 perf: cache repeated calculations
+0968. 🎨 style: standardize quote style
