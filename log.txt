@@ -10164,3 +10164,4 @@
 0143. ✨ feat: implement quiz timer feature
 0166. 🚀 perf: cache repeated calculations
 0505. ♻️ chore: add GitHub actions badge
+0362. 📚 docs: add API usage examples
