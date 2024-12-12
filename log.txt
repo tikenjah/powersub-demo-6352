@@ -858,3 +858,4 @@
 0441. 📚 docs: add API usage examples
 0754. 🐛 fix: handle 500 error in quiz API
 0589. 🐛 fix: fix broken CSS in mobile view
+0567. 📚 docs: add API usage examples
