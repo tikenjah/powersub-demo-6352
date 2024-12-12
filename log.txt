@@ -846,3 +846,4 @@
 0102. ✨ feat: support email verification
 0161. ✨ feat: create admin dashboard
 0020. ✅ test: add integration test for /submit endpoint
+0430. 🐛 fix: fix null pointer exception on login
