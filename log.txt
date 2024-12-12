@@ -852,3 +852,4 @@
 0964. ♻️ chore: clean up unused files
 0503. ♻️ chore: rename env.example
 0135. ✅ test: test user registration edge cases
+0730. ✅ test: test user registration edge cases
