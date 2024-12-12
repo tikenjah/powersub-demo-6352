@@ -856,3 +856,4 @@
 0944. ✨ feat: add user authentication
 0221. ✨ feat: add user authentication
 0441. 📚 docs: add API usage examples
+0754. 🐛 fix: handle 500 error in quiz API
