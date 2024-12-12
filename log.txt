@@ -850,3 +850,4 @@
 0385. ♻️ chore: clean up unused files
 0070. ✨ feat: implement quiz timer feature
 0964. ♻️ chore: clean up unused files
+0503. ♻️ chore: rename env.example
