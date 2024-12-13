@@ -866,3 +866,4 @@
 0368. 🚀 perf: lazy-load components
 0204. 🎨 style: standardize quote style
 0805. ♻️ chore: add GitHub actions badge
+0361. ✨ feat: support email verification
