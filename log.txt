@@ -6153,3 +6153,4 @@
 0409. 🚀 perf: lazy-load components
 0301. 🎨 style: apply consistent indentation
 0330. ✅ test: test user registration edge cases
+0195. 📚 docs: clarify environment setup
