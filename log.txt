@@ -6157,3 +6157,4 @@
 0115. 🚀 perf: reduce image load time
 0083. 🎨 style: reformat files with black
 0712. 🎨 style: apply consistent indentation
+0787. ♻️ chore: rename env.example
