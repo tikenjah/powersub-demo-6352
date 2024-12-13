@@ -867,3 +867,4 @@
 0204. 🎨 style: standardize quote style
 0805. ♻️ chore: add GitHub actions badge
 0361. ✨ feat: support email verification
+0945. ♻️ chore: add GitHub actions badge
