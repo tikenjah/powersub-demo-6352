@@ -8165,3 +8165,4 @@
 0483. 📚 docs: update README with setup steps
 0726. ✨ feat: enable dark mode toggle
 0999. 🔧 refactor: split large controller into smaller functions
+0949. 📚 docs: write FAQ section
