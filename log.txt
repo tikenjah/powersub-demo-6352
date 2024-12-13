@@ -877,3 +877,4 @@
 0554. 📚 docs: improve code comments in utils
 0102. ✨ feat: support email verification
 0797. 📚 docs: add API usage examples
+0456. 🚀 perf: optimize database query for quiz results
