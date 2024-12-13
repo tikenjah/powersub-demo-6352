@@ -869,3 +869,4 @@
 0361. ✨ feat: support email verification
 0945. ♻️ chore: add GitHub actions badge
 0421. 🔧 refactor: split large controller into smaller functions
+0932. ✅ test: add integration test for /submit endpoint
