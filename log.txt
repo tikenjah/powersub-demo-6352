@@ -872,3 +872,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0698. 🐛 fix: handle 500 error in quiz API
 0844. 📚 docs: update README with setup steps
+0748. 🚀 perf: optimize database query for quiz results
