@@ -8168,3 +8168,4 @@
 0949. 📚 docs: write FAQ section
 0537. 🔧 refactor: remove redundant code blocks
 0195. 📚 docs: clarify environment setup
+0659. 📚 docs: add API usage examples
