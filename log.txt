@@ -7176,3 +7176,4 @@
 0626. 🎨 style: standardize quote style
 0367. 🐛 fix: fix null pointer exception on login
 0332. 🎨 style: standardize quote style
+0732. ♻️ chore: add GitHub actions badge
