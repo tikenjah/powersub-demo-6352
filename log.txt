@@ -6158,3 +6158,4 @@
 0083. 🎨 style: reformat files with black
 0712. 🎨 style: apply consistent indentation
 0787. ♻️ chore: rename env.example
+0749. ✨ feat: support email verification
