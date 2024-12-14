@@ -893,3 +893,4 @@
 0189. 📚 docs: clarify environment setup
 0781. 🚀 perf: reduce image load time
 0189. 📚 docs: clarify environment setup
+0396. 🔧 refactor: split large controller into smaller functions
