@@ -6159,3 +6159,4 @@
 0712. 🎨 style: apply consistent indentation
 0787. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
+0502. 📚 docs: update README with setup steps
