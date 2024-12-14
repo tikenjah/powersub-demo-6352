@@ -9177,3 +9177,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0223. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
+0756. ✨ feat: support email verification
