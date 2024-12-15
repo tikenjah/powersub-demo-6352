@@ -900,3 +900,4 @@
 0580. ♻️ chore: bump dependencies
 0761. ✅ test: add unit test for quiz service
 0531. 🐛 fix: prevent crash on empty input
+0642. 🚀 perf: optimize database query for quiz results
