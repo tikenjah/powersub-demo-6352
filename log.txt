@@ -5159,3 +5159,4 @@
 0968. 🎨 style: standardize quote style
 0432. 🎨 style: apply consistent indentation
 0251. ♻️ chore: update .gitignore
+0706. ✨ feat: support email verification
