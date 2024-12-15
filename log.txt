@@ -903,3 +903,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0967. ♻️ chore: add GitHub actions badge
 0990. ♻️ chore: rename env.example
+0515. 🚀 perf: optimize database query for quiz results
