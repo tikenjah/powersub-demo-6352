@@ -10172,3 +10172,4 @@
 0962. ✨ feat: create admin dashboard
 0996. ✅ test: test user registration edge cases
 0036. 🔧 refactor: clean up auth middleware
+0661. ✅ test: add integration test for /submit endpoint
