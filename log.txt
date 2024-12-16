@@ -7179,3 +7179,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0346. ✅ test: mock database connection in test suite
 0115. 🚀 perf: reduce image load time
+0170. ✅ test: increase coverage on auth module
