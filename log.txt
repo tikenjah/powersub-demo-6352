@@ -8174,3 +8174,4 @@
 0667. ✨ feat: add export to CSV option
 0340. 🚀 perf: optimize database query for quiz results
 0201. 🔧 refactor: clean up auth middleware
+0752. ✅ test: add integration test for /submit endpoint
