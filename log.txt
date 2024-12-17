@@ -931,3 +931,4 @@
 0086. 🐛 fix: correct typo in registration form
 0817. 🔧 refactor: remove redundant code blocks
 0432. 🎨 style: apply consistent indentation
+0460. 📚 docs: write FAQ section
