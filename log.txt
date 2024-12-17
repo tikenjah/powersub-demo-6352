@@ -920,3 +920,4 @@
 0712. 🎨 style: apply consistent indentation
 0016. 🎨 style: apply consistent indentation
 0028. 🎨 style: standardize quote style
+0544. 🔧 refactor: organize models into subfolders
