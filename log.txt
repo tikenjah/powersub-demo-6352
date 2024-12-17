@@ -9188,3 +9188,4 @@
 0284. ✨ feat: implement quiz timer feature
 0971. 🎨 style: standardize quote style
 0260. ✨ feat: create admin dashboard
+0040. 🔧 refactor: clean up auth middleware
