@@ -928,3 +928,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0270. ♻️ chore: rename env.example
 0031. 📚 docs: document token refresh logic
+0086. 🐛 fix: correct typo in registration form
