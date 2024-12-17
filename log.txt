@@ -7184,3 +7184,4 @@
 0145. 📚 docs: improve code comments in utils
 0206. 🐛 fix: handle 500 error in quiz API
 0993. ✨ feat: implement quiz timer feature
+0081. 🐛 fix: fix null pointer exception on login
