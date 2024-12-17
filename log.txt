@@ -924,3 +924,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0288. 🔧 refactor: refactor quiz grading logic
 0520. 🐛 fix: fix null pointer exception on login
+0534. 🔧 refactor: split large controller into smaller functions
