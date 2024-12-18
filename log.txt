@@ -8184,3 +8184,4 @@
 0113. ✨ feat: add user authentication
 0691. 🎨 style: rename variables for clarity
 0083. 🎨 style: reformat files with black
+0519. 📚 docs: document token refresh logic
