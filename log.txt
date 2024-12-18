@@ -943,3 +943,4 @@
 0697. ♻️ chore: bump dependencies
 0842. 🎨 style: remove trailing whitespace
 0480. ♻️ chore: add GitHub actions badge
+0613. 🐛 fix: prevent crash on empty input
