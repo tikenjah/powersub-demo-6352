@@ -932,3 +932,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0432. 🎨 style: apply consistent indentation
 0460. 📚 docs: write FAQ section
+0617. ✨ feat: support email verification
