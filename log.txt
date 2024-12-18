@@ -942,3 +942,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0697. ♻️ chore: bump dependencies
 0842. 🎨 style: remove trailing whitespace
+0480. ♻️ chore: add GitHub actions badge
