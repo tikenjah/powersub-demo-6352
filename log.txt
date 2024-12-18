@@ -936,3 +936,4 @@
 0416. 🎨 style: rename variables for clarity
 0807. 🔧 refactor: remove redundant code blocks
 0498. ✅ test: mock database connection in test suite
+0749. ✨ feat: support email verification
