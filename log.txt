@@ -8179,3 +8179,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0324. 📚 docs: document token refresh logic
 0437. 📚 docs: clarify environment setup
+0055. 📚 docs: update README with setup steps
