@@ -939,3 +939,4 @@
 0749. ✨ feat: support email verification
 0346. ✅ test: mock database connection in test suite
 0492. 🎨 style: remove trailing whitespace
+0860. 🔧 refactor: organize models into subfolders
