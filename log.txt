@@ -945,3 +945,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0613. 🐛 fix: prevent crash on empty input
 0443. 🎨 style: standardize quote style
+0589. 🐛 fix: fix broken CSS in mobile view
