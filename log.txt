@@ -938,3 +938,4 @@
 0498. ✅ test: mock database connection in test suite
 0749. ✨ feat: support email verification
 0346. ✅ test: mock database connection in test suite
+0492. 🎨 style: remove trailing whitespace
