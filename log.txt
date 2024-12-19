@@ -7189,3 +7189,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0792. 🎨 style: standardize quote style
 0009. ✨ feat: enable dark mode toggle
+0731. 🎨 style: standardize quote style
