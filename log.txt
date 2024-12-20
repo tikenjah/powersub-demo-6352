@@ -960,3 +960,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0982. 🚀 perf: lazy-load components
 0670. ✨ feat: add export to CSV option
+0130. 🔧 refactor: split large controller into smaller functions
