@@ -6179,3 +6179,4 @@
 0273. 🚀 perf: reduce image load time
 0843. 📚 docs: document token refresh logic
 0586. 🎨 style: remove trailing whitespace
+0393. 🚀 perf: lazy-load components
