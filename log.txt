@@ -984,3 +984,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0423. ✅ test: mock database connection in test suite
 0657. 🎨 style: standardize quote style
+0271. ✅ test: add unit test for quiz service
