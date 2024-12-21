@@ -975,3 +975,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0767. 🔧 refactor: remove redundant code blocks
 0942. ✅ test: increase coverage on auth module
+0996. ✅ test: test user registration edge cases
