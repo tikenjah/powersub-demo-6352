@@ -987,3 +987,4 @@
 0271. ✅ test: add unit test for quiz service
 0353. ♻️ chore: rename env.example
 0514. 🐛 fix: fix broken CSS in mobile view
+0171. 🐛 fix: fix broken CSS in mobile view
