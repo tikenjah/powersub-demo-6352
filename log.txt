@@ -994,3 +994,4 @@
 0930. 🎨 style: apply consistent indentation
 0478. 🐛 fix: resolve issue with date parsing
 0876. ♻️ chore: rename env.example
+0932. ✅ test: add integration test for /submit endpoint
