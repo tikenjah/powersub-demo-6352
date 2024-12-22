@@ -5178,3 +5178,4 @@
 0035. ✅ test: increase coverage on auth module
 0655. 🚀 perf: cache repeated calculations
 0474. ✅ test: add unit test for quiz service
+0760. 🐛 fix: resolve issue with date parsing
