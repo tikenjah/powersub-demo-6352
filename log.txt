@@ -997,3 +997,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0407. 🚀 perf: cache repeated calculations
 0803. ✅ test: mock database connection in test suite
+0740. 🐛 fix: resolve issue with date parsing
