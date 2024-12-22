@@ -10193,3 +10193,4 @@
 0023. 📚 docs: clarify environment setup
 0273. 🚀 perf: reduce image load time
 0880. 🐛 fix: fix broken CSS in mobile view
+0935. 📚 docs: update README with setup steps
