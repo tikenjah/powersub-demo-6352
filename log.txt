@@ -8193,3 +8193,4 @@
 0811. 🎨 style: reformat files with black
 0357. ✅ test: add unit test for quiz service
 0597. 🚀 perf: cache repeated calculations
+0829. 🔧 refactor: organize models into subfolders
