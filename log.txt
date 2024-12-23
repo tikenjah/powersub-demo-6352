@@ -1016,3 +1016,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0038. 🎨 style: rename variables for clarity
 0985. 📚 docs: document token refresh logic
+0281. ✨ feat: support email verification
