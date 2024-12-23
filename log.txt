@@ -8197,3 +8197,4 @@
 0145. 📚 docs: improve code comments in utils
 0127. 🐛 fix: fix null pointer exception on login
 0412. ✅ test: increase coverage on auth module
+0848. 📚 docs: update README with setup steps
