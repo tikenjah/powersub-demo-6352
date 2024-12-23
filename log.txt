@@ -1018,3 +1018,4 @@
 0985. 📚 docs: document token refresh logic
 0281. ✨ feat: support email verification
 0335. ♻️ chore: update .gitignore
+0447. ♻️ chore: bump dependencies
