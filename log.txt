@@ -1021,3 +1021,4 @@
 0447. ♻️ chore: bump dependencies
 0032. 🎨 style: apply consistent indentation
 0999. 🔧 refactor: split large controller into smaller functions
+0649. 📚 docs: update README with setup steps
