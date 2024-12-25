@@ -1038,3 +1038,4 @@
 0547. 📚 docs: write FAQ section
 0930. 🎨 style: apply consistent indentation
 0782. 📚 docs: improve code comments in utils
+0816. 🔧 refactor: organize models into subfolders
