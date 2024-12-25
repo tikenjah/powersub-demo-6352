@@ -6190,3 +6190,4 @@
 0423. ✅ test: mock database connection in test suite
 0810. 🔧 refactor: refactor quiz grading logic
 0397. 🐛 fix: handle 500 error in quiz API
+0948. 🐛 fix: fix broken CSS in mobile view
