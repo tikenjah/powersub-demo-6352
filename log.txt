@@ -1036,3 +1036,4 @@
 0197. 📚 docs: update README with setup steps
 0468. 📚 docs: update README with setup steps
 0547. 📚 docs: write FAQ section
+0930. 🎨 style: apply consistent indentation
