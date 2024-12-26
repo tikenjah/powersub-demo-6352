@@ -1050,3 +1050,4 @@
 0648. ♻️ chore: bump dependencies
 0505. ♻️ chore: add GitHub actions badge
 0239. 🎨 style: standardize quote style
+0348. ✅ test: test user registration edge cases
