@@ -6192,3 +6192,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0948. 🐛 fix: fix broken CSS in mobile view
 0025. 🚀 perf: optimize database query for quiz results
+0277. 🎨 style: standardize quote style
