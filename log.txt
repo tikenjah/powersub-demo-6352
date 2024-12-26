@@ -1043,3 +1043,4 @@
 0786. ✨ feat: enable dark mode toggle
 0994. 🚀 perf: reduce image load time
 0891. ✨ feat: create admin dashboard
+0797. 📚 docs: add API usage examples
