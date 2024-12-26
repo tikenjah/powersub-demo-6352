@@ -6193,3 +6193,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0025. 🚀 perf: optimize database query for quiz results
 0277. 🎨 style: standardize quote style
+0563. 📚 docs: clarify environment setup
