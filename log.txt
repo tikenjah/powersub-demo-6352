@@ -1053,3 +1053,4 @@
 0348. ✅ test: test user registration edge cases
 0083. 🎨 style: reformat files with black
 0091. ✨ feat: add user authentication
+0189. 📚 docs: clarify environment setup
