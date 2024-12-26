@@ -1051,3 +1051,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0239. 🎨 style: standardize quote style
 0348. ✅ test: test user registration edge cases
+0083. 🎨 style: reformat files with black
