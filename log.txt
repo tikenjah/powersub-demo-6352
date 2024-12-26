@@ -1044,3 +1044,4 @@
 0994. 🚀 perf: reduce image load time
 0891. ✨ feat: create admin dashboard
 0797. 📚 docs: add API usage examples
+0313. 🎨 style: apply consistent indentation
