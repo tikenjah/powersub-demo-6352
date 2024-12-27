@@ -1060,3 +1060,4 @@
 0579. 📚 docs: clarify environment setup
 0277. 🎨 style: standardize quote style
 0797. 📚 docs: add API usage examples
+0965. 🎨 style: reformat files with black
