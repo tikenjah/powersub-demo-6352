@@ -7211,3 +7211,4 @@
 0888. 🚀 perf: lazy-load components
 0482. ✨ feat: add export to CSV option
 0319. 🐛 fix: handle 500 error in quiz API
+0419. 🎨 style: remove trailing whitespace
