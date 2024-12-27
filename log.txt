@@ -5187,3 +5187,4 @@
 0915. 🚀 perf: cache repeated calculations
 0985. 📚 docs: document token refresh logic
 0778. 📚 docs: write FAQ section
+0187. ✨ feat: support email verification
