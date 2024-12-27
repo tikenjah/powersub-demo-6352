@@ -1066,3 +1066,4 @@
 0333. 🚀 perf: cache repeated calculations
 0939. 📚 docs: update README with setup steps
 0698. 🐛 fix: handle 500 error in quiz API
+0933. 📚 docs: clarify environment setup
