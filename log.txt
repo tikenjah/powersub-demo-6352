@@ -1065,3 +1065,4 @@
 0593. 🐛 fix: correct typo in registration form
 0333. 🚀 perf: cache repeated calculations
 0939. 📚 docs: update README with setup steps
+0698. 🐛 fix: handle 500 error in quiz API
