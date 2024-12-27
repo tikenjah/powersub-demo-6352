@@ -10214,3 +10214,4 @@
 0864. 🐛 fix: correct typo in registration form
 0717. 🔧 refactor: refactor quiz grading logic
 0220. 🐛 fix: fix null pointer exception on login
+0753. 🔧 refactor: remove redundant code blocks
