@@ -1059,3 +1059,4 @@
 0116. ✨ feat: support email verification
 0579. 📚 docs: clarify environment setup
 0277. 🎨 style: standardize quote style
+0797. 📚 docs: add API usage examples
