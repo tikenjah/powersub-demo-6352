@@ -1058,3 +1058,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0116. ✨ feat: support email verification
 0579. 📚 docs: clarify environment setup
+0277. 🎨 style: standardize quote style
