@@ -1061,3 +1061,4 @@
 0277. 🎨 style: standardize quote style
 0797. 📚 docs: add API usage examples
 0965. 🎨 style: reformat files with black
+0372. ✨ feat: add user authentication
