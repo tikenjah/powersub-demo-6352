@@ -1069,3 +1069,4 @@
 0933. 📚 docs: clarify environment setup
 0752. ✅ test: add integration test for /submit endpoint
 0169. 📚 docs: add API usage examples
+0747. 🔧 refactor: clean up auth middleware
