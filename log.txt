@@ -6196,3 +6196,4 @@
 0563. 📚 docs: clarify environment setup
 0734. ✨ feat: add export to CSV option
 0266. 🔧 refactor: remove redundant code blocks
+0313. 🎨 style: apply consistent indentation
