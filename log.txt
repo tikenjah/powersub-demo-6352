@@ -6195,3 +6195,4 @@
 0277. 🎨 style: standardize quote style
 0563. 📚 docs: clarify environment setup
 0734. ✨ feat: add export to CSV option
+0266. 🔧 refactor: remove redundant code blocks
