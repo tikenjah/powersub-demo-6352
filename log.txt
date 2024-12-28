@@ -9210,3 +9210,4 @@
 0695. ✨ feat: create admin dashboard
 0850. ♻️ chore: rename env.example
 0848. 📚 docs: update README with setup steps
+0430. 🐛 fix: fix null pointer exception on login
