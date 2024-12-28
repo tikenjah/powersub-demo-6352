@@ -1081,3 +1081,4 @@
 0709. ♻️ chore: bump dependencies
 0592. 📚 docs: add API usage examples
 0150. 🎨 style: remove trailing whitespace
+0918. ✨ feat: enable dark mode toggle
