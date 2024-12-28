@@ -1071,3 +1071,4 @@
 0169. 📚 docs: add API usage examples
 0747. 🔧 refactor: clean up auth middleware
 0927. ♻️ chore: bump dependencies
+0392. 🎨 style: remove trailing whitespace
