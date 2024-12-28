@@ -10222,3 +10222,4 @@
 0950. 🎨 style: reformat files with black
 0879. 🎨 style: standardize quote style
 0255. 🔧 refactor: refactor quiz grading logic
+0687. 🎨 style: remove trailing whitespace
