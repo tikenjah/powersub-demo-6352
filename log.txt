@@ -7217,3 +7217,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0620. ✨ feat: implement quiz timer feature
 0905. ♻️ chore: bump dependencies
+0775. 🐛 fix: fix null pointer exception on login
