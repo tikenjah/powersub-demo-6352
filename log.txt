@@ -8208,3 +8208,4 @@
 0693. 📚 docs: add API usage examples
 0274. 🔧 refactor: refactor quiz grading logic
 0825. 🔧 refactor: split large controller into smaller functions
+0080. ✨ feat: support email verification
