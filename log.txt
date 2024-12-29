@@ -5192,3 +5192,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0097. 🐛 fix: handle 500 error in quiz API
 0956. 📚 docs: clarify environment setup
+0595. ✨ feat: enable dark mode toggle
