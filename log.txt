@@ -7221,3 +7221,4 @@
 0997. ✅ test: increase coverage on auth module
 0593. 🐛 fix: correct typo in registration form
 0189. 📚 docs: clarify environment setup
+0854. ♻️ chore: rename env.example
