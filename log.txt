@@ -8210,3 +8210,4 @@
 0825. 🔧 refactor: split large controller into smaller functions
 0080. ✨ feat: support email verification
 0828. ♻️ chore: add GitHub actions badge
+0887. 📚 docs: add API usage examples
