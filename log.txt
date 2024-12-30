@@ -6201,3 +6201,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0262. 🎨 style: remove trailing whitespace
 0912. 📚 docs: document token refresh logic
+0072. 🚀 perf: optimize database query for quiz results
