@@ -1090,3 +1090,4 @@
 0929. ✨ feat: support email verification
 0121. ✨ feat: support email verification
 0582. ✨ feat: add export to CSV option
+0429. ✨ feat: add user authentication
