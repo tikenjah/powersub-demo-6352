@@ -7219,3 +7219,4 @@
 0905. ♻️ chore: bump dependencies
 0775. 🐛 fix: fix null pointer exception on login
 0997. ✅ test: increase coverage on auth module
+0593. 🐛 fix: correct typo in registration form
