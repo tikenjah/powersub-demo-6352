@@ -9216,3 +9216,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0394. 🚀 perf: lazy-load components
 0873. 🚀 perf: cache repeated calculations
+0224. 🐛 fix: fix broken CSS in mobile view
