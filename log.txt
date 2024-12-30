@@ -9215,3 +9215,4 @@
 0715. ✨ feat: create admin dashboard
 0738. 🐛 fix: prevent crash on empty input
 0394. 🚀 perf: lazy-load components
+0873. 🚀 perf: cache repeated calculations
