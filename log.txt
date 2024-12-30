@@ -6199,3 +6199,4 @@
 0313. 🎨 style: apply consistent indentation
 0372. ✨ feat: add user authentication
 0408. ♻️ chore: add GitHub actions badge
+0262. 🎨 style: remove trailing whitespace
