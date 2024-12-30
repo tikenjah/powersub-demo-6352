@@ -1092,3 +1092,4 @@
 0582. ✨ feat: add export to CSV option
 0429. ✨ feat: add user authentication
 0204. 🎨 style: standardize quote style
+0487. 🎨 style: reformat files with black
