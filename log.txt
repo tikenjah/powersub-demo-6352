@@ -1106,3 +1106,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0021. ✨ feat: support email verification
 0032. 🎨 style: apply consistent indentation
+0096. 🐛 fix: prevent crash on empty input
