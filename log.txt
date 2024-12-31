@@ -1101,3 +1101,4 @@
 0351. ✨ feat: add export to CSV option
 0697. ♻️ chore: bump dependencies
 0736. 🐛 fix: fix null pointer exception on login
+0219. ✅ test: increase coverage on auth module
