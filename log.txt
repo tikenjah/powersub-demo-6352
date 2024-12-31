@@ -5194,3 +5194,4 @@
 0956. 📚 docs: clarify environment setup
 0595. ✨ feat: enable dark mode toggle
 0751. 🐛 fix: handle 500 error in quiz API
+0851. ✅ test: mock database connection in test suite
