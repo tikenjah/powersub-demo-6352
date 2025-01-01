@@ -1123,3 +1123,4 @@
 0349. ✅ test: increase coverage on auth module
 0640. ♻️ chore: bump dependencies
 0848. 📚 docs: update README with setup steps
+0408. ♻️ chore: add GitHub actions badge
