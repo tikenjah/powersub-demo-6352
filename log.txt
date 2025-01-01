@@ -8219,3 +8219,4 @@
 0169. 📚 docs: add API usage examples
 0821. ✅ test: add integration test for /submit endpoint
 0243. 🔧 refactor: clean up auth middleware
+0970. ♻️ chore: update .gitignore
