@@ -8217,3 +8217,4 @@
 0513. ♻️ chore: bump dependencies
 0767. 🔧 refactor: remove redundant code blocks
 0169. 📚 docs: add API usage examples
+0821. ✅ test: add integration test for /submit endpoint
