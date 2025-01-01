@@ -8216,3 +8216,4 @@
 0615. 🐛 fix: correct typo in registration form
 0513. ♻️ chore: bump dependencies
 0767. 🔧 refactor: remove redundant code blocks
+0169. 📚 docs: add API usage examples
