@@ -1127,3 +1127,4 @@
 0884. 📚 docs: clarify environment setup
 0019. ✨ feat: enable dark mode toggle
 0370. 🚀 perf: reduce image load time
+0787. ♻️ chore: rename env.example
