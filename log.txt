@@ -1122,3 +1122,4 @@
 0399. ✅ test: mock database connection in test suite
 0349. ✅ test: increase coverage on auth module
 0640. ♻️ chore: bump dependencies
+0848. 📚 docs: update README with setup steps
