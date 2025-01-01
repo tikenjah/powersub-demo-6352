@@ -10236,3 +10236,4 @@
 0765. ♻️ chore: clean up unused files
 0433. 🐛 fix: prevent crash on empty input
 0172. 📚 docs: add API usage examples
+0726. ✨ feat: enable dark mode toggle
