@@ -1125,3 +1125,4 @@
 0848. 📚 docs: update README with setup steps
 0408. ♻️ chore: add GitHub actions badge
 0884. 📚 docs: clarify environment setup
+0019. ✨ feat: enable dark mode toggle
