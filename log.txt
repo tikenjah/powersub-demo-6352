@@ -6211,3 +6211,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0872. 🎨 style: rename variables for clarity
 0721. 🚀 perf: optimize database query for quiz results
+0579. 📚 docs: clarify environment setup
