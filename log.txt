@@ -7225,3 +7225,4 @@
 0303. 🎨 style: rename variables for clarity
 0353. ♻️ chore: rename env.example
 0260. ✨ feat: create admin dashboard
+0131. 📚 docs: write FAQ section
