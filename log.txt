@@ -5203,3 +5203,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0380. 🐛 fix: fix null pointer exception on login
 0929. ✨ feat: support email verification
+0541. 🐛 fix: correct typo in registration form
