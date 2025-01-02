@@ -8222,3 +8222,4 @@
 0970. ♻️ chore: update .gitignore
 0594. 🎨 style: reformat files with black
 0835. 🐛 fix: prevent crash on empty input
+0501. ✨ feat: add export to CSV option
