@@ -6217,3 +6217,4 @@
 0846. ✨ feat: implement quiz timer feature
 0638. 📚 docs: improve code comments in utils
 0416. 🎨 style: rename variables for clarity
+0085. ✨ feat: support email verification
