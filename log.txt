@@ -7228,3 +7228,4 @@
 0131. 📚 docs: write FAQ section
 0591. ♻️ chore: clean up unused files
 0469. 🚀 perf: lazy-load components
+0294. 🐛 fix: prevent crash on empty input
