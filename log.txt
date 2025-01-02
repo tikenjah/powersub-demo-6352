@@ -5202,3 +5202,4 @@
 0275. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
 0380. 🐛 fix: fix null pointer exception on login
+0929. ✨ feat: support email verification
