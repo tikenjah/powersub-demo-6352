@@ -1130,3 +1130,4 @@
 0787. ♻️ chore: rename env.example
 0618. ✨ feat: support email verification
 0197. 📚 docs: update README with setup steps
+0503. ♻️ chore: rename env.example
