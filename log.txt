@@ -1137,3 +1137,4 @@
 0080. ✨ feat: support email verification
 0870. ♻️ chore: clean up unused files
 0869. ♻️ chore: bump dependencies
+0912. 📚 docs: document token refresh logic
