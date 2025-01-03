@@ -1156,3 +1156,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0931. 🚀 perf: reduce image load time
 0023. 📚 docs: clarify environment setup
+0843. 📚 docs: document token refresh logic
