@@ -1149,3 +1149,4 @@
 0312. ✨ feat: add user authentication
 0059. ♻️ chore: bump dependencies
 0223. 🔧 refactor: remove redundant code blocks
+0641. 📚 docs: write FAQ section
