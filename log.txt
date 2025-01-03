@@ -1157,3 +1157,4 @@
 0931. 🚀 perf: reduce image load time
 0023. 📚 docs: clarify environment setup
 0843. 📚 docs: document token refresh logic
+0059. ♻️ chore: bump dependencies
