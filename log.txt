@@ -9224,3 +9224,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0362. 📚 docs: add API usage examples
 0828. ♻️ chore: add GitHub actions badge
+0157. ✅ test: mock database connection in test suite
