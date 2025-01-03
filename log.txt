@@ -9223,3 +9223,4 @@
 0056. ♻️ chore: rename env.example
 0127. 🐛 fix: fix null pointer exception on login
 0362. 📚 docs: add API usage examples
+0828. ♻️ chore: add GitHub actions badge
