@@ -8224,3 +8224,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0501. ✨ feat: add export to CSV option
 0231. 🔧 refactor: clean up auth middleware
+0514. 🐛 fix: fix broken CSS in mobile view
