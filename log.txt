@@ -1170,3 +1170,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0921. 🐛 fix: correct typo in registration form
 0663. 🚀 perf: reduce image load time
+0629. 🔧 refactor: organize models into subfolders
