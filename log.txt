@@ -1175,3 +1175,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0652. 🔧 refactor: organize models into subfolders
 0240. 🔧 refactor: remove redundant code blocks
+0600. 🐛 fix: prevent crash on empty input
