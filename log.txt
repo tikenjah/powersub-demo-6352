@@ -1160,3 +1160,4 @@
 0059. ♻️ chore: bump dependencies
 0145. 📚 docs: improve code comments in utils
 0695. ✨ feat: create admin dashboard
+0533. ♻️ chore: add GitHub actions badge
