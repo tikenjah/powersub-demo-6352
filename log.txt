@@ -1186,3 +1186,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0516. ✅ test: add unit test for quiz service
 0095. ✅ test: mock database connection in test suite
+0201. 🔧 refactor: clean up auth middleware
