@@ -6220,3 +6220,4 @@
 0085. ✨ feat: support email verification
 0186. ✅ test: test user registration edge cases
 0226. 🚀 perf: lazy-load components
+0849. 🐛 fix: correct typo in registration form
