@@ -8226,3 +8226,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0514. 🐛 fix: fix broken CSS in mobile view
 0869. ♻️ chore: bump dependencies
+0094. 📚 docs: document token refresh logic
