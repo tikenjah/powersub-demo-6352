@@ -5211,3 +5211,4 @@
 0697. ♻️ chore: bump dependencies
 0784. ♻️ chore: clean up unused files
 0989. 📚 docs: write FAQ section
+0246. ✅ test: add integration test for /submit endpoint
