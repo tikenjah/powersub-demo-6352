@@ -1185,3 +1185,4 @@
 0730. ✅ test: test user registration edge cases
 0020. ✅ test: add integration test for /submit endpoint
 0516. ✅ test: add unit test for quiz service
+0095. ✅ test: mock database connection in test suite
