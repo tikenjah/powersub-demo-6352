@@ -1179,3 +1179,4 @@
 0491. 🚀 perf: lazy-load components
 0282. 🔧 refactor: remove redundant code blocks
 0908. ♻️ chore: bump dependencies
+0108. 🎨 style: remove trailing whitespace
