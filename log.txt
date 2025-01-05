@@ -1183,3 +1183,4 @@
 0954. 🚀 perf: cache repeated calculations
 0277. 🎨 style: standardize quote style
 0730. ✅ test: test user registration edge cases
+0020. ✅ test: add integration test for /submit endpoint
