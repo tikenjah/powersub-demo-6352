@@ -9227,3 +9227,4 @@
 0157. ✅ test: mock database connection in test suite
 0684. 🚀 perf: reduce image load time
 0264. 🚀 perf: optimize database query for quiz results
+0170. ✅ test: increase coverage on auth module
