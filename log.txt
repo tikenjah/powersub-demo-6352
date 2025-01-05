@@ -1191,3 +1191,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0645. 🐛 fix: resolve issue with date parsing
 0877. 🚀 perf: optimize database query for quiz results
+0428. 🐛 fix: fix null pointer exception on login
