@@ -9231,3 +9231,4 @@
 0618. ✨ feat: support email verification
 0286. ✅ test: mock database connection in test suite
 0508. ✅ test: add unit test for quiz service
+0876. ♻️ chore: rename env.example
