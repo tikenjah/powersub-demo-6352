@@ -9230,3 +9230,4 @@
 0170. ✅ test: increase coverage on auth module
 0618. ✨ feat: support email verification
 0286. ✅ test: mock database connection in test suite
+0508. ✅ test: add unit test for quiz service
