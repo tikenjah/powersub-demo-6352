@@ -1193,3 +1193,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0428. 🐛 fix: fix null pointer exception on login
 0553. 🐛 fix: correct typo in registration form
+0579. 📚 docs: clarify environment setup
