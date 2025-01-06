@@ -5215,3 +5215,4 @@
 0468. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
 0152. ✨ feat: add user authentication
+0512. 🚀 perf: reduce image load time
