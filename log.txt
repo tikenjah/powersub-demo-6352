@@ -1194,3 +1194,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0553. 🐛 fix: correct typo in registration form
 0579. 📚 docs: clarify environment setup
+0549. ✨ feat: enable dark mode toggle
