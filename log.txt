@@ -5214,3 +5214,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0468. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
+0152. ✨ feat: add user authentication
