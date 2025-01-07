@@ -1221,3 +1221,4 @@
 0525. ✅ test: mock database connection in test suite
 0741. 🎨 style: apply consistent indentation
 0267. 📚 docs: improve code comments in utils
+0055. 📚 docs: update README with setup steps
