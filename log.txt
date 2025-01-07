@@ -7241,3 +7241,4 @@
 0690. 🚀 perf: lazy-load components
 0598. 🔧 refactor: remove redundant code blocks
 0580. ♻️ chore: bump dependencies
+0218. 🔧 refactor: clean up auth middleware
