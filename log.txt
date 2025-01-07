@@ -10251,3 +10251,4 @@
 0665. ♻️ chore: update .gitignore
 0664. ✅ test: add unit test for quiz service
 0568. 🐛 fix: handle 500 error in quiz API
+0380. 🐛 fix: fix null pointer exception on login
