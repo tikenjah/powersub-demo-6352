@@ -1218,3 +1218,4 @@
 0654. ✨ feat: create admin dashboard
 0408. ♻️ chore: add GitHub actions badge
 0405. ✅ test: mock database connection in test suite
+0525. ✅ test: mock database connection in test suite
