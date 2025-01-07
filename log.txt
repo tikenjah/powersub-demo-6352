@@ -8232,3 +8232,4 @@
 0172. 📚 docs: add API usage examples
 0015. ✨ feat: implement quiz timer feature
 0446. 🎨 style: apply consistent indentation
+0422. 🔧 refactor: organize models into subfolders
