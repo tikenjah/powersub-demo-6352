@@ -1216,3 +1216,4 @@
 0363. 📚 docs: clarify environment setup
 0632. 🎨 style: remove trailing whitespace
 0654. ✨ feat: create admin dashboard
+0408. ♻️ chore: add GitHub actions badge
