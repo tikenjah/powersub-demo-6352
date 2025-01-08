@@ -1233,3 +1233,4 @@
 0251. ♻️ chore: update .gitignore
 0791. 🔧 refactor: clean up auth middleware
 0405. ✅ test: mock database connection in test suite
+0562. 🔧 refactor: clean up auth middleware
