@@ -7243,3 +7243,4 @@
 0580. ♻️ chore: bump dependencies
 0218. 🔧 refactor: clean up auth middleware
 0245. 🐛 fix: resolve issue with date parsing
+0461. ✨ feat: add user authentication
