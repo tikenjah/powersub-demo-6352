@@ -9234,3 +9234,4 @@
 0876. ♻️ chore: rename env.example
 0861. ♻️ chore: clean up unused files
 0774. 🔧 refactor: refactor quiz grading logic
+0312. ✨ feat: add user authentication
