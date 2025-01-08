@@ -8235,3 +8235,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0935. 📚 docs: update README with setup steps
 0132. ✅ test: add unit test for quiz service
+0929. ✨ feat: support email verification
