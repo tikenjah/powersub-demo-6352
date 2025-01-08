@@ -1226,3 +1226,4 @@
 0349. ✅ test: increase coverage on auth module
 0598. 🔧 refactor: remove redundant code blocks
 0152. ✨ feat: add user authentication
+0893. 🐛 fix: handle 500 error in quiz API
