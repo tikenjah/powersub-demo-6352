@@ -1231,3 +1231,4 @@
 0465. 🎨 style: rename variables for clarity
 0001. 🚀 perf: cache repeated calculations
 0251. ♻️ chore: update .gitignore
+0791. 🔧 refactor: clean up auth middleware
