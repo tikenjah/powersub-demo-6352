@@ -1227,3 +1227,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0152. ✨ feat: add user authentication
 0893. 🐛 fix: handle 500 error in quiz API
+0932. ✅ test: add integration test for /submit endpoint
