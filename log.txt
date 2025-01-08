@@ -5221,3 +5221,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0819. 🚀 perf: reduce image load time
 0161. ✨ feat: create admin dashboard
+0430. 🐛 fix: fix null pointer exception on login
