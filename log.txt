@@ -1228,3 +1228,4 @@
 0152. ✨ feat: add user authentication
 0893. 🐛 fix: handle 500 error in quiz API
 0932. ✅ test: add integration test for /submit endpoint
+0465. 🎨 style: rename variables for clarity
