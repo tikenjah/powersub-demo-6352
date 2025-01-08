@@ -10256,3 +10256,4 @@
 0177. 📚 docs: add API usage examples
 0037. 🐛 fix: correct typo in registration form
 0103. 🔧 refactor: remove redundant code blocks
+0336. ✨ feat: add export to CSV option
