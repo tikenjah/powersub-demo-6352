@@ -6231,3 +6231,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0422. 🔧 refactor: organize models into subfolders
 0443. 🎨 style: standardize quote style
+0583. ✅ test: increase coverage on auth module
