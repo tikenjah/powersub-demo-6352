@@ -7249,3 +7249,4 @@
 0570. 🎨 style: apply consistent indentation
 0833. ✨ feat: add user authentication
 0588. 🔧 refactor: organize models into subfolders
+0296. 🔧 refactor: organize models into subfolders
