@@ -10261,3 +10261,4 @@
 0035. ✅ test: increase coverage on auth module
 0635. 🎨 style: apply consistent indentation
 0256. ✅ test: mock database connection in test suite
+0871. ✅ test: add integration test for /submit endpoint
