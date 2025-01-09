@@ -1240,3 +1240,4 @@
 0688. 🚀 perf: reduce image load time
 0659. 📚 docs: add API usage examples
 0495. 🔧 refactor: remove redundant code blocks
+0198. 📚 docs: clarify environment setup
