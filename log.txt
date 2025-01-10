@@ -10263,3 +10263,4 @@
 0256. ✅ test: mock database connection in test suite
 0871. ✅ test: add integration test for /submit endpoint
 0911. ✅ test: increase coverage on auth module
+0035. ✅ test: increase coverage on auth module
