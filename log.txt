@@ -9247,3 +9247,4 @@
 0427. ✅ test: mock database connection in test suite
 0399. ✅ test: mock database connection in test suite
 0108. 🎨 style: remove trailing whitespace
+0298. ♻️ chore: update .gitignore
