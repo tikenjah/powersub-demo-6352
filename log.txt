@@ -7255,3 +7255,4 @@
 0087. ✨ feat: add export to CSV option
 0121. ✨ feat: support email verification
 0150. 🎨 style: remove trailing whitespace
+0023. 📚 docs: clarify environment setup
