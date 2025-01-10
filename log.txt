@@ -9250,3 +9250,4 @@
 0298. ♻️ chore: update .gitignore
 0172. 📚 docs: add API usage examples
 0527. 🎨 style: remove trailing whitespace
+0949. 📚 docs: write FAQ section
