@@ -1248,3 +1248,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0244. ✨ feat: add export to CSV option
 0707. 🎨 style: apply consistent indentation
+0154. 🐛 fix: prevent crash on empty input
