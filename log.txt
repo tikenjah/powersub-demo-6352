@@ -1245,3 +1245,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0631. ✨ feat: create admin dashboard
 0485. 📚 docs: update README with setup steps
+0874. 🔧 refactor: split large controller into smaller functions
