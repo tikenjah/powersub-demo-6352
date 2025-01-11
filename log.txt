@@ -6234,3 +6234,4 @@
 0583. ✅ test: increase coverage on auth module
 0745. ✅ test: add unit test for quiz service
 0788. 📚 docs: add API usage examples
+0450. 🐛 fix: fix broken CSS in mobile view
