@@ -10271,3 +10271,4 @@
 0624. ✅ test: add unit test for quiz service
 0275. 🎨 style: standardize quote style
 0463. 🚀 perf: reduce image load time
+0900. 🐛 fix: handle 500 error in quiz API
