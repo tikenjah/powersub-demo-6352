@@ -10272,3 +10272,4 @@
 0275. 🎨 style: standardize quote style
 0463. 🚀 perf: reduce image load time
 0900. 🐛 fix: handle 500 error in quiz API
+0021. ✨ feat: support email verification
