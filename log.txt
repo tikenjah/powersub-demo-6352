@@ -1264,3 +1264,4 @@
 0764. ✨ feat: add user authentication
 0042. 📚 docs: document token refresh logic
 0377. ✨ feat: add user authentication
+0826. 📚 docs: clarify environment setup
