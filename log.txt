@@ -1265,3 +1265,4 @@
 0042. 📚 docs: document token refresh logic
 0377. ✨ feat: add user authentication
 0826. 📚 docs: clarify environment setup
+0896. 🚀 perf: reduce image load time
