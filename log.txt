@@ -7258,3 +7258,4 @@
 0023. 📚 docs: clarify environment setup
 0386. 🚀 perf: optimize database query for quiz results
 0966. 📚 docs: improve code comments in utils
+0615. 🐛 fix: correct typo in registration form
