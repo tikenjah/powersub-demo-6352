@@ -1266,3 +1266,4 @@
 0377. ✨ feat: add user authentication
 0826. 📚 docs: clarify environment setup
 0896. 🚀 perf: reduce image load time
+0662. ♻️ chore: clean up unused files
