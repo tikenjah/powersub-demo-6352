@@ -8242,3 +8242,4 @@
 0529. 📚 docs: write FAQ section
 0644. 🎨 style: apply consistent indentation
 0667. ✨ feat: add export to CSV option
+0364. 🐛 fix: resolve issue with date parsing
