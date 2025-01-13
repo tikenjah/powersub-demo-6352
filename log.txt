@@ -1284,3 +1284,4 @@
 0549. ✨ feat: enable dark mode toggle
 0774. 🔧 refactor: refactor quiz grading logic
 0376. 🎨 style: apply consistent indentation
+0320. 📚 docs: update README with setup steps
