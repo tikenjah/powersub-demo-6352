@@ -8244,3 +8244,4 @@
 0667. ✨ feat: add export to CSV option
 0364. 🐛 fix: resolve issue with date parsing
 0109. 🚀 perf: lazy-load components
+0050. ✨ feat: enable dark mode toggle
