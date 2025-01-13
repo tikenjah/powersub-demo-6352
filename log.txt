@@ -1276,3 +1276,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0657. 🎨 style: standardize quote style
 0962. ✨ feat: create admin dashboard
+0749. ✨ feat: support email verification
