@@ -1281,3 +1281,4 @@
 0398. 🚀 perf: cache repeated calculations
 0684. 🚀 perf: reduce image load time
 0383. 🐛 fix: fix broken CSS in mobile view
+0549. ✨ feat: enable dark mode toggle
