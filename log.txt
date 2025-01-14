@@ -9258,3 +9258,4 @@
 0663. 🚀 perf: reduce image load time
 0135. ✅ test: test user registration edge cases
 0256. ✅ test: mock database connection in test suite
+0957. 🐛 fix: fix null pointer exception on login
