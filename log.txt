@@ -1285,3 +1285,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0376. 🎨 style: apply consistent indentation
 0320. 📚 docs: update README with setup steps
+0338. ♻️ chore: add GitHub actions badge
