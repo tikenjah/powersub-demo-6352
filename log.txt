@@ -1291,3 +1291,4 @@
 0159. 🚀 perf: lazy-load components
 0332. 🎨 style: standardize quote style
 0511. 🐛 fix: fix broken CSS in mobile view
+0757. 🔧 refactor: remove redundant code blocks
