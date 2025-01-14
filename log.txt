@@ -1288,3 +1288,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0804. ♻️ chore: add GitHub actions badge
 0760. 🐛 fix: resolve issue with date parsing
+0159. 🚀 perf: lazy-load components
