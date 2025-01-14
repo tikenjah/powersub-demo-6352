@@ -10281,3 +10281,4 @@
 0715. ✨ feat: create admin dashboard
 0011. ✅ test: add unit test for quiz service
 0364. 🐛 fix: resolve issue with date parsing
+0565. ♻️ chore: add GitHub actions badge
