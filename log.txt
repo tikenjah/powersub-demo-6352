@@ -1289,3 +1289,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0760. 🐛 fix: resolve issue with date parsing
 0159. 🚀 perf: lazy-load components
+0332. 🎨 style: standardize quote style
