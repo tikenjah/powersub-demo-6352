@@ -6245,3 +6245,4 @@
 0259. 🚀 perf: lazy-load components
 0591. ♻️ chore: clean up unused files
 0938. 🎨 style: rename variables for clarity
+0335. ♻️ chore: update .gitignore
