@@ -1302,3 +1302,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0058. ♻️ chore: add GitHub actions badge
 0704. 🚀 perf: cache repeated calculations
+0918. ✨ feat: enable dark mode toggle
