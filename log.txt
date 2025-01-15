@@ -10283,3 +10283,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0565. ♻️ chore: add GitHub actions badge
 0153. ♻️ chore: rename env.example
+0507. 🔧 refactor: clean up auth middleware
