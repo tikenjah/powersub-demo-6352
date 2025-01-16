@@ -1318,3 +1318,4 @@
 0660. 🐛 fix: correct typo in registration form
 0858. ♻️ chore: clean up unused files
 0406. ✨ feat: add export to CSV option
+0545. 🎨 style: standardize quote style
