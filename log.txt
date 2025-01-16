@@ -1323,3 +1323,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0401. 🚀 perf: reduce image load time
 0771. 🚀 perf: cache repeated calculations
+0249. ✅ test: increase coverage on auth module
