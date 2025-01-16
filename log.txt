@@ -8249,3 +8249,4 @@
 0260. ✨ feat: create admin dashboard
 0567. 📚 docs: add API usage examples
 0861. ♻️ chore: clean up unused files
+0778. 📚 docs: write FAQ section
