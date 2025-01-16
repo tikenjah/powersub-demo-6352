@@ -6249,3 +6249,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0804. ♻️ chore: add GitHub actions badge
 0381. ♻️ chore: clean up unused files
+0670. ✨ feat: add export to CSV option
