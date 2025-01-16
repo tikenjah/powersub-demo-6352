@@ -9265,3 +9265,4 @@
 0172. 📚 docs: add API usage examples
 0881. 🔧 refactor: split large controller into smaller functions
 0174. 📚 docs: clarify environment setup
+0574. ✨ feat: enable dark mode toggle
