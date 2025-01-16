@@ -7263,3 +7263,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0746. ♻️ chore: add GitHub actions badge
 0620. ✨ feat: implement quiz timer feature
+0463. 🚀 perf: reduce image load time
