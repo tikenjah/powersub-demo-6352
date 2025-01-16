@@ -1316,3 +1316,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0546. 🐛 fix: fix null pointer exception on login
 0660. 🐛 fix: correct typo in registration form
+0858. ♻️ chore: clean up unused files
