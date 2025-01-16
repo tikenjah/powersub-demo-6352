@@ -8247,3 +8247,4 @@
 0050. ✨ feat: enable dark mode toggle
 0373. 📚 docs: document token refresh logic
 0260. ✨ feat: create admin dashboard
+0567. 📚 docs: add API usage examples
