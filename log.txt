@@ -1324,3 +1324,4 @@
 0401. 🚀 perf: reduce image load time
 0771. 🚀 perf: cache repeated calculations
 0249. ✅ test: increase coverage on auth module
+0107. 🐛 fix: prevent crash on empty input
