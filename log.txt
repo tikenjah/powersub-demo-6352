@@ -9268,3 +9268,4 @@
 0574. ✨ feat: enable dark mode toggle
 0939. 📚 docs: update README with setup steps
 0648. ♻️ chore: bump dependencies
+0954. 🚀 perf: cache repeated calculations
