@@ -5243,3 +5243,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0834. ✅ test: increase coverage on auth module
 0140. 🐛 fix: handle 500 error in quiz API
+0308. 🚀 perf: reduce image load time
