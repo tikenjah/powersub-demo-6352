@@ -1327,3 +1327,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0750. 🎨 style: apply consistent indentation
 0007. 🎨 style: rename variables for clarity
+0440. 📚 docs: update README with setup steps
