@@ -7269,3 +7269,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0911. ✅ test: increase coverage on auth module
 0881. 🔧 refactor: split large controller into smaller functions
+0090. ✅ test: increase coverage on auth module
