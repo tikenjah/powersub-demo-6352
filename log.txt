@@ -10291,3 +10291,4 @@
 0187. ✨ feat: support email verification
 0074. ♻️ chore: add GitHub actions badge
 0220. 🐛 fix: fix null pointer exception on login
+0294. 🐛 fix: prevent crash on empty input
