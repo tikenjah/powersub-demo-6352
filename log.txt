@@ -1340,3 +1340,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0415. 🐛 fix: handle 500 error in quiz API
 0330. ✅ test: test user registration edge cases
+0375. 🐛 fix: handle 500 error in quiz API
