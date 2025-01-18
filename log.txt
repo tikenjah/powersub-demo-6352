@@ -1338,3 +1338,4 @@
 0574. ✨ feat: enable dark mode toggle
 0339. 📚 docs: update README with setup steps
 0299. 🐛 fix: resolve issue with date parsing
+0415. 🐛 fix: handle 500 error in quiz API
