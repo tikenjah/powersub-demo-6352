@@ -1342,3 +1342,4 @@
 0330. ✅ test: test user registration edge cases
 0375. 🐛 fix: handle 500 error in quiz API
 0263. 📚 docs: add API usage examples
+0257. 📚 docs: clarify environment setup
