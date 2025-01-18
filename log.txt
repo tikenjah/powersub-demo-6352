@@ -8257,3 +8257,4 @@
 0337. 📚 docs: document token refresh logic
 0510. 🎨 style: rename variables for clarity
 0306. 🎨 style: apply consistent indentation
+0312. ✨ feat: add user authentication
