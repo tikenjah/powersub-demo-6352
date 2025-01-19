@@ -1348,3 +1348,4 @@
 0244. ✨ feat: add export to CSV option
 0899. 🚀 perf: cache repeated calculations
 0905. ♻️ chore: bump dependencies
+0830. 🎨 style: apply consistent indentation
