@@ -1360,3 +1360,4 @@
 0341. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
 0121. ✨ feat: support email verification
+0336. ✨ feat: add export to CSV option
