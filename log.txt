@@ -7277,3 +7277,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0459. 🔧 refactor: organize models into subfolders
 0571. 🔧 refactor: clean up auth middleware
+0345. 📚 docs: document token refresh logic
