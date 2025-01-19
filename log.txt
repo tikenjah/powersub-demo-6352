@@ -1357,3 +1357,4 @@
 0665. ♻️ chore: update .gitignore
 0840. 🔧 refactor: refactor quiz grading logic
 0318. 🔧 refactor: refactor quiz grading logic
+0341. 🚀 perf: lazy-load components
