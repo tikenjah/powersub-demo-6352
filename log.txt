@@ -1370,3 +1370,4 @@
 0543. ✨ feat: support email verification
 0685. ✅ test: test user registration edge cases
 0134. ✨ feat: implement quiz timer feature
+0484. 🐛 fix: handle 500 error in quiz API
