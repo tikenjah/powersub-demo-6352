@@ -1359,3 +1359,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0341. 🚀 perf: lazy-load components
 0077. ♻️ chore: rename env.example
+0121. ✨ feat: support email verification
