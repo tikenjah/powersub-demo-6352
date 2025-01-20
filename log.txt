@@ -1377,3 +1377,4 @@
 0441. 📚 docs: add API usage examples
 0428. 🐛 fix: fix null pointer exception on login
 0345. 📚 docs: document token refresh logic
+0977. 🔧 refactor: organize models into subfolders
