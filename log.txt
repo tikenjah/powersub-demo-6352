@@ -5249,3 +5249,4 @@
 0232. 🎨 style: apply consistent indentation
 0396. 🔧 refactor: split large controller into smaller functions
 0336. ✨ feat: add export to CSV option
+0678. ✨ feat: add user authentication
