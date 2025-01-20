@@ -1384,3 +1384,4 @@
 0636. ✅ test: increase coverage on auth module
 0282. 🔧 refactor: remove redundant code blocks
 0298. ♻️ chore: update .gitignore
+0160. ♻️ chore: bump dependencies
