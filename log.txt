@@ -10297,3 +10297,4 @@
 0059. ♻️ chore: bump dependencies
 0899. 🚀 perf: cache repeated calculations
 0040. 🔧 refactor: clean up auth middleware
+0933. 📚 docs: clarify environment setup
