@@ -8260,3 +8260,4 @@
 0312. ✨ feat: add user authentication
 0792. 🎨 style: standardize quote style
 0468. 📚 docs: update README with setup steps
+0647. 🐛 fix: prevent crash on empty input
