@@ -6260,3 +6260,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0053. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
+0811. 🎨 style: reformat files with black
