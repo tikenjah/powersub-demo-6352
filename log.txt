@@ -1385,3 +1385,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0298. ♻️ chore: update .gitignore
 0160. ♻️ chore: bump dependencies
+0330. ✅ test: test user registration edge cases
