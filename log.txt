@@ -5252,3 +5252,4 @@
 0678. ✨ feat: add user authentication
 0576. ♻️ chore: update .gitignore
 0357. ✅ test: add unit test for quiz service
+0330. ✅ test: test user registration edge cases
