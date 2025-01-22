@@ -5254,3 +5254,4 @@
 0357. ✅ test: add unit test for quiz service
 0330. ✅ test: test user registration edge cases
 0078. ♻️ chore: update .gitignore
+0196. ♻️ chore: bump dependencies
