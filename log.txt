@@ -1410,3 +1410,4 @@
 0769. ✨ feat: create admin dashboard
 0266. 🔧 refactor: remove redundant code blocks
 0517. ✅ test: mock database connection in test suite
+0362. 📚 docs: add API usage examples
