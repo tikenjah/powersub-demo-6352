@@ -10312,3 +10312,4 @@
 0059. ♻️ chore: bump dependencies
 0318. 🔧 refactor: refactor quiz grading logic
 0691. 🎨 style: rename variables for clarity
+0819. 🚀 perf: reduce image load time
