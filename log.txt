@@ -7290,3 +7290,4 @@
 0104. 🎨 style: apply consistent indentation
 0357. ✅ test: add unit test for quiz service
 0370. 🚀 perf: reduce image load time
+0204. 🎨 style: standardize quote style
