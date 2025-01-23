@@ -10313,3 +10313,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0691. 🎨 style: rename variables for clarity
 0819. 🚀 perf: reduce image load time
+0603. 🐛 fix: fix broken CSS in mobile view
