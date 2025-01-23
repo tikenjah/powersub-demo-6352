@@ -6266,3 +6266,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0319. 🐛 fix: handle 500 error in quiz API
 0708. ✅ test: add integration test for /submit endpoint
+0116. ✨ feat: support email verification
