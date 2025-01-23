@@ -10316,3 +10316,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0139. 📚 docs: document token refresh logic
 0423. ✅ test: mock database connection in test suite
+0294. 🐛 fix: prevent crash on empty input
