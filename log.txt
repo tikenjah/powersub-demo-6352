@@ -8264,3 +8264,4 @@
 0849. 🐛 fix: correct typo in registration form
 0763. 🔧 refactor: organize models into subfolders
 0692. ✅ test: add integration test for /submit endpoint
+0621. 🔧 refactor: clean up auth middleware
