@@ -7293,3 +7293,4 @@
 0204. 🎨 style: standardize quote style
 0282. 🔧 refactor: remove redundant code blocks
 0391. 🐛 fix: fix null pointer exception on login
+0876. ♻️ chore: rename env.example
