@@ -1421,3 +1421,4 @@
 0028. 🎨 style: standardize quote style
 0385. ♻️ chore: clean up unused files
 0937. 🐛 fix: handle 500 error in quiz API
+0609. 🐛 fix: handle 500 error in quiz API
