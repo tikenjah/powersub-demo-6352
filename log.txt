@@ -1429,3 +1429,4 @@
 0834. ✅ test: increase coverage on auth module
 1000. ✅ test: increase coverage on auth module
 0307. ✨ feat: support email verification
+0223. 🔧 refactor: remove redundant code blocks
