@@ -1436,3 +1436,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0787. ♻️ chore: rename env.example
 0995. ✅ test: mock database connection in test suite
+0740. 🐛 fix: resolve issue with date parsing
