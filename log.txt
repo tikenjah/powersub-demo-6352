@@ -1440,3 +1440,4 @@
 0015. ✨ feat: implement quiz timer feature
 0371. ✅ test: add integration test for /submit endpoint
 0144. ✅ test: increase coverage on auth module
+0540. ♻️ chore: add GitHub actions badge
