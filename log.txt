@@ -5258,3 +5258,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0574. ✨ feat: enable dark mode toggle
 0042. 📚 docs: document token refresh logic
+0801. ✨ feat: enable dark mode toggle
