@@ -1453,3 +1453,4 @@
 0456. 🚀 perf: optimize database query for quiz results
 0007. 🎨 style: rename variables for clarity
 0237. 🎨 style: standardize quote style
+0427. ✅ test: mock database connection in test suite
