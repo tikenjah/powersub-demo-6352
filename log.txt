@@ -1447,3 +1447,4 @@
 0502. 📚 docs: update README with setup steps
 0164. 📚 docs: document token refresh logic
 0458. ✨ feat: create admin dashboard
+0048. 📚 docs: update README with setup steps
