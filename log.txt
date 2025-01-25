@@ -10320,3 +10320,4 @@
 0885. ♻️ chore: update .gitignore
 0253. 📚 docs: update README with setup steps
 0321. 🔧 refactor: organize models into subfolders
+0429. ✨ feat: add user authentication
