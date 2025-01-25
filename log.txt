@@ -8268,3 +8268,4 @@
 0194. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
 0697. ♻️ chore: bump dependencies
+0805. ♻️ chore: add GitHub actions badge
