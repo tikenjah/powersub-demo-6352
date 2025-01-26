@@ -1461,3 +1461,4 @@
 0720. ✨ feat: add export to CSV option
 0461. ✨ feat: add user authentication
 0992. ♻️ chore: clean up unused files
+0738. 🐛 fix: prevent crash on empty input
