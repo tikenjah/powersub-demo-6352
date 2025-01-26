@@ -10325,3 +10325,4 @@
 0585. 🚀 perf: lazy-load components
 0188. 🎨 style: apply consistent indentation
 0412. ✅ test: increase coverage on auth module
+0703. 🔧 refactor: clean up auth middleware
