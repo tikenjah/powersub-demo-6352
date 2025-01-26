@@ -5263,3 +5263,4 @@
 0393. 🚀 perf: lazy-load components
 0102. ✨ feat: support email verification
 0865. ♻️ chore: add GitHub actions badge
+0854. ♻️ chore: rename env.example
