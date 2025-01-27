@@ -9296,3 +9296,4 @@
 0390. 🎨 style: standardize quote style
 0469. 🚀 perf: lazy-load components
 0656. 🎨 style: apply consistent indentation
+0378. 🐛 fix: prevent crash on empty input
