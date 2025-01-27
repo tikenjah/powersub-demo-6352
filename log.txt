@@ -6271,3 +6271,4 @@
 0963. 🚀 perf: reduce image load time
 0688. 🚀 perf: reduce image load time
 0623. 🎨 style: standardize quote style
+0556. ✨ feat: support email verification
