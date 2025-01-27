@@ -1468,3 +1468,4 @@
 0564. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
 0852. ✨ feat: enable dark mode toggle
+0433. 🐛 fix: prevent crash on empty input
