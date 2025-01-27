@@ -7297,3 +7297,4 @@
 0013. ✅ test: increase coverage on auth module
 0687. 🎨 style: remove trailing whitespace
 0187. ✨ feat: support email verification
+0778. 📚 docs: write FAQ section
