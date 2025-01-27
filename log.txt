@@ -1482,3 +1482,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0811. 🎨 style: reformat files with black
 0337. 📚 docs: document token refresh logic
+0256. ✅ test: mock database connection in test suite
