@@ -7296,3 +7296,4 @@
 0876. ♻️ chore: rename env.example
 0013. ✅ test: increase coverage on auth module
 0687. 🎨 style: remove trailing whitespace
+0187. ✨ feat: support email verification
