@@ -1467,3 +1467,4 @@
 0508. ✅ test: add unit test for quiz service
 0564. 📚 docs: clarify environment setup
 0387. ✨ feat: enable dark mode toggle
+0852. ✨ feat: enable dark mode toggle
