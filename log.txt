@@ -9300,3 +9300,4 @@
 0461. ✨ feat: add user authentication
 0566. 📚 docs: write FAQ section
 0650. ✅ test: add unit test for quiz service
+0829. 🔧 refactor: organize models into subfolders
