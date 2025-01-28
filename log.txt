@@ -1489,3 +1489,4 @@
 0021. ✨ feat: support email verification
 0421. 🔧 refactor: split large controller into smaller functions
 0767. 🔧 refactor: remove redundant code blocks
+0760. 🐛 fix: resolve issue with date parsing
