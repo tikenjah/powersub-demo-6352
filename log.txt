@@ -6277,3 +6277,4 @@
 0770. ♻️ chore: rename env.example
 0738. 🐛 fix: prevent crash on empty input
 0099. 🚀 perf: reduce image load time
+0603. 🐛 fix: fix broken CSS in mobile view
