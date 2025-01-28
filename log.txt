@@ -7298,3 +7298,4 @@
 0687. 🎨 style: remove trailing whitespace
 0187. ✨ feat: support email verification
 0778. 📚 docs: write FAQ section
+0424. ✨ feat: add user authentication
