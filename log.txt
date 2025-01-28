@@ -5268,3 +5268,4 @@
 0963. 🚀 perf: reduce image load time
 0928. 🎨 style: apply consistent indentation
 0863. 🐛 fix: correct typo in registration form
+0249. ✅ test: increase coverage on auth module
