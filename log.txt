@@ -1494,3 +1494,4 @@
 0358. 🚀 perf: reduce image load time
 0743. 🎨 style: apply consistent indentation
 0250. 📚 docs: update README with setup steps
+0848. 📚 docs: update README with setup steps
