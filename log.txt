@@ -1506,3 +1506,4 @@
 0044. ✅ test: add unit test for quiz service
 0198. 📚 docs: clarify environment setup
 0851. ✅ test: mock database connection in test suite
+0248. 🐛 fix: handle 500 error in quiz API
