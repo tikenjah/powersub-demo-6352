@@ -6279,3 +6279,4 @@
 0099. 🚀 perf: reduce image load time
 0603. 🐛 fix: fix broken CSS in mobile view
 0311. 🎨 style: apply consistent indentation
+0583. ✅ test: increase coverage on auth module
