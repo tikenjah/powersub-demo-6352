@@ -5270,3 +5270,4 @@
 0863. 🐛 fix: correct typo in registration form
 0249. ✅ test: increase coverage on auth module
 0580. ♻️ chore: bump dependencies
+0220. 🐛 fix: fix null pointer exception on login
