@@ -9302,3 +9302,4 @@
 0650. ✅ test: add unit test for quiz service
 0829. 🔧 refactor: organize models into subfolders
 0447. ♻️ chore: bump dependencies
+0707. 🎨 style: apply consistent indentation
