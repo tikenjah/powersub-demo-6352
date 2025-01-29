@@ -1500,3 +1500,4 @@
 0152. ✨ feat: add user authentication
 0181. ♻️ chore: add GitHub actions badge
 0644. 🎨 style: apply consistent indentation
+0979. 🎨 style: standardize quote style
