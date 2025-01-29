@@ -10330,3 +10330,4 @@
 0326. 🚀 perf: cache repeated calculations
 0814. 🔧 refactor: remove redundant code blocks
 0968. 🎨 style: standardize quote style
+0824. 🚀 perf: lazy-load components
