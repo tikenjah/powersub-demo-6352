@@ -5272,3 +5272,4 @@
 0580. ♻️ chore: bump dependencies
 0220. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
+0008. 🚀 perf: reduce image load time
