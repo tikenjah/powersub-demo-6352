@@ -1519,3 +1519,4 @@
 0656. 🎨 style: apply consistent indentation
 0122. ✨ feat: support email verification
 0682. ♻️ chore: rename env.example
+0164. 📚 docs: document token refresh logic
