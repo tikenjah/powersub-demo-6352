@@ -5274,3 +5274,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0008. 🚀 perf: reduce image load time
 0339. 📚 docs: update README with setup steps
+0457. 🐛 fix: handle 500 error in quiz API
