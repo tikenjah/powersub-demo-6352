@@ -6282,3 +6282,4 @@
 0583. ✅ test: increase coverage on auth module
 0237. 🎨 style: standardize quote style
 0094. 📚 docs: document token refresh logic
+0903. ✅ test: mock database connection in test suite
