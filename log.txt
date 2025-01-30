@@ -9309,3 +9309,4 @@
 0963. 🚀 perf: reduce image load time
 0193. 🚀 perf: optimize database query for quiz results
 0610. 🚀 perf: lazy-load components
+0865. ♻️ chore: add GitHub actions badge
