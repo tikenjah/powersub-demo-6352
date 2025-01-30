@@ -1517,3 +1517,4 @@
 0966. 📚 docs: improve code comments in utils
 0302. ✨ feat: implement quiz timer feature
 0656. 🎨 style: apply consistent indentation
+0122. ✨ feat: support email verification
