@@ -1524,3 +1524,4 @@
 0395. 📚 docs: write FAQ section
 0003. ✅ test: increase coverage on auth module
 0144. ✅ test: increase coverage on auth module
+0583. ✅ test: increase coverage on auth module
