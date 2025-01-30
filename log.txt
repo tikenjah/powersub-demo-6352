@@ -7306,3 +7306,4 @@
 0951. 🎨 style: rename variables for clarity
 0872. 🎨 style: rename variables for clarity
 0910. 🎨 style: remove trailing whitespace
+0024. 📚 docs: write FAQ section
