@@ -1522,3 +1522,4 @@
 0164. 📚 docs: document token refresh logic
 0448. 🐛 fix: correct typo in registration form
 0395. 📚 docs: write FAQ section
+0003. ✅ test: increase coverage on auth module
