@@ -6286,3 +6286,4 @@
 0336. ✨ feat: add export to CSV option
 0978. 🐛 fix: prevent crash on empty input
 0677. 📚 docs: add API usage examples
+0077. ♻️ chore: rename env.example
