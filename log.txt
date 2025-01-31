@@ -8277,3 +8277,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0323. 📚 docs: clarify environment setup
 0313. 🎨 style: apply consistent indentation
+0581. ✅ test: add integration test for /submit endpoint
