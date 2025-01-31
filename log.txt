@@ -1535,3 +1535,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0917. ✅ test: add integration test for /submit endpoint
 0161. ✨ feat: create admin dashboard
+0699. 🎨 style: standardize quote style
