@@ -1525,3 +1525,4 @@
 0003. ✅ test: increase coverage on auth module
 0144. ✅ test: increase coverage on auth module
 0583. ✅ test: increase coverage on auth module
+0429. ✨ feat: add user authentication
