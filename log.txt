@@ -6284,3 +6284,4 @@
 0094. 📚 docs: document token refresh logic
 0903. ✅ test: mock database connection in test suite
 0336. ✨ feat: add export to CSV option
+0978. 🐛 fix: prevent crash on empty input
