@@ -5276,3 +5276,4 @@
 0339. 📚 docs: update README with setup steps
 0457. 🐛 fix: handle 500 error in quiz API
 0895. ✨ feat: support email verification
+0730. ✅ test: test user registration edge cases
