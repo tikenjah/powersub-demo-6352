@@ -1528,3 +1528,4 @@
 0429. ✨ feat: add user authentication
 0555. ✨ feat: create admin dashboard
 0324. 📚 docs: document token refresh logic
+0147. ♻️ chore: bump dependencies
