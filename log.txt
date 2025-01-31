@@ -5277,3 +5277,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0895. ✨ feat: support email verification
 0730. ✅ test: test user registration edge cases
+0934. ✨ feat: support email verification
