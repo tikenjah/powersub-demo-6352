@@ -1551,3 +1551,4 @@
 0555. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
 0220. 🐛 fix: fix null pointer exception on login
+0280. ✅ test: add integration test for /submit endpoint
