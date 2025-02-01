@@ -9311,3 +9311,4 @@
 0610. 🚀 perf: lazy-load components
 0865. ♻️ chore: add GitHub actions badge
 0019. ✨ feat: enable dark mode toggle
+0064. 📚 docs: clarify environment setup
