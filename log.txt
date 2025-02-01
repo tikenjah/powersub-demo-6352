@@ -9313,3 +9313,4 @@
 0019. ✨ feat: enable dark mode toggle
 0064. 📚 docs: clarify environment setup
 0675. 🔧 refactor: organize models into subfolders
+0102. ✨ feat: support email verification
