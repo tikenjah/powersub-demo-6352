@@ -9312,3 +9312,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0019. ✨ feat: enable dark mode toggle
 0064. 📚 docs: clarify environment setup
+0675. 🔧 refactor: organize models into subfolders
