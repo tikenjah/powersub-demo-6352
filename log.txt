@@ -1544,3 +1544,4 @@
 0093. ✅ test: add unit test for quiz service
 0706. ✨ feat: support email verification
 0742. 📚 docs: clarify environment setup
+0833. ✨ feat: add user authentication
