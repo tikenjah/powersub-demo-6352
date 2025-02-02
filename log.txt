@@ -1558,3 +1558,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0718. 🐛 fix: resolve issue with date parsing
 0847. ♻️ chore: clean up unused files
+0063. 🐛 fix: handle 500 error in quiz API
