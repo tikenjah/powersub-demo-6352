@@ -1566,3 +1566,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0340. 🚀 perf: optimize database query for quiz results
 0188. 🎨 style: apply consistent indentation
+0785. ✨ feat: enable dark mode toggle
