@@ -9316,3 +9316,4 @@
 0102. ✨ feat: support email verification
 0233. 🚀 perf: lazy-load components
 0234. ♻️ chore: rename env.example
+0585. 🚀 perf: lazy-load components
