@@ -5285,3 +5285,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0470. 🎨 style: remove trailing whitespace
 0662. ♻️ chore: clean up unused files
+0218. 🔧 refactor: clean up auth middleware
