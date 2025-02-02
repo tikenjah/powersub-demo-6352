@@ -1562,3 +1562,4 @@
 0241. 📚 docs: add API usage examples
 0846. ✨ feat: implement quiz timer feature
 0392. 🎨 style: remove trailing whitespace
+0401. 🚀 perf: reduce image load time
