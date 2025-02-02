@@ -1563,3 +1563,4 @@
 0846. ✨ feat: implement quiz timer feature
 0392. 🎨 style: remove trailing whitespace
 0401. 🚀 perf: reduce image load time
+0422. 🔧 refactor: organize models into subfolders
