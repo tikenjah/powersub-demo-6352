@@ -7317,3 +7317,4 @@
 0976. ✨ feat: implement quiz timer feature
 0826. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
+0358. 🚀 perf: reduce image load time
