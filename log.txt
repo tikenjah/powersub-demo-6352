@@ -9319,3 +9319,4 @@
 0585. 🚀 perf: lazy-load components
 0879. 🎨 style: standardize quote style
 0442. 🎨 style: standardize quote style
+0493. ✨ feat: add user authentication
