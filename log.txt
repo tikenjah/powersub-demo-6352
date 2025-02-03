@@ -10342,3 +10342,4 @@
 0712. 🎨 style: apply consistent indentation
 0240. 🔧 refactor: remove redundant code blocks
 0929. ✨ feat: support email verification
+0884. 📚 docs: clarify environment setup
