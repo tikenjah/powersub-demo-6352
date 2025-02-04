@@ -1596,3 +1596,4 @@
 0284. ✨ feat: implement quiz timer feature
 0997. ✅ test: increase coverage on auth module
 0144. ✅ test: increase coverage on auth module
+0011. ✅ test: add unit test for quiz service
