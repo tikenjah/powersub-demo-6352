@@ -1583,3 +1583,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0040. 🔧 refactor: clean up auth middleware
 0675. 🔧 refactor: organize models into subfolders
+0297. 🎨 style: remove trailing whitespace
