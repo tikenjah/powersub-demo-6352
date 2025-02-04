@@ -1587,3 +1587,4 @@
 0504. 📚 docs: document token refresh logic
 0548. 📚 docs: write FAQ section
 0527. 🎨 style: remove trailing whitespace
+0701. 🔧 refactor: clean up auth middleware
