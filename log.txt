@@ -1585,3 +1585,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0297. 🎨 style: remove trailing whitespace
 0504. 📚 docs: document token refresh logic
+0548. 📚 docs: write FAQ section
