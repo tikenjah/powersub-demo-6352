@@ -1605,3 +1605,4 @@
 0474. ✅ test: add unit test for quiz service
 0542. 🔧 refactor: organize models into subfolders
 0488. ♻️ chore: add GitHub actions badge
+0208. 🔧 refactor: clean up auth middleware
