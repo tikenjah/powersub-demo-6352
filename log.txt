@@ -1603,3 +1603,4 @@
 0778. 📚 docs: write FAQ section
 0423. ✅ test: mock database connection in test suite
 0474. ✅ test: add unit test for quiz service
+0542. 🔧 refactor: organize models into subfolders
