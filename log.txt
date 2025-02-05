@@ -1600,3 +1600,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0893. 🐛 fix: handle 500 error in quiz API
 0804. ♻️ chore: add GitHub actions badge
+0778. 📚 docs: write FAQ section
