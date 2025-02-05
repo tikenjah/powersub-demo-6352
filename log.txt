@@ -5291,3 +5291,4 @@
 0639. 🐛 fix: correct typo in registration form
 0428. 🐛 fix: fix null pointer exception on login
 0522. 🐛 fix: handle 500 error in quiz API
+0859. ✨ feat: create admin dashboard
