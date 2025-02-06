@@ -8296,3 +8296,4 @@
 0743. 🎨 style: apply consistent indentation
 0547. 📚 docs: write FAQ section
 0523. ♻️ chore: bump dependencies
+0316. 🐛 fix: fix broken CSS in mobile view
