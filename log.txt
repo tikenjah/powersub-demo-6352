@@ -1615,3 +1615,4 @@
 0667. ✨ feat: add export to CSV option
 0845. 🚀 perf: cache repeated calculations
 0518. ✨ feat: support email verification
+0078. ♻️ chore: update .gitignore
