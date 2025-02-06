@@ -7333,3 +7333,4 @@
 0232. 🎨 style: apply consistent indentation
 0317. ✅ test: test user registration edge cases
 0286. ✅ test: mock database connection in test suite
+0720. ✨ feat: add export to CSV option
