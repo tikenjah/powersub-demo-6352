@@ -8299,3 +8299,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0894. ✅ test: add integration test for /submit endpoint
 0113. ✨ feat: add user authentication
+0929. ✨ feat: support email verification
