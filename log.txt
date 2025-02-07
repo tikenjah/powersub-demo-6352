@@ -1627,3 +1627,4 @@
 0922. 📚 docs: write FAQ section
 0109. 🚀 perf: lazy-load components
 0399. ✅ test: mock database connection in test suite
+0794. ♻️ chore: clean up unused files
