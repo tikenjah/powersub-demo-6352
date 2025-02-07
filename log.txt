@@ -1619,3 +1619,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0851. ✅ test: mock database connection in test suite
 0729. 🔧 refactor: refactor quiz grading logic
+0636. ✅ test: increase coverage on auth module
