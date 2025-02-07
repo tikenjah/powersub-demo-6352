@@ -1624,3 +1624,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0217. 🚀 perf: reduce image load time
 0774. 🔧 refactor: refactor quiz grading logic
+0922. 📚 docs: write FAQ section
