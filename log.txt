@@ -8302,3 +8302,4 @@
 0929. ✨ feat: support email verification
 0227. ✅ test: test user registration edge cases
 0527. 🎨 style: remove trailing whitespace
+0144. ✅ test: increase coverage on auth module
