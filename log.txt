@@ -9331,3 +9331,4 @@
 0146. 🎨 style: apply consistent indentation
 0318. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
+0551. 📚 docs: write FAQ section
