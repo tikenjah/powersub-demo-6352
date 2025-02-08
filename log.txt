@@ -10349,3 +10349,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0354. 📚 docs: add API usage examples
 0701. 🔧 refactor: clean up auth middleware
+0605. ✨ feat: support email verification
