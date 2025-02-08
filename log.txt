@@ -8309,3 +8309,4 @@
 0563. 📚 docs: clarify environment setup
 0589. 🐛 fix: fix broken CSS in mobile view
 0148. 🔧 refactor: organize models into subfolders
+0625. 🐛 fix: handle 500 error in quiz API
