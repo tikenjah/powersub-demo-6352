@@ -1629,3 +1629,4 @@
 0399. ✅ test: mock database connection in test suite
 0794. ♻️ chore: clean up unused files
 0188. 🎨 style: apply consistent indentation
+0175. 📚 docs: add API usage examples
