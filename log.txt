@@ -1649,3 +1649,4 @@
 0093. ✅ test: add unit test for quiz service
 0066. 🔧 refactor: clean up auth middleware
 0350. 🚀 perf: cache repeated calculations
+0135. ✅ test: test user registration edge cases
