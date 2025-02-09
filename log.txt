@@ -10353,3 +10353,4 @@
 0430. 🐛 fix: fix null pointer exception on login
 0540. ♻️ chore: add GitHub actions badge
 0095. ✅ test: mock database connection in test suite
+0369. 🎨 style: standardize quote style
