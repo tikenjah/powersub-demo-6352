@@ -1652,3 +1652,4 @@
 0135. ✅ test: test user registration edge cases
 0706. ✨ feat: support email verification
 0526. ✨ feat: add user authentication
+0443. 🎨 style: standardize quote style
