@@ -1662,3 +1662,4 @@
 0635. 🎨 style: apply consistent indentation
 0305. ✨ feat: enable dark mode toggle
 0062. ♻️ chore: update .gitignore
+0213. ✅ test: add integration test for /submit endpoint
