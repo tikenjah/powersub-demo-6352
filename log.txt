@@ -1653,3 +1653,4 @@
 0706. ✨ feat: support email verification
 0526. ✨ feat: add user authentication
 0443. 🎨 style: standardize quote style
+0710. 🐛 fix: fix broken CSS in mobile view
