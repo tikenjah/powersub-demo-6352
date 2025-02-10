@@ -1650,3 +1650,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0350. 🚀 perf: cache repeated calculations
 0135. ✅ test: test user registration edge cases
+0706. ✨ feat: support email verification
