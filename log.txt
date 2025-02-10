@@ -1654,3 +1654,4 @@
 0526. ✨ feat: add user authentication
 0443. 🎨 style: standardize quote style
 0710. 🐛 fix: fix broken CSS in mobile view
+0367. 🐛 fix: fix null pointer exception on login
