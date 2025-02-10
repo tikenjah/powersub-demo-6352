@@ -1661,3 +1661,4 @@
 0746. ♻️ chore: add GitHub actions badge
 0635. 🎨 style: apply consistent indentation
 0305. ✨ feat: enable dark mode toggle
+0062. ♻️ chore: update .gitignore
