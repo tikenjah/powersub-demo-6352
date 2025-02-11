@@ -1668,3 +1668,4 @@
 0940. 📚 docs: document token refresh logic
 0260. ✨ feat: create admin dashboard
 0889. 🚀 perf: lazy-load components
+0542. 🔧 refactor: organize models into subfolders
