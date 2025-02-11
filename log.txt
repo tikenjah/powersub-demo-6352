@@ -1676,3 +1676,4 @@
 0845. 🚀 perf: cache repeated calculations
 0073. 🔧 refactor: split large controller into smaller functions
 0083. 🎨 style: reformat files with black
+0890. 🔧 refactor: organize models into subfolders
