@@ -1667,3 +1667,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0940. 📚 docs: document token refresh logic
 0260. ✨ feat: create admin dashboard
+0889. 🚀 perf: lazy-load components
