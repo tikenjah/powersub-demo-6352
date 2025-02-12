@@ -1687,3 +1687,4 @@
 0683. ✅ test: mock database connection in test suite
 0613. 🐛 fix: prevent crash on empty input
 0005. ✅ test: add unit test for quiz service
+0973. 🔧 refactor: organize models into subfolders
