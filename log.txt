@@ -6313,3 +6313,4 @@
 0838. 🎨 style: standardize quote style
 0541. 🐛 fix: correct typo in registration form
 0542. 🔧 refactor: organize models into subfolders
+0224. 🐛 fix: fix broken CSS in mobile view
