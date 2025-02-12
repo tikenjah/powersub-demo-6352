@@ -10361,3 +10361,4 @@
 0055. 📚 docs: update README with setup steps
 0476. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
+0335. ♻️ chore: update .gitignore
