@@ -10360,3 +10360,4 @@
 0257. 📚 docs: clarify environment setup
 0055. 📚 docs: update README with setup steps
 0476. 🚀 perf: reduce image load time
+0395. 📚 docs: write FAQ section
