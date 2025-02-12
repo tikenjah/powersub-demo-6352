@@ -5313,3 +5313,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0459. 🔧 refactor: organize models into subfolders
 0846. ✨ feat: implement quiz timer feature
+0427. ✅ test: mock database connection in test suite
