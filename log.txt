@@ -6312,3 +6312,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0838. 🎨 style: standardize quote style
 0541. 🐛 fix: correct typo in registration form
+0542. 🔧 refactor: organize models into subfolders
