@@ -10362,3 +10362,4 @@
 0476. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
 0335. ♻️ chore: update .gitignore
+0621. 🔧 refactor: clean up auth middleware
