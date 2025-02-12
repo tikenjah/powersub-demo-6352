@@ -1684,3 +1684,4 @@
 0360. ✨ feat: add export to CSV option
 0857. 🎨 style: rename variables for clarity
 0165. 🎨 style: remove trailing whitespace
+0683. ✅ test: mock database connection in test suite
