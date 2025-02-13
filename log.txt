@@ -1699,3 +1699,4 @@
 0503. ♻️ chore: rename env.example
 0656. 🎨 style: apply consistent indentation
 0957. 🐛 fix: fix null pointer exception on login
+0219. ✅ test: increase coverage on auth module
