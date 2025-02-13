@@ -8325,3 +8325,4 @@
 0742. 📚 docs: clarify environment setup
 0668. 🚀 perf: optimize database query for quiz results
 0126. 🎨 style: rename variables for clarity
+0263. 📚 docs: add API usage examples
