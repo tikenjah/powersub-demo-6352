@@ -9343,3 +9343,4 @@
 0458. ✨ feat: create admin dashboard
 0510. 🎨 style: rename variables for clarity
 0052. 🎨 style: standardize quote style
+0830. 🎨 style: apply consistent indentation
