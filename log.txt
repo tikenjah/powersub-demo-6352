@@ -1696,3 +1696,4 @@
 0262. 🎨 style: remove trailing whitespace
 0199. ✨ feat: create admin dashboard
 0954. 🚀 perf: cache repeated calculations
+0503. ♻️ chore: rename env.example
