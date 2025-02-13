@@ -1705,3 +1705,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0164. 📚 docs: document token refresh logic
 0938. 🎨 style: rename variables for clarity
+0945. ♻️ chore: add GitHub actions badge
