@@ -1700,3 +1700,4 @@
 0656. 🎨 style: apply consistent indentation
 0957. 🐛 fix: fix null pointer exception on login
 0219. ✅ test: increase coverage on auth module
+0222. 🐛 fix: handle 500 error in quiz API
