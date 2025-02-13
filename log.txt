@@ -6317,3 +6317,4 @@
 0128. ♻️ chore: rename env.example
 0808. 🚀 perf: optimize database query for quiz results
 0974. ✨ feat: add export to CSV option
+0957. 🐛 fix: fix null pointer exception on login
