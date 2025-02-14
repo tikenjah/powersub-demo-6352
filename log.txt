@@ -8331,3 +8331,4 @@
 0980. 🎨 style: reformat files with black
 0522. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
+0488. ♻️ chore: add GitHub actions badge
