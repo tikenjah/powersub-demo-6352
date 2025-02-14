@@ -1720,3 +1720,4 @@
 0113. ✨ feat: add user authentication
 0384. 📚 docs: clarify environment setup
 0908. ♻️ chore: bump dependencies
+0522. 🐛 fix: handle 500 error in quiz API
