@@ -1709,3 +1709,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0512. 🚀 perf: reduce image load time
 0059. ♻️ chore: bump dependencies
+0517. ✅ test: mock database connection in test suite
