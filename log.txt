@@ -7350,3 +7350,4 @@
 0938. 🎨 style: rename variables for clarity
 0410. 🎨 style: reformat files with black
 0706. ✨ feat: support email verification
+0212. 🎨 style: standardize quote style
