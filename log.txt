@@ -9346,3 +9346,4 @@
 0830. 🎨 style: apply consistent indentation
 0062. ♻️ chore: update .gitignore
 0596. ♻️ chore: update .gitignore
+0473. 📚 docs: write FAQ section
