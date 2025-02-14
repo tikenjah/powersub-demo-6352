@@ -5325,3 +5325,4 @@
 0057. 🚀 perf: optimize database query for quiz results
 0984. ♻️ chore: clean up unused files
 0643. 🎨 style: apply consistent indentation
+0359. 🔧 refactor: clean up auth middleware
