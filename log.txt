@@ -1718,3 +1718,4 @@
 0634. 🎨 style: reformat files with black
 0184. 📚 docs: improve code comments in utils
 0113. ✨ feat: add user authentication
+0384. 📚 docs: clarify environment setup
