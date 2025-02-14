@@ -6318,3 +6318,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0974. ✨ feat: add export to CSV option
 0957. 🐛 fix: fix null pointer exception on login
+0931. 🚀 perf: reduce image load time
