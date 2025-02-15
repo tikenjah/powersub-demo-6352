@@ -1727,3 +1727,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0079. 🐛 fix: correct typo in registration form
 0790. 📚 docs: write FAQ section
+0652. 🔧 refactor: organize models into subfolders
