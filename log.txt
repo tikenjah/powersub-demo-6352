@@ -1728,3 +1728,4 @@
 0079. 🐛 fix: correct typo in registration form
 0790. 📚 docs: write FAQ section
 0652. 🔧 refactor: organize models into subfolders
+0330. ✅ test: test user registration edge cases
