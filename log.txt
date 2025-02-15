@@ -1723,3 +1723,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0296. 🔧 refactor: organize models into subfolders
 0264. 🚀 perf: optimize database query for quiz results
+0349. ✅ test: increase coverage on auth module
