@@ -1730,3 +1730,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0330. ✅ test: test user registration edge cases
 0346. ✅ test: mock database connection in test suite
+0018. 🔧 refactor: organize models into subfolders
