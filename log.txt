@@ -9348,3 +9348,4 @@
 0596. ♻️ chore: update .gitignore
 0473. 📚 docs: write FAQ section
 0792. 🎨 style: standardize quote style
+0036. 🔧 refactor: clean up auth middleware
