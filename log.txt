@@ -1742,3 +1742,4 @@
 0554. 📚 docs: improve code comments in utils
 0938. 🎨 style: rename variables for clarity
 0733. 🐛 fix: fix null pointer exception on login
+0004. 🚀 perf: optimize database query for quiz results
