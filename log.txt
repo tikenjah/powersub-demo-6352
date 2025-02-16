@@ -6327,3 +6327,4 @@
 0262. 🎨 style: remove trailing whitespace
 0701. 🔧 refactor: clean up auth middleware
 0180. ✨ feat: add export to CSV option
+0376. 🎨 style: apply consistent indentation
