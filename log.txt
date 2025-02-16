@@ -1735,3 +1735,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0890. 🔧 refactor: organize models into subfolders
 0279. ✨ feat: support email verification
+0752. ✅ test: add integration test for /submit endpoint
