@@ -10368,3 +10368,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0196. ♻️ chore: bump dependencies
 0821. ✅ test: add integration test for /submit endpoint
+0793. 📚 docs: clarify environment setup
