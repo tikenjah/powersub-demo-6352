@@ -9352,3 +9352,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0842. 🎨 style: remove trailing whitespace
 0292. 📚 docs: clarify environment setup
+0111. 📚 docs: update README with setup steps
