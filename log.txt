@@ -5329,3 +5329,4 @@
 0257. 📚 docs: clarify environment setup
 0548. 📚 docs: write FAQ section
 0989. 📚 docs: write FAQ section
+0788. 📚 docs: add API usage examples
