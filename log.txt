@@ -8339,3 +8339,4 @@
 0639. 🐛 fix: correct typo in registration form
 0089. 🔧 refactor: remove redundant code blocks
 0394. 🚀 perf: lazy-load components
+0551. 📚 docs: write FAQ section
