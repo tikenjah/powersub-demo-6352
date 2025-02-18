@@ -1757,3 +1757,4 @@
 0843. 📚 docs: document token refresh logic
 0704. 🚀 perf: cache repeated calculations
 0504. 📚 docs: document token refresh logic
+0316. 🐛 fix: fix broken CSS in mobile view
