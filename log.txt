@@ -1754,3 +1754,4 @@
 0547. 📚 docs: write FAQ section
 0862. ♻️ chore: bump dependencies
 0112. ✨ feat: enable dark mode toggle
+0843. 📚 docs: document token refresh logic
