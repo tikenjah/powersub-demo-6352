@@ -5332,3 +5332,4 @@
 0788. 📚 docs: add API usage examples
 0515. 🚀 perf: optimize database query for quiz results
 0422. 🔧 refactor: organize models into subfolders
+0615. 🐛 fix: correct typo in registration form
