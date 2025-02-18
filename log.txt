@@ -8338,3 +8338,4 @@
 0696. 🔧 refactor: clean up auth middleware
 0639. 🐛 fix: correct typo in registration form
 0089. 🔧 refactor: remove redundant code blocks
+0394. 🚀 perf: lazy-load components
