@@ -10373,3 +10373,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0428. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
+0834. ✅ test: increase coverage on auth module
