@@ -1756,3 +1756,4 @@
 0112. ✨ feat: enable dark mode toggle
 0843. 📚 docs: document token refresh logic
 0704. 🚀 perf: cache repeated calculations
+0504. 📚 docs: document token refresh logic
