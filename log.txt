@@ -6332,3 +6332,4 @@
 0842. 🎨 style: remove trailing whitespace
 0927. ♻️ chore: bump dependencies
 0251. ♻️ chore: update .gitignore
+0733. 🐛 fix: fix null pointer exception on login
