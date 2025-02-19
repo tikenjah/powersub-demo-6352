@@ -1766,3 +1766,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0422. 🔧 refactor: organize models into subfolders
 0148. 🔧 refactor: organize models into subfolders
+0013. ✅ test: increase coverage on auth module
