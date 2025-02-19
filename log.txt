@@ -9359,3 +9359,4 @@
 0719. 🎨 style: apply consistent indentation
 0455. ♻️ chore: clean up unused files
 0255. 🔧 refactor: refactor quiz grading logic
+0937. 🐛 fix: handle 500 error in quiz API
