@@ -8341,3 +8341,4 @@
 0394. 🚀 perf: lazy-load components
 0551. 📚 docs: write FAQ section
 0939. 📚 docs: update README with setup steps
+0654. ✨ feat: create admin dashboard
