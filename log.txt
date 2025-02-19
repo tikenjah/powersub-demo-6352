@@ -1772,3 +1772,4 @@
 0790. 📚 docs: write FAQ section
 0762. 🚀 perf: lazy-load components
 0896. 🚀 perf: reduce image load time
+0766. 🎨 style: reformat files with black
