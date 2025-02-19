@@ -10378,3 +10378,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0267. 📚 docs: improve code comments in utils
 0630. 🚀 perf: lazy-load components
+0611. ✅ test: test user registration edge cases
