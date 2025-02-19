@@ -1783,3 +1783,4 @@
 0516. ✅ test: add unit test for quiz service
 0619. ✨ feat: create admin dashboard
 0133. 🐛 fix: fix null pointer exception on login
+0832. 🔧 refactor: remove redundant code blocks
