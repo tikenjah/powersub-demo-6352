@@ -8342,3 +8342,4 @@
 0551. 📚 docs: write FAQ section
 0939. 📚 docs: update README with setup steps
 0654. ✨ feat: create admin dashboard
+0030. 🐛 fix: fix null pointer exception on login
