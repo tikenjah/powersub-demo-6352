@@ -1795,3 +1795,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0734. ✨ feat: add export to CSV option
 0505. ♻️ chore: add GitHub actions badge
+0068. 🐛 fix: fix null pointer exception on login
