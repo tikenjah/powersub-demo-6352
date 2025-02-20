@@ -1790,3 +1790,4 @@
 0259. 🚀 perf: lazy-load components
 0644. 🎨 style: apply consistent indentation
 0783. 🐛 fix: handle 500 error in quiz API
+0550. 🔧 refactor: split large controller into smaller functions
