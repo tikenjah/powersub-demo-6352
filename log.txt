@@ -1796,3 +1796,4 @@
 0734. ✨ feat: add export to CSV option
 0505. ♻️ chore: add GitHub actions badge
 0068. 🐛 fix: fix null pointer exception on login
+0581. ✅ test: add integration test for /submit endpoint
