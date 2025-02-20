@@ -1787,3 +1787,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0706. ✨ feat: support email verification
 0514. 🐛 fix: fix broken CSS in mobile view
+0259. 🚀 perf: lazy-load components
