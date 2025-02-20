@@ -9364,3 +9364,4 @@
 0015. ✨ feat: implement quiz timer feature
 0249. ✅ test: increase coverage on auth module
 0474. ✅ test: add unit test for quiz service
+0278. 🔧 refactor: clean up auth middleware
