@@ -1806,3 +1806,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0608. 🔧 refactor: remove redundant code blocks
 0743. 🎨 style: apply consistent indentation
+0552. 🐛 fix: fix null pointer exception on login
