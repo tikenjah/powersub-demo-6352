@@ -8345,3 +8345,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0883. 📚 docs: improve code comments in utils
 0309. 🔧 refactor: refactor quiz grading logic
+0433. 🐛 fix: prevent crash on empty input
