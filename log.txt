@@ -6337,3 +6337,4 @@
 0145. 📚 docs: improve code comments in utils
 0110. 🐛 fix: prevent crash on empty input
 0551. 📚 docs: write FAQ section
+0503. ♻️ chore: rename env.example
