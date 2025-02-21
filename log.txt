@@ -1802,3 +1802,4 @@
 0158. 📚 docs: clarify environment setup
 0066. 🔧 refactor: clean up auth middleware
 0237. 🎨 style: standardize quote style
+0967. ♻️ chore: add GitHub actions badge
