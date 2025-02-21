@@ -1809,3 +1809,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0484. 🐛 fix: handle 500 error in quiz API
 0780. 📚 docs: add API usage examples
+0037. 🐛 fix: correct typo in registration form
