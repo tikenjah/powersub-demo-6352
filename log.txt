@@ -9366,3 +9366,4 @@
 0474. ✅ test: add unit test for quiz service
 0278. 🔧 refactor: clean up auth middleware
 0432. 🎨 style: apply consistent indentation
+0480. ♻️ chore: add GitHub actions badge
