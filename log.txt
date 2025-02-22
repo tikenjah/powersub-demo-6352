@@ -1821,3 +1821,4 @@
 0886. ♻️ chore: clean up unused files
 0694. 🎨 style: rename variables for clarity
 0317. ✅ test: test user registration edge cases
+0773. 📚 docs: document token refresh logic
