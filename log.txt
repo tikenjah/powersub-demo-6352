@@ -8347,3 +8347,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0433. 🐛 fix: prevent crash on empty input
 0597. 🚀 perf: cache repeated calculations
+0409. 🚀 perf: lazy-load components
