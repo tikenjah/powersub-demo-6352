@@ -1812,3 +1812,4 @@
 0037. 🐛 fix: correct typo in registration form
 0648. ♻️ chore: bump dependencies
 0760. 🐛 fix: resolve issue with date parsing
+0536. ✨ feat: add user authentication
