@@ -7367,3 +7367,4 @@
 0482. ✨ feat: add export to CSV option
 0729. 🔧 refactor: refactor quiz grading logic
 0760. 🐛 fix: resolve issue with date parsing
+0226. 🚀 perf: lazy-load components
