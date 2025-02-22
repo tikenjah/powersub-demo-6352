@@ -1811,3 +1811,4 @@
 0780. 📚 docs: add API usage examples
 0037. 🐛 fix: correct typo in registration form
 0648. ♻️ chore: bump dependencies
+0760. 🐛 fix: resolve issue with date parsing
