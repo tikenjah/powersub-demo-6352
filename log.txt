@@ -1832,3 +1832,4 @@
 0923. ✨ feat: support email verification
 0569. 📚 docs: document token refresh logic
 0775. 🐛 fix: fix null pointer exception on login
+0159. 🚀 perf: lazy-load components
