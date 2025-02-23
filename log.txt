@@ -1830,3 +1830,4 @@
 0085. ✨ feat: support email verification
 0108. 🎨 style: remove trailing whitespace
 0923. ✨ feat: support email verification
+0569. 📚 docs: document token refresh logic
