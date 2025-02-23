@@ -10389,3 +10389,4 @@
 0326. 🚀 perf: cache repeated calculations
 0926. 🔧 refactor: organize models into subfolders
 0441. 📚 docs: add API usage examples
+0258. 🐛 fix: prevent crash on empty input
