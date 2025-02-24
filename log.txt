@@ -5345,3 +5345,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0763. 🔧 refactor: organize models into subfolders
 0623. 🎨 style: standardize quote style
+0835. 🐛 fix: prevent crash on empty input
