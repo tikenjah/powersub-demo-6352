@@ -1839,3 +1839,4 @@
 0798. 🚀 perf: reduce image load time
 0045. 🎨 style: apply consistent indentation
 0097. 🐛 fix: handle 500 error in quiz API
+0246. ✅ test: add integration test for /submit endpoint
