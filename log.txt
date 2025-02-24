@@ -10392,3 +10392,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0464. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
+0888. 🚀 perf: lazy-load components
