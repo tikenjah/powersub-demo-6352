@@ -1849,3 +1849,4 @@
 0275. 🎨 style: standardize quote style
 0604. 📚 docs: add API usage examples
 0764. ✨ feat: add user authentication
+0352. ✨ feat: add export to CSV option
