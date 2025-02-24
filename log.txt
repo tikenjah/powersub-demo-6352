@@ -1844,3 +1844,4 @@
 0964. ♻️ chore: clean up unused files
 0924. ✅ test: mock database connection in test suite
 0801. ✨ feat: enable dark mode toggle
+0049. 🐛 fix: handle 500 error in quiz API
