@@ -1842,3 +1842,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0768. 🎨 style: remove trailing whitespace
 0964. ♻️ chore: clean up unused files
+0924. ✅ test: mock database connection in test suite
