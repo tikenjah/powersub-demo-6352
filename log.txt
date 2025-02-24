@@ -1851,3 +1851,4 @@
 0764. ✨ feat: add user authentication
 0352. ✨ feat: add export to CSV option
 0583. ✅ test: increase coverage on auth module
+0725. 🚀 perf: lazy-load components
