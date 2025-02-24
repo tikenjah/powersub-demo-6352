@@ -5344,3 +5344,4 @@
 0246. ✅ test: add integration test for /submit endpoint
 0568. 🐛 fix: handle 500 error in quiz API
 0763. 🔧 refactor: organize models into subfolders
+0623. 🎨 style: standardize quote style
