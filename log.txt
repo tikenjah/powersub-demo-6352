@@ -7373,3 +7373,4 @@
 0684. 🚀 perf: reduce image load time
 0692. ✅ test: add integration test for /submit endpoint
 0396. 🔧 refactor: split large controller into smaller functions
+0235. 🐛 fix: fix null pointer exception on login
