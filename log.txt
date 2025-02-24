@@ -1841,3 +1841,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0246. ✅ test: add integration test for /submit endpoint
 0768. 🎨 style: remove trailing whitespace
+0964. ♻️ chore: clean up unused files
