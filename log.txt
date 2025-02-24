@@ -10391,3 +10391,4 @@
 0441. 📚 docs: add API usage examples
 0258. 🐛 fix: prevent crash on empty input
 0464. 🎨 style: remove trailing whitespace
+0117. ✅ test: increase coverage on auth module
