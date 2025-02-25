@@ -6345,3 +6345,4 @@
 0366. 🔧 refactor: remove redundant code blocks
 0996. ✅ test: test user registration edge cases
 0059. ♻️ chore: bump dependencies
+0600. 🐛 fix: prevent crash on empty input
