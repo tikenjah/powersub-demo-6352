@@ -6343,3 +6343,4 @@
 0834. ✅ test: increase coverage on auth module
 0233. 🚀 perf: lazy-load components
 0366. 🔧 refactor: remove redundant code blocks
+0996. ✅ test: test user registration edge cases
