@@ -7379,3 +7379,4 @@
 0985. 📚 docs: document token refresh logic
 0989. 📚 docs: write FAQ section
 0171. 🐛 fix: fix broken CSS in mobile view
+0795. 📚 docs: update README with setup steps
