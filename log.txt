@@ -1864,3 +1864,4 @@
 0219. ✅ test: increase coverage on auth module
 0699. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
+0951. 🎨 style: rename variables for clarity
