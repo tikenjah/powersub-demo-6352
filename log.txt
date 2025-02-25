@@ -7380,3 +7380,4 @@
 0989. 📚 docs: write FAQ section
 0171. 🐛 fix: fix broken CSS in mobile view
 0795. 📚 docs: update README with setup steps
+0693. 📚 docs: add API usage examples
