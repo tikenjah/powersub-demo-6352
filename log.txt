@@ -10393,3 +10393,4 @@
 0464. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
 0888. 🚀 perf: lazy-load components
+0501. ✨ feat: add export to CSV option
