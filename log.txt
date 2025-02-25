@@ -1862,3 +1862,4 @@
 0381. ♻️ chore: clean up unused files
 0989. 📚 docs: write FAQ section
 0219. ✅ test: increase coverage on auth module
+0699. 🎨 style: standardize quote style
