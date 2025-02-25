@@ -7377,3 +7377,4 @@
 0060. ♻️ chore: clean up unused files
 0344. ♻️ chore: add GitHub actions badge
 0985. 📚 docs: document token refresh logic
+0989. 📚 docs: write FAQ section
