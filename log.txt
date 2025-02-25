@@ -6346,3 +6346,4 @@
 0996. ✅ test: test user registration edge cases
 0059. ♻️ chore: bump dependencies
 0600. 🐛 fix: prevent crash on empty input
+0585. 🚀 perf: lazy-load components
