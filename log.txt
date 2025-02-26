@@ -5351,3 +5351,4 @@
 0215. 🎨 style: reformat files with black
 0995. ✅ test: mock database connection in test suite
 0197. 📚 docs: update README with setup steps
+0094. 📚 docs: document token refresh logic
