@@ -6353,3 +6353,4 @@
 0855. 🎨 style: reformat files with black
 0128. ♻️ chore: rename env.example
 0131. 📚 docs: write FAQ section
+0628. ♻️ chore: add GitHub actions badge
