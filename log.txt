@@ -6352,3 +6352,4 @@
 0398. 🚀 perf: cache repeated calculations
 0855. 🎨 style: reformat files with black
 0128. ♻️ chore: rename env.example
+0131. 📚 docs: write FAQ section
