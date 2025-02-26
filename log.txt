@@ -1876,3 +1876,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0490. ✨ feat: create admin dashboard
 0434. 📚 docs: document token refresh logic
+0541. 🐛 fix: correct typo in registration form
