@@ -1875,3 +1875,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0505. ♻️ chore: add GitHub actions badge
 0490. ✨ feat: create admin dashboard
+0434. 📚 docs: document token refresh logic
