@@ -9382,3 +9382,4 @@
 0549. ✨ feat: enable dark mode toggle
 0940. 📚 docs: document token refresh logic
 0158. 📚 docs: clarify environment setup
+0778. 📚 docs: write FAQ section
