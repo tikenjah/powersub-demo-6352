@@ -9385,3 +9385,4 @@
 0778. 📚 docs: write FAQ section
 0385. ♻️ chore: clean up unused files
 0646. ✅ test: test user registration edge cases
+0164. 📚 docs: document token refresh logic
