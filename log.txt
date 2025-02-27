@@ -1885,3 +1885,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0643. 🎨 style: apply consistent indentation
 0223. 🔧 refactor: remove redundant code blocks
+0493. ✨ feat: add user authentication
