@@ -6357,3 +6357,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0254. 🚀 perf: reduce image load time
 0531. 🐛 fix: prevent crash on empty input
+0480. ♻️ chore: add GitHub actions badge
