@@ -8355,3 +8355,4 @@
 0938. 🎨 style: rename variables for clarity
 0013. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
+0344. ♻️ chore: add GitHub actions badge
