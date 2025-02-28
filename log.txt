@@ -1903,3 +1903,4 @@
 0150. 🎨 style: remove trailing whitespace
 0486. ✨ feat: add export to CSV option
 0154. 🐛 fix: prevent crash on empty input
+0008. 🚀 perf: reduce image load time
