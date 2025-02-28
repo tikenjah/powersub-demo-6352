@@ -1907,3 +1907,4 @@
 0464. 🎨 style: remove trailing whitespace
 0309. 🔧 refactor: refactor quiz grading logic
 0171. 🐛 fix: fix broken CSS in mobile view
+0686. 🎨 style: standardize quote style
