@@ -1897,3 +1897,4 @@
 0916. ♻️ chore: bump dependencies
 0629. 🔧 refactor: organize models into subfolders
 0719. 🎨 style: apply consistent indentation
+0026. 🔧 refactor: clean up auth middleware
