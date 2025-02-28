@@ -7387,3 +7387,4 @@
 0678. ✨ feat: add user authentication
 0019. ✨ feat: enable dark mode toggle
 0282. 🔧 refactor: remove redundant code blocks
+0503. ♻️ chore: rename env.example
