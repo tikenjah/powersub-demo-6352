@@ -1913,3 +1913,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0362. 📚 docs: add API usage examples
 0401. 🚀 perf: reduce image load time
+0726. ✨ feat: enable dark mode toggle
