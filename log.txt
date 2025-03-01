@@ -10400,3 +10400,4 @@
 0519. 📚 docs: document token refresh logic
 0313. 🎨 style: apply consistent indentation
 0510. 🎨 style: rename variables for clarity
+0111. 📚 docs: update README with setup steps
