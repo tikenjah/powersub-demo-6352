@@ -6366,3 +6366,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0004. 🚀 perf: optimize database query for quiz results
 0753. 🔧 refactor: remove redundant code blocks
+0426. ✅ test: add integration test for /submit endpoint
