@@ -10401,3 +10401,4 @@
 0313. 🎨 style: apply consistent indentation
 0510. 🎨 style: rename variables for clarity
 0111. 📚 docs: update README with setup steps
+0383. 🐛 fix: fix broken CSS in mobile view
