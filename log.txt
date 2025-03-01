@@ -5361,3 +5361,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0861. ♻️ chore: clean up unused files
 0216. 🎨 style: rename variables for clarity
+0006. 🐛 fix: prevent crash on empty input
