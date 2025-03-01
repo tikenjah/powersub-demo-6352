@@ -7389,3 +7389,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0503. ♻️ chore: rename env.example
 0215. 🎨 style: reformat files with black
+0518. ✨ feat: support email verification
