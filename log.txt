@@ -8360,3 +8360,4 @@
 0284. ✨ feat: implement quiz timer feature
 0955. 🔧 refactor: remove redundant code blocks
 0114. ♻️ chore: update .gitignore
+0828. ♻️ chore: add GitHub actions badge
