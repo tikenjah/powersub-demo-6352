@@ -6371,3 +6371,4 @@
 0314. ✨ feat: implement quiz timer feature
 0729. 🔧 refactor: refactor quiz grading logic
 0989. 📚 docs: write FAQ section
+0595. ✨ feat: enable dark mode toggle
