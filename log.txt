@@ -1928,3 +1928,4 @@
 0716. ✨ feat: implement quiz timer feature
 0673. 🐛 fix: correct typo in registration form
 0837. 🚀 perf: cache repeated calculations
+0973. 🔧 refactor: organize models into subfolders
