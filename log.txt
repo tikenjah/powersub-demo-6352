@@ -1938,3 +1938,4 @@
 0852. ✨ feat: enable dark mode toggle
 0081. 🐛 fix: fix null pointer exception on login
 0456. 🚀 perf: optimize database query for quiz results
+0718. 🐛 fix: resolve issue with date parsing
