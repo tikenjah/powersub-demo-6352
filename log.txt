@@ -1922,3 +1922,4 @@
 0061. ✨ feat: create admin dashboard
 0128. ♻️ chore: rename env.example
 0892. ✅ test: add unit test for quiz service
+0225. 🚀 perf: reduce image load time
