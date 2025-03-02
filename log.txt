@@ -1936,3 +1936,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0826. 📚 docs: clarify environment setup
 0852. ✨ feat: enable dark mode toggle
+0081. 🐛 fix: fix null pointer exception on login
