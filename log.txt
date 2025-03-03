@@ -6375,3 +6375,4 @@
 0320. 📚 docs: update README with setup steps
 0241. 📚 docs: add API usage examples
 0861. ♻️ chore: clean up unused files
+0820. 📚 docs: add API usage examples
