@@ -1951,3 +1951,4 @@
 0722. 📚 docs: add API usage examples
 0062. ♻️ chore: update .gitignore
 0997. ✅ test: increase coverage on auth module
+0330. ✅ test: test user registration edge cases
