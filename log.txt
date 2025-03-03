@@ -1957,3 +1957,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0681. ✨ feat: create admin dashboard
 0743. 🎨 style: apply consistent indentation
+0788. 📚 docs: add API usage examples
