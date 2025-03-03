@@ -1950,3 +1950,4 @@
 0291. 📚 docs: write FAQ section
 0722. 📚 docs: add API usage examples
 0062. ♻️ chore: update .gitignore
+0997. ✅ test: increase coverage on auth module
