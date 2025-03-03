@@ -1948,3 +1948,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0270. ♻️ chore: rename env.example
 0291. 📚 docs: write FAQ section
+0722. 📚 docs: add API usage examples
