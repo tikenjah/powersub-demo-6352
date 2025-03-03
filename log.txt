@@ -5364,3 +5364,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0910. 🎨 style: remove trailing whitespace
 0241. 📚 docs: add API usage examples
+0879. 🎨 style: standardize quote style
