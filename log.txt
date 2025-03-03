@@ -6376,3 +6376,4 @@
 0241. 📚 docs: add API usage examples
 0861. ♻️ chore: clean up unused files
 0820. 📚 docs: add API usage examples
+0428. 🐛 fix: fix null pointer exception on login
