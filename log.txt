@@ -1956,3 +1956,4 @@
 0042. 📚 docs: document token refresh logic
 0058. ♻️ chore: add GitHub actions badge
 0681. ✨ feat: create admin dashboard
+0743. 🎨 style: apply consistent indentation
