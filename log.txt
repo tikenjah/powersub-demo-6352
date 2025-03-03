@@ -9397,3 +9397,4 @@
 0569. 📚 docs: document token refresh logic
 0619. ✨ feat: create admin dashboard
 0881. 🔧 refactor: split large controller into smaller functions
+0095. ✅ test: mock database connection in test suite
