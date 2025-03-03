@@ -8363,3 +8363,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0498. ✅ test: mock database connection in test suite
 0869. ♻️ chore: bump dependencies
+0865. ♻️ chore: add GitHub actions badge
