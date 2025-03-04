@@ -10405,3 +10405,4 @@
 0312. ✨ feat: add user authentication
 0821. ✅ test: add integration test for /submit endpoint
 0024. 📚 docs: write FAQ section
+0459. 🔧 refactor: organize models into subfolders
