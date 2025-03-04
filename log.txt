@@ -10406,3 +10406,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0024. 📚 docs: write FAQ section
 0459. 🔧 refactor: organize models into subfolders
+0612. ✅ test: test user registration edge cases
