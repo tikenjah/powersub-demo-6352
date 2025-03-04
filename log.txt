@@ -1971,3 +1971,4 @@
 0709. ♻️ chore: bump dependencies
 0910. 🎨 style: remove trailing whitespace
 0499. 🎨 style: reformat files with black
+0430. 🐛 fix: fix null pointer exception on login
