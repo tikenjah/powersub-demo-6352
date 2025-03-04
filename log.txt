@@ -1961,3 +1961,4 @@
 0032. 🎨 style: apply consistent indentation
 0210. 🎨 style: apply consistent indentation
 0935. 📚 docs: update README with setup steps
+0413. ✅ test: add integration test for /submit endpoint
