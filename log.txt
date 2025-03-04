@@ -1973,3 +1973,4 @@
 0499. 🎨 style: reformat files with black
 0430. 🐛 fix: fix null pointer exception on login
 0861. ♻️ chore: clean up unused files
+0548. 📚 docs: write FAQ section
