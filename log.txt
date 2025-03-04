@@ -7397,3 +7397,4 @@
 0335. ♻️ chore: update .gitignore
 0293. ✅ test: add integration test for /submit endpoint
 0736. 🐛 fix: fix null pointer exception on login
+0297. 🎨 style: remove trailing whitespace
