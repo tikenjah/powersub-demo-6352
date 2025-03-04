@@ -8366,3 +8366,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0309. 🔧 refactor: refactor quiz grading logic
 0103. 🔧 refactor: remove redundant code blocks
+0051. ✨ feat: enable dark mode toggle
