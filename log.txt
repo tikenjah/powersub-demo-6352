@@ -7394,3 +7394,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0966. 📚 docs: improve code comments in utils
 0740. 🐛 fix: resolve issue with date parsing
+0335. ♻️ chore: update .gitignore
