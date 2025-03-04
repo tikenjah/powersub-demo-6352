@@ -1968,3 +1968,4 @@
 0610. 🚀 perf: lazy-load components
 0481. ✅ test: add unit test for quiz service
 0784. ♻️ chore: clean up unused files
+0709. ♻️ chore: bump dependencies
