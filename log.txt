@@ -7399,3 +7399,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0297. 🎨 style: remove trailing whitespace
 0419. 🎨 style: remove trailing whitespace
+0086. 🐛 fix: correct typo in registration form
