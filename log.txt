@@ -5367,3 +5367,4 @@
 0879. 🎨 style: standardize quote style
 0730. ✅ test: test user registration edge cases
 0143. ✨ feat: implement quiz timer feature
+0995. ✅ test: mock database connection in test suite
