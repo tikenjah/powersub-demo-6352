@@ -5368,3 +5368,4 @@
 0730. ✅ test: test user registration edge cases
 0143. ✨ feat: implement quiz timer feature
 0995. ✅ test: mock database connection in test suite
+0287. 📚 docs: write FAQ section
