@@ -6386,3 +6386,4 @@
 0990. ♻️ chore: rename env.example
 0315. ✅ test: add integration test for /submit endpoint
 0013. ✅ test: increase coverage on auth module
+0354. 📚 docs: add API usage examples
