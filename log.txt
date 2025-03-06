@@ -1986,3 +1986,4 @@
 0720. ✨ feat: add export to CSV option
 0283. ♻️ chore: add GitHub actions badge
 0100. ♻️ chore: update .gitignore
+0897. 🐛 fix: prevent crash on empty input
