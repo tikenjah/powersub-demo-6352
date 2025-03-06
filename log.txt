@@ -10412,3 +10412,4 @@
 0061. ✨ feat: create admin dashboard
 0843. 📚 docs: document token refresh logic
 0732. ♻️ chore: add GitHub actions badge
+0880. 🐛 fix: fix broken CSS in mobile view
