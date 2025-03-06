@@ -10413,3 +10413,4 @@
 0843. 📚 docs: document token refresh logic
 0732. ♻️ chore: add GitHub actions badge
 0880. 🐛 fix: fix broken CSS in mobile view
+0436. ✅ test: add integration test for /submit endpoint
