@@ -5370,3 +5370,4 @@
 0995. ✅ test: mock database connection in test suite
 0287. 📚 docs: write FAQ section
 0428. 🐛 fix: fix null pointer exception on login
+0527. 🎨 style: remove trailing whitespace
