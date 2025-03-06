@@ -1984,3 +1984,4 @@
 0974. ✨ feat: add export to CSV option
 0409. 🚀 perf: lazy-load components
 0720. ✨ feat: add export to CSV option
+0283. ♻️ chore: add GitHub actions badge
