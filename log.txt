@@ -8372,3 +8372,4 @@
 0859. ✨ feat: create admin dashboard
 0453. 🎨 style: standardize quote style
 0434. 📚 docs: document token refresh logic
+0659. 📚 docs: add API usage examples
