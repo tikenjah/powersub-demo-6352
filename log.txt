@@ -8374,3 +8374,4 @@
 0434. 📚 docs: document token refresh logic
 0659. 📚 docs: add API usage examples
 0532. 🔧 refactor: split large controller into smaller functions
+0259. 🚀 perf: lazy-load components
