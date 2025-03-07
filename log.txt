@@ -1993,3 +1993,4 @@
 0886. ♻️ chore: clean up unused files
 0422. 🔧 refactor: organize models into subfolders
 0487. 🎨 style: reformat files with black
+0484. 🐛 fix: handle 500 error in quiz API
