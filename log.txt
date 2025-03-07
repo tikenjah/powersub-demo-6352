@@ -7410,3 +7410,4 @@
 0547. 📚 docs: write FAQ section
 0858. ♻️ chore: clean up unused files
 0116. ✨ feat: support email verification
+0412. ✅ test: increase coverage on auth module
