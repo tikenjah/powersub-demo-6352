@@ -8376,3 +8376,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0259. 🚀 perf: lazy-load components
 0885. ♻️ chore: update .gitignore
+0264. 🚀 perf: optimize database query for quiz results
