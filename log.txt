@@ -7412,3 +7412,4 @@
 0116. ✨ feat: support email verification
 0412. ✅ test: increase coverage on auth module
 0203. 🚀 perf: lazy-load components
+0819. 🚀 perf: reduce image load time
