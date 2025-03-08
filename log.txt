@@ -2004,3 +2004,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0682. ♻️ chore: rename env.example
 0351. ✨ feat: add export to CSV option
+0548. 📚 docs: write FAQ section
