@@ -2015,3 +2015,4 @@
 0005. ✅ test: add unit test for quiz service
 0446. 🎨 style: apply consistent indentation
 0477. 🐛 fix: fix broken CSS in mobile view
+0317. ✅ test: test user registration edge cases
