@@ -9412,3 +9412,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0645. 🐛 fix: resolve issue with date parsing
 0010. ✨ feat: add user authentication
+0319. 🐛 fix: handle 500 error in quiz API
