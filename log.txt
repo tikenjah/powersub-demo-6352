@@ -6396,3 +6396,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0905. ♻️ chore: bump dependencies
 0091. ✨ feat: add user authentication
+0215. 🎨 style: reformat files with black
