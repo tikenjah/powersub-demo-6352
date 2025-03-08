@@ -6393,3 +6393,4 @@
 0612. ✅ test: test user registration edge cases
 0824. 🚀 perf: lazy-load components
 0988. 🐛 fix: fix broken CSS in mobile view
+0900. 🐛 fix: handle 500 error in quiz API
