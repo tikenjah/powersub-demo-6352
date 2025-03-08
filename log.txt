@@ -2012,3 +2012,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0607. 🐛 fix: prevent crash on empty input
 0523. ♻️ chore: bump dependencies
+0005. ✅ test: add unit test for quiz service
