@@ -2007,3 +2007,4 @@
 0548. 📚 docs: write FAQ section
 0978. 🐛 fix: prevent crash on empty input
 0908. ♻️ chore: bump dependencies
+0953. 🎨 style: remove trailing whitespace
