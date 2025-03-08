@@ -2003,3 +2003,4 @@
 0615. 🐛 fix: correct typo in registration form
 0181. ♻️ chore: add GitHub actions badge
 0682. ♻️ chore: rename env.example
+0351. ✨ feat: add export to CSV option
