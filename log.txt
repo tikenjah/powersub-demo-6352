@@ -2005,3 +2005,4 @@
 0682. ♻️ chore: rename env.example
 0351. ✨ feat: add export to CSV option
 0548. 📚 docs: write FAQ section
+0978. 🐛 fix: prevent crash on empty input
