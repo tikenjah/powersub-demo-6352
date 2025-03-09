@@ -10420,3 +10420,4 @@
 0925. ✨ feat: add export to CSV option
 0556. ✨ feat: support email verification
 0866. 📚 docs: add API usage examples
+0830. 🎨 style: apply consistent indentation
