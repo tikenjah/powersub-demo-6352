@@ -5385,3 +5385,4 @@
 0617. ✨ feat: support email verification
 0371. ✅ test: add integration test for /submit endpoint
 0527. 🎨 style: remove trailing whitespace
+0107. 🐛 fix: prevent crash on empty input
