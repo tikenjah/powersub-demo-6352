@@ -6397,3 +6397,4 @@
 0905. ♻️ chore: bump dependencies
 0091. ✨ feat: add user authentication
 0215. 🎨 style: reformat files with black
+0472. 🐛 fix: fix null pointer exception on login
