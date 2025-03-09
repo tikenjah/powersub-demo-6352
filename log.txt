@@ -2021,3 +2021,4 @@
 0847. ♻️ chore: clean up unused files
 0062. ♻️ chore: update .gitignore
 0185. 📚 docs: write FAQ section
+0050. ✨ feat: enable dark mode toggle
