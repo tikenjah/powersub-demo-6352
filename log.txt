@@ -2022,3 +2022,4 @@
 0062. ♻️ chore: update .gitignore
 0185. 📚 docs: write FAQ section
 0050. ✨ feat: enable dark mode toggle
+0900. 🐛 fix: handle 500 error in quiz API
