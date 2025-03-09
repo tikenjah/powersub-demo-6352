@@ -2037,3 +2037,4 @@
 0707. 🎨 style: apply consistent indentation
 0753. 🔧 refactor: remove redundant code blocks
 0486. ✨ feat: add export to CSV option
+0480. ♻️ chore: add GitHub actions badge
