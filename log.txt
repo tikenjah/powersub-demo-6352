@@ -6398,3 +6398,4 @@
 0091. ✨ feat: add user authentication
 0215. 🎨 style: reformat files with black
 0472. 🐛 fix: fix null pointer exception on login
+0785. ✨ feat: enable dark mode toggle
