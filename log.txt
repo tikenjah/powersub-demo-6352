@@ -2031,3 +2031,4 @@
 0449. ✅ test: add unit test for quiz service
 0350. 🚀 perf: cache repeated calculations
 0680. ♻️ chore: add GitHub actions badge
+0610. 🚀 perf: lazy-load components
