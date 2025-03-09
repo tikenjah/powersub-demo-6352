@@ -9417,3 +9417,4 @@
 0927. ♻️ chore: bump dependencies
 0445. 📚 docs: improve code comments in utils
 0497. 🔧 refactor: refactor quiz grading logic
+0556. ✨ feat: support email verification
