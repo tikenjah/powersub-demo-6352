@@ -2025,3 +2025,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0798. 🚀 perf: reduce image load time
 0987. ✨ feat: create admin dashboard
+0764. ✨ feat: add user authentication
