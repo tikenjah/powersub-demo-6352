@@ -10421,3 +10421,4 @@
 0556. ✨ feat: support email verification
 0866. 📚 docs: add API usage examples
 0830. 🎨 style: apply consistent indentation
+0386. 🚀 perf: optimize database query for quiz results
