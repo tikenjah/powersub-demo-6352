@@ -2044,3 +2044,4 @@
 0339. 📚 docs: update README with setup steps
 0185. 📚 docs: write FAQ section
 0855. 🎨 style: reformat files with black
+0372. ✨ feat: add user authentication
