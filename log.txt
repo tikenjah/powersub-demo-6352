@@ -6401,3 +6401,4 @@
 0785. ✨ feat: enable dark mode toggle
 0377. ✨ feat: add user authentication
 0420. 🚀 perf: reduce image load time
+0391. 🐛 fix: fix null pointer exception on login
