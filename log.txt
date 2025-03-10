@@ -2043,3 +2043,4 @@
 0692. ✅ test: add integration test for /submit endpoint
 0339. 📚 docs: update README with setup steps
 0185. 📚 docs: write FAQ section
+0855. 🎨 style: reformat files with black
