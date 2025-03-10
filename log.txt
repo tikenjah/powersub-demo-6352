@@ -2040,3 +2040,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0365. 🚀 perf: reduce image load time
 0214. 📚 docs: improve code comments in utils
+0692. ✅ test: add integration test for /submit endpoint
