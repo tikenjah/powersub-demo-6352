@@ -7419,3 +7419,4 @@
 0102. ✨ feat: support email verification
 0817. 🔧 refactor: remove redundant code blocks
 0790. 📚 docs: write FAQ section
+0468. 📚 docs: update README with setup steps
