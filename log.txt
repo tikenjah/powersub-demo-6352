@@ -2049,3 +2049,4 @@
 0640. ♻️ chore: bump dependencies
 0717. 🔧 refactor: refactor quiz grading logic
 0379. ✨ feat: support email verification
+0961. 📚 docs: add API usage examples
