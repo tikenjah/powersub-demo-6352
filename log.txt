@@ -2054,3 +2054,4 @@
 0180. ✨ feat: add export to CSV option
 0861. ♻️ chore: clean up unused files
 0043. ✅ test: add integration test for /submit endpoint
+0520. 🐛 fix: fix null pointer exception on login
