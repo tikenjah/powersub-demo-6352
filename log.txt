@@ -2063,3 +2063,4 @@
 0173. 🚀 perf: cache repeated calculations
 0453. 🎨 style: standardize quote style
 0490. ✨ feat: create admin dashboard
+0673. 🐛 fix: correct typo in registration form
