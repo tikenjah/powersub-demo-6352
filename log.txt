@@ -6404,3 +6404,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0003. ✅ test: increase coverage on auth module
 0784. ♻️ chore: clean up unused files
+0535. 📚 docs: write FAQ section
