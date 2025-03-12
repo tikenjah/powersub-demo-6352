@@ -9423,3 +9423,4 @@
 0059. ♻️ chore: bump dependencies
 0920. 🔧 refactor: organize models into subfolders
 0914. ✅ test: test user registration edge cases
+0027. 📚 docs: clarify environment setup
