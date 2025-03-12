@@ -2070,3 +2070,4 @@
 0139. 📚 docs: document token refresh logic
 0524. ♻️ chore: rename env.example
 0212. 🎨 style: standardize quote style
+0978. 🐛 fix: prevent crash on empty input
