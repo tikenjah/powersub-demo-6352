@@ -2071,3 +2071,4 @@
 0524. ♻️ chore: rename env.example
 0212. 🎨 style: standardize quote style
 0978. 🐛 fix: prevent crash on empty input
+0821. ✅ test: add integration test for /submit endpoint
