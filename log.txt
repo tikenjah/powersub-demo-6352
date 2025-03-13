@@ -8396,3 +8396,4 @@
 0845. 🚀 perf: cache repeated calculations
 0401. 🚀 perf: reduce image load time
 0858. ♻️ chore: clean up unused files
+0164. 📚 docs: document token refresh logic
