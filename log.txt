@@ -2080,3 +2080,4 @@
 0773. 📚 docs: document token refresh logic
 0787. ♻️ chore: rename env.example
 0574. ✨ feat: enable dark mode toggle
+0956. 📚 docs: clarify environment setup
