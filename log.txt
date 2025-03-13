@@ -5397,3 +5397,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0011. ✅ test: add unit test for quiz service
 0634. 🎨 style: reformat files with black
+0478. 🐛 fix: resolve issue with date parsing
