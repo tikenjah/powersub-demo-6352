@@ -2077,3 +2077,4 @@
 0685. ✅ test: test user registration edge cases
 0220. 🐛 fix: fix null pointer exception on login
 0269. ✅ test: test user registration edge cases
+0773. 📚 docs: document token refresh logic
