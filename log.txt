@@ -9427,3 +9427,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0274. 🔧 refactor: refactor quiz grading logic
 0081. 🐛 fix: fix null pointer exception on login
+0629. 🔧 refactor: organize models into subfolders
