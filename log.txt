@@ -7428,3 +7428,4 @@
 0730. ✅ test: test user registration edge cases
 0292. 📚 docs: clarify environment setup
 0142. ✨ feat: implement quiz timer feature
+0557. 🔧 refactor: clean up auth middleware
