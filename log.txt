@@ -7435,3 +7435,4 @@
 0083. 🎨 style: reformat files with black
 0147. ♻️ chore: bump dependencies
 0927. ♻️ chore: bump dependencies
+0475. 🔧 refactor: clean up auth middleware
