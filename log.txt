@@ -10435,3 +10435,4 @@
 0330. ✅ test: test user registration edge cases
 0786. ✨ feat: enable dark mode toggle
 0237. 🎨 style: standardize quote style
+0662. ♻️ chore: clean up unused files
