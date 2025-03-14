@@ -10436,3 +10436,4 @@
 0786. ✨ feat: enable dark mode toggle
 0237. 🎨 style: standardize quote style
 0662. ♻️ chore: clean up unused files
+0193. 🚀 perf: optimize database query for quiz results
