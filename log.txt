@@ -8406,3 +8406,4 @@
 0244. ✨ feat: add export to CSV option
 0781. 🚀 perf: reduce image load time
 0897. 🐛 fix: prevent crash on empty input
+0429. ✨ feat: add user authentication
