@@ -7437,3 +7437,4 @@
 0927. ♻️ chore: bump dependencies
 0475. 🔧 refactor: clean up auth middleware
 0055. 📚 docs: update README with setup steps
+0906. 📚 docs: add API usage examples
