@@ -8399,3 +8399,4 @@
 0164. 📚 docs: document token refresh logic
 0940. 📚 docs: document token refresh logic
 0947. 📚 docs: write FAQ section
+0602. 🔧 refactor: remove redundant code blocks
