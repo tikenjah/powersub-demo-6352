@@ -7439,3 +7439,4 @@
 0055. 📚 docs: update README with setup steps
 0906. 📚 docs: add API usage examples
 0437. 📚 docs: clarify environment setup
+0130. 🔧 refactor: split large controller into smaller functions
