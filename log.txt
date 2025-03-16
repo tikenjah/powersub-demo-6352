@@ -6416,3 +6416,4 @@
 0333. 🚀 perf: cache repeated calculations
 0002. 🚀 perf: cache repeated calculations
 0062. ♻️ chore: update .gitignore
+0107. 🐛 fix: prevent crash on empty input
