@@ -2112,3 +2112,4 @@
 0765. ♻️ chore: clean up unused files
 0007. 🎨 style: rename variables for clarity
 0288. 🔧 refactor: refactor quiz grading logic
+0599. ✅ test: test user registration edge cases
