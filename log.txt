@@ -6415,3 +6415,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0333. 🚀 perf: cache repeated calculations
 0002. 🚀 perf: cache repeated calculations
+0062. ♻️ chore: update .gitignore
