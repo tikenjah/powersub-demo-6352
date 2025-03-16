@@ -8410,3 +8410,4 @@
 0419. 🎨 style: remove trailing whitespace
 0963. 🚀 perf: reduce image load time
 0275. 🎨 style: standardize quote style
+0485. 📚 docs: update README with setup steps
