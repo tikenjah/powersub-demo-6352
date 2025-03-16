@@ -8409,3 +8409,4 @@
 0429. ✨ feat: add user authentication
 0419. 🎨 style: remove trailing whitespace
 0963. 🚀 perf: reduce image load time
+0275. 🎨 style: standardize quote style
