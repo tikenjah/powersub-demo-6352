@@ -2114,3 +2114,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0599. ✅ test: test user registration edge cases
 0960. ✅ test: increase coverage on auth module
+0970. ♻️ chore: update .gitignore
