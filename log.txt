@@ -7442,3 +7442,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0443. 🎨 style: standardize quote style
 0177. 📚 docs: add API usage examples
+0430. 🐛 fix: fix null pointer exception on login
