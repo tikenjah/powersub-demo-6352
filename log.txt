@@ -2130,3 +2130,4 @@
 0513. ♻️ chore: bump dependencies
 0958. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
+0895. ✨ feat: support email verification
