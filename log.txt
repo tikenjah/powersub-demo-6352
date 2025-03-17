@@ -10442,3 +10442,4 @@
 0354. 📚 docs: add API usage examples
 0160. ♻️ chore: bump dependencies
 0797. 📚 docs: add API usage examples
+0538. 🐛 fix: fix broken CSS in mobile view
