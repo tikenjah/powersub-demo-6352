@@ -9433,3 +9433,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0105. 🐛 fix: correct typo in registration form
 0603. 🐛 fix: fix broken CSS in mobile view
+0248. 🐛 fix: handle 500 error in quiz API
