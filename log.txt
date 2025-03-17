@@ -8412,3 +8412,4 @@
 0275. 🎨 style: standardize quote style
 0485. 📚 docs: update README with setup steps
 0649. 📚 docs: update README with setup steps
+0514. 🐛 fix: fix broken CSS in mobile view
