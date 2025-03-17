@@ -5409,3 +5409,4 @@
 0013. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
 0309. 🔧 refactor: refactor quiz grading logic
+0347. ♻️ chore: update .gitignore
