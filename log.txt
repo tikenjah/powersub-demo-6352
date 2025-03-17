@@ -9436,3 +9436,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0276. ✅ test: add integration test for /submit endpoint
 0807. 🔧 refactor: remove redundant code blocks
+0923. ✨ feat: support email verification
