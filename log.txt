@@ -2126,3 +2126,4 @@
 0633. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
 0252. 🎨 style: remove trailing whitespace
+0864. 🐛 fix: correct typo in registration form
