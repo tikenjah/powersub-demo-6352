@@ -2139,3 +2139,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0347. ♻️ chore: update .gitignore
 0777. 📚 docs: document token refresh logic
+0379. ✨ feat: support email verification
