@@ -2146,3 +2146,4 @@
 0885. ♻️ chore: update .gitignore
 0501. ✨ feat: add export to CSV option
 0430. 🐛 fix: fix null pointer exception on login
+0237. 🎨 style: standardize quote style
