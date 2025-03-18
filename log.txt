@@ -2143,3 +2143,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0603. 🐛 fix: fix broken CSS in mobile view
 0805. ♻️ chore: add GitHub actions badge
+0885. ♻️ chore: update .gitignore
