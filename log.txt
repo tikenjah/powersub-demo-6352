@@ -6421,3 +6421,4 @@
 0996. ✅ test: test user registration edge cases
 0696. 🔧 refactor: clean up auth middleware
 0018. 🔧 refactor: organize models into subfolders
+0762. 🚀 perf: lazy-load components
