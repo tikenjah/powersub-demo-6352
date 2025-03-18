@@ -2141,3 +2141,4 @@
 0777. 📚 docs: document token refresh logic
 0379. ✨ feat: support email verification
 0200. 🐛 fix: handle 500 error in quiz API
+0603. 🐛 fix: fix broken CSS in mobile view
