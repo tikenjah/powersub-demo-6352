@@ -2155,3 +2155,4 @@
 0868. ✅ test: add unit test for quiz service
 0604. 📚 docs: add API usage examples
 0936. 🔧 refactor: organize models into subfolders
+0231. 🔧 refactor: clean up auth middleware
