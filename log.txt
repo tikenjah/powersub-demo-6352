@@ -2158,3 +2158,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0585. 🚀 perf: lazy-load components
 0556. ✨ feat: support email verification
+0391. 🐛 fix: fix null pointer exception on login
