@@ -2161,3 +2161,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0511. 🐛 fix: fix broken CSS in mobile view
 0882. 🚀 perf: optimize database query for quiz results
+0092. 🚀 perf: reduce image load time
