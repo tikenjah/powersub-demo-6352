@@ -2159,3 +2159,4 @@
 0585. 🚀 perf: lazy-load components
 0556. ✨ feat: support email verification
 0391. 🐛 fix: fix null pointer exception on login
+0511. 🐛 fix: fix broken CSS in mobile view
