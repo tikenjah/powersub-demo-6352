@@ -10447,3 +10447,4 @@
 0994. 🚀 perf: reduce image load time
 0330. ✅ test: test user registration edge cases
 0735. ♻️ chore: add GitHub actions badge
+0833. ✨ feat: add user authentication
