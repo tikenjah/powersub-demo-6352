@@ -2172,3 +2172,4 @@
 0335. ♻️ chore: update .gitignore
 0767. 🔧 refactor: remove redundant code blocks
 0905. ♻️ chore: bump dependencies
+0519. 📚 docs: document token refresh logic
