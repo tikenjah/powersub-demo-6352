@@ -2185,3 +2185,4 @@
 0508. ✅ test: add unit test for quiz service
 0976. ✨ feat: implement quiz timer feature
 0270. ♻️ chore: rename env.example
+0147. ♻️ chore: bump dependencies
