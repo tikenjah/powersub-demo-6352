@@ -8419,3 +8419,4 @@
 0869. ♻️ chore: bump dependencies
 0241. 📚 docs: add API usage examples
 0292. 📚 docs: clarify environment setup
+0058. ♻️ chore: add GitHub actions badge
