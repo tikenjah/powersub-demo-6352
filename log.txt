@@ -2175,3 +2175,4 @@
 0519. 📚 docs: document token refresh logic
 0713. 🐛 fix: handle 500 error in quiz API
 0334. 🚀 perf: cache repeated calculations
+0614. 🚀 perf: reduce image load time
