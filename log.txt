@@ -2187,3 +2187,4 @@
 0270. ♻️ chore: rename env.example
 0147. ♻️ chore: bump dependencies
 0086. 🐛 fix: correct typo in registration form
+0768. 🎨 style: remove trailing whitespace
