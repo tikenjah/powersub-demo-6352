@@ -2181,3 +2181,4 @@
 0446. 🎨 style: apply consistent indentation
 0875. ✅ test: increase coverage on auth module
 0033. 🎨 style: apply consistent indentation
+0761. ✅ test: add unit test for quiz service
