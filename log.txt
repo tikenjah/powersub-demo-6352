@@ -9445,3 +9445,4 @@
 0102. ✨ feat: support email verification
 0452. ✨ feat: implement quiz timer feature
 0548. 📚 docs: write FAQ section
+0948. 🐛 fix: fix broken CSS in mobile view
