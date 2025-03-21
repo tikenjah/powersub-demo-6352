@@ -2186,3 +2186,4 @@
 0976. ✨ feat: implement quiz timer feature
 0270. ♻️ chore: rename env.example
 0147. ♻️ chore: bump dependencies
+0086. 🐛 fix: correct typo in registration form
