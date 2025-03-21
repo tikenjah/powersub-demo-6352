@@ -2173,3 +2173,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0905. ♻️ chore: bump dependencies
 0519. 📚 docs: document token refresh logic
+0713. 🐛 fix: handle 500 error in quiz API
