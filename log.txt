@@ -2195,3 +2195,4 @@
 0452. ✨ feat: implement quiz timer feature
 0530. 🔧 refactor: refactor quiz grading logic
 0760. 🐛 fix: resolve issue with date parsing
+0649. 📚 docs: update README with setup steps
