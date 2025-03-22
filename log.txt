@@ -8424,3 +8424,4 @@
 0624. ✅ test: add unit test for quiz service
 0472. 🐛 fix: fix null pointer exception on login
 0639. 🐛 fix: correct typo in registration form
+0049. 🐛 fix: handle 500 error in quiz API
