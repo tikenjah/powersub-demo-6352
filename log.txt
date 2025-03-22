@@ -5425,3 +5425,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0352. ✨ feat: add export to CSV option
 0971. 🎨 style: standardize quote style
+0279. ✨ feat: support email verification
