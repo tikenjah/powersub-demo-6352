@@ -2189,3 +2189,4 @@
 0086. 🐛 fix: correct typo in registration form
 0768. 🎨 style: remove trailing whitespace
 0406. ✨ feat: add export to CSV option
+0952. 🔧 refactor: split large controller into smaller functions
