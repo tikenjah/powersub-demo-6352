@@ -8422,3 +8422,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0194. 🎨 style: standardize quote style
 0624. ✅ test: add unit test for quiz service
+0472. 🐛 fix: fix null pointer exception on login
