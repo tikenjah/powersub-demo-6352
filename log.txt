@@ -7458,3 +7458,4 @@
 0047. 🎨 style: rename variables for clarity
 0432. 🎨 style: apply consistent indentation
 0601. ✨ feat: implement quiz timer feature
+0467. ✅ test: add integration test for /submit endpoint
