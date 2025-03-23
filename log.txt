@@ -2201,3 +2201,4 @@
 0451. ✨ feat: support email verification
 0849. 🐛 fix: correct typo in registration form
 0711. 🐛 fix: fix broken CSS in mobile view
+0091. ✨ feat: add user authentication
