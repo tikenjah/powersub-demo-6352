@@ -9448,3 +9448,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0116. ✨ feat: support email verification
 0332. 🎨 style: standardize quote style
+0266. 🔧 refactor: remove redundant code blocks
