@@ -2199,3 +2199,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0623. 🎨 style: standardize quote style
 0451. ✨ feat: support email verification
+0849. 🐛 fix: correct typo in registration form
