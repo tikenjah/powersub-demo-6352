@@ -2205,3 +2205,4 @@
 0545. 🎨 style: standardize quote style
 0071. 🔧 refactor: refactor quiz grading logic
 0654. ✨ feat: create admin dashboard
+0231. 🔧 refactor: clean up auth middleware
