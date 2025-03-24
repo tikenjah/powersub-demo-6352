@@ -2223,3 +2223,4 @@
 0093. ✅ test: add unit test for quiz service
 0855. 🎨 style: reformat files with black
 0518. ✨ feat: support email verification
+0215. 🎨 style: reformat files with black
