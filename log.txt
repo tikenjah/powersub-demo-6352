@@ -9449,3 +9449,4 @@
 0116. ✨ feat: support email verification
 0332. 🎨 style: standardize quote style
 0266. 🔧 refactor: remove redundant code blocks
+0546. 🐛 fix: fix null pointer exception on login
