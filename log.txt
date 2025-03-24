@@ -2219,3 +2219,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0267. 📚 docs: improve code comments in utils
 0730. ✅ test: test user registration edge cases
+0554. 📚 docs: improve code comments in utils
