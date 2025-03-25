@@ -6436,3 +6436,4 @@
 0623. 🎨 style: standardize quote style
 0399. ✅ test: mock database connection in test suite
 0178. ✨ feat: support email verification
+0293. ✅ test: add integration test for /submit endpoint
