@@ -2242,3 +2242,4 @@
 0141. 📚 docs: document token refresh logic
 0817. 🔧 refactor: remove redundant code blocks
 0468. 📚 docs: update README with setup steps
+0849. 🐛 fix: correct typo in registration form
