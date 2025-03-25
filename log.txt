@@ -2237,3 +2237,4 @@
 0678. ✨ feat: add user authentication
 0907. 🔧 refactor: split large controller into smaller functions
 0586. 🎨 style: remove trailing whitespace
+0909. 🔧 refactor: organize models into subfolders
