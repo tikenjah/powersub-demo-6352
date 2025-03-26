@@ -2245,3 +2245,4 @@
 0849. 🐛 fix: correct typo in registration form
 0659. 📚 docs: add API usage examples
 0146. 🎨 style: apply consistent indentation
+0934. ✨ feat: support email verification
