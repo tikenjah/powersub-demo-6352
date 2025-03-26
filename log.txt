@@ -8433,3 +8433,4 @@
 0876. ♻️ chore: rename env.example
 0823. ✨ feat: add user authentication
 0167. 🚀 perf: reduce image load time
+0890. 🔧 refactor: organize models into subfolders
