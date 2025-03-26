@@ -2246,3 +2246,4 @@
 0659. 📚 docs: add API usage examples
 0146. 🎨 style: apply consistent indentation
 0934. ✨ feat: support email verification
+0432. 🎨 style: apply consistent indentation
