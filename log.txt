@@ -2252,3 +2252,4 @@
 0116. ✨ feat: support email verification
 0583. ✅ test: increase coverage on auth module
 0989. 📚 docs: write FAQ section
+0203. 🚀 perf: lazy-load components
