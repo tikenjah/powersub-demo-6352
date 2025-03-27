@@ -2259,3 +2259,4 @@
 0964. ♻️ chore: clean up unused files
 0527. 🎨 style: remove trailing whitespace
 0275. 🎨 style: standardize quote style
+0075. ✅ test: mock database connection in test suite
