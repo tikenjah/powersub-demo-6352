@@ -9458,3 +9458,4 @@
 0262. 🎨 style: remove trailing whitespace
 0402. 🎨 style: reformat files with black
 0394. 🚀 perf: lazy-load components
+0428. 🐛 fix: fix null pointer exception on login
