@@ -9457,3 +9457,4 @@
 0326. 🚀 perf: cache repeated calculations
 0262. 🎨 style: remove trailing whitespace
 0402. 🎨 style: reformat files with black
+0394. 🚀 perf: lazy-load components
