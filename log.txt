@@ -7467,3 +7467,4 @@
 0685. ✅ test: test user registration edge cases
 0222. 🐛 fix: handle 500 error in quiz API
 0958. 🐛 fix: prevent crash on empty input
+0423. ✅ test: mock database connection in test suite
