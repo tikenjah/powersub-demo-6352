@@ -2262,3 +2262,4 @@
 0075. ✅ test: mock database connection in test suite
 0471. ✨ feat: support email verification
 0700. 🎨 style: rename variables for clarity
+0714. 📚 docs: improve code comments in utils
