@@ -2257,3 +2257,4 @@
 0858. ♻️ chore: clean up unused files
 0459. 🔧 refactor: organize models into subfolders
 0964. ♻️ chore: clean up unused files
+0527. 🎨 style: remove trailing whitespace
