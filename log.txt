@@ -9462,3 +9462,4 @@
 0650. ✅ test: add unit test for quiz service
 0207. 🐛 fix: prevent crash on empty input
 0224. 🐛 fix: fix broken CSS in mobile view
+0497. 🔧 refactor: refactor quiz grading logic
