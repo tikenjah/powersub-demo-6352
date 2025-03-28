@@ -2271,3 +2271,4 @@
 0044. ✅ test: add unit test for quiz service
 0399. ✅ test: mock database connection in test suite
 0887. 📚 docs: add API usage examples
+0507. 🔧 refactor: clean up auth middleware
