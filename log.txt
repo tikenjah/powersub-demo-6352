@@ -2269,3 +2269,4 @@
 0963. 🚀 perf: reduce image load time
 0463. 🚀 perf: reduce image load time
 0044. ✅ test: add unit test for quiz service
+0399. ✅ test: mock database connection in test suite
