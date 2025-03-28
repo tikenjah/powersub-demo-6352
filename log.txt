@@ -8437,3 +8437,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0969. ✨ feat: create admin dashboard
 0090. ✅ test: increase coverage on auth module
+0487. 🎨 style: reformat files with black
