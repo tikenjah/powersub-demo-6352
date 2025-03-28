@@ -2274,3 +2274,4 @@
 0507. 🔧 refactor: clean up auth middleware
 0978. 🐛 fix: prevent crash on empty input
 0026. 🔧 refactor: clean up auth middleware
+0347. ♻️ chore: update .gitignore
