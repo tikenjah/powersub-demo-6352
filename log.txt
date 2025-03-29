@@ -7472,3 +7472,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0047. 🎨 style: rename variables for clarity
 0942. ✅ test: increase coverage on auth module
+0264. 🚀 perf: optimize database query for quiz results
