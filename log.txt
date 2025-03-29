@@ -2287,3 +2287,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0611. ✅ test: test user registration edge cases
 0463. 🚀 perf: reduce image load time
+0332. 🎨 style: standardize quote style
