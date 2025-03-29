@@ -9464,3 +9464,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0497. 🔧 refactor: refactor quiz grading logic
 0187. ✨ feat: support email verification
+0265. 🎨 style: reformat files with black
