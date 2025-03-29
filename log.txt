@@ -2291,3 +2291,4 @@
 0313. 🎨 style: apply consistent indentation
 0793. 📚 docs: clarify environment setup
 0900. 🐛 fix: handle 500 error in quiz API
+0933. 📚 docs: clarify environment setup
