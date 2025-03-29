@@ -2281,3 +2281,4 @@
 0595. ✨ feat: enable dark mode toggle
 0630. 🚀 perf: lazy-load components
 0302. ✨ feat: implement quiz timer feature
+0329. 📚 docs: update README with setup steps
