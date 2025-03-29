@@ -6444,3 +6444,4 @@
 0732. ♻️ chore: add GitHub actions badge
 0769. ✨ feat: create admin dashboard
 0782. 📚 docs: improve code comments in utils
+0703. 🔧 refactor: clean up auth middleware
