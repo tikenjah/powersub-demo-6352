@@ -2302,3 +2302,4 @@
 0226. 🚀 perf: lazy-load components
 0526. ✨ feat: add user authentication
 0271. ✅ test: add unit test for quiz service
+0374. 🎨 style: standardize quote style
