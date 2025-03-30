@@ -2303,3 +2303,4 @@
 0526. ✨ feat: add user authentication
 0271. ✅ test: add unit test for quiz service
 0374. 🎨 style: standardize quote style
+0117. ✅ test: increase coverage on auth module
