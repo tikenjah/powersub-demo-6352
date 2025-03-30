@@ -8438,3 +8438,4 @@
 0969. ✨ feat: create admin dashboard
 0090. ✅ test: increase coverage on auth module
 0487. 🎨 style: reformat files with black
+0932. ✅ test: add integration test for /submit endpoint
