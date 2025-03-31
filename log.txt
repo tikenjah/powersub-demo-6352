@@ -2311,3 +2311,4 @@
 0406. ✨ feat: add export to CSV option
 0759. 🔧 refactor: organize models into subfolders
 0754. 🐛 fix: handle 500 error in quiz API
+0808. 🚀 perf: optimize database query for quiz results
