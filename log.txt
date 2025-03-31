@@ -2318,3 +2318,4 @@
 0323. 📚 docs: clarify environment setup
 0474. ✅ test: add unit test for quiz service
 0019. ✨ feat: enable dark mode toggle
+0573. ✅ test: add integration test for /submit endpoint
