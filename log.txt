@@ -2310,3 +2310,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0406. ✨ feat: add export to CSV option
 0759. 🔧 refactor: organize models into subfolders
+0754. 🐛 fix: handle 500 error in quiz API
