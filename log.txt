@@ -2321,3 +2321,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0080. ✨ feat: support email verification
 0244. ✨ feat: add export to CSV option
+0986. 📚 docs: document token refresh logic
