@@ -6446,3 +6446,4 @@
 0782. 📚 docs: improve code comments in utils
 0703. 🔧 refactor: clean up auth middleware
 0361. ✨ feat: support email verification
+0043. ✅ test: add integration test for /submit endpoint
