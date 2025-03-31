@@ -8443,3 +8443,4 @@
 0965. 🎨 style: reformat files with black
 0049. 🐛 fix: handle 500 error in quiz API
 0515. 🚀 perf: optimize database query for quiz results
+0023. 📚 docs: clarify environment setup
