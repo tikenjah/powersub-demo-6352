@@ -2323,3 +2323,4 @@
 0244. ✨ feat: add export to CSV option
 0986. 📚 docs: document token refresh logic
 0127. 🐛 fix: fix null pointer exception on login
+0893. 🐛 fix: handle 500 error in quiz API
