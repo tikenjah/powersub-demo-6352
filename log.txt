@@ -5450,3 +5450,4 @@
 0443. 🎨 style: standardize quote style
 0936. 🔧 refactor: organize models into subfolders
 0859. ✨ feat: create admin dashboard
+0830. 🎨 style: apply consistent indentation
