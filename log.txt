@@ -2332,3 +2332,4 @@
 0792. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
 0377. ✨ feat: add user authentication
+0843. 📚 docs: document token refresh logic
