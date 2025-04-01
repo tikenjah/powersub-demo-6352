@@ -2327,3 +2327,4 @@
 0858. ♻️ chore: clean up unused files
 0588. 🔧 refactor: organize models into subfolders
 0036. 🔧 refactor: clean up auth middleware
+0363. 📚 docs: clarify environment setup
