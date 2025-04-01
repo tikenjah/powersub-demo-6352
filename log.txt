@@ -9475,3 +9475,4 @@
 0627. 📚 docs: document token refresh logic
 0218. 🔧 refactor: clean up auth middleware
 0749. ✨ feat: support email verification
+0038. 🎨 style: rename variables for clarity
