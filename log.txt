@@ -2333,3 +2333,4 @@
 0770. ♻️ chore: rename env.example
 0377. ✨ feat: add user authentication
 0843. 📚 docs: document token refresh logic
+0200. 🐛 fix: handle 500 error in quiz API
