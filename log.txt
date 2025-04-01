@@ -2325,3 +2325,4 @@
 0127. 🐛 fix: fix null pointer exception on login
 0893. 🐛 fix: handle 500 error in quiz API
 0858. ♻️ chore: clean up unused files
+0588. 🔧 refactor: organize models into subfolders
