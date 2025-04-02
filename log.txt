@@ -9476,3 +9476,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0749. ✨ feat: support email verification
 0038. 🎨 style: rename variables for clarity
+0343. 🚀 perf: optimize database query for quiz results
