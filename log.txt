@@ -2338,3 +2338,4 @@
 0141. 📚 docs: document token refresh logic
 0543. ✨ feat: support email verification
 0997. ✅ test: increase coverage on auth module
+0075. ✅ test: mock database connection in test suite
