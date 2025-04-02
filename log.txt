@@ -10483,3 +10483,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0146. 🎨 style: apply consistent indentation
 0996. ✅ test: test user registration edge cases
+0090. ✅ test: increase coverage on auth module
