@@ -5456,3 +5456,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0832. 🔧 refactor: remove redundant code blocks
 0253. 📚 docs: update README with setup steps
+0131. 📚 docs: write FAQ section
