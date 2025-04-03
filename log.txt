@@ -10485,3 +10485,4 @@
 0996. ✅ test: test user registration edge cases
 0090. ✅ test: increase coverage on auth module
 0504. 📚 docs: document token refresh logic
+0384. 📚 docs: clarify environment setup
