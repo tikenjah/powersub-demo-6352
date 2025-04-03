@@ -2348,3 +2348,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0925. ✨ feat: add export to CSV option
 0879. 🎨 style: standardize quote style
+0651. ✨ feat: enable dark mode toggle
