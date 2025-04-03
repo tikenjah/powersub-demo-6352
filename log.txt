@@ -2357,3 +2357,4 @@
 0449. ✅ test: add unit test for quiz service
 0366. 🔧 refactor: remove redundant code blocks
 0627. 📚 docs: document token refresh logic
+0170. ✅ test: increase coverage on auth module
