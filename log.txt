@@ -8448,3 +8448,4 @@
 0956. 📚 docs: clarify environment setup
 0228. 🔧 refactor: remove redundant code blocks
 0660. 🐛 fix: correct typo in registration form
+0582. ✨ feat: add export to CSV option
