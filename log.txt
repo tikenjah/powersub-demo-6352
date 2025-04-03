@@ -2359,3 +2359,4 @@
 0627. 📚 docs: document token refresh logic
 0170. ✅ test: increase coverage on auth module
 0368. 🚀 perf: lazy-load components
+0915. 🚀 perf: cache repeated calculations
