@@ -2375,3 +2375,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0614. 🚀 perf: reduce image load time
 0335. ♻️ chore: update .gitignore
+1000. ✅ test: increase coverage on auth module
