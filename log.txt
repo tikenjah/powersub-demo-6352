@@ -6454,3 +6454,4 @@
 0485. 📚 docs: update README with setup steps
 0823. ✨ feat: add user authentication
 0688. 🚀 perf: reduce image load time
+0987. ✨ feat: create admin dashboard
