@@ -6459,3 +6459,4 @@
 0847. ♻️ chore: clean up unused files
 0325. 🎨 style: rename variables for clarity
 0092. 🚀 perf: reduce image load time
+0805. ♻️ chore: add GitHub actions badge
