@@ -7490,3 +7490,4 @@
 0054. ♻️ chore: update .gitignore
 0665. ♻️ chore: update .gitignore
 0053. ✅ test: increase coverage on auth module
+0552. 🐛 fix: fix null pointer exception on login
