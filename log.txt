@@ -8451,3 +8451,4 @@
 0582. ✨ feat: add export to CSV option
 0325. 🎨 style: rename variables for clarity
 0161. ✨ feat: create admin dashboard
+0767. 🔧 refactor: remove redundant code blocks
