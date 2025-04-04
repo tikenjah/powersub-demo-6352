@@ -2378,3 +2378,4 @@
 1000. ✅ test: increase coverage on auth module
 0874. 🔧 refactor: split large controller into smaller functions
 0036. 🔧 refactor: clean up auth middleware
+0708. ✅ test: add integration test for /submit endpoint
