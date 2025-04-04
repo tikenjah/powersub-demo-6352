@@ -9484,3 +9484,4 @@
 0384. 📚 docs: clarify environment setup
 0611. ✅ test: test user registration edge cases
 0416. 🎨 style: rename variables for clarity
+0437. 📚 docs: clarify environment setup
