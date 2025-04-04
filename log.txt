@@ -2366,3 +2366,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0521. 🎨 style: standardize quote style
 0071. 🔧 refactor: refactor quiz grading logic
+0287. 📚 docs: write FAQ section
