@@ -2376,3 +2376,4 @@
 0614. 🚀 perf: reduce image load time
 0335. ♻️ chore: update .gitignore
 1000. ✅ test: increase coverage on auth module
+0874. 🔧 refactor: split large controller into smaller functions
