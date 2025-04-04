@@ -8453,3 +8453,4 @@
 0161. ✨ feat: create admin dashboard
 0767. 🔧 refactor: remove redundant code blocks
 0387. ✨ feat: enable dark mode toggle
+0973. 🔧 refactor: organize models into subfolders
