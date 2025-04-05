@@ -2385,3 +2385,4 @@
 0429. ✨ feat: add user authentication
 0825. 🔧 refactor: split large controller into smaller functions
 0839. 🎨 style: apply consistent indentation
+0996. ✅ test: test user registration edge cases
