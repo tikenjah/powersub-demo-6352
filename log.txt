@@ -7491,3 +7491,4 @@
 0665. ♻️ chore: update .gitignore
 0053. ✅ test: increase coverage on auth module
 0552. 🐛 fix: fix null pointer exception on login
+0489. 🔧 refactor: organize models into subfolders
