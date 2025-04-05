@@ -2397,3 +2397,4 @@
 0756. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
 0306. 🎨 style: apply consistent indentation
+0339. 📚 docs: update README with setup steps
