@@ -9488,3 +9488,4 @@
 0889. 🚀 perf: lazy-load components
 0910. 🎨 style: remove trailing whitespace
 1000. ✅ test: increase coverage on auth module
+0875. ✅ test: increase coverage on auth module
