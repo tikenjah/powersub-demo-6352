@@ -2392,3 +2392,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0446. 🎨 style: apply consistent indentation
 0018. 🔧 refactor: organize models into subfolders
+0889. 🚀 perf: lazy-load components
