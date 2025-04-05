@@ -2381,3 +2381,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0296. 🔧 refactor: organize models into subfolders
 0506. 🐛 fix: handle 500 error in quiz API
+0536. ✨ feat: add user authentication
