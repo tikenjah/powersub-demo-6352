@@ -9494,3 +9494,4 @@
 0275. 🎨 style: standardize quote style
 0377. ✨ feat: add user authentication
 0239. 🎨 style: standardize quote style
+0742. 📚 docs: clarify environment setup
