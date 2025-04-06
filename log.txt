@@ -9492,3 +9492,4 @@
 0834. ✅ test: increase coverage on auth module
 0737. 🐛 fix: handle 500 error in quiz API
 0275. 🎨 style: standardize quote style
+0377. ✨ feat: add user authentication
