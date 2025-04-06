@@ -6464,3 +6464,4 @@
 0684. 🚀 perf: reduce image load time
 0463. 🚀 perf: reduce image load time
 0593. 🐛 fix: correct typo in registration form
+0065. ✅ test: add integration test for /submit endpoint
