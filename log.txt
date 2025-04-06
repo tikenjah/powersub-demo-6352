@@ -6462,3 +6462,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0249. ✅ test: increase coverage on auth module
 0684. 🚀 perf: reduce image load time
+0463. 🚀 perf: reduce image load time
