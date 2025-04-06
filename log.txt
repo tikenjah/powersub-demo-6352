@@ -10491,3 +10491,4 @@
 0896. 🚀 perf: reduce image load time
 0032. 🎨 style: apply consistent indentation
 0189. 📚 docs: clarify environment setup
+0475. 🔧 refactor: clean up auth middleware
