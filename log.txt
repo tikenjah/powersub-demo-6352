@@ -10490,3 +10490,4 @@
 0395. 📚 docs: write FAQ section
 0896. 🚀 perf: reduce image load time
 0032. 🎨 style: apply consistent indentation
+0189. 📚 docs: clarify environment setup
