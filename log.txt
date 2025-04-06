@@ -2399,3 +2399,4 @@
 0306. 🎨 style: apply consistent indentation
 0339. 📚 docs: update README with setup steps
 0044. ✅ test: add unit test for quiz service
+0548. 📚 docs: write FAQ section
