@@ -2404,3 +2404,4 @@
 0401. 🚀 perf: reduce image load time
 0666. 🐛 fix: fix broken CSS in mobile view
 0384. 📚 docs: clarify environment setup
+0063. 🐛 fix: handle 500 error in quiz API
