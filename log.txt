@@ -2407,3 +2407,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0257. 📚 docs: clarify environment setup
 0206. 🐛 fix: handle 500 error in quiz API
+0094. 📚 docs: document token refresh logic
