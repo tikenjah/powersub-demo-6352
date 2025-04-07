@@ -2409,3 +2409,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0094. 📚 docs: document token refresh logic
 0863. 🐛 fix: correct typo in registration form
+0299. 🐛 fix: resolve issue with date parsing
