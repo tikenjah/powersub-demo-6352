@@ -2413,3 +2413,4 @@
 0842. 🎨 style: remove trailing whitespace
 0669. ✨ feat: enable dark mode toggle
 0594. 🎨 style: reformat files with black
+0433. 🐛 fix: prevent crash on empty input
