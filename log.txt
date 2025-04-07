@@ -10494,3 +10494,4 @@
 0475. 🔧 refactor: clean up auth middleware
 0734. ✨ feat: add export to CSV option
 0717. 🔧 refactor: refactor quiz grading logic
+0268. 🐛 fix: prevent crash on empty input
