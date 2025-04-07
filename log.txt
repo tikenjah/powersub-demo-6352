@@ -2415,3 +2415,4 @@
 0594. 🎨 style: reformat files with black
 0433. 🐛 fix: prevent crash on empty input
 0904. ✨ feat: implement quiz timer feature
+0120. ✅ test: add integration test for /submit endpoint
