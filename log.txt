@@ -2424,3 +2424,4 @@
 0883. 📚 docs: improve code comments in utils
 0243. 🔧 refactor: clean up auth middleware
 0579. 📚 docs: clarify environment setup
+0893. 🐛 fix: handle 500 error in quiz API
