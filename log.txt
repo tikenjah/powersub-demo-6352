@@ -2422,3 +2422,4 @@
 0086. 🐛 fix: correct typo in registration form
 0750. 🎨 style: apply consistent indentation
 0883. 📚 docs: improve code comments in utils
+0243. 🔧 refactor: clean up auth middleware
