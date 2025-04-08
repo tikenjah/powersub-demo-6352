@@ -7499,3 +7499,4 @@
 0306. 🎨 style: apply consistent indentation
 0930. 🎨 style: apply consistent indentation
 0297. 🎨 style: remove trailing whitespace
+0933. 📚 docs: clarify environment setup
