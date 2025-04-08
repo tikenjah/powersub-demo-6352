@@ -2429,3 +2429,4 @@
 0234. ♻️ chore: rename env.example
 0877. 🚀 perf: optimize database query for quiz results
 0460. 📚 docs: write FAQ section
+0393. 🚀 perf: lazy-load components
