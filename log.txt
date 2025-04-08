@@ -5463,3 +5463,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0172. 📚 docs: add API usage examples
 0960. ✅ test: increase coverage on auth module
+0257. 📚 docs: clarify environment setup
