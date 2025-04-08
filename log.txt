@@ -2426,3 +2426,4 @@
 0579. 📚 docs: clarify environment setup
 0893. 🐛 fix: handle 500 error in quiz API
 0005. ✅ test: add unit test for quiz service
+0234. ♻️ chore: rename env.example
