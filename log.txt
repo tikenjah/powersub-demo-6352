@@ -2430,3 +2430,4 @@
 0877. 🚀 perf: optimize database query for quiz results
 0460. 📚 docs: write FAQ section
 0393. 🚀 perf: lazy-load components
+0319. 🐛 fix: handle 500 error in quiz API
