@@ -2443,3 +2443,4 @@
 0925. ✨ feat: add export to CSV option
 0580. ♻️ chore: bump dependencies
 0712. 🎨 style: apply consistent indentation
+0961. 📚 docs: add API usage examples
