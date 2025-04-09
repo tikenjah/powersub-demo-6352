@@ -9505,3 +9505,4 @@
 0575. ✅ test: add unit test for quiz service
 0239. 🎨 style: standardize quote style
 0130. 🔧 refactor: split large controller into smaller functions
+0547. 📚 docs: write FAQ section
