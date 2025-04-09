@@ -6470,3 +6470,4 @@
 0412. ✅ test: increase coverage on auth module
 0725. 🚀 perf: lazy-load components
 0803. ✅ test: mock database connection in test suite
+0793. 📚 docs: clarify environment setup
