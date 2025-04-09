@@ -10500,3 +10500,4 @@
 0482. ✨ feat: add export to CSV option
 0499. 🎨 style: reformat files with black
 0940. 📚 docs: document token refresh logic
+0755. 🚀 perf: cache repeated calculations
