@@ -2458,3 +2458,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0828. ♻️ chore: add GitHub actions badge
 0278. 🔧 refactor: clean up auth middleware
+0614. 🚀 perf: reduce image load time
