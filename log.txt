@@ -8468,3 +8468,4 @@
 0492. 🎨 style: remove trailing whitespace
 0234. ♻️ chore: rename env.example
 0657. 🎨 style: standardize quote style
+0477. 🐛 fix: fix broken CSS in mobile view
