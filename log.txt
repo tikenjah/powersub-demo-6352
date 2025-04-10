@@ -7508,3 +7508,4 @@
 0390. 🎨 style: standardize quote style
 0193. 🚀 perf: optimize database query for quiz results
 0988. 🐛 fix: fix broken CSS in mobile view
+0220. 🐛 fix: fix null pointer exception on login
