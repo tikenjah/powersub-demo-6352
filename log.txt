@@ -2452,3 +2452,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0347. ♻️ chore: update .gitignore
 0689. 🎨 style: reformat files with black
+0180. ✨ feat: add export to CSV option
