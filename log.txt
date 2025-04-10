@@ -7507,3 +7507,4 @@
 0157. ✅ test: mock database connection in test suite
 0390. 🎨 style: standardize quote style
 0193. 🚀 perf: optimize database query for quiz results
+0988. 🐛 fix: fix broken CSS in mobile view
