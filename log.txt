@@ -6473,3 +6473,4 @@
 0793. 📚 docs: clarify environment setup
 0364. 🐛 fix: resolve issue with date parsing
 0618. ✨ feat: support email verification
+0801. ✨ feat: enable dark mode toggle
