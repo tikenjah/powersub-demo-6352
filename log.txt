@@ -2450,3 +2450,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0874. 🔧 refactor: split large controller into smaller functions
 0723. 🔧 refactor: remove redundant code blocks
+0347. ♻️ chore: update .gitignore
