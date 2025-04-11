@@ -8471,3 +8471,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0016. 🎨 style: apply consistent indentation
 0053. ✅ test: increase coverage on auth module
+0650. ✅ test: add unit test for quiz service
