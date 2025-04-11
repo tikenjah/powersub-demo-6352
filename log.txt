@@ -8470,3 +8470,4 @@
 0657. 🎨 style: standardize quote style
 0477. 🐛 fix: fix broken CSS in mobile view
 0016. 🎨 style: apply consistent indentation
+0053. ✅ test: increase coverage on auth module
