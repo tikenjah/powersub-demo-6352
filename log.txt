@@ -5476,3 +5476,4 @@
 0159. 🚀 perf: lazy-load components
 0571. 🔧 refactor: clean up auth middleware
 0165. 🎨 style: remove trailing whitespace
+0205. 📚 docs: update README with setup steps
