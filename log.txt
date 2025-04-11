@@ -2460,3 +2460,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0614. 🚀 perf: reduce image load time
 0751. 🐛 fix: handle 500 error in quiz API
+0107. 🐛 fix: prevent crash on empty input
