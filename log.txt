@@ -2471,3 +2471,4 @@
 0494. 🎨 style: rename variables for clarity
 0212. 🎨 style: standardize quote style
 0884. 📚 docs: clarify environment setup
+0496. ✅ test: add integration test for /submit endpoint
