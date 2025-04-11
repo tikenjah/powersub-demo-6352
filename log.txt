@@ -9508,3 +9508,4 @@
 0547. 📚 docs: write FAQ section
 0098. 🎨 style: rename variables for clarity
 0140. 🐛 fix: handle 500 error in quiz API
+0726. ✨ feat: enable dark mode toggle
