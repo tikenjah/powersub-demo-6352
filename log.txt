@@ -2484,3 +2484,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0520. 🐛 fix: fix null pointer exception on login
 0655. 🚀 perf: cache repeated calculations
+0153. ♻️ chore: rename env.example
