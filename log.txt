@@ -2480,3 +2480,4 @@
 0022. 📚 docs: document token refresh logic
 0098. 🎨 style: rename variables for clarity
 0048. 📚 docs: update README with setup steps
+0678. ✨ feat: add user authentication
