@@ -5479,3 +5479,4 @@
 0205. 📚 docs: update README with setup steps
 0403. ✅ test: mock database connection in test suite
 0221. ✨ feat: add user authentication
+0751. 🐛 fix: handle 500 error in quiz API
