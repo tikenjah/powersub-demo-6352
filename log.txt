@@ -2481,3 +2481,4 @@
 0098. 🎨 style: rename variables for clarity
 0048. 📚 docs: update README with setup steps
 0678. ✨ feat: add user authentication
+0096. 🐛 fix: prevent crash on empty input
