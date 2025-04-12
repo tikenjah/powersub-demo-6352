@@ -6475,3 +6475,4 @@
 0618. ✨ feat: support email verification
 0801. ✨ feat: enable dark mode toggle
 0263. 📚 docs: add API usage examples
+0391. 🐛 fix: fix null pointer exception on login
