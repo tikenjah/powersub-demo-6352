@@ -2476,3 +2476,4 @@
 0720. ✨ feat: add export to CSV option
 0716. ✨ feat: implement quiz timer feature
 0223. 🔧 refactor: remove redundant code blocks
+0871. ✅ test: add integration test for /submit endpoint
