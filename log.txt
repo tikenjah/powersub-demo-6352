@@ -5485,3 +5485,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0038. 🎨 style: rename variables for clarity
 0449. ✅ test: add unit test for quiz service
+0345. 📚 docs: document token refresh logic
