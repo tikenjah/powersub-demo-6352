@@ -9519,3 +9519,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0219. ✅ test: increase coverage on auth module
 0443. 🎨 style: standardize quote style
+0066. 🔧 refactor: clean up auth middleware
