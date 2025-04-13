@@ -2488,3 +2488,4 @@
 0031. 📚 docs: document token refresh logic
 0483. 📚 docs: update README with setup steps
 0407. 🚀 perf: cache repeated calculations
+0321. 🔧 refactor: organize models into subfolders
