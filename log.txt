@@ -10510,3 +10510,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0853. 🔧 refactor: refactor quiz grading logic
 0408. ♻️ chore: add GitHub actions badge
+0594. 🎨 style: reformat files with black
