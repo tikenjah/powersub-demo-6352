@@ -7515,3 +7515,4 @@
 0523. ♻️ chore: bump dependencies
 0002. 🚀 perf: cache repeated calculations
 0090. ✅ test: increase coverage on auth module
+0939. 📚 docs: update README with setup steps
