@@ -5486,3 +5486,4 @@
 0038. 🎨 style: rename variables for clarity
 0449. ✅ test: add unit test for quiz service
 0345. 📚 docs: document token refresh logic
+0821. ✅ test: add integration test for /submit endpoint
