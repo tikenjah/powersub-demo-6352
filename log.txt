@@ -2495,3 +2495,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0617. ✨ feat: support email verification
 0381. ♻️ chore: clean up unused files
+0980. 🎨 style: reformat files with black
