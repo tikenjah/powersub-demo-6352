@@ -2510,3 +2510,4 @@
 0536. ✨ feat: add user authentication
 0513. ♻️ chore: bump dependencies
 0133. 🐛 fix: fix null pointer exception on login
+0182. 🔧 refactor: remove redundant code blocks
