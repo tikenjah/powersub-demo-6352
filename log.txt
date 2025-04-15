@@ -6482,3 +6482,4 @@
 0105. 🐛 fix: correct typo in registration form
 0238. 🎨 style: apply consistent indentation
 0843. 📚 docs: document token refresh logic
+0695. ✨ feat: create admin dashboard
