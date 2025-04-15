@@ -7518,3 +7518,4 @@
 0939. 📚 docs: update README with setup steps
 0536. ✨ feat: add user authentication
 0069. 🎨 style: rename variables for clarity
+0564. 📚 docs: clarify environment setup
