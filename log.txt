@@ -7521,3 +7521,4 @@
 0564. 📚 docs: clarify environment setup
 0213. ✅ test: add integration test for /submit endpoint
 0474. ✅ test: add unit test for quiz service
+0218. 🔧 refactor: clean up auth middleware
