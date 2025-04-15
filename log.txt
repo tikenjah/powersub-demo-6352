@@ -2515,3 +2515,4 @@
 0100. ♻️ chore: update .gitignore
 0821. ✅ test: add integration test for /submit endpoint
 0584. 🚀 perf: lazy-load components
+0985. 📚 docs: document token refresh logic
