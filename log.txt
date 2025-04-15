@@ -2534,3 +2534,4 @@
 0323. 📚 docs: clarify environment setup
 0791. 🔧 refactor: clean up auth middleware
 0218. 🔧 refactor: clean up auth middleware
+0625. 🐛 fix: handle 500 error in quiz API
