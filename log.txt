@@ -7525,3 +7525,4 @@
 0606. 📚 docs: improve code comments in utils
 0773. 📚 docs: document token refresh logic
 0792. 🎨 style: standardize quote style
+0789. ✨ feat: create admin dashboard
