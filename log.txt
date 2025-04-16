@@ -2540,3 +2540,4 @@
 0791. 🔧 refactor: clean up auth middleware
 0749. ✨ feat: support email verification
 0208. 🔧 refactor: clean up auth middleware
+0720. ✨ feat: add export to CSV option
