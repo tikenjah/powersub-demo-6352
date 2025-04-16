@@ -5496,3 +5496,4 @@
 0623. 🎨 style: standardize quote style
 0986. 📚 docs: document token refresh logic
 0028. 🎨 style: standardize quote style
+0290. ✅ test: test user registration edge cases
