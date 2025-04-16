@@ -6490,3 +6490,4 @@
 0888. 🚀 perf: lazy-load components
 0373. 📚 docs: document token refresh logic
 0654. ✨ feat: create admin dashboard
+0205. 📚 docs: update README with setup steps
