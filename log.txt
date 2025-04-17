@@ -2557,3 +2557,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0281. ✨ feat: support email verification
 0755. 🚀 perf: cache repeated calculations
+0841. 🚀 perf: optimize database query for quiz results
