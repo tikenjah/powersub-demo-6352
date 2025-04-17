@@ -2554,3 +2554,4 @@
 0663. 🚀 perf: reduce image load time
 0118. 🚀 perf: reduce image load time
 0805. ♻️ chore: add GitHub actions badge
+0835. 🐛 fix: prevent crash on empty input
