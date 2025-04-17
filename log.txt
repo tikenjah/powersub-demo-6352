@@ -2549,3 +2549,4 @@
 0793. 📚 docs: clarify environment setup
 0643. 🎨 style: apply consistent indentation
 0539. 🔧 refactor: organize models into subfolders
+0925. ✨ feat: add export to CSV option
