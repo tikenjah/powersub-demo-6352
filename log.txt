@@ -8487,3 +8487,4 @@
 0521. 🎨 style: standardize quote style
 0077. ♻️ chore: rename env.example
 0795. 📚 docs: update README with setup steps
+0003. ✅ test: increase coverage on auth module
