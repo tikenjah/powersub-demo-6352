@@ -2550,3 +2550,4 @@
 0643. 🎨 style: apply consistent indentation
 0539. 🔧 refactor: organize models into subfolders
 0925. ✨ feat: add export to CSV option
+0192. ✨ feat: enable dark mode toggle
