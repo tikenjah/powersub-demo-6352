@@ -8486,3 +8486,4 @@
 0031. 📚 docs: document token refresh logic
 0521. 🎨 style: standardize quote style
 0077. ♻️ chore: rename env.example
+0795. 📚 docs: update README with setup steps
