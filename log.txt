@@ -2548,3 +2548,4 @@
 0221. ✨ feat: add user authentication
 0793. 📚 docs: clarify environment setup
 0643. 🎨 style: apply consistent indentation
+0539. 🔧 refactor: organize models into subfolders
