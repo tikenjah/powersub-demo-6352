@@ -2552,3 +2552,4 @@
 0925. ✨ feat: add export to CSV option
 0192. ✨ feat: enable dark mode toggle
 0663. 🚀 perf: reduce image load time
+0118. 🚀 perf: reduce image load time
