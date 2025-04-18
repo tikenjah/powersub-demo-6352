@@ -2565,3 +2565,4 @@
 0646. ✅ test: test user registration edge cases
 0608. 🔧 refactor: remove redundant code blocks
 0789. ✨ feat: create admin dashboard
+0623. 🎨 style: standardize quote style
