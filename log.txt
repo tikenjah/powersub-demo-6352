@@ -9529,3 +9529,4 @@
 0256. ✅ test: mock database connection in test suite
 0757. 🔧 refactor: remove redundant code blocks
 0767. 🔧 refactor: remove redundant code blocks
+0133. 🐛 fix: fix null pointer exception on login
