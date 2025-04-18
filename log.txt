@@ -6496,3 +6496,4 @@
 0679. ♻️ chore: bump dependencies
 0834. ✅ test: increase coverage on auth module
 0342. 🚀 perf: cache repeated calculations
+0985. 📚 docs: document token refresh logic
