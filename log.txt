@@ -5502,3 +5502,4 @@
 0691. 🎨 style: rename variables for clarity
 0470. 🎨 style: remove trailing whitespace
 0416. 🎨 style: rename variables for clarity
+0763. 🔧 refactor: organize models into subfolders
