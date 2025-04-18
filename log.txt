@@ -7532,3 +7532,4 @@
 0944. ✨ feat: add user authentication
 0261. 🔧 refactor: refactor quiz grading logic
 0224. 🐛 fix: fix broken CSS in mobile view
+0693. 📚 docs: add API usage examples
