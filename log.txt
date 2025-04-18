@@ -2564,3 +2564,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0646. ✅ test: test user registration edge cases
 0608. 🔧 refactor: remove redundant code blocks
+0789. ✨ feat: create admin dashboard
