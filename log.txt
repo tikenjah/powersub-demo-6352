@@ -8489,3 +8489,4 @@
 0795. 📚 docs: update README with setup steps
 0003. ✅ test: increase coverage on auth module
 0497. 🔧 refactor: refactor quiz grading logic
+0590. 🐛 fix: fix null pointer exception on login
