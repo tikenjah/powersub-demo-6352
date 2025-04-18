@@ -2566,3 +2566,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0789. ✨ feat: create admin dashboard
 0623. 🎨 style: standardize quote style
+0477. 🐛 fix: fix broken CSS in mobile view
