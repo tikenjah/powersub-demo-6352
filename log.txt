@@ -6498,3 +6498,4 @@
 0342. 🚀 perf: cache repeated calculations
 0985. 📚 docs: document token refresh logic
 0296. 🔧 refactor: organize models into subfolders
+0428. 🐛 fix: fix null pointer exception on login
