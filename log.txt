@@ -8491,3 +8491,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0590. 🐛 fix: fix null pointer exception on login
 0723. 🔧 refactor: remove redundant code blocks
+0581. ✅ test: add integration test for /submit endpoint
