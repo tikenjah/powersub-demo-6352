@@ -8495,3 +8495,4 @@
 0787. ♻️ chore: rename env.example
 0115. 🚀 perf: reduce image load time
 0328. 🐛 fix: resolve issue with date parsing
+0737. 🐛 fix: handle 500 error in quiz API
