@@ -8493,3 +8493,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0581. ✅ test: add integration test for /submit endpoint
 0787. ♻️ chore: rename env.example
+0115. 🚀 perf: reduce image load time
