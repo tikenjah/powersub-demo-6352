@@ -7536,3 +7536,4 @@
 0439. 🐛 fix: correct typo in registration form
 0150. 🎨 style: remove trailing whitespace
 0869. ♻️ chore: bump dependencies
+0834. ✅ test: increase coverage on auth module
