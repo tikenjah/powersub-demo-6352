@@ -7541,3 +7541,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0741. 🎨 style: apply consistent indentation
 0561. 📚 docs: write FAQ section
+0164. 📚 docs: document token refresh logic
