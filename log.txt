@@ -2598,3 +2598,4 @@
 0510. 🎨 style: rename variables for clarity
 0120. ✅ test: add integration test for /submit endpoint
 0296. 🔧 refactor: organize models into subfolders
+0698. 🐛 fix: handle 500 error in quiz API
