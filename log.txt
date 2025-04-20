@@ -2600,3 +2600,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0698. 🐛 fix: handle 500 error in quiz API
 0666. 🐛 fix: fix broken CSS in mobile view
+0995. ✅ test: mock database connection in test suite
