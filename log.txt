@@ -7539,3 +7539,4 @@
 0834. ✅ test: increase coverage on auth module
 0061. ✨ feat: create admin dashboard
 0747. 🔧 refactor: clean up auth middleware
+0741. 🎨 style: apply consistent indentation
