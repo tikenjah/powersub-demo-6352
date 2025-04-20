@@ -2595,3 +2595,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0810. 🔧 refactor: refactor quiz grading logic
 0435. ✅ test: add unit test for quiz service
+0510. 🎨 style: rename variables for clarity
