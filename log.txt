@@ -2589,3 +2589,4 @@
 0377. ✨ feat: add user authentication
 0115. 🚀 perf: reduce image load time
 0317. ✅ test: test user registration edge cases
+0895. ✨ feat: support email verification
