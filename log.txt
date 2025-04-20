@@ -2591,3 +2591,4 @@
 0317. ✅ test: test user registration edge cases
 0895. ✨ feat: support email verification
 0556. ✨ feat: support email verification
+0176. 🔧 refactor: remove redundant code blocks
