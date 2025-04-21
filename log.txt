@@ -5512,3 +5512,4 @@
 0138. 🎨 style: rename variables for clarity
 0085. ✨ feat: support email verification
 0533. ♻️ chore: add GitHub actions badge
+0346. ✅ test: mock database connection in test suite
