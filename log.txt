@@ -2618,3 +2618,4 @@
 0859. ✨ feat: create admin dashboard
 0142. ✨ feat: implement quiz timer feature
 0327. 🔧 refactor: split large controller into smaller functions
+0493. ✨ feat: add user authentication
