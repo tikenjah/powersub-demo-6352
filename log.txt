@@ -2612,3 +2612,4 @@
 0481. ✅ test: add unit test for quiz service
 0364. 🐛 fix: resolve issue with date parsing
 0354. 📚 docs: add API usage examples
+0090. ✅ test: increase coverage on auth module
