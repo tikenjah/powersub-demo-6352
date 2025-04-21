@@ -6507,3 +6507,4 @@
 0080. ✨ feat: support email verification
 0293. ✅ test: add integration test for /submit endpoint
 0588. 🔧 refactor: organize models into subfolders
+0742. 📚 docs: clarify environment setup
