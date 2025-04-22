@@ -2636,3 +2636,4 @@
 0950. 🎨 style: reformat files with black
 0037. 🐛 fix: correct typo in registration form
 0695. ✨ feat: create admin dashboard
+0049. 🐛 fix: handle 500 error in quiz API
