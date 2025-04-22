@@ -2633,3 +2633,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0952. 🔧 refactor: split large controller into smaller functions
 0264. 🚀 perf: optimize database query for quiz results
+0950. 🎨 style: reformat files with black
