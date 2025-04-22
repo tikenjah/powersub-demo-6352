@@ -8503,3 +8503,4 @@
 0543. ✨ feat: support email verification
 0916. ♻️ chore: bump dependencies
 0347. ♻️ chore: update .gitignore
+0888. 🚀 perf: lazy-load components
