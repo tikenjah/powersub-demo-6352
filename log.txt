@@ -9540,3 +9540,4 @@
 0291. 📚 docs: write FAQ section
 0546. 🐛 fix: fix null pointer exception on login
 0590. 🐛 fix: fix null pointer exception on login
+0868. ✅ test: add unit test for quiz service
