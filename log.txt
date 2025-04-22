@@ -2622,3 +2622,4 @@
 0597. 🚀 perf: cache repeated calculations
 0114. ♻️ chore: update .gitignore
 0326. 🚀 perf: cache repeated calculations
+0475. 🔧 refactor: clean up auth middleware
