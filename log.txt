@@ -2639,3 +2639,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0143. ✨ feat: implement quiz timer feature
 0280. ✅ test: add integration test for /submit endpoint
+0341. 🚀 perf: lazy-load components
