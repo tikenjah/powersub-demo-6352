@@ -8505,3 +8505,4 @@
 0347. ♻️ chore: update .gitignore
 0888. 🚀 perf: lazy-load components
 0790. 📚 docs: write FAQ section
+0831. 📚 docs: clarify environment setup
