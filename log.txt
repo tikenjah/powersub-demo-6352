@@ -6510,3 +6510,4 @@
 0742. 📚 docs: clarify environment setup
 0275. 🎨 style: standardize quote style
 0861. ♻️ chore: clean up unused files
+0356. 📚 docs: write FAQ section
