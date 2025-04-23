@@ -6512,3 +6512,4 @@
 0861. ♻️ chore: clean up unused files
 0356. 📚 docs: write FAQ section
 0526. ✨ feat: add user authentication
+0300. ✨ feat: add export to CSV option
