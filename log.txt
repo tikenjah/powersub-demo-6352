@@ -2650,3 +2650,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0128. ♻️ chore: rename env.example
 0941. 🚀 perf: cache repeated calculations
+0157. ✅ test: mock database connection in test suite
