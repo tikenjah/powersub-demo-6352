@@ -2638,3 +2638,4 @@
 0695. ✨ feat: create admin dashboard
 0049. 🐛 fix: handle 500 error in quiz API
 0143. ✨ feat: implement quiz timer feature
+0280. ✅ test: add integration test for /submit endpoint
