@@ -2662,3 +2662,4 @@
 0056. ♻️ chore: rename env.example
 0789. ✨ feat: create admin dashboard
 0728. 🔧 refactor: split large controller into smaller functions
+0278. 🔧 refactor: clean up auth middleware
