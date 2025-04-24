@@ -2671,3 +2671,4 @@
 0876. ♻️ chore: rename env.example
 0644. 🎨 style: apply consistent indentation
 0961. 📚 docs: add API usage examples
+0739. 🎨 style: remove trailing whitespace
