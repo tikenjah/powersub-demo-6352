@@ -8510,3 +8510,4 @@
 0525. ✅ test: mock database connection in test suite
 0012. 🚀 perf: cache repeated calculations
 0670. ✨ feat: add export to CSV option
+0348. ✅ test: test user registration edge cases
