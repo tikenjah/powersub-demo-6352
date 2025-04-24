@@ -8508,3 +8508,4 @@
 0831. 📚 docs: clarify environment setup
 0451. ✨ feat: support email verification
 0525. ✅ test: mock database connection in test suite
+0012. 🚀 perf: cache repeated calculations
