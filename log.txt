@@ -2670,3 +2670,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0876. ♻️ chore: rename env.example
 0644. 🎨 style: apply consistent indentation
+0961. 📚 docs: add API usage examples
