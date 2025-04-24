@@ -2656,3 +2656,4 @@
 0075. ✅ test: mock database connection in test suite
 0487. 🎨 style: reformat files with black
 0499. 🎨 style: reformat files with black
+0564. 📚 docs: clarify environment setup
