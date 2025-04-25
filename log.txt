@@ -2675,3 +2675,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0369. 🎨 style: standardize quote style
 0053. ✅ test: increase coverage on auth module
+0624. ✅ test: add unit test for quiz service
