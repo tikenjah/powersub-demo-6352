@@ -9548,3 +9548,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0352. ✨ feat: add export to CSV option
 0667. ✨ feat: add export to CSV option
+0086. 🐛 fix: correct typo in registration form
