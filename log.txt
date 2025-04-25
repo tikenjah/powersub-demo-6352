@@ -2674,3 +2674,4 @@
 0739. 🎨 style: remove trailing whitespace
 0668. 🚀 perf: optimize database query for quiz results
 0369. 🎨 style: standardize quote style
+0053. ✅ test: increase coverage on auth module
