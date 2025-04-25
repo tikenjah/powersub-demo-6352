@@ -2682,3 +2682,4 @@
 0347. ♻️ chore: update .gitignore
 0419. 🎨 style: remove trailing whitespace
 0865. ♻️ chore: add GitHub actions badge
+0192. ✨ feat: enable dark mode toggle
