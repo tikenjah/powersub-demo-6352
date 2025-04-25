@@ -2678,3 +2678,4 @@
 0624. ✅ test: add unit test for quiz service
 0080. ✨ feat: support email verification
 0728. 🔧 refactor: split large controller into smaller functions
+0646. ✅ test: test user registration edge cases
