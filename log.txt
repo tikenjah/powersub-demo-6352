@@ -7552,3 +7552,4 @@
 0486. ✨ feat: add export to CSV option
 0927. ♻️ chore: bump dependencies
 0360. ✨ feat: add export to CSV option
+0099. 🚀 perf: reduce image load time
