@@ -6516,3 +6516,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0728. 🔧 refactor: split large controller into smaller functions
 0299. 🐛 fix: resolve issue with date parsing
+0377. ✨ feat: add user authentication
