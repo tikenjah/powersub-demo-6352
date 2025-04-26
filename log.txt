@@ -9550,3 +9550,4 @@
 0667. ✨ feat: add export to CSV option
 0086. 🐛 fix: correct typo in registration form
 0553. 🐛 fix: correct typo in registration form
+0670. ✨ feat: add export to CSV option
