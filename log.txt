@@ -10551,3 +10551,4 @@
 0087. ✨ feat: add export to CSV option
 0398. 🚀 perf: cache repeated calculations
 0944. ✨ feat: add user authentication
+0621. 🔧 refactor: clean up auth middleware
