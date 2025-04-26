@@ -2693,3 +2693,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0016. 🎨 style: apply consistent indentation
 0561. 📚 docs: write FAQ section
+0987. ✨ feat: create admin dashboard
