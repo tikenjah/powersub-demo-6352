@@ -9554,3 +9554,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0829. 🔧 refactor: organize models into subfolders
 0462. ♻️ chore: update .gitignore
+0354. 📚 docs: add API usage examples
