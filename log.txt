@@ -10553,3 +10553,4 @@
 0944. ✨ feat: add user authentication
 0621. 🔧 refactor: clean up auth middleware
 0828. ♻️ chore: add GitHub actions badge
+0864. 🐛 fix: correct typo in registration form
