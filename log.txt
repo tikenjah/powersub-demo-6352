@@ -2709,3 +2709,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0268. 🐛 fix: prevent crash on empty input
 0640. ♻️ chore: bump dependencies
+0191. 🔧 refactor: refactor quiz grading logic
