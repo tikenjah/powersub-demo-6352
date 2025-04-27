@@ -2707,3 +2707,4 @@
 0054. ♻️ chore: update .gitignore
 0509. ♻️ chore: bump dependencies
 0041. 🐛 fix: fix broken CSS in mobile view
+0268. 🐛 fix: prevent crash on empty input
