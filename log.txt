@@ -5525,3 +5525,4 @@
 0251. ♻️ chore: update .gitignore
 0883. 📚 docs: improve code comments in utils
 0753. 🔧 refactor: remove redundant code blocks
+0836. 🚀 perf: optimize database query for quiz results
