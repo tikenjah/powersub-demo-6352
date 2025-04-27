@@ -2704,3 +2704,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0561. 📚 docs: write FAQ section
 0467. ✅ test: add integration test for /submit endpoint
+0054. ♻️ chore: update .gitignore
