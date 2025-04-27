@@ -5522,3 +5522,4 @@
 0436. ✅ test: add integration test for /submit endpoint
 0123. ✨ feat: implement quiz timer feature
 0380. 🐛 fix: fix null pointer exception on login
+0251. ♻️ chore: update .gitignore
