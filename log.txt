@@ -7555,3 +7555,4 @@
 0099. 🚀 perf: reduce image load time
 0769. ✨ feat: create admin dashboard
 0327. 🔧 refactor: split large controller into smaller functions
+0995. ✅ test: mock database connection in test suite
