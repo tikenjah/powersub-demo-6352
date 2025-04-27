@@ -2703,3 +2703,4 @@
 0389. 📚 docs: improve code comments in utils
 0415. 🐛 fix: handle 500 error in quiz API
 0561. 📚 docs: write FAQ section
+0467. ✅ test: add integration test for /submit endpoint
