@@ -2713,3 +2713,4 @@
 0104. 🎨 style: apply consistent indentation
 0022. 📚 docs: document token refresh logic
 0247. 🎨 style: apply consistent indentation
+0902. ✨ feat: enable dark mode toggle
