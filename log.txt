@@ -2717,3 +2717,4 @@
 0604. 📚 docs: add API usage examples
 0232. 🎨 style: apply consistent indentation
 0113. ✨ feat: add user authentication
+0596. ♻️ chore: update .gitignore
