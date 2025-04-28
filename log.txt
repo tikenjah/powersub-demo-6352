@@ -2718,3 +2718,4 @@
 0232. 🎨 style: apply consistent indentation
 0113. ✨ feat: add user authentication
 0596. ♻️ chore: update .gitignore
+0734. ✨ feat: add export to CSV option
