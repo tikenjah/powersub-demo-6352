@@ -2727,3 +2727,4 @@
 0852. ✨ feat: enable dark mode toggle
 0324. 📚 docs: document token refresh logic
 0818. 🔧 refactor: remove redundant code blocks
+0727. ♻️ chore: add GitHub actions badge
