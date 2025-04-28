@@ -8518,3 +8518,4 @@
 0517. ✅ test: mock database connection in test suite
 0560. 🎨 style: rename variables for clarity
 0465. 🎨 style: rename variables for clarity
+0349. ✅ test: increase coverage on auth module
