@@ -2719,3 +2719,4 @@
 0113. ✨ feat: add user authentication
 0596. ♻️ chore: update .gitignore
 0734. ✨ feat: add export to CSV option
+0448. 🐛 fix: correct typo in registration form
