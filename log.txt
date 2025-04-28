@@ -7558,3 +7558,4 @@
 0995. ✅ test: mock database connection in test suite
 0357. ✅ test: add unit test for quiz service
 0147. ♻️ chore: bump dependencies
+0056. ♻️ chore: rename env.example
