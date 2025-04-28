@@ -2721,3 +2721,4 @@
 0734. ✨ feat: add export to CSV option
 0448. 🐛 fix: correct typo in registration form
 0977. 🔧 refactor: organize models into subfolders
+0598. 🔧 refactor: remove redundant code blocks
