@@ -6523,3 +6523,4 @@
 0363. 📚 docs: clarify environment setup
 0865. ♻️ chore: add GitHub actions badge
 0470. 🎨 style: remove trailing whitespace
+0139. 📚 docs: document token refresh logic
