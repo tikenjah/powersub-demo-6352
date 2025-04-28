@@ -2724,3 +2724,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0245. 🐛 fix: resolve issue with date parsing
 0645. 🐛 fix: resolve issue with date parsing
+0852. ✨ feat: enable dark mode toggle
