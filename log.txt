@@ -2738,3 +2738,4 @@
 0982. 🚀 perf: lazy-load components
 0373. 📚 docs: document token refresh logic
 0410. 🎨 style: reformat files with black
+0418. ✅ test: mock database connection in test suite
