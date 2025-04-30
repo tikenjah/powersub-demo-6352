@@ -6532,3 +6532,4 @@
 0112. ✨ feat: enable dark mode toggle
 0593. 🐛 fix: correct typo in registration form
 0668. 🚀 perf: optimize database query for quiz results
+0977. 🔧 refactor: organize models into subfolders
