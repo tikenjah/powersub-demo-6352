@@ -2743,3 +2743,4 @@
 0124. 🎨 style: reformat files with black
 0781. 🚀 perf: reduce image load time
 0211. 🔧 refactor: remove redundant code blocks
+0367. 🐛 fix: fix null pointer exception on login
