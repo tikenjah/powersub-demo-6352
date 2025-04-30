@@ -8525,3 +8525,4 @@
 0547. 📚 docs: write FAQ section
 0377. ✨ feat: add user authentication
 0040. 🔧 refactor: clean up auth middleware
+0074. ♻️ chore: add GitHub actions badge
