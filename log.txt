@@ -2752,3 +2752,4 @@
 0021. ✨ feat: support email verification
 0130. 🔧 refactor: split large controller into smaller functions
 0750. 🎨 style: apply consistent indentation
+0305. ✨ feat: enable dark mode toggle
