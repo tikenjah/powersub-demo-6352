@@ -6534,3 +6534,4 @@
 0668. 🚀 perf: optimize database query for quiz results
 0977. 🔧 refactor: organize models into subfolders
 0615. 🐛 fix: correct typo in registration form
+0076. 🎨 style: reformat files with black
