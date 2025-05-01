@@ -2759,3 +2759,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0689. 🎨 style: reformat files with black
 0247. 🎨 style: apply consistent indentation
+0346. ✅ test: mock database connection in test suite
