@@ -2754,3 +2754,4 @@
 0750. 🎨 style: apply consistent indentation
 0305. ✨ feat: enable dark mode toggle
 0657. 🎨 style: standardize quote style
+0158. 📚 docs: clarify environment setup
