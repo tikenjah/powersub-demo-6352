@@ -6535,3 +6535,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0615. 🐛 fix: correct typo in registration form
 0076. 🎨 style: reformat files with black
+0435. ✅ test: add unit test for quiz service
