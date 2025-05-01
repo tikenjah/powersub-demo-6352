@@ -10565,3 +10565,4 @@
 0685. ✅ test: test user registration edge cases
 0643. 🎨 style: apply consistent indentation
 0237. 🎨 style: standardize quote style
+0789. ✨ feat: create admin dashboard
