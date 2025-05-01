@@ -10563,3 +10563,4 @@
 0927. ♻️ chore: bump dependencies
 0477. 🐛 fix: fix broken CSS in mobile view
 0685. ✅ test: test user registration edge cases
+0643. 🎨 style: apply consistent indentation
