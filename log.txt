@@ -2767,3 +2767,4 @@
 0965. 🎨 style: reformat files with black
 0090. ✅ test: increase coverage on auth module
 0265. 🎨 style: reformat files with black
+0081. 🐛 fix: fix null pointer exception on login
