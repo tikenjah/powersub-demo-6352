@@ -8529,3 +8529,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0584. 🚀 perf: lazy-load components
 0104. 🎨 style: apply consistent indentation
+0942. ✅ test: increase coverage on auth module
