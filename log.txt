@@ -6537,3 +6537,4 @@
 0076. 🎨 style: reformat files with black
 0435. ✅ test: add unit test for quiz service
 0265. 🎨 style: reformat files with black
+0928. 🎨 style: apply consistent indentation
