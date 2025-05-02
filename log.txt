@@ -2778,3 +2778,4 @@
 0037. 🐛 fix: correct typo in registration form
 0645. 🐛 fix: resolve issue with date parsing
 0792. 🎨 style: standardize quote style
+0490. ✨ feat: create admin dashboard
