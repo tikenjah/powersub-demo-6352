@@ -6539,3 +6539,4 @@
 0265. 🎨 style: reformat files with black
 0928. 🎨 style: apply consistent indentation
 0940. 📚 docs: document token refresh logic
+0678. ✨ feat: add user authentication
