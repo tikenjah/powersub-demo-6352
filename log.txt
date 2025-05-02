@@ -5542,3 +5542,4 @@
 0326. 🚀 perf: cache repeated calculations
 0484. 🐛 fix: handle 500 error in quiz API
 0744. 🔧 refactor: remove redundant code blocks
+0489. 🔧 refactor: organize models into subfolders
