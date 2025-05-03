@@ -2790,3 +2790,4 @@
 0839. 🎨 style: apply consistent indentation
 0969. ✨ feat: create admin dashboard
 0237. 🎨 style: standardize quote style
+0515. 🚀 perf: optimize database query for quiz results
