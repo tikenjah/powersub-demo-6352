@@ -6545,3 +6545,4 @@
 0929. ✨ feat: support email verification
 0061. ✨ feat: create admin dashboard
 0392. 🎨 style: remove trailing whitespace
+0084. 🐛 fix: handle 500 error in quiz API
