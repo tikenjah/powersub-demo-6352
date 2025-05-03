@@ -8532,3 +8532,4 @@
 0942. ✅ test: increase coverage on auth module
 0196. ♻️ chore: bump dependencies
 0566. 📚 docs: write FAQ section
+0218. 🔧 refactor: clean up auth middleware
