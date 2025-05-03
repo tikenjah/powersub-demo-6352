@@ -2783,3 +2783,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0312. ✨ feat: add user authentication
 0719. 🎨 style: apply consistent indentation
+0621. 🔧 refactor: clean up auth middleware
