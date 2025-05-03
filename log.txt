@@ -2788,3 +2788,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0798. 🚀 perf: reduce image load time
 0839. 🎨 style: apply consistent indentation
+0969. ✨ feat: create admin dashboard
