@@ -5546,3 +5546,4 @@
 0423. ✅ test: mock database connection in test suite
 0699. 🎨 style: standardize quote style
 0108. 🎨 style: remove trailing whitespace
+0241. 📚 docs: add API usage examples
