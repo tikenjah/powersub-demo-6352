@@ -2787,3 +2787,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0084. 🐛 fix: handle 500 error in quiz API
 0798. 🚀 perf: reduce image load time
+0839. 🎨 style: apply consistent indentation
