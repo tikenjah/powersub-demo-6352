@@ -7569,3 +7569,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0021. ✨ feat: support email verification
 0361. ✨ feat: support email verification
+0567. 📚 docs: add API usage examples
