@@ -2811,3 +2811,4 @@
 0619. ✨ feat: create admin dashboard
 0880. 🐛 fix: fix broken CSS in mobile view
 0957. 🐛 fix: fix null pointer exception on login
+0374. 🎨 style: standardize quote style
