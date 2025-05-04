@@ -2808,3 +2808,4 @@
 0372. ✨ feat: add user authentication
 0195. 📚 docs: clarify environment setup
 0568. 🐛 fix: handle 500 error in quiz API
+0619. ✨ feat: create admin dashboard
