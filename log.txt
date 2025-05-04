@@ -7570,3 +7570,4 @@
 0021. ✨ feat: support email verification
 0361. ✨ feat: support email verification
 0567. 📚 docs: add API usage examples
+0062. ♻️ chore: update .gitignore
