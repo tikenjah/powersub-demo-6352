@@ -2810,3 +2810,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0619. ✨ feat: create admin dashboard
 0880. 🐛 fix: fix broken CSS in mobile view
+0957. 🐛 fix: fix null pointer exception on login
