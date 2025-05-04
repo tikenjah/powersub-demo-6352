@@ -2802,3 +2802,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0877. 🚀 perf: optimize database query for quiz results
 0219. ✅ test: increase coverage on auth module
+0250. 📚 docs: update README with setup steps
