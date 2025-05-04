@@ -6548,3 +6548,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0619. ✨ feat: create admin dashboard
 0313. 🎨 style: apply consistent indentation
+0931. 🚀 perf: reduce image load time
