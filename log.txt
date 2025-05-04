@@ -2806,3 +2806,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0617. ✨ feat: support email verification
 0372. ✨ feat: add user authentication
+0195. 📚 docs: clarify environment setup
