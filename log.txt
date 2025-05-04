@@ -2796,3 +2796,4 @@
 0350. 🚀 perf: cache repeated calculations
 0463. 🚀 perf: reduce image load time
 0161. ✨ feat: create admin dashboard
+0651. ✨ feat: enable dark mode toggle
