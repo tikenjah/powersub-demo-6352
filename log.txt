@@ -2825,3 +2825,4 @@
 0834. ✅ test: increase coverage on auth module
 0771. 🚀 perf: cache repeated calculations
 0722. 📚 docs: add API usage examples
+0799. ♻️ chore: clean up unused files
