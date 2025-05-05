@@ -2835,3 +2835,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0267. 📚 docs: improve code comments in utils
 0740. 🐛 fix: resolve issue with date parsing
+0985. 📚 docs: document token refresh logic
