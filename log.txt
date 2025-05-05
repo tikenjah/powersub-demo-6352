@@ -2821,3 +2821,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0296. 🔧 refactor: organize models into subfolders
 0477. 🐛 fix: fix broken CSS in mobile view
+0106. 🎨 style: reformat files with black
