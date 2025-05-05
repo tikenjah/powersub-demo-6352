@@ -6551,3 +6551,4 @@
 0931. 🚀 perf: reduce image load time
 0531. 🐛 fix: prevent crash on empty input
 0599. ✅ test: test user registration edge cases
+0222. 🐛 fix: handle 500 error in quiz API
