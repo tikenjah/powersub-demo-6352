@@ -7577,3 +7577,4 @@
 0448. 🐛 fix: correct typo in registration form
 0078. ♻️ chore: update .gitignore
 0666. 🐛 fix: fix broken CSS in mobile view
+0583. ✅ test: increase coverage on auth module
