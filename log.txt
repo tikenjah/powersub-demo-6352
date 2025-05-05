@@ -2826,3 +2826,4 @@
 0771. 🚀 perf: cache repeated calculations
 0722. 📚 docs: add API usage examples
 0799. ♻️ chore: clean up unused files
+0539. 🔧 refactor: organize models into subfolders
