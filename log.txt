@@ -6549,3 +6549,4 @@
 0619. ✨ feat: create admin dashboard
 0313. 🎨 style: apply consistent indentation
 0931. 🚀 perf: reduce image load time
+0531. 🐛 fix: prevent crash on empty input
