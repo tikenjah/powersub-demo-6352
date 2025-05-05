@@ -2816,3 +2816,4 @@
 0313. 🎨 style: apply consistent indentation
 0623. 🎨 style: standardize quote style
 0235. 🐛 fix: fix null pointer exception on login
+0109. 🚀 perf: lazy-load components
