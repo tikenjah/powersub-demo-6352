@@ -5554,3 +5554,4 @@
 0547. 📚 docs: write FAQ section
 0277. 🎨 style: standardize quote style
 0166. 🚀 perf: cache repeated calculations
+0371. ✅ test: add integration test for /submit endpoint
