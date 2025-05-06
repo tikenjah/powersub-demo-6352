@@ -6555,3 +6555,4 @@
 0582. ✨ feat: add export to CSV option
 0560. 🎨 style: rename variables for clarity
 0803. ✅ test: mock database connection in test suite
+0090. ✅ test: increase coverage on auth module
