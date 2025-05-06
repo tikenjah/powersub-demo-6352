@@ -8538,3 +8538,4 @@
 0232. 🎨 style: apply consistent indentation
 0354. 📚 docs: add API usage examples
 0867. 🔧 refactor: refactor quiz grading logic
+0820. 📚 docs: add API usage examples
