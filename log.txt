@@ -9576,3 +9576,4 @@
 0145. 📚 docs: improve code comments in utils
 0714. 📚 docs: improve code comments in utils
 0372. ✨ feat: add user authentication
+0300. ✨ feat: add export to CSV option
