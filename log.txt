@@ -2852,3 +2852,4 @@
 0313. 🎨 style: apply consistent indentation
 0221. ✨ feat: add user authentication
 0278. 🔧 refactor: clean up auth middleware
+0473. 📚 docs: write FAQ section
