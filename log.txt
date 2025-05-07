@@ -7584,3 +7584,4 @@
 0337. 📚 docs: document token refresh logic
 0849. 🐛 fix: correct typo in registration form
 0826. 📚 docs: clarify environment setup
+0086. 🐛 fix: correct typo in registration form
