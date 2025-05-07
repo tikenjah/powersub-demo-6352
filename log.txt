@@ -7585,3 +7585,4 @@
 0849. 🐛 fix: correct typo in registration form
 0826. 📚 docs: clarify environment setup
 0086. 🐛 fix: correct typo in registration form
+0521. 🎨 style: standardize quote style
