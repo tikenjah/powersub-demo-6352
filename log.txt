@@ -2872,3 +2872,4 @@
 0180. ✨ feat: add export to CSV option
 0465. 🎨 style: rename variables for clarity
 0627. 📚 docs: document token refresh logic
+0610. 🚀 perf: lazy-load components
