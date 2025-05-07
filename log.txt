@@ -6557,3 +6557,4 @@
 0803. ✅ test: mock database connection in test suite
 0090. ✅ test: increase coverage on auth module
 0287. 📚 docs: write FAQ section
+0178. ✨ feat: support email verification
