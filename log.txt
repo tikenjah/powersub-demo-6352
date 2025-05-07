@@ -2864,3 +2864,4 @@
 0764. ✨ feat: add user authentication
 0046. 🎨 style: rename variables for clarity
 0331. 🐛 fix: fix broken CSS in mobile view
+0956. 📚 docs: clarify environment setup
