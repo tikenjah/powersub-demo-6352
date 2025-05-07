@@ -2875,3 +2875,4 @@
 0610. 🚀 perf: lazy-load components
 0864. 🐛 fix: correct typo in registration form
 0053. ✅ test: increase coverage on auth module
+1000. ✅ test: increase coverage on auth module
