@@ -7590,3 +7590,4 @@
 0114. ♻️ chore: update .gitignore
 0469. 🚀 perf: lazy-load components
 0279. ✨ feat: support email verification
+0064. 📚 docs: clarify environment setup
