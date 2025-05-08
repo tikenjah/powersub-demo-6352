@@ -10583,3 +10583,4 @@
 0979. 🎨 style: standardize quote style
 0153. ♻️ chore: rename env.example
 0825. 🔧 refactor: split large controller into smaller functions
+0751. 🐛 fix: handle 500 error in quiz API
