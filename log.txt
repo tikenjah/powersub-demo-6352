@@ -2897,3 +2897,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
 0356. 📚 docs: write FAQ section
+0578. ✅ test: add integration test for /submit endpoint
