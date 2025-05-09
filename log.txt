@@ -5559,3 +5559,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0383. 🐛 fix: fix broken CSS in mobile view
 0705. 🔧 refactor: refactor quiz grading logic
+0820. 📚 docs: add API usage examples
