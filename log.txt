@@ -5560,3 +5560,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0705. 🔧 refactor: refactor quiz grading logic
 0820. 📚 docs: add API usage examples
+0758. 🚀 perf: optimize database query for quiz results
