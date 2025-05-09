@@ -2890,3 +2890,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0576. ♻️ chore: update .gitignore
 0473. 📚 docs: write FAQ section
+0660. 🐛 fix: correct typo in registration form
