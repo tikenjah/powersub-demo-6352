@@ -9582,3 +9582,4 @@
 0290. ✅ test: test user registration edge cases
 0529. 📚 docs: write FAQ section
 0960. ✅ test: increase coverage on auth module
+0789. ✨ feat: create admin dashboard
