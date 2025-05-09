@@ -2896,3 +2896,4 @@
 0339. 📚 docs: update README with setup steps
 0089. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
+0356. 📚 docs: write FAQ section
