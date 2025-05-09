@@ -8548,3 +8548,4 @@
 0554. 📚 docs: improve code comments in utils
 0509. ♻️ chore: bump dependencies
 0770. ♻️ chore: rename env.example
+0888. 🚀 perf: lazy-load components
