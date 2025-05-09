@@ -2891,3 +2891,4 @@
 0576. ♻️ chore: update .gitignore
 0473. 📚 docs: write FAQ section
 0660. 🐛 fix: correct typo in registration form
+0964. ♻️ chore: clean up unused files
