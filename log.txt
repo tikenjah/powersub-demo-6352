@@ -6566,3 +6566,4 @@
 0333. 🚀 perf: cache repeated calculations
 0155. ✨ feat: create admin dashboard
 0415. 🐛 fix: handle 500 error in quiz API
+0358. 🚀 perf: reduce image load time
