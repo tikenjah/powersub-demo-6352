@@ -6564,3 +6564,4 @@
 0765. ♻️ chore: clean up unused files
 0918. ✨ feat: enable dark mode toggle
 0333. 🚀 perf: cache repeated calculations
+0155. ✨ feat: create admin dashboard
