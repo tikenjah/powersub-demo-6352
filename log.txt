@@ -9586,3 +9586,4 @@
 0793. 📚 docs: clarify environment setup
 0529. 📚 docs: write FAQ section
 0820. 📚 docs: add API usage examples
+0914. ✅ test: test user registration edge cases
