@@ -2906,3 +2906,4 @@
 0453. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
 0101. 📚 docs: clarify environment setup
+0860. 🔧 refactor: organize models into subfolders
