@@ -8552,3 +8552,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0586. 🎨 style: remove trailing whitespace
 0010. ✨ feat: add user authentication
+0078. ♻️ chore: update .gitignore
