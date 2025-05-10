@@ -2898,3 +2898,4 @@
 0419. 🎨 style: remove trailing whitespace
 0356. 📚 docs: write FAQ section
 0578. ✅ test: add integration test for /submit endpoint
+0696. 🔧 refactor: clean up auth middleware
