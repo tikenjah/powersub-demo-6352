@@ -2900,3 +2900,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0696. 🔧 refactor: clean up auth middleware
 0665. ♻️ chore: update .gitignore
+0905. ♻️ chore: bump dependencies
