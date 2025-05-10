@@ -2905,3 +2905,4 @@
 0377. ✨ feat: add user authentication
 0453. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
+0101. 📚 docs: clarify environment setup
