@@ -8554,3 +8554,4 @@
 0010. ✨ feat: add user authentication
 0078. ♻️ chore: update .gitignore
 0064. 📚 docs: clarify environment setup
+0127. 🐛 fix: fix null pointer exception on login
