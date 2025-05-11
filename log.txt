@@ -9591,3 +9591,4 @@
 0960. ✅ test: increase coverage on auth module
 0260. ✨ feat: create admin dashboard
 0624. ✅ test: add unit test for quiz service
+0771. 🚀 perf: cache repeated calculations
