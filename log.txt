@@ -2928,3 +2928,4 @@
 0748. 🚀 perf: optimize database query for quiz results
 0793. 📚 docs: clarify environment setup
 0570. 🎨 style: apply consistent indentation
+0868. ✅ test: add unit test for quiz service
