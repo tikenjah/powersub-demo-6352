@@ -9589,3 +9589,4 @@
 0914. ✅ test: test user registration edge cases
 0273. 🚀 perf: reduce image load time
 0960. ✅ test: increase coverage on auth module
+0260. ✨ feat: create admin dashboard
