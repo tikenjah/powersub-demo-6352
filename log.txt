@@ -9593,3 +9593,4 @@
 0624. ✅ test: add unit test for quiz service
 0771. 🚀 perf: cache repeated calculations
 0867. 🔧 refactor: refactor quiz grading logic
+0733. 🐛 fix: fix null pointer exception on login
