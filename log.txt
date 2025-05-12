@@ -2934,3 +2934,4 @@
 0470. 🎨 style: remove trailing whitespace
 0320. 📚 docs: update README with setup steps
 0790. 📚 docs: write FAQ section
+0844. 📚 docs: update README with setup steps
