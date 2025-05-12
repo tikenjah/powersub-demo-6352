@@ -2941,3 +2941,4 @@
 0501. ✨ feat: add export to CSV option
 0902. ✨ feat: enable dark mode toggle
 0994. 🚀 perf: reduce image load time
+0802. 🔧 refactor: remove redundant code blocks
