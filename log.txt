@@ -6572,3 +6572,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0386. 🚀 perf: optimize database query for quiz results
 0100. ♻️ chore: update .gitignore
+0585. 🚀 perf: lazy-load components
