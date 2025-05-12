@@ -2932,3 +2932,4 @@
 0342. 🚀 perf: cache repeated calculations
 0988. 🐛 fix: fix broken CSS in mobile view
 0470. 🎨 style: remove trailing whitespace
+0320. 📚 docs: update README with setup steps
