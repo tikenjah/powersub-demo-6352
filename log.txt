@@ -2940,3 +2940,4 @@
 0005. ✅ test: add unit test for quiz service
 0501. ✨ feat: add export to CSV option
 0902. ✨ feat: enable dark mode toggle
+0994. 🚀 perf: reduce image load time
