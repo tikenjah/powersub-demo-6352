@@ -10595,3 +10595,4 @@
 0723. 🔧 refactor: remove redundant code blocks
 0434. 📚 docs: document token refresh logic
 0115. 🚀 perf: reduce image load time
+0121. ✨ feat: support email verification
