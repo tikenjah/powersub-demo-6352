@@ -5570,3 +5570,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0798. 🚀 perf: reduce image load time
 0812. 🔧 refactor: refactor quiz grading logic
+0731. 🎨 style: standardize quote style
