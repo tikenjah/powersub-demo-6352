@@ -10594,3 +10594,4 @@
 0720. ✨ feat: add export to CSV option
 0723. 🔧 refactor: remove redundant code blocks
 0434. 📚 docs: document token refresh logic
+0115. 🚀 perf: reduce image load time
