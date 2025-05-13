@@ -2946,3 +2946,4 @@
 0002. 🚀 perf: cache repeated calculations
 0371. ✅ test: add integration test for /submit endpoint
 0660. 🐛 fix: correct typo in registration form
+0946. ✅ test: add unit test for quiz service
