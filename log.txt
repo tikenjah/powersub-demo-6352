@@ -2960,3 +2960,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0320. 📚 docs: update README with setup steps
 0087. ✨ feat: add export to CSV option
+0278. 🔧 refactor: clean up auth middleware
