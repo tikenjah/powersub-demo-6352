@@ -2965,3 +2965,4 @@
 0570. 🎨 style: apply consistent indentation
 0029. 🚀 perf: lazy-load components
 0127. 🐛 fix: fix null pointer exception on login
+0170. ✅ test: increase coverage on auth module
