@@ -5576,3 +5576,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0679. ♻️ chore: bump dependencies
 0740. 🐛 fix: resolve issue with date parsing
+0379. ✨ feat: support email verification
