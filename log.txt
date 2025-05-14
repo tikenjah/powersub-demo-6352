@@ -2964,3 +2964,4 @@
 0340. 🚀 perf: optimize database query for quiz results
 0570. 🎨 style: apply consistent indentation
 0029. 🚀 perf: lazy-load components
+0127. 🐛 fix: fix null pointer exception on login
