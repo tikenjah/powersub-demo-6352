@@ -2963,3 +2963,4 @@
 0278. 🔧 refactor: clean up auth middleware
 0340. 🚀 perf: optimize database query for quiz results
 0570. 🎨 style: apply consistent indentation
+0029. 🚀 perf: lazy-load components
