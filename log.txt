@@ -2968,3 +2968,4 @@
 0170. ✅ test: increase coverage on auth module
 0566. 📚 docs: write FAQ section
 0123. ✨ feat: implement quiz timer feature
+0819. 🚀 perf: reduce image load time
