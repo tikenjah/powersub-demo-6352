@@ -10600,3 +10600,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0778. 📚 docs: write FAQ section
 0844. 📚 docs: update README with setup steps
+0923. ✨ feat: support email verification
