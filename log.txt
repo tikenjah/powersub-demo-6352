@@ -7598,3 +7598,4 @@
 0510. 🎨 style: rename variables for clarity
 0343. 🚀 perf: optimize database query for quiz results
 0160. ♻️ chore: bump dependencies
+0579. 📚 docs: clarify environment setup
