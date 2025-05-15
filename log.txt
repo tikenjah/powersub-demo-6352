@@ -7600,3 +7600,4 @@
 0160. ♻️ chore: bump dependencies
 0579. 📚 docs: clarify environment setup
 0117. ✅ test: increase coverage on auth module
+0581. ✅ test: add integration test for /submit endpoint
