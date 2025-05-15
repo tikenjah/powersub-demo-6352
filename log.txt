@@ -10602,3 +10602,4 @@
 0844. 📚 docs: update README with setup steps
 0923. ✨ feat: support email verification
 0968. 🎨 style: standardize quote style
+0504. 📚 docs: document token refresh logic
