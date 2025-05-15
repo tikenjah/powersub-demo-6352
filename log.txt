@@ -2981,3 +2981,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0089. 🔧 refactor: remove redundant code blocks
 0393. 🚀 perf: lazy-load components
+0290. ✅ test: test user registration edge cases
