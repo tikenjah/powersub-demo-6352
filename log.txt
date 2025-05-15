@@ -10598,3 +10598,4 @@
 0121. ✨ feat: support email verification
 0619. ✨ feat: create admin dashboard
 0744. 🔧 refactor: remove redundant code blocks
+0778. 📚 docs: write FAQ section
