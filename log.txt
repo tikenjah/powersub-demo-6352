@@ -2970,3 +2970,4 @@
 0123. ✨ feat: implement quiz timer feature
 0819. 🚀 perf: reduce image load time
 0106. 🎨 style: reformat files with black
+0105. 🐛 fix: correct typo in registration form
