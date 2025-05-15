@@ -2971,3 +2971,4 @@
 0819. 🚀 perf: reduce image load time
 0106. 🎨 style: reformat files with black
 0105. 🐛 fix: correct typo in registration form
+0621. 🔧 refactor: clean up auth middleware
