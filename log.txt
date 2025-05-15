@@ -7596,3 +7596,4 @@
 0101. 📚 docs: clarify environment setup
 0350. 🚀 perf: cache repeated calculations
 0510. 🎨 style: rename variables for clarity
+0343. 🚀 perf: optimize database query for quiz results
