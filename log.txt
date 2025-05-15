@@ -6582,3 +6582,4 @@
 0239. 🎨 style: standardize quote style
 0326. 🚀 perf: cache repeated calculations
 0284. ✨ feat: implement quiz timer feature
+0889. 🚀 perf: lazy-load components
