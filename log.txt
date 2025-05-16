@@ -5578,3 +5578,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0379. ✨ feat: support email verification
 0949. 📚 docs: write FAQ section
+0080. ✨ feat: support email verification
