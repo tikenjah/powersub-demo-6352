@@ -2986,3 +2986,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0317. ✅ test: test user registration edge cases
 0300. ✨ feat: add export to CSV option
+0519. 📚 docs: document token refresh logic
