@@ -6584,3 +6584,4 @@
 0284. ✨ feat: implement quiz timer feature
 0889. 🚀 perf: lazy-load components
 0446. 🎨 style: apply consistent indentation
+0565. ♻️ chore: add GitHub actions badge
