@@ -7606,3 +7606,4 @@
 0576. ♻️ chore: update .gitignore
 0012. 🚀 perf: cache repeated calculations
 0323. 📚 docs: clarify environment setup
+0320. 📚 docs: update README with setup steps
