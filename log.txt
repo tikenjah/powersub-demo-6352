@@ -5581,3 +5581,4 @@
 0080. ✨ feat: support email verification
 0992. ♻️ chore: clean up unused files
 0450. 🐛 fix: fix broken CSS in mobile view
+0317. ✅ test: test user registration edge cases
