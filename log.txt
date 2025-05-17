@@ -10610,3 +10610,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0607. 🐛 fix: prevent crash on empty input
 0155. ✨ feat: create admin dashboard
+0997. ✅ test: increase coverage on auth module
