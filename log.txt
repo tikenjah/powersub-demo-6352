@@ -9603,3 +9603,4 @@
 0132. ✅ test: add unit test for quiz service
 0121. ✨ feat: support email verification
 0832. 🔧 refactor: remove redundant code blocks
+0573. ✅ test: add integration test for /submit endpoint
