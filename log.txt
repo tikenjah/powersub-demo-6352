@@ -2992,3 +2992,4 @@
 0004. 🚀 perf: optimize database query for quiz results
 0835. 🐛 fix: prevent crash on empty input
 0828. ♻️ chore: add GitHub actions badge
+0467. ✅ test: add integration test for /submit endpoint
