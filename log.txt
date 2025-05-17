@@ -9601,3 +9601,4 @@
 0287. 📚 docs: write FAQ section
 0355. 🚀 perf: optimize database query for quiz results
 0132. ✅ test: add unit test for quiz service
+0121. ✨ feat: support email verification
