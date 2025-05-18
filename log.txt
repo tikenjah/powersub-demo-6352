@@ -3010,3 +3010,4 @@
 0984. ♻️ chore: clean up unused files
 0916. ♻️ chore: bump dependencies
 0092. 🚀 perf: reduce image load time
+0091. ✨ feat: add user authentication
