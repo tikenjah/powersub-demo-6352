@@ -5584,3 +5584,4 @@
 0317. ✅ test: test user registration edge cases
 0733. 🐛 fix: fix null pointer exception on login
 0954. 🚀 perf: cache repeated calculations
+0562. 🔧 refactor: clean up auth middleware
