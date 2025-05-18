@@ -3001,3 +3001,4 @@
 0403. ✅ test: mock database connection in test suite
 0829. 🔧 refactor: organize models into subfolders
 0922. 📚 docs: write FAQ section
+0253. 📚 docs: update README with setup steps
