@@ -3002,3 +3002,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0922. 📚 docs: write FAQ section
 0253. 📚 docs: update README with setup steps
+0203. 🚀 perf: lazy-load components
