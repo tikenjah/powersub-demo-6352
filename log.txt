@@ -7608,3 +7608,4 @@
 0323. 📚 docs: clarify environment setup
 0320. 📚 docs: update README with setup steps
 0387. ✨ feat: enable dark mode toggle
+0857. 🎨 style: rename variables for clarity
