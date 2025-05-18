@@ -2998,3 +2998,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0196. ♻️ chore: bump dependencies
 0587. 🔧 refactor: remove redundant code blocks
+0403. ✅ test: mock database connection in test suite
