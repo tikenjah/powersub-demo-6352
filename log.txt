@@ -8573,3 +8573,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0783. 🐛 fix: handle 500 error in quiz API
 0237. 🎨 style: standardize quote style
+0794. ♻️ chore: clean up unused files
