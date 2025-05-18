@@ -3011,3 +3011,4 @@
 0916. ♻️ chore: bump dependencies
 0092. 🚀 perf: reduce image load time
 0091. ✨ feat: add user authentication
+0329. 📚 docs: update README with setup steps
