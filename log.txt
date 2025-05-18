@@ -3000,3 +3000,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0403. ✅ test: mock database connection in test suite
 0829. 🔧 refactor: organize models into subfolders
+0922. 📚 docs: write FAQ section
