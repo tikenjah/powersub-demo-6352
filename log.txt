@@ -8574,3 +8574,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0237. 🎨 style: standardize quote style
 0794. ♻️ chore: clean up unused files
+0795. 📚 docs: update README with setup steps
