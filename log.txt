@@ -3006,3 +3006,4 @@
 0239. 🎨 style: standardize quote style
 0514. 🐛 fix: fix broken CSS in mobile view
 0302. ✨ feat: implement quiz timer feature
+0307. ✨ feat: support email verification
