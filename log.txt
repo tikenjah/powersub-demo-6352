@@ -3022,3 +3022,4 @@
 0410. 🎨 style: reformat files with black
 0355. 🚀 perf: optimize database query for quiz results
 0111. 📚 docs: update README with setup steps
+0653. 🐛 fix: prevent crash on empty input
