@@ -5586,3 +5586,4 @@
 0954. 🚀 perf: cache repeated calculations
 0562. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
+0931. 🚀 perf: reduce image load time
