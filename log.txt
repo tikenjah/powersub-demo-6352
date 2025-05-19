@@ -3024,3 +3024,4 @@
 0111. 📚 docs: update README with setup steps
 0653. 🐛 fix: prevent crash on empty input
 0881. 🔧 refactor: split large controller into smaller functions
+0776. ✅ test: add integration test for /submit endpoint
