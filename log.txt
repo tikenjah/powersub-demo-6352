@@ -3017,3 +3017,4 @@
 0777. 📚 docs: document token refresh logic
 0509. ♻️ chore: bump dependencies
 0265. 🎨 style: reformat files with black
+0391. 🐛 fix: fix null pointer exception on login
