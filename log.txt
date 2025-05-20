@@ -5588,3 +5588,4 @@
 0116. ✨ feat: support email verification
 0931. 🚀 perf: reduce image load time
 0685. ✅ test: test user registration edge cases
+0253. 📚 docs: update README with setup steps
