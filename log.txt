@@ -5587,3 +5587,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0116. ✨ feat: support email verification
 0931. 🚀 perf: reduce image load time
+0685. ✅ test: test user registration edge cases
