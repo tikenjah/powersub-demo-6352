@@ -3030,3 +3030,4 @@
 0572. ✨ feat: add user authentication
 0008. 🚀 perf: reduce image load time
 0911. ✅ test: increase coverage on auth module
+0349. ✅ test: increase coverage on auth module
