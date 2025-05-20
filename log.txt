@@ -9612,3 +9612,4 @@
 0528. ♻️ chore: clean up unused files
 0988. 🐛 fix: fix broken CSS in mobile view
 0388. 🎨 style: reformat files with black
+0250. 📚 docs: update README with setup steps
