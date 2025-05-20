@@ -3032,3 +3032,4 @@
 0911. ✅ test: increase coverage on auth module
 0349. ✅ test: increase coverage on auth module
 0866. 📚 docs: add API usage examples
+0260. ✨ feat: create admin dashboard
