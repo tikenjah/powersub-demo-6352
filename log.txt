@@ -3047,3 +3047,4 @@
 0535. 📚 docs: write FAQ section
 0001. 🚀 perf: cache repeated calculations
 0061. ✨ feat: create admin dashboard
+0604. 📚 docs: add API usage examples
