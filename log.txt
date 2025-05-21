@@ -8578,3 +8578,4 @@
 0580. ♻️ chore: bump dependencies
 0202. 🔧 refactor: refactor quiz grading logic
 0310. 🔧 refactor: refactor quiz grading logic
+0029. 🚀 perf: lazy-load components
