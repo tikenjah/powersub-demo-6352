@@ -3043,3 +3043,4 @@
 0864. 🐛 fix: correct typo in registration form
 0173. 🚀 perf: cache repeated calculations
 0439. 🐛 fix: correct typo in registration form
+0926. 🔧 refactor: organize models into subfolders
