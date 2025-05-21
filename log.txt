@@ -7620,3 +7620,4 @@
 0392. 🎨 style: remove trailing whitespace
 0073. 🔧 refactor: split large controller into smaller functions
 0455. ♻️ chore: clean up unused files
+0048. 📚 docs: update README with setup steps
