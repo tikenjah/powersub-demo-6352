@@ -9618,3 +9618,4 @@
 0356. 📚 docs: write FAQ section
 0798. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0233. 🚀 perf: lazy-load components
