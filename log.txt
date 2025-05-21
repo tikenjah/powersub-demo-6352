@@ -9615,3 +9615,4 @@
 0250. 📚 docs: update README with setup steps
 0219. ✅ test: increase coverage on auth module
 0301. 🎨 style: apply consistent indentation
+0356. 📚 docs: write FAQ section
