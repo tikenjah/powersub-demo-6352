@@ -6596,3 +6596,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0446. 🎨 style: apply consistent indentation
 0557. 🔧 refactor: clean up auth middleware
+0659. 📚 docs: add API usage examples
