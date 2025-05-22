@@ -8583,3 +8583,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0416. 🎨 style: rename variables for clarity
 0924. ✅ test: mock database connection in test suite
+0573. ✅ test: add integration test for /submit endpoint
