@@ -10618,3 +10618,4 @@
 0707. 🎨 style: apply consistent indentation
 0017. ✅ test: mock database connection in test suite
 0714. 📚 docs: improve code comments in utils
+0737. 🐛 fix: handle 500 error in quiz API
