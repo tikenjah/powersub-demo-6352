@@ -10621,3 +10621,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0965. 🎨 style: reformat files with black
 0719. 🎨 style: apply consistent indentation
+0158. 📚 docs: clarify environment setup
