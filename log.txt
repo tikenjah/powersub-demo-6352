@@ -5593,3 +5593,4 @@
 0045. 🎨 style: apply consistent indentation
 0953. 🎨 style: remove trailing whitespace
 0104. 🎨 style: apply consistent indentation
+0895. ✨ feat: support email verification
