@@ -3073,3 +3073,4 @@
 0992. ♻️ chore: clean up unused files
 0593. 🐛 fix: correct typo in registration form
 0706. ✨ feat: support email verification
+0131. 📚 docs: write FAQ section
