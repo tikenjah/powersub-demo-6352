@@ -3068,3 +3068,4 @@
 0641. 📚 docs: write FAQ section
 0859. ✨ feat: create admin dashboard
 0271. ✅ test: add unit test for quiz service
+0097. 🐛 fix: handle 500 error in quiz API
