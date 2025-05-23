@@ -3064,3 +3064,4 @@
 0876. ♻️ chore: rename env.example
 0121. ✨ feat: support email verification
 0642. 🚀 perf: optimize database query for quiz results
+0125. ✅ test: add integration test for /submit endpoint
