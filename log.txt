@@ -7627,3 +7627,4 @@
 0990. ♻️ chore: rename env.example
 0673. 🐛 fix: correct typo in registration form
 0398. 🚀 perf: cache repeated calculations
+0629. 🔧 refactor: organize models into subfolders
