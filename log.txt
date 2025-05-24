@@ -3089,3 +3089,4 @@
 0824. 🚀 perf: lazy-load components
 0616. 🚀 perf: lazy-load components
 0252. 🎨 style: remove trailing whitespace
+0006. 🐛 fix: prevent crash on empty input
