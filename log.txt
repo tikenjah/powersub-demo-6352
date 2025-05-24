@@ -10625,3 +10625,4 @@
 0809. ♻️ chore: rename env.example
 0225. 🚀 perf: reduce image load time
 0282. 🔧 refactor: remove redundant code blocks
+0482. ✨ feat: add export to CSV option
