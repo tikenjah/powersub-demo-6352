@@ -9625,3 +9625,4 @@
 0884. 📚 docs: clarify environment setup
 0830. 🎨 style: apply consistent indentation
 0794. ♻️ chore: clean up unused files
+0475. 🔧 refactor: clean up auth middleware
