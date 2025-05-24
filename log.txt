@@ -10626,3 +10626,4 @@
 0225. 🚀 perf: reduce image load time
 0282. 🔧 refactor: remove redundant code blocks
 0482. ✨ feat: add export to CSV option
+0064. 📚 docs: clarify environment setup
