@@ -6605,3 +6605,4 @@
 0050. ✨ feat: enable dark mode toggle
 0873. 🚀 perf: cache repeated calculations
 0249. ✅ test: increase coverage on auth module
+0575. ✅ test: add unit test for quiz service
