@@ -6608,3 +6608,4 @@
 0575. ✅ test: add unit test for quiz service
 0432. 🎨 style: apply consistent indentation
 0859. ✨ feat: create admin dashboard
+0981. 🚀 perf: lazy-load components
