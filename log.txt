@@ -6607,3 +6607,4 @@
 0249. ✅ test: increase coverage on auth module
 0575. ✅ test: add unit test for quiz service
 0432. 🎨 style: apply consistent indentation
+0859. ✨ feat: create admin dashboard
