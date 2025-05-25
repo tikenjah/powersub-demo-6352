@@ -9629,3 +9629,4 @@
 0028. 🎨 style: standardize quote style
 0050. ✨ feat: enable dark mode toggle
 0799. ♻️ chore: clean up unused files
+0375. 🐛 fix: handle 500 error in quiz API
