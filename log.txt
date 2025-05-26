@@ -8594,3 +8594,4 @@
 0075. ✅ test: mock database connection in test suite
 0161. ✨ feat: create admin dashboard
 0161. ✨ feat: create admin dashboard
+0035. ✅ test: increase coverage on auth module
