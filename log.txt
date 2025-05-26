@@ -5598,3 +5598,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0523. ♻️ chore: bump dependencies
 0543. ✨ feat: support email verification
+0797. 📚 docs: add API usage examples
