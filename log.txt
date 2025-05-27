@@ -3124,3 +3124,4 @@
 0662. ♻️ chore: clean up unused files
 0639. 🐛 fix: correct typo in registration form
 0937. 🐛 fix: handle 500 error in quiz API
+0618. ✨ feat: support email verification
