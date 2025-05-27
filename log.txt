@@ -6615,3 +6615,4 @@
 0483. 📚 docs: update README with setup steps
 0121. ✨ feat: support email verification
 0641. 📚 docs: write FAQ section
+0921. 🐛 fix: correct typo in registration form
