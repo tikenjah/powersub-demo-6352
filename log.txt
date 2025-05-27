@@ -3127,3 +3127,4 @@
 0618. ✨ feat: support email verification
 0701. 🔧 refactor: clean up auth middleware
 0919. 🚀 perf: optimize database query for quiz results
+0900. 🐛 fix: handle 500 error in quiz API
