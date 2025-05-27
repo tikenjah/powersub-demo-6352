@@ -3125,3 +3125,4 @@
 0639. 🐛 fix: correct typo in registration form
 0937. 🐛 fix: handle 500 error in quiz API
 0618. ✨ feat: support email verification
+0701. 🔧 refactor: clean up auth middleware
