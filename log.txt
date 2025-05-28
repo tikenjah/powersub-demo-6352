@@ -5604,3 +5604,4 @@
 0850. ♻️ chore: rename env.example
 0132. ✅ test: add unit test for quiz service
 0964. ♻️ chore: clean up unused files
+0439. 🐛 fix: correct typo in registration form
