@@ -3136,3 +3136,4 @@
 0473. 📚 docs: write FAQ section
 0307. ✨ feat: support email verification
 0376. 🎨 style: apply consistent indentation
+0998. 🐛 fix: fix null pointer exception on login
