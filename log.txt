@@ -3134,3 +3134,4 @@
 0984. ♻️ chore: clean up unused files
 0151. ✅ test: add unit test for quiz service
 0473. 📚 docs: write FAQ section
+0307. ✨ feat: support email verification
