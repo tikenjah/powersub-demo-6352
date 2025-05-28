@@ -6617,3 +6617,4 @@
 0641. 📚 docs: write FAQ section
 0921. 🐛 fix: correct typo in registration form
 0739. 🎨 style: remove trailing whitespace
+0503. ♻️ chore: rename env.example
