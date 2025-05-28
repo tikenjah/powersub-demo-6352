@@ -3140,3 +3140,4 @@
 0402. 🎨 style: reformat files with black
 0690. 🚀 perf: lazy-load components
 0370. 🚀 perf: reduce image load time
+0254. 🚀 perf: reduce image load time
