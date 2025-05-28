@@ -3138,3 +3138,4 @@
 0376. 🎨 style: apply consistent indentation
 0998. 🐛 fix: fix null pointer exception on login
 0402. 🎨 style: reformat files with black
+0690. 🚀 perf: lazy-load components
