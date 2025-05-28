@@ -5606,3 +5606,4 @@
 0964. ♻️ chore: clean up unused files
 0439. 🐛 fix: correct typo in registration form
 0253. 📚 docs: update README with setup steps
+0551. 📚 docs: write FAQ section
