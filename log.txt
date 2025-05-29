@@ -3148,3 +3148,4 @@
 0070. ✨ feat: implement quiz timer feature
 0397. 🐛 fix: handle 500 error in quiz API
 0176. 🔧 refactor: remove redundant code blocks
+0078. ♻️ chore: update .gitignore
