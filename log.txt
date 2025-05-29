@@ -3150,3 +3150,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0078. ♻️ chore: update .gitignore
 0668. 🚀 perf: optimize database query for quiz results
+0959. 🐛 fix: fix null pointer exception on login
