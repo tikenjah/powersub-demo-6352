@@ -3154,3 +3154,4 @@
 0862. ♻️ chore: bump dependencies
 0448. 🐛 fix: correct typo in registration form
 0635. 🎨 style: apply consistent indentation
+0563. 📚 docs: clarify environment setup
