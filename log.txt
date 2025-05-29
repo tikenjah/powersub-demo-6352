@@ -3158,3 +3158,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0950. 🎨 style: reformat files with black
 0366. 🔧 refactor: remove redundant code blocks
+0436. ✅ test: add integration test for /submit endpoint
