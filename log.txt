@@ -3151,3 +3151,4 @@
 0078. ♻️ chore: update .gitignore
 0668. 🚀 perf: optimize database query for quiz results
 0959. 🐛 fix: fix null pointer exception on login
+0862. ♻️ chore: bump dependencies
