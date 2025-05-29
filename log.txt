@@ -3155,3 +3155,4 @@
 0448. 🐛 fix: correct typo in registration form
 0635. 🎨 style: apply consistent indentation
 0563. 📚 docs: clarify environment setup
+0378. 🐛 fix: prevent crash on empty input
