@@ -3165,3 +3165,4 @@
 0132. ✅ test: add unit test for quiz service
 0794. ♻️ chore: clean up unused files
 0081. 🐛 fix: fix null pointer exception on login
+0828. ♻️ chore: add GitHub actions badge
