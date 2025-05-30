@@ -6619,3 +6619,4 @@
 0739. 🎨 style: remove trailing whitespace
 0503. ♻️ chore: rename env.example
 0870. ♻️ chore: clean up unused files
+1000. ✅ test: increase coverage on auth module
