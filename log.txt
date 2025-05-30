@@ -3164,3 +3164,4 @@
 0424. ✨ feat: add user authentication
 0132. ✅ test: add unit test for quiz service
 0794. ♻️ chore: clean up unused files
+0081. 🐛 fix: fix null pointer exception on login
