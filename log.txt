@@ -9639,3 +9639,4 @@
 0407. 🚀 perf: cache repeated calculations
 0770. ♻️ chore: rename env.example
 0420. 🚀 perf: reduce image load time
+0546. 🐛 fix: fix null pointer exception on login
