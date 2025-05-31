@@ -3185,3 +3185,4 @@
 0849. 🐛 fix: correct typo in registration form
 0052. 🎨 style: standardize quote style
 0471. ✨ feat: support email verification
+0732. ♻️ chore: add GitHub actions badge
