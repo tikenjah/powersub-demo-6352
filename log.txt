@@ -10645,3 +10645,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0586. 🎨 style: remove trailing whitespace
 0452. ✨ feat: implement quiz timer feature
+0988. 🐛 fix: fix broken CSS in mobile view
