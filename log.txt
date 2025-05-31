@@ -3183,3 +3183,4 @@
 0884. 📚 docs: clarify environment setup
 0297. 🎨 style: remove trailing whitespace
 0849. 🐛 fix: correct typo in registration form
+0052. 🎨 style: standardize quote style
