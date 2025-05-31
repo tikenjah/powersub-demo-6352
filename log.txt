@@ -6624,3 +6624,4 @@
 0601. ✨ feat: implement quiz timer feature
 0297. 🎨 style: remove trailing whitespace
 0192. ✨ feat: enable dark mode toggle
+0158. 📚 docs: clarify environment setup
