@@ -3192,3 +3192,4 @@
 0844. 📚 docs: update README with setup steps
 0292. 📚 docs: clarify environment setup
 0714. 📚 docs: improve code comments in utils
+0222. 🐛 fix: handle 500 error in quiz API
