@@ -5619,3 +5619,4 @@
 0990. ♻️ chore: rename env.example
 0960. ✅ test: increase coverage on auth module
 0521. 🎨 style: standardize quote style
+0942. ✅ test: increase coverage on auth module
