@@ -3208,3 +3208,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0586. 🎨 style: remove trailing whitespace
 0470. 🎨 style: remove trailing whitespace
+0472. 🐛 fix: fix null pointer exception on login
