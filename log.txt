@@ -6629,3 +6629,4 @@
 0850. ♻️ chore: rename env.example
 0160. ♻️ chore: bump dependencies
 0103. 🔧 refactor: remove redundant code blocks
+0280. ✅ test: add integration test for /submit endpoint
