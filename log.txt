@@ -10647,3 +10647,4 @@
 0452. ✨ feat: implement quiz timer feature
 0988. 🐛 fix: fix broken CSS in mobile view
 0310. 🔧 refactor: refactor quiz grading logic
+0696. 🔧 refactor: clean up auth middleware
