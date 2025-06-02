@@ -3213,3 +3213,4 @@
 0523. ♻️ chore: bump dependencies
 0541. 🐛 fix: correct typo in registration form
 0730. ✅ test: test user registration edge cases
+0871. ✅ test: add integration test for /submit endpoint
