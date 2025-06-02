@@ -5621,3 +5621,4 @@
 0521. 🎨 style: standardize quote style
 0942. ✅ test: increase coverage on auth module
 0878. 🔧 refactor: split large controller into smaller functions
+0535. 📚 docs: write FAQ section
