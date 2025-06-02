@@ -3219,3 +3219,4 @@
 0448. 🐛 fix: correct typo in registration form
 0930. 🎨 style: apply consistent indentation
 0726. ✨ feat: enable dark mode toggle
+0829. 🔧 refactor: organize models into subfolders
