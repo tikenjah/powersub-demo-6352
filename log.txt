@@ -9643,3 +9643,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0169. 📚 docs: add API usage examples
 0474. ✅ test: add unit test for quiz service
+0894. ✅ test: add integration test for /submit endpoint
