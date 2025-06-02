@@ -7653,3 +7653,4 @@
 0915. 🚀 perf: cache repeated calculations
 0366. 🔧 refactor: remove redundant code blocks
 0121. ✨ feat: support email verification
+0154. 🐛 fix: prevent crash on empty input
