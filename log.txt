@@ -3212,3 +3212,4 @@
 0875. ✅ test: increase coverage on auth module
 0523. ♻️ chore: bump dependencies
 0541. 🐛 fix: correct typo in registration form
+0730. ✅ test: test user registration edge cases
