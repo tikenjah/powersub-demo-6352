@@ -8607,3 +8607,4 @@
 0596. ♻️ chore: update .gitignore
 0681. ✨ feat: create admin dashboard
 0317. ✅ test: test user registration edge cases
+0210. 🎨 style: apply consistent indentation
