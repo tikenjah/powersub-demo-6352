@@ -5623,3 +5623,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0535. 📚 docs: write FAQ section
 0073. 🔧 refactor: split large controller into smaller functions
+0646. ✅ test: test user registration edge cases
