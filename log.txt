@@ -7658,3 +7658,4 @@
 0122. ✨ feat: support email verification
 0129. 🔧 refactor: organize models into subfolders
 0885. ♻️ chore: update .gitignore
+0573. ✅ test: add integration test for /submit endpoint
