@@ -10649,3 +10649,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0696. 🔧 refactor: clean up auth middleware
 0337. 📚 docs: document token refresh logic
+0960. ✅ test: increase coverage on auth module
