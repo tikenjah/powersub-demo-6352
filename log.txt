@@ -3240,3 +3240,4 @@
 0906. 📚 docs: add API usage examples
 0811. 🎨 style: reformat files with black
 0072. 🚀 perf: optimize database query for quiz results
+0789. ✨ feat: create admin dashboard
