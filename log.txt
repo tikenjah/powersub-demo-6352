@@ -3237,3 +3237,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0136. 🚀 perf: lazy-load components
 0345. 📚 docs: document token refresh logic
+0906. 📚 docs: add API usage examples
