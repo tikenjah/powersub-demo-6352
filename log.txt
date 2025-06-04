@@ -3252,3 +3252,4 @@
 0259. 🚀 perf: lazy-load components
 0478. 🐛 fix: resolve issue with date parsing
 0647. 🐛 fix: prevent crash on empty input
+0354. 📚 docs: add API usage examples
