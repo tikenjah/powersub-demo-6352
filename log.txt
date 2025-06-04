@@ -9646,3 +9646,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0733. 🐛 fix: fix null pointer exception on login
 0403. ✅ test: mock database connection in test suite
+0891. ✨ feat: create admin dashboard
