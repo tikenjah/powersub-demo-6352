@@ -8610,3 +8610,4 @@
 0210. 🎨 style: apply consistent indentation
 0592. 📚 docs: add API usage examples
 0020. ✅ test: add integration test for /submit endpoint
+0437. 📚 docs: clarify environment setup
