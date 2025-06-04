@@ -3254,3 +3254,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0354. 📚 docs: add API usage examples
 0197. 📚 docs: update README with setup steps
+0262. 🎨 style: remove trailing whitespace
