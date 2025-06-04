@@ -3243,3 +3243,4 @@
 0789. ✨ feat: create admin dashboard
 0559. 🔧 refactor: split large controller into smaller functions
 0534. 🔧 refactor: split large controller into smaller functions
+0580. ♻️ chore: bump dependencies
