@@ -3245,3 +3245,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0580. ♻️ chore: bump dependencies
 0593. 🐛 fix: correct typo in registration form
+0998. 🐛 fix: fix null pointer exception on login
