@@ -9649,3 +9649,4 @@
 0891. ✨ feat: create admin dashboard
 0089. 🔧 refactor: remove redundant code blocks
 0224. 🐛 fix: fix broken CSS in mobile view
+0978. 🐛 fix: prevent crash on empty input
