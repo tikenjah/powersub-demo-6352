@@ -5627,3 +5627,4 @@
 0564. 📚 docs: clarify environment setup
 0229. 🚀 perf: optimize database query for quiz results
 0660. 🐛 fix: correct typo in registration form
+0090. ✅ test: increase coverage on auth module
