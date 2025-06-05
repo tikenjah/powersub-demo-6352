@@ -3260,3 +3260,4 @@
 0513. ♻️ chore: bump dependencies
 0034. 📚 docs: improve code comments in utils
 0441. 📚 docs: add API usage examples
+0234. ♻️ chore: rename env.example
