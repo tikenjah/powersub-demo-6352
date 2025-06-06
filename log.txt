@@ -3282,3 +3282,4 @@
 0406. ✨ feat: add export to CSV option
 0790. 📚 docs: write FAQ section
 0234. ♻️ chore: rename env.example
+0552. 🐛 fix: fix null pointer exception on login
