@@ -6646,3 +6646,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0343. 🚀 perf: optimize database query for quiz results
 0388. 🎨 style: reformat files with black
+0335. ♻️ chore: update .gitignore
