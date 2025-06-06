@@ -3281,3 +3281,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0406. ✨ feat: add export to CSV option
 0790. 📚 docs: write FAQ section
+0234. ♻️ chore: rename env.example
