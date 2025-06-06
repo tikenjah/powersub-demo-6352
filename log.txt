@@ -5629,3 +5629,4 @@
 0660. 🐛 fix: correct typo in registration form
 0090. ✅ test: increase coverage on auth module
 0010. ✨ feat: add user authentication
+0685. ✅ test: test user registration edge cases
