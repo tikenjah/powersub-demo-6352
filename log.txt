@@ -5631,3 +5631,4 @@
 0010. ✨ feat: add user authentication
 0685. ✅ test: test user registration edge cases
 0858. ♻️ chore: clean up unused files
+0639. 🐛 fix: correct typo in registration form
