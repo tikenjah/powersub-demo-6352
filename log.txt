@@ -9657,3 +9657,4 @@
 0005. ✅ test: add unit test for quiz service
 0795. 📚 docs: update README with setup steps
 0589. 🐛 fix: fix broken CSS in mobile view
+0102. ✨ feat: support email verification
