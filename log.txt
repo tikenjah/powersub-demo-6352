@@ -6649,3 +6649,4 @@
 0335. ♻️ chore: update .gitignore
 0458. ✨ feat: create admin dashboard
 0892. ✅ test: add unit test for quiz service
+0509. ♻️ chore: bump dependencies
