@@ -5636,3 +5636,4 @@
 0707. 🎨 style: apply consistent indentation
 0513. ♻️ chore: bump dependencies
 0838. 🎨 style: standardize quote style
+0603. 🐛 fix: fix broken CSS in mobile view
