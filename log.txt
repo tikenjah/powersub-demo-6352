@@ -5635,3 +5635,4 @@
 0404. 📚 docs: improve code comments in utils
 0707. 🎨 style: apply consistent indentation
 0513. ♻️ chore: bump dependencies
+0838. 🎨 style: standardize quote style
