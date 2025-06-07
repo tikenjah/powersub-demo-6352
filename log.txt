@@ -3290,3 +3290,4 @@
 0418. ✅ test: mock database connection in test suite
 0800. 🚀 perf: optimize database query for quiz results
 0120. ✅ test: add integration test for /submit endpoint
+0548. 📚 docs: write FAQ section
