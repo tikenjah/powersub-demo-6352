@@ -9656,3 +9656,4 @@
 0050. ✨ feat: enable dark mode toggle
 0005. ✅ test: add unit test for quiz service
 0795. 📚 docs: update README with setup steps
+0589. 🐛 fix: fix broken CSS in mobile view
