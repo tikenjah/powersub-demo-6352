@@ -3293,3 +3293,4 @@
 0548. 📚 docs: write FAQ section
 0188. 🎨 style: apply consistent indentation
 0460. 📚 docs: write FAQ section
+0948. 🐛 fix: fix broken CSS in mobile view
