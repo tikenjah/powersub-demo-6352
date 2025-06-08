@@ -5639,3 +5639,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0450. 🐛 fix: fix broken CSS in mobile view
 0495. 🔧 refactor: remove redundant code blocks
+0299. 🐛 fix: resolve issue with date parsing
