@@ -3306,3 +3306,4 @@
 0324. 📚 docs: document token refresh logic
 0202. 🔧 refactor: refactor quiz grading logic
 0784. ♻️ chore: clean up unused files
+0963. 🚀 perf: reduce image load time
