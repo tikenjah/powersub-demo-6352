@@ -5640,3 +5640,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0495. 🔧 refactor: remove redundant code blocks
 0299. 🐛 fix: resolve issue with date parsing
+0400. 🐛 fix: fix null pointer exception on login
