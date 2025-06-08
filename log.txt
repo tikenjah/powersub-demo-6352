@@ -6654,3 +6654,4 @@
 0569. 📚 docs: document token refresh logic
 0724. ✅ test: mock database connection in test suite
 0700. 🎨 style: rename variables for clarity
+0479. 🐛 fix: fix null pointer exception on login
