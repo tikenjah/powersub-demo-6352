@@ -3303,3 +3303,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0673. 🐛 fix: correct typo in registration form
 0676. 🐛 fix: prevent crash on empty input
+0324. 📚 docs: document token refresh logic
