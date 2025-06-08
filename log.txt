@@ -3302,3 +3302,4 @@
 0691. 🎨 style: rename variables for clarity
 0587. 🔧 refactor: remove redundant code blocks
 0673. 🐛 fix: correct typo in registration form
+0676. 🐛 fix: prevent crash on empty input
