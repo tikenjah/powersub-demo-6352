@@ -3318,3 +3318,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0985. 📚 docs: document token refresh logic
 0592. 📚 docs: add API usage examples
+0772. 🐛 fix: fix null pointer exception on login
