@@ -6658,3 +6658,4 @@
 0864. 🐛 fix: correct typo in registration form
 0956. 📚 docs: clarify environment setup
 0430. 🐛 fix: fix null pointer exception on login
+0074. ♻️ chore: add GitHub actions badge
