@@ -8627,3 +8627,4 @@
 0720. ✨ feat: add export to CSV option
 0468. 📚 docs: update README with setup steps
 0921. 🐛 fix: correct typo in registration form
+0601. ✨ feat: implement quiz timer feature
