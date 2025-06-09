@@ -5645,3 +5645,4 @@
 0440. 📚 docs: update README with setup steps
 0198. 📚 docs: clarify environment setup
 0622. 🎨 style: apply consistent indentation
+0653. 🐛 fix: prevent crash on empty input
