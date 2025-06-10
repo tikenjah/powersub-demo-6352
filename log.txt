@@ -3327,3 +3327,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0751. 🐛 fix: handle 500 error in quiz API
 0063. 🐛 fix: handle 500 error in quiz API
+0960. ✅ test: increase coverage on auth module
