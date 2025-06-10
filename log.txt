@@ -6661,3 +6661,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0976. ✨ feat: implement quiz timer feature
 0189. 📚 docs: clarify environment setup
+0506. 🐛 fix: handle 500 error in quiz API
