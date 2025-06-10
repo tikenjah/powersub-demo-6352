@@ -9665,3 +9665,4 @@
 0123. ✨ feat: implement quiz timer feature
 0331. 🐛 fix: fix broken CSS in mobile view
 0618. ✨ feat: support email verification
+0037. 🐛 fix: correct typo in registration form
