@@ -9663,3 +9663,4 @@
 0564. 📚 docs: clarify environment setup
 0978. 🐛 fix: prevent crash on empty input
 0123. ✨ feat: implement quiz timer feature
+0331. 🐛 fix: fix broken CSS in mobile view
