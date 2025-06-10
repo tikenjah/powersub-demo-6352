@@ -3328,3 +3328,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0063. 🐛 fix: handle 500 error in quiz API
 0960. ✅ test: increase coverage on auth module
+0788. 📚 docs: add API usage examples
