@@ -3331,3 +3331,4 @@
 0788. 📚 docs: add API usage examples
 0805. ♻️ chore: add GitHub actions badge
 0938. 🎨 style: rename variables for clarity
+0690. 🚀 perf: lazy-load components
