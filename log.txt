@@ -10673,3 +10673,4 @@
 0766. 🎨 style: reformat files with black
 0853. 🔧 refactor: refactor quiz grading logic
 0033. 🎨 style: apply consistent indentation
+0754. 🐛 fix: handle 500 error in quiz API
