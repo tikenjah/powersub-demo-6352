@@ -10679,3 +10679,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0265. 🎨 style: reformat files with black
 0938. 🎨 style: rename variables for clarity
+0026. 🔧 refactor: clean up auth middleware
