@@ -3348,3 +3348,4 @@
 0204. 🎨 style: standardize quote style
 0846. ✨ feat: implement quiz timer feature
 0774. 🔧 refactor: refactor quiz grading logic
+0965. 🎨 style: reformat files with black
