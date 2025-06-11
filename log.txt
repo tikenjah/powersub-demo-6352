@@ -3345,3 +3345,4 @@
 0454. ♻️ chore: bump dependencies
 0833. ✨ feat: add user authentication
 0086. 🐛 fix: correct typo in registration form
+0204. 🎨 style: standardize quote style
