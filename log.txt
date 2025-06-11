@@ -7674,3 +7674,4 @@
 0953. 🎨 style: remove trailing whitespace
 0159. 🚀 perf: lazy-load components
 0117. ✅ test: increase coverage on auth module
+0097. 🐛 fix: handle 500 error in quiz API
