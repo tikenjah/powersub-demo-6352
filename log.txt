@@ -8635,3 +8635,4 @@
 0108. 🎨 style: remove trailing whitespace
 0577. ✨ feat: implement quiz timer feature
 0724. ✅ test: mock database connection in test suite
+0653. 🐛 fix: prevent crash on empty input
