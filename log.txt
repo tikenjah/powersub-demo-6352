@@ -3358,3 +3358,4 @@
 0569. 📚 docs: document token refresh logic
 0352. ✨ feat: add export to CSV option
 0623. 🎨 style: standardize quote style
+0709. ♻️ chore: bump dependencies
