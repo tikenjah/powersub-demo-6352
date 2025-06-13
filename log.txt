@@ -7681,3 +7681,4 @@
 0739. 🎨 style: remove trailing whitespace
 0975. 🎨 style: apply consistent indentation
 0504. 📚 docs: document token refresh logic
+0219. ✅ test: increase coverage on auth module
