@@ -7679,3 +7679,4 @@
 0649. 📚 docs: update README with setup steps
 0185. 📚 docs: write FAQ section
 0739. 🎨 style: remove trailing whitespace
+0975. 🎨 style: apply consistent indentation
