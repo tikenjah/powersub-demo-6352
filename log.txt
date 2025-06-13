@@ -3364,3 +3364,4 @@
 0401. 🚀 perf: reduce image load time
 0076. 🎨 style: reformat files with black
 0273. 🚀 perf: reduce image load time
+0947. 📚 docs: write FAQ section
