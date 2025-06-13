@@ -10683,3 +10683,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0776. ✅ test: add integration test for /submit endpoint
 0553. 🐛 fix: correct typo in registration form
+0547. 📚 docs: write FAQ section
