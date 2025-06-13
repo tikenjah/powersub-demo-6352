@@ -3377,3 +3377,4 @@
 0734. ✨ feat: add export to CSV option
 0879. 🎨 style: standardize quote style
 0864. 🐛 fix: correct typo in registration form
+0798. 🚀 perf: reduce image load time
