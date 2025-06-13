@@ -3375,3 +3375,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0365. 🚀 perf: reduce image load time
 0734. ✨ feat: add export to CSV option
+0879. 🎨 style: standardize quote style
