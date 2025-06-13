@@ -3372,3 +3372,4 @@
 0536. ✨ feat: add user authentication
 0164. 📚 docs: document token refresh logic
 0148. 🔧 refactor: organize models into subfolders
+0533. ♻️ chore: add GitHub actions badge
