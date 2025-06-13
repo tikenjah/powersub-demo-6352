@@ -3365,3 +3365,4 @@
 0076. 🎨 style: reformat files with black
 0273. 🚀 perf: reduce image load time
 0947. 📚 docs: write FAQ section
+0391. 🐛 fix: fix null pointer exception on login
