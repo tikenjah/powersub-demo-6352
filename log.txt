@@ -3382,3 +3382,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0829. 🔧 refactor: organize models into subfolders
 0178. ✨ feat: support email verification
+0002. 🚀 perf: cache repeated calculations
