@@ -3388,3 +3388,4 @@
 0306. 🎨 style: apply consistent indentation
 0170. ✅ test: increase coverage on auth module
 0179. 🔧 refactor: split large controller into smaller functions
+0234. ♻️ chore: rename env.example
