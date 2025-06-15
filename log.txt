@@ -3399,3 +3399,4 @@
 0549. ✨ feat: enable dark mode toggle
 0953. 🎨 style: remove trailing whitespace
 0127. 🐛 fix: fix null pointer exception on login
+0306. 🎨 style: apply consistent indentation
