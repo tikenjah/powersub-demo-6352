@@ -6672,3 +6672,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0127. 🐛 fix: fix null pointer exception on login
 0110. 🐛 fix: prevent crash on empty input
+0220. 🐛 fix: fix null pointer exception on login
