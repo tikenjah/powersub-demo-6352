@@ -10685,3 +10685,4 @@
 0553. 🐛 fix: correct typo in registration form
 0547. 📚 docs: write FAQ section
 0862. ♻️ chore: bump dependencies
+0834. ✅ test: increase coverage on auth module
