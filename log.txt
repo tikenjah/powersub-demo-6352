@@ -10686,3 +10686,4 @@
 0547. 📚 docs: write FAQ section
 0862. ♻️ chore: bump dependencies
 0834. ✅ test: increase coverage on auth module
+0283. ♻️ chore: add GitHub actions badge
