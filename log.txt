@@ -7686,3 +7686,4 @@
 0287. 📚 docs: write FAQ section
 0272. 🔧 refactor: remove redundant code blocks
 0008. 🚀 perf: reduce image load time
+0860. 🔧 refactor: organize models into subfolders
