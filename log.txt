@@ -5667,3 +5667,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0076. 🎨 style: reformat files with black
 0971. 🎨 style: standardize quote style
+0476. 🚀 perf: reduce image load time
