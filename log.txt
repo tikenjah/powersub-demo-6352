@@ -7689,3 +7689,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0334. 🚀 perf: cache repeated calculations
 0867. 🔧 refactor: refactor quiz grading logic
+0371. ✅ test: add integration test for /submit endpoint
