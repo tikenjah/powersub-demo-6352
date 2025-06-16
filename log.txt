@@ -3423,3 +3423,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0479. 🐛 fix: fix null pointer exception on login
 0392. 🎨 style: remove trailing whitespace
+0850. ♻️ chore: rename env.example
