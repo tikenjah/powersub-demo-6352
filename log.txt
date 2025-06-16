@@ -3408,3 +3408,4 @@
 0373. 📚 docs: document token refresh logic
 0014. 🔧 refactor: remove redundant code blocks
 0227. ✅ test: test user registration edge cases
+0571. 🔧 refactor: clean up auth middleware
