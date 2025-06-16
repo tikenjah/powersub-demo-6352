@@ -3409,3 +3409,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0227. ✅ test: test user registration edge cases
 0571. 🔧 refactor: clean up auth middleware
+0565. ♻️ chore: add GitHub actions badge
