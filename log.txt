@@ -8649,3 +8649,4 @@
 0944. ✨ feat: add user authentication
 0371. ✅ test: add integration test for /submit endpoint
 0477. 🐛 fix: fix broken CSS in mobile view
+0569. 📚 docs: document token refresh logic
