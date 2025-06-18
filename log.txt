@@ -3458,3 +3458,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0644. 🎨 style: apply consistent indentation
 0098. 🎨 style: rename variables for clarity
+0151. ✅ test: add unit test for quiz service
