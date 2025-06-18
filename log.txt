@@ -3451,3 +3451,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0982. 🚀 perf: lazy-load components
 0396. 🔧 refactor: split large controller into smaller functions
+0207. 🐛 fix: prevent crash on empty input
