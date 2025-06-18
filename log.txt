@@ -8653,3 +8653,4 @@
 0303. 🎨 style: rename variables for clarity
 0785. ✨ feat: enable dark mode toggle
 0726. ✨ feat: enable dark mode toggle
+0518. ✨ feat: support email verification
