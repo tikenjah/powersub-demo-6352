@@ -3445,3 +3445,4 @@
 0211. 🔧 refactor: remove redundant code blocks
 0990. ♻️ chore: rename env.example
 0961. 📚 docs: add API usage examples
+0359. 🔧 refactor: clean up auth middleware
