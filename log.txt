@@ -8651,3 +8651,4 @@
 0477. 🐛 fix: fix broken CSS in mobile view
 0569. 📚 docs: document token refresh logic
 0303. 🎨 style: rename variables for clarity
+0785. ✨ feat: enable dark mode toggle
