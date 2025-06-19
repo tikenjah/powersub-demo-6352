@@ -9684,3 +9684,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0453. 🎨 style: standardize quote style
 0895. ✨ feat: support email verification
+0122. ✨ feat: support email verification
