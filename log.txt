@@ -8654,3 +8654,4 @@
 0785. ✨ feat: enable dark mode toggle
 0726. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
+0920. 🔧 refactor: organize models into subfolders
