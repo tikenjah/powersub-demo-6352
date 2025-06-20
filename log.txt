@@ -6690,3 +6690,4 @@
 0017. ✅ test: mock database connection in test suite
 0082. 🔧 refactor: refactor quiz grading logic
 0701. 🔧 refactor: clean up auth middleware
+0662. ♻️ chore: clean up unused files
