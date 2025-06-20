@@ -3467,3 +3467,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0613. 🐛 fix: prevent crash on empty input
 0767. 🔧 refactor: remove redundant code blocks
+0149. ✨ feat: add export to CSV option
