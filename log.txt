@@ -3501,3 +3501,4 @@
 0361. ✨ feat: support email verification
 0719. 🎨 style: apply consistent indentation
 0363. 📚 docs: clarify environment setup
+0133. 🐛 fix: fix null pointer exception on login
