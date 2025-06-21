@@ -3496,3 +3496,4 @@
 0427. ✅ test: mock database connection in test suite
 0786. ✨ feat: enable dark mode toggle
 0504. 📚 docs: document token refresh logic
+0292. 📚 docs: clarify environment setup
