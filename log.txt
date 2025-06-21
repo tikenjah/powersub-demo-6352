@@ -9688,3 +9688,4 @@
 0635. 🎨 style: apply consistent indentation
 0205. 📚 docs: update README with setup steps
 0939. 📚 docs: update README with setup steps
+0603. 🐛 fix: fix broken CSS in mobile view
