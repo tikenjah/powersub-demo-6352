@@ -3499,3 +3499,4 @@
 0292. 📚 docs: clarify environment setup
 0966. 📚 docs: improve code comments in utils
 0361. ✨ feat: support email verification
+0719. 🎨 style: apply consistent indentation
