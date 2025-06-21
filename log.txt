@@ -3492,3 +3492,4 @@
 0143. ✨ feat: implement quiz timer feature
 0801. ✨ feat: enable dark mode toggle
 0232. 🎨 style: apply consistent indentation
+0213. ✅ test: add integration test for /submit endpoint
