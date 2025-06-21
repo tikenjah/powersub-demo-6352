@@ -9689,3 +9689,4 @@
 0205. 📚 docs: update README with setup steps
 0939. 📚 docs: update README with setup steps
 0603. 🐛 fix: fix broken CSS in mobile view
+0060. ♻️ chore: clean up unused files
