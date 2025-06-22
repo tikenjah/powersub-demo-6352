@@ -7710,3 +7710,4 @@
 0623. 🎨 style: standardize quote style
 0745. ✅ test: add unit test for quiz service
 0025. 🚀 perf: optimize database query for quiz results
+0227. ✅ test: test user registration edge cases
