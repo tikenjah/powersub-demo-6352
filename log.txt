@@ -5677,3 +5677,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0266. 🔧 refactor: remove redundant code blocks
 0508. ✅ test: add unit test for quiz service
+0170. ✅ test: increase coverage on auth module
