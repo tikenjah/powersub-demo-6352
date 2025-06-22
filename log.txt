@@ -3510,3 +3510,4 @@
 0256. ✅ test: mock database connection in test suite
 0773. 📚 docs: document token refresh logic
 0134. ✨ feat: implement quiz timer feature
+0436. ✅ test: add integration test for /submit endpoint
