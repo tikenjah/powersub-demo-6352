@@ -3505,3 +3505,4 @@
 0996. ✅ test: test user registration edge cases
 0167. 🚀 perf: reduce image load time
 0363. 📚 docs: clarify environment setup
+0459. 🔧 refactor: organize models into subfolders
