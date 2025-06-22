@@ -7708,3 +7708,4 @@
 0610. 🚀 perf: lazy-load components
 0135. ✅ test: test user registration edge cases
 0623. 🎨 style: standardize quote style
+0745. ✅ test: add unit test for quiz service
