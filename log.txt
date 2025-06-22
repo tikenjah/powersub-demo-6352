@@ -9691,3 +9691,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0060. ♻️ chore: clean up unused files
 0410. 🎨 style: reformat files with black
+0994. 🚀 perf: reduce image load time
