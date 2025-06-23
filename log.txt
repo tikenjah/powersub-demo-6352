@@ -5681,3 +5681,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0449. ✅ test: add unit test for quiz service
 0171. 🐛 fix: fix broken CSS in mobile view
+0365. 🚀 perf: reduce image load time
