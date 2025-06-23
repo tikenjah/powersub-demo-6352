@@ -6699,3 +6699,4 @@
 0442. 🎨 style: standardize quote style
 0013. ✅ test: increase coverage on auth module
 0202. 🔧 refactor: refactor quiz grading logic
+0491. 🚀 perf: lazy-load components
