@@ -8666,3 +8666,4 @@
 0777. 📚 docs: document token refresh logic
 0569. 📚 docs: document token refresh logic
 0599. ✅ test: test user registration edge cases
+0108. 🎨 style: remove trailing whitespace
