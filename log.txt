@@ -3518,3 +3518,4 @@
 0452. ✨ feat: implement quiz timer feature
 0559. 🔧 refactor: split large controller into smaller functions
 0912. 📚 docs: document token refresh logic
+0426. ✅ test: add integration test for /submit endpoint
