@@ -5684,3 +5684,4 @@
 0365. 🚀 perf: reduce image load time
 0842. 🎨 style: remove trailing whitespace
 0418. ✅ test: mock database connection in test suite
+0713. 🐛 fix: handle 500 error in quiz API
