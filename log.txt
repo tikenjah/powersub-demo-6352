@@ -3540,3 +3540,4 @@
 0521. 🎨 style: standardize quote style
 0943. 🎨 style: rename variables for clarity
 0994. 🚀 perf: reduce image load time
+0503. ♻️ chore: rename env.example
