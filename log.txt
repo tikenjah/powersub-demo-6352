@@ -3534,3 +3534,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0633. ✨ feat: add user authentication
 0160. ♻️ chore: bump dependencies
+0801. ✨ feat: enable dark mode toggle
