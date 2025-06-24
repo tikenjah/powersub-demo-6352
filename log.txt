@@ -7714,3 +7714,4 @@
 0795. 📚 docs: update README with setup steps
 0429. ✨ feat: add user authentication
 0121. ✨ feat: support email verification
+0205. 📚 docs: update README with setup steps
