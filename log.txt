@@ -7716,3 +7716,4 @@
 0121. ✨ feat: support email verification
 0205. 📚 docs: update README with setup steps
 0908. ♻️ chore: bump dependencies
+0543. ✨ feat: support email verification
