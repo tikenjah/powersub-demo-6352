@@ -3535,3 +3535,4 @@
 0633. ✨ feat: add user authentication
 0160. ♻️ chore: bump dependencies
 0801. ✨ feat: enable dark mode toggle
+0241. 📚 docs: add API usage examples
