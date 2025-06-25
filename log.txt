@@ -9702,3 +9702,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0679. ♻️ chore: bump dependencies
 0166. 🚀 perf: cache repeated calculations
+0898. 🐛 fix: fix broken CSS in mobile view
