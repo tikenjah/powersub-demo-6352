@@ -3547,3 +3547,4 @@
 0555. ✨ feat: create admin dashboard
 0228. 🔧 refactor: remove redundant code blocks
 0141. 📚 docs: document token refresh logic
+0493. ✨ feat: add user authentication
