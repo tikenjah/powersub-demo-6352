@@ -8675,3 +8675,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0238. 🎨 style: apply consistent indentation
 0480. ♻️ chore: add GitHub actions badge
+0763. 🔧 refactor: organize models into subfolders
