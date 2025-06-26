@@ -3559,3 +3559,4 @@
 0339. 📚 docs: update README with setup steps
 0626. 🎨 style: standardize quote style
 0132. ✅ test: add unit test for quiz service
+0025. 🚀 perf: optimize database query for quiz results
