@@ -3564,3 +3564,4 @@
 0761. ✅ test: add unit test for quiz service
 0608. 🔧 refactor: remove redundant code blocks
 0697. ♻️ chore: bump dependencies
+0476. 🚀 perf: reduce image load time
