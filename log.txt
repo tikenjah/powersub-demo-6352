@@ -3555,3 +3555,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0671. 🐛 fix: fix null pointer exception on login
 0441. 📚 docs: add API usage examples
+0842. 🎨 style: remove trailing whitespace
