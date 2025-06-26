@@ -3568,3 +3568,4 @@
 0631. ✨ feat: create admin dashboard
 0888. 🚀 perf: lazy-load components
 0664. ✅ test: add unit test for quiz service
+0013. ✅ test: increase coverage on auth module
