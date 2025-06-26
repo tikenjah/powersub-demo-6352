@@ -5696,3 +5696,4 @@
 0424. ✨ feat: add user authentication
 0431. 🎨 style: reformat files with black
 0882. 🚀 perf: optimize database query for quiz results
+0687. 🎨 style: remove trailing whitespace
