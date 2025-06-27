@@ -5701,3 +5701,4 @@
 0461. ✨ feat: add user authentication
 0869. ♻️ chore: bump dependencies
 0740. 🐛 fix: resolve issue with date parsing
+0200. 🐛 fix: handle 500 error in quiz API
