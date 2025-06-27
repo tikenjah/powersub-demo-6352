@@ -6712,3 +6712,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0886. ♻️ chore: clean up unused files
 0546. 🐛 fix: fix null pointer exception on login
+0157. ✅ test: mock database connection in test suite
