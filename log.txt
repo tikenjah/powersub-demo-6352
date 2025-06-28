@@ -3588,3 +3588,4 @@
 0526. ✨ feat: add user authentication
 0289. 🐛 fix: resolve issue with date parsing
 0105. 🐛 fix: correct typo in registration form
+0353. ♻️ chore: rename env.example
