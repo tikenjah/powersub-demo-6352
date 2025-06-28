@@ -3585,3 +3585,4 @@
 0784. ♻️ chore: clean up unused files
 0919. 🚀 perf: optimize database query for quiz results
 0445. 📚 docs: improve code comments in utils
+0526. ✨ feat: add user authentication
