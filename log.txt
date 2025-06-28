@@ -5705,3 +5705,4 @@
 0192. ✨ feat: enable dark mode toggle
 0796. 🔧 refactor: refactor quiz grading logic
 0317. ✅ test: test user registration edge cases
+0220. 🐛 fix: fix null pointer exception on login
