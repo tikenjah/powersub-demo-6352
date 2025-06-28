@@ -3587,3 +3587,4 @@
 0445. 📚 docs: improve code comments in utils
 0526. ✨ feat: add user authentication
 0289. 🐛 fix: resolve issue with date parsing
+0105. 🐛 fix: correct typo in registration form
