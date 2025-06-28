@@ -5703,3 +5703,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0200. 🐛 fix: handle 500 error in quiz API
 0192. ✨ feat: enable dark mode toggle
+0796. 🔧 refactor: refactor quiz grading logic
