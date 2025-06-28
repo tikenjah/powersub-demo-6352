@@ -3589,3 +3589,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0105. 🐛 fix: correct typo in registration form
 0353. ♻️ chore: rename env.example
+0254. 🚀 perf: reduce image load time
