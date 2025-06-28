@@ -3579,3 +3579,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0329. 📚 docs: update README with setup steps
 0552. 🐛 fix: fix null pointer exception on login
+0193. 🚀 perf: optimize database query for quiz results
