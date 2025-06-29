@@ -5707,3 +5707,4 @@
 0317. ✅ test: test user registration edge cases
 0220. 🐛 fix: fix null pointer exception on login
 0503. ♻️ chore: rename env.example
+0678. ✨ feat: add user authentication
