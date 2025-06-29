@@ -9714,3 +9714,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0783. 🐛 fix: handle 500 error in quiz API
 0559. 🔧 refactor: split large controller into smaller functions
+0745. ✅ test: add unit test for quiz service
