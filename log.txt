@@ -3599,3 +3599,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0398. 🚀 perf: cache repeated calculations
 0360. ✨ feat: add export to CSV option
+0602. 🔧 refactor: remove redundant code blocks
