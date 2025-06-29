@@ -3601,3 +3601,4 @@
 0360. ✨ feat: add export to CSV option
 0602. 🔧 refactor: remove redundant code blocks
 0682. ♻️ chore: rename env.example
+0947. 📚 docs: write FAQ section
