@@ -10712,3 +10712,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0117. ✅ test: increase coverage on auth module
 0350. 🚀 perf: cache repeated calculations
+0547. 📚 docs: write FAQ section
