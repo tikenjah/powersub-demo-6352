@@ -8686,3 +8686,4 @@
 0850. ♻️ chore: rename env.example
 0174. 📚 docs: clarify environment setup
 0097. 🐛 fix: handle 500 error in quiz API
+0315. ✅ test: add integration test for /submit endpoint
