@@ -3594,3 +3594,4 @@
 0663. 🚀 perf: reduce image load time
 0525. ✅ test: mock database connection in test suite
 0426. ✅ test: add integration test for /submit endpoint
+0291. 📚 docs: write FAQ section
