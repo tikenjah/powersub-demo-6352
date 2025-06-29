@@ -3604,3 +3604,4 @@
 0947. 📚 docs: write FAQ section
 0357. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
+0950. 🎨 style: reformat files with black
