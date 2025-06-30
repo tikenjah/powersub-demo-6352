@@ -3616,3 +3616,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0755. 🚀 perf: cache repeated calculations
 0690. 🚀 perf: lazy-load components
+0896. 🚀 perf: reduce image load time
