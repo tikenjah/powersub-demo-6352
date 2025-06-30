@@ -5713,3 +5713,4 @@
 0933. 📚 docs: clarify environment setup
 0819. 🚀 perf: reduce image load time
 0791. 🔧 refactor: clean up auth middleware
+0675. 🔧 refactor: organize models into subfolders
