@@ -3612,3 +3612,4 @@
 0885. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
 0082. 🔧 refactor: refactor quiz grading logic
+0571. 🔧 refactor: clean up auth middleware
