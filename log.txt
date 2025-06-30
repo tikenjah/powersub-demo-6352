@@ -10717,3 +10717,4 @@
 0496. ✅ test: add integration test for /submit endpoint
 0696. 🔧 refactor: clean up auth middleware
 0566. 📚 docs: write FAQ section
+0451. ✨ feat: support email verification
