@@ -8697,3 +8697,4 @@
 0905. ♻️ chore: bump dependencies
 0033. 🎨 style: apply consistent indentation
 0010. ✨ feat: add user authentication
+0948. 🐛 fix: fix broken CSS in mobile view
