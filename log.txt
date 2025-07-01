@@ -6716,3 +6716,4 @@
 0964. ♻️ chore: clean up unused files
 0576. ♻️ chore: update .gitignore
 0242. ♻️ chore: clean up unused files
+0058. ♻️ chore: add GitHub actions badge
