@@ -5716,3 +5716,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0864. 🐛 fix: correct typo in registration form
 0381. ♻️ chore: clean up unused files
+0332. 🎨 style: standardize quote style
