@@ -6719,3 +6719,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0590. 🐛 fix: fix null pointer exception on login
 0326. 🚀 perf: cache repeated calculations
+0475. 🔧 refactor: clean up auth middleware
