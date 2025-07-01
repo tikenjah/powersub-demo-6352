@@ -3626,3 +3626,4 @@
 0942. ✅ test: increase coverage on auth module
 0961. 📚 docs: add API usage examples
 0872. 🎨 style: rename variables for clarity
+0615. 🐛 fix: correct typo in registration form
