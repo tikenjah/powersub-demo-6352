@@ -6717,3 +6717,4 @@
 0576. ♻️ chore: update .gitignore
 0242. ♻️ chore: clean up unused files
 0058. ♻️ chore: add GitHub actions badge
+0590. 🐛 fix: fix null pointer exception on login
