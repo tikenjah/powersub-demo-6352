@@ -3645,3 +3645,4 @@
 0075. ✅ test: mock database connection in test suite
 0457. 🐛 fix: handle 500 error in quiz API
 0388. 🎨 style: reformat files with black
+0224. 🐛 fix: fix broken CSS in mobile view
