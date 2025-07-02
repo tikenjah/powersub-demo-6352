@@ -9728,3 +9728,4 @@
 0915. 🚀 perf: cache repeated calculations
 0476. 🚀 perf: reduce image load time
 0249. ✅ test: increase coverage on auth module
+0155. ✨ feat: create admin dashboard
