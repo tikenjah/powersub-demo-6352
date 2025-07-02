@@ -5719,3 +5719,4 @@
 0332. 🎨 style: standardize quote style
 0479. 🐛 fix: fix null pointer exception on login
 0937. 🐛 fix: handle 500 error in quiz API
+0525. ✅ test: mock database connection in test suite
