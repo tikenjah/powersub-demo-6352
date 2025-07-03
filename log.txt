@@ -10726,3 +10726,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0114. ♻️ chore: update .gitignore
 0260. ✨ feat: create admin dashboard
+0566. 📚 docs: write FAQ section
