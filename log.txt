@@ -3661,3 +3661,4 @@
 0789. ✨ feat: create admin dashboard
 0634. 🎨 style: reformat files with black
 0556. ✨ feat: support email verification
+0741. 🎨 style: apply consistent indentation
