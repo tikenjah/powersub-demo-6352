@@ -6723,3 +6723,4 @@
 0085. ✨ feat: support email verification
 0742. 📚 docs: clarify environment setup
 0495. 🔧 refactor: remove redundant code blocks
+0459. 🔧 refactor: organize models into subfolders
