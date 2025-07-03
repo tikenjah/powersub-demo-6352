@@ -10728,3 +10728,4 @@
 0260. ✨ feat: create admin dashboard
 0566. 📚 docs: write FAQ section
 0700. 🎨 style: rename variables for clarity
+0039. ✅ test: add integration test for /submit endpoint
