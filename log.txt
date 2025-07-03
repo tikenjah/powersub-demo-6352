@@ -3657,3 +3657,4 @@
 0924. ✅ test: mock database connection in test suite
 0907. 🔧 refactor: split large controller into smaller functions
 0467. ✅ test: add integration test for /submit endpoint
+0703. 🔧 refactor: clean up auth middleware
