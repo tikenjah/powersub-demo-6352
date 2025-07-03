@@ -3660,3 +3660,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0789. ✨ feat: create admin dashboard
 0634. 🎨 style: reformat files with black
+0556. ✨ feat: support email verification
