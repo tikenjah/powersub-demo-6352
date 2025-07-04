@@ -5723,3 +5723,4 @@
 0575. ✅ test: add unit test for quiz service
 0033. 🎨 style: apply consistent indentation
 0059. ♻️ chore: bump dependencies
+0268. 🐛 fix: prevent crash on empty input
