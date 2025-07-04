@@ -5725,3 +5725,4 @@
 0059. ♻️ chore: bump dependencies
 0268. 🐛 fix: prevent crash on empty input
 0052. 🎨 style: standardize quote style
+0710. 🐛 fix: fix broken CSS in mobile view
