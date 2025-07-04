@@ -3662,3 +3662,4 @@
 0634. 🎨 style: reformat files with black
 0556. ✨ feat: support email verification
 0741. 🎨 style: apply consistent indentation
+0251. ♻️ chore: update .gitignore
