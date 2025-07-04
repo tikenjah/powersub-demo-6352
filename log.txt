@@ -8705,3 +8705,4 @@
 0803. ✅ test: mock database connection in test suite
 0924. ✅ test: mock database connection in test suite
 0768. 🎨 style: remove trailing whitespace
+0258. 🐛 fix: prevent crash on empty input
