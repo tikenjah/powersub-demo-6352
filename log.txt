@@ -3667,3 +3667,4 @@
 0361. ✨ feat: support email verification
 0931. 🚀 perf: reduce image load time
 0857. 🎨 style: rename variables for clarity
+0750. 🎨 style: apply consistent indentation
