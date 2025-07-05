@@ -3673,3 +3673,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0819. 🚀 perf: reduce image load time
 0518. ✨ feat: support email verification
+0065. ✅ test: add integration test for /submit endpoint
