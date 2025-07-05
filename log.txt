@@ -7744,3 +7744,4 @@
 0449. ✅ test: add unit test for quiz service
 0225. 🚀 perf: reduce image load time
 0009. ✨ feat: enable dark mode toggle
+0483. 📚 docs: update README with setup steps
