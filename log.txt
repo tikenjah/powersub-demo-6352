@@ -7742,3 +7742,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0011. ✅ test: add unit test for quiz service
 0449. ✅ test: add unit test for quiz service
+0225. 🚀 perf: reduce image load time
