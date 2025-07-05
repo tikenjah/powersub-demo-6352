@@ -6727,3 +6727,4 @@
 0611. ✅ test: test user registration edge cases
 0529. 📚 docs: write FAQ section
 0185. 📚 docs: write FAQ section
+0740. 🐛 fix: resolve issue with date parsing
