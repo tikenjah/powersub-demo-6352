@@ -3672,3 +3672,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0880. 🐛 fix: fix broken CSS in mobile view
 0819. 🚀 perf: reduce image load time
+0518. ✨ feat: support email verification
