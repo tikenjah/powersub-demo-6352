@@ -8710,3 +8710,4 @@
 0091. ✨ feat: add user authentication
 0559. 🔧 refactor: split large controller into smaller functions
 0732. ♻️ chore: add GitHub actions badge
+0986. 📚 docs: document token refresh logic
