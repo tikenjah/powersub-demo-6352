@@ -3681,3 +3681,4 @@
 0935. 📚 docs: update README with setup steps
 0291. 📚 docs: write FAQ section
 0464. 🎨 style: remove trailing whitespace
+0476. 🚀 perf: reduce image load time
