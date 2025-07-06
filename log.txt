@@ -5730,3 +5730,4 @@
 0961. 📚 docs: add API usage examples
 0177. 📚 docs: add API usage examples
 0158. 📚 docs: clarify environment setup
+0586. 🎨 style: remove trailing whitespace
