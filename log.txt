@@ -3691,3 +3691,4 @@
 0695. ✨ feat: create admin dashboard
 0733. 🐛 fix: fix null pointer exception on login
 0861. ♻️ chore: clean up unused files
+0725. 🚀 perf: lazy-load components
