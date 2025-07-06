@@ -3689,3 +3689,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0419. 🎨 style: remove trailing whitespace
 0695. ✨ feat: create admin dashboard
+0733. 🐛 fix: fix null pointer exception on login
