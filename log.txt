@@ -3686,3 +3686,4 @@
 0776. ✅ test: add integration test for /submit endpoint
 0053. ✅ test: increase coverage on auth module
 0372. ✨ feat: add user authentication
+0708. ✅ test: add integration test for /submit endpoint
