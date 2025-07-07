@@ -3701,3 +3701,4 @@
 0249. ✅ test: increase coverage on auth module
 0521. 🎨 style: standardize quote style
 0813. 🔧 refactor: organize models into subfolders
+0828. ♻️ chore: add GitHub actions badge
