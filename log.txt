@@ -9737,3 +9737,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0722. 📚 docs: add API usage examples
 0760. 🐛 fix: resolve issue with date parsing
+0561. 📚 docs: write FAQ section
