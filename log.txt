@@ -3696,3 +3696,4 @@
 0809. ♻️ chore: rename env.example
 0082. 🔧 refactor: refactor quiz grading logic
 0843. 📚 docs: document token refresh logic
+0051. ✨ feat: enable dark mode toggle
