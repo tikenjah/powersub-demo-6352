@@ -3699,3 +3699,4 @@
 0051. ✨ feat: enable dark mode toggle
 0516. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
+0521. 🎨 style: standardize quote style
