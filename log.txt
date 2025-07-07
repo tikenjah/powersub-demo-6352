@@ -8714,3 +8714,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0756. ✨ feat: support email verification
 0153. ♻️ chore: rename env.example
+0748. 🚀 perf: optimize database query for quiz results
