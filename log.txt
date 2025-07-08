@@ -7752,3 +7752,4 @@
 0962. ✨ feat: create admin dashboard
 0536. ✨ feat: add user authentication
 0567. 📚 docs: add API usage examples
+0562. 🔧 refactor: clean up auth middleware
