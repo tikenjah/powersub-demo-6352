@@ -8718,3 +8718,4 @@
 0151. ✅ test: add unit test for quiz service
 0860. 🔧 refactor: organize models into subfolders
 0147. ♻️ chore: bump dependencies
+0388. 🎨 style: reformat files with black
