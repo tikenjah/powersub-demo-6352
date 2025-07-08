@@ -3713,3 +3713,4 @@
 0801. ✨ feat: enable dark mode toggle
 0312. ✨ feat: add user authentication
 0547. 📚 docs: write FAQ section
+0145. 📚 docs: improve code comments in utils
