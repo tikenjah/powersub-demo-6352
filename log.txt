@@ -3710,3 +3710,4 @@
 0431. 🎨 style: reformat files with black
 0455. ♻️ chore: clean up unused files
 0738. 🐛 fix: prevent crash on empty input
+0801. ✨ feat: enable dark mode toggle
