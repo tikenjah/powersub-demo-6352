@@ -3724,3 +3724,4 @@
 0704. 🚀 perf: cache repeated calculations
 0261. 🔧 refactor: refactor quiz grading logic
 0391. 🐛 fix: fix null pointer exception on login
+0420. 🚀 perf: reduce image load time
