@@ -7754,3 +7754,4 @@
 0567. 📚 docs: add API usage examples
 0562. 🔧 refactor: clean up auth middleware
 0972. 🔧 refactor: refactor quiz grading logic
+0230. ✨ feat: create admin dashboard
