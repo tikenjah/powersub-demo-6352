@@ -3723,3 +3723,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0704. 🚀 perf: cache repeated calculations
 0261. 🔧 refactor: refactor quiz grading logic
+0391. 🐛 fix: fix null pointer exception on login
