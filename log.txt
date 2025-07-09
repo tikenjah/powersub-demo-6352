@@ -3727,3 +3727,4 @@
 0420. 🚀 perf: reduce image load time
 0983. 🔧 refactor: split large controller into smaller functions
 0937. 🐛 fix: handle 500 error in quiz API
+0871. ✅ test: add integration test for /submit endpoint
