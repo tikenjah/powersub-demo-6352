@@ -8722,3 +8722,4 @@
 0273. 🚀 perf: reduce image load time
 0164. 📚 docs: document token refresh logic
 0480. ♻️ chore: add GitHub actions badge
+0043. ✅ test: add integration test for /submit endpoint
