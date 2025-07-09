@@ -8724,3 +8724,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0043. ✅ test: add integration test for /submit endpoint
 0102. ✨ feat: support email verification
+0235. 🐛 fix: fix null pointer exception on login
