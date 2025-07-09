@@ -5737,3 +5737,4 @@
 0845. 🚀 perf: cache repeated calculations
 0885. ♻️ chore: update .gitignore
 0734. ✨ feat: add export to CSV option
+0419. 🎨 style: remove trailing whitespace
