@@ -9743,3 +9743,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0494. 🎨 style: rename variables for clarity
 0950. 🎨 style: reformat files with black
+0731. 🎨 style: standardize quote style
