@@ -8721,3 +8721,4 @@
 0388. 🎨 style: reformat files with black
 0273. 🚀 perf: reduce image load time
 0164. 📚 docs: document token refresh logic
+0480. ♻️ chore: add GitHub actions badge
