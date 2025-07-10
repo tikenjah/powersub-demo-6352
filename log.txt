@@ -3746,3 +3746,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0250. 📚 docs: update README with setup steps
 0577. ✨ feat: implement quiz timer feature
+0017. ✅ test: mock database connection in test suite
