@@ -6741,3 +6741,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0470. 🎨 style: remove trailing whitespace
 0528. ♻️ chore: clean up unused files
+0793. 📚 docs: clarify environment setup
