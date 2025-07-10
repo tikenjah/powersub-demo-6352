@@ -3743,3 +3743,4 @@
 0049. 🐛 fix: handle 500 error in quiz API
 0416. 🎨 style: rename variables for clarity
 0986. 📚 docs: document token refresh logic
+0074. ♻️ chore: add GitHub actions badge
