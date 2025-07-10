@@ -10740,3 +10740,4 @@
 0882. 🚀 perf: optimize database query for quiz results
 0087. ✨ feat: add export to CSV option
 0138. 🎨 style: rename variables for clarity
+0762. 🚀 perf: lazy-load components
