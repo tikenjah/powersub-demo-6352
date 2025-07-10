@@ -9745,3 +9745,4 @@
 0950. 🎨 style: reformat files with black
 0731. 🎨 style: standardize quote style
 0269. ✅ test: test user registration edge cases
+0843. 📚 docs: document token refresh logic
