@@ -3755,3 +3755,4 @@
 0925. ✨ feat: add export to CSV option
 0312. ✨ feat: add user authentication
 0368. 🚀 perf: lazy-load components
+0880. 🐛 fix: fix broken CSS in mobile view
