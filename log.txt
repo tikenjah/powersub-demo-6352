@@ -3753,3 +3753,4 @@
 0543. ✨ feat: support email verification
 0584. 🚀 perf: lazy-load components
 0925. ✨ feat: add export to CSV option
+0312. ✨ feat: add user authentication
