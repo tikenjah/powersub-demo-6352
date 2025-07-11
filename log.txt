@@ -3750,3 +3750,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0358. 🚀 perf: reduce image load time
 0596. ♻️ chore: update .gitignore
+0543. ✨ feat: support email verification
