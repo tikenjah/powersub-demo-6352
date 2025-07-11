@@ -9748,3 +9748,4 @@
 0843. 📚 docs: document token refresh logic
 0198. 📚 docs: clarify environment setup
 0275. 🎨 style: standardize quote style
+0359. 🔧 refactor: clean up auth middleware
