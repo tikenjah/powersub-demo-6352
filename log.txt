@@ -10745,3 +10745,4 @@
 0143. ✨ feat: implement quiz timer feature
 0379. ✨ feat: support email verification
 0801. ✨ feat: enable dark mode toggle
+0730. ✅ test: test user registration edge cases
