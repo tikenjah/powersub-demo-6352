@@ -3759,3 +3759,4 @@
 0923. ✨ feat: support email verification
 0610. 🚀 perf: lazy-load components
 0035. ✅ test: increase coverage on auth module
+0378. 🐛 fix: prevent crash on empty input
