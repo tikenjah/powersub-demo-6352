@@ -9749,3 +9749,4 @@
 0198. 📚 docs: clarify environment setup
 0275. 🎨 style: standardize quote style
 0359. 🔧 refactor: clean up auth middleware
+0987. ✨ feat: create admin dashboard
