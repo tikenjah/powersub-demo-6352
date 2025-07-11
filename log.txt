@@ -3752,3 +3752,4 @@
 0596. ♻️ chore: update .gitignore
 0543. ✨ feat: support email verification
 0584. 🚀 perf: lazy-load components
+0925. ✨ feat: add export to CSV option
