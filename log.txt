@@ -3758,3 +3758,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0923. ✨ feat: support email verification
 0610. 🚀 perf: lazy-load components
+0035. ✅ test: increase coverage on auth module
