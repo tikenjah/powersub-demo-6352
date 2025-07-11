@@ -3756,3 +3756,4 @@
 0312. ✨ feat: add user authentication
 0368. 🚀 perf: lazy-load components
 0880. 🐛 fix: fix broken CSS in mobile view
+0923. ✨ feat: support email verification
