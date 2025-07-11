@@ -6748,3 +6748,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0060. ♻️ chore: clean up unused files
 0266. 🔧 refactor: remove redundant code blocks
+0834. ✅ test: increase coverage on auth module
