@@ -10744,3 +10744,4 @@
 0254. 🚀 perf: reduce image load time
 0143. ✨ feat: implement quiz timer feature
 0379. ✨ feat: support email verification
+0801. ✨ feat: enable dark mode toggle
