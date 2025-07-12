@@ -6751,3 +6751,4 @@
 0834. ✅ test: increase coverage on auth module
 0446. 🎨 style: apply consistent indentation
 0914. ✅ test: test user registration edge cases
+0152. ✨ feat: add user authentication
