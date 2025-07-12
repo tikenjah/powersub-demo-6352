@@ -7767,3 +7767,4 @@
 0686. 🎨 style: standardize quote style
 0428. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
+0379. ✨ feat: support email verification
