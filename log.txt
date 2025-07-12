@@ -7766,3 +7766,4 @@
 0392. 🎨 style: remove trailing whitespace
 0686. 🎨 style: standardize quote style
 0428. 🐛 fix: fix null pointer exception on login
+0914. ✅ test: test user registration edge cases
