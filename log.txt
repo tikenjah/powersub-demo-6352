@@ -3775,3 +3775,4 @@
 0715. ✨ feat: create admin dashboard
 0407. 🚀 perf: cache repeated calculations
 0870. ♻️ chore: clean up unused files
+0903. ✅ test: mock database connection in test suite
