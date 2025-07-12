@@ -3774,3 +3774,4 @@
 0677. 📚 docs: add API usage examples
 0715. ✨ feat: create admin dashboard
 0407. 🚀 perf: cache repeated calculations
+0870. ♻️ chore: clean up unused files
