@@ -6755,3 +6755,4 @@
 0863. 🐛 fix: correct typo in registration form
 0755. 🚀 perf: cache repeated calculations
 0296. 🔧 refactor: organize models into subfolders
+0977. 🔧 refactor: organize models into subfolders
