@@ -5748,3 +5748,4 @@
 0044. ✅ test: add unit test for quiz service
 0010. ✨ feat: add user authentication
 0996. ✅ test: test user registration edge cases
+0177. 📚 docs: add API usage examples
