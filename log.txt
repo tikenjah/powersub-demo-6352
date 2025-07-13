@@ -9754,3 +9754,4 @@
 0811. 🎨 style: reformat files with black
 0138. 🎨 style: rename variables for clarity
 0470. 🎨 style: remove trailing whitespace
+0194. 🎨 style: standardize quote style
