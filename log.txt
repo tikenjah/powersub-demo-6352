@@ -3792,3 +3792,4 @@
 0892. ✅ test: add unit test for quiz service
 0072. 🚀 perf: optimize database query for quiz results
 0341. 🚀 perf: lazy-load components
+0167. 🚀 perf: reduce image load time
