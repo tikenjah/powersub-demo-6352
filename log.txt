@@ -10749,3 +10749,4 @@
 0646. ✅ test: test user registration edge cases
 0901. ✨ feat: add user authentication
 0942. ✅ test: increase coverage on auth module
+0348. ✅ test: test user registration edge cases
