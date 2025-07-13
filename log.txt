@@ -3785,3 +3785,4 @@
 0670. ✨ feat: add export to CSV option
 0382. 📚 docs: improve code comments in utils
 0785. ✨ feat: enable dark mode toggle
+0033. 🎨 style: apply consistent indentation
