@@ -6757,3 +6757,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0977. 🔧 refactor: organize models into subfolders
 0038. 🎨 style: rename variables for clarity
+0068. 🐛 fix: fix null pointer exception on login
