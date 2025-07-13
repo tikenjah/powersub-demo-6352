@@ -3791,3 +3791,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0892. ✅ test: add unit test for quiz service
 0072. 🚀 perf: optimize database query for quiz results
+0341. 🚀 perf: lazy-load components
