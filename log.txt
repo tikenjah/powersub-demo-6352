@@ -9755,3 +9755,4 @@
 0138. 🎨 style: rename variables for clarity
 0470. 🎨 style: remove trailing whitespace
 0194. 🎨 style: standardize quote style
+0323. 📚 docs: clarify environment setup
