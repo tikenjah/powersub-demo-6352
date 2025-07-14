@@ -7768,3 +7768,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
 0379. ✨ feat: support email verification
+0958. 🐛 fix: prevent crash on empty input
