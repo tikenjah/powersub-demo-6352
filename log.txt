@@ -3808,3 +3808,4 @@
 0976. ✨ feat: implement quiz timer feature
 0231. 🔧 refactor: clean up auth middleware
 0512. 🚀 perf: reduce image load time
+0809. ♻️ chore: rename env.example
