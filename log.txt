@@ -3804,3 +3804,4 @@
 0911. ✅ test: increase coverage on auth module
 0028. 🎨 style: standardize quote style
 0348. ✅ test: test user registration edge cases
+0551. 📚 docs: write FAQ section
