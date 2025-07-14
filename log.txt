@@ -10751,3 +10751,4 @@
 0942. ✅ test: increase coverage on auth module
 0348. ✅ test: test user registration edge cases
 0642. 🚀 perf: optimize database query for quiz results
+0274. 🔧 refactor: refactor quiz grading logic
