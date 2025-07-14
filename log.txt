@@ -9759,3 +9759,4 @@
 0806. 📚 docs: improve code comments in utils
 0973. 🔧 refactor: organize models into subfolders
 0699. 🎨 style: standardize quote style
+0349. ✅ test: increase coverage on auth module
