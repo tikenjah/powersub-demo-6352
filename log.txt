@@ -7770,3 +7770,4 @@
 0379. ✨ feat: support email verification
 0958. 🐛 fix: prevent crash on empty input
 0158. 📚 docs: clarify environment setup
+0050. ✨ feat: enable dark mode toggle
