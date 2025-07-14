@@ -3806,3 +3806,4 @@
 0348. ✅ test: test user registration edge cases
 0551. 📚 docs: write FAQ section
 0976. ✨ feat: implement quiz timer feature
+0231. 🔧 refactor: clean up auth middleware
