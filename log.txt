@@ -6760,3 +6760,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0102. ✨ feat: support email verification
 0330. ✅ test: test user registration edge cases
+0336. ✨ feat: add export to CSV option
