@@ -5752,3 +5752,4 @@
 0080. ✨ feat: support email verification
 0815. 🔧 refactor: split large controller into smaller functions
 0492. 🎨 style: remove trailing whitespace
+0447. ♻️ chore: bump dependencies
