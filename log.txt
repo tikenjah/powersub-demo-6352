@@ -8739,3 +8739,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0635. 🎨 style: apply consistent indentation
 0964. ♻️ chore: clean up unused files
+0129. 🔧 refactor: organize models into subfolders
