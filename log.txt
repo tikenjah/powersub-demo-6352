@@ -8741,3 +8741,4 @@
 0964. ♻️ chore: clean up unused files
 0129. 🔧 refactor: organize models into subfolders
 0379. ✨ feat: support email verification
+0008. 🚀 perf: reduce image load time
