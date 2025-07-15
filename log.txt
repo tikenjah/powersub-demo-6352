@@ -6761,3 +6761,4 @@
 0102. ✨ feat: support email verification
 0330. ✅ test: test user registration edge cases
 0336. ✨ feat: add export to CSV option
+0124. 🎨 style: reformat files with black
