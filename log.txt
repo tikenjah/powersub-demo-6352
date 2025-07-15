@@ -3821,3 +3821,4 @@
 0406. ✨ feat: add export to CSV option
 0928. 🎨 style: apply consistent indentation
 0277. 🎨 style: standardize quote style
+0340. 🚀 perf: optimize database query for quiz results
