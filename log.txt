@@ -10755,3 +10755,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0916. ♻️ chore: bump dependencies
 0647. 🐛 fix: prevent crash on empty input
+0604. 📚 docs: add API usage examples
