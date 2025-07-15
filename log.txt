@@ -8740,3 +8740,4 @@
 0635. 🎨 style: apply consistent indentation
 0964. ♻️ chore: clean up unused files
 0129. 🔧 refactor: organize models into subfolders
+0379. ✨ feat: support email verification
