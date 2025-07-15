@@ -5754,3 +5754,4 @@
 0492. 🎨 style: remove trailing whitespace
 0447. ♻️ chore: bump dependencies
 0454. ♻️ chore: bump dependencies
+0292. 📚 docs: clarify environment setup
