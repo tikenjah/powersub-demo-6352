@@ -5756,3 +5756,4 @@
 0454. ♻️ chore: bump dependencies
 0292. 📚 docs: clarify environment setup
 0618. ✨ feat: support email verification
+0745. ✅ test: add unit test for quiz service
