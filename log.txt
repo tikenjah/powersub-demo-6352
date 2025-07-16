@@ -7774,3 +7774,4 @@
 0525. ✅ test: mock database connection in test suite
 0054. ♻️ chore: update .gitignore
 0971. 🎨 style: standardize quote style
+0094. 📚 docs: document token refresh logic
