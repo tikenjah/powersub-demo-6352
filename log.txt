@@ -7772,3 +7772,4 @@
 0158. 📚 docs: clarify environment setup
 0050. ✨ feat: enable dark mode toggle
 0525. ✅ test: mock database connection in test suite
+0054. ♻️ chore: update .gitignore
