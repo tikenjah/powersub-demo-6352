@@ -8743,3 +8743,4 @@
 0379. ✨ feat: support email verification
 0008. 🚀 perf: reduce image load time
 0805. ♻️ chore: add GitHub actions badge
+0499. 🎨 style: reformat files with black
