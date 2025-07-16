@@ -6763,3 +6763,4 @@
 0336. ✨ feat: add export to CSV option
 0124. 🎨 style: reformat files with black
 0869. ♻️ chore: bump dependencies
+0825. 🔧 refactor: split large controller into smaller functions
