@@ -3835,3 +3835,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0785. ✨ feat: enable dark mode toggle
 0209. ✨ feat: implement quiz timer feature
+0518. ✨ feat: support email verification
