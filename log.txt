@@ -3833,3 +3833,4 @@
 0408. ♻️ chore: add GitHub actions badge
 0555. ✨ feat: create admin dashboard
 0647. 🐛 fix: prevent crash on empty input
+0785. ✨ feat: enable dark mode toggle
