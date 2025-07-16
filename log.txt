@@ -3836,3 +3836,4 @@
 0785. ✨ feat: enable dark mode toggle
 0209. ✨ feat: implement quiz timer feature
 0518. ✨ feat: support email verification
+0482. ✨ feat: add export to CSV option
