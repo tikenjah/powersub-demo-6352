@@ -3829,3 +3829,4 @@
 0444. ✅ test: add unit test for quiz service
 0379. ✨ feat: support email verification
 0951. 🎨 style: rename variables for clarity
+0599. ✅ test: test user registration edge cases
