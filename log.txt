@@ -3839,3 +3839,4 @@
 0482. ✨ feat: add export to CSV option
 0064. 📚 docs: clarify environment setup
 0802. 🔧 refactor: remove redundant code blocks
+0477. 🐛 fix: fix broken CSS in mobile view
