@@ -10758,3 +10758,4 @@
 0604. 📚 docs: add API usage examples
 0252. 🎨 style: remove trailing whitespace
 0785. ✨ feat: enable dark mode toggle
+0603. 🐛 fix: fix broken CSS in mobile view
