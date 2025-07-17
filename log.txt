@@ -3838,3 +3838,4 @@
 0518. ✨ feat: support email verification
 0482. ✨ feat: add export to CSV option
 0064. 📚 docs: clarify environment setup
+0802. 🔧 refactor: remove redundant code blocks
