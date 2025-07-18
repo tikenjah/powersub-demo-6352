@@ -5763,3 +5763,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0063. 🐛 fix: handle 500 error in quiz API
 0397. 🐛 fix: handle 500 error in quiz API
+0759. 🔧 refactor: organize models into subfolders
