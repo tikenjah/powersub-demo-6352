@@ -3852,3 +3852,4 @@
 0983. 🔧 refactor: split large controller into smaller functions
 0826. 📚 docs: clarify environment setup
 0143. ✨ feat: implement quiz timer feature
+0599. ✅ test: test user registration edge cases
