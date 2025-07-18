@@ -10765,3 +10765,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0454. ♻️ chore: bump dependencies
 0092. 🚀 perf: reduce image load time
+0408. ♻️ chore: add GitHub actions badge
