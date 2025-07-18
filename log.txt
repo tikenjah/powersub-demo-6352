@@ -8749,3 +8749,4 @@
 0643. 🎨 style: apply consistent indentation
 0200. 🐛 fix: handle 500 error in quiz API
 0282. 🔧 refactor: remove redundant code blocks
+0563. 📚 docs: clarify environment setup
