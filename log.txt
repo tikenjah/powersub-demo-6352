@@ -3850,3 +3850,4 @@
 0424. ✨ feat: add user authentication
 0176. 🔧 refactor: remove redundant code blocks
 0983. 🔧 refactor: split large controller into smaller functions
+0826. 📚 docs: clarify environment setup
