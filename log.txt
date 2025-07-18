@@ -10766,3 +10766,4 @@
 0454. ♻️ chore: bump dependencies
 0092. 🚀 perf: reduce image load time
 0408. ♻️ chore: add GitHub actions badge
+0557. 🔧 refactor: clean up auth middleware
