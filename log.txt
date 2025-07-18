@@ -3862,3 +3862,4 @@
 0567. 📚 docs: add API usage examples
 0756. ✨ feat: support email verification
 0286. ✅ test: mock database connection in test suite
+0023. 📚 docs: clarify environment setup
