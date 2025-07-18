@@ -3857,3 +3857,4 @@
 0558. ✨ feat: enable dark mode toggle
 0612. ✅ test: test user registration edge cases
 0714. 📚 docs: improve code comments in utils
+0732. ♻️ chore: add GitHub actions badge
