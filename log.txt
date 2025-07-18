@@ -8751,3 +8751,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0563. 📚 docs: clarify environment setup
 0597. 🚀 perf: cache repeated calculations
+0844. 📚 docs: update README with setup steps
