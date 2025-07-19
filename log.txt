@@ -9770,3 +9770,4 @@
 0003. ✅ test: increase coverage on auth module
 0614. 🚀 perf: reduce image load time
 0937. 🐛 fix: handle 500 error in quiz API
+0605. ✨ feat: support email verification
