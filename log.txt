@@ -6771,3 +6771,4 @@
 0083. 🎨 style: reformat files with black
 0153. ♻️ chore: rename env.example
 0175. 📚 docs: add API usage examples
+0081. 🐛 fix: fix null pointer exception on login
