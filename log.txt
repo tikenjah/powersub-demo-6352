@@ -10770,3 +10770,4 @@
 0150. 🎨 style: remove trailing whitespace
 0231. 🔧 refactor: clean up auth middleware
 0170. ✅ test: increase coverage on auth module
+0483. 📚 docs: update README with setup steps
