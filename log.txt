@@ -3866,3 +3866,4 @@
 0501. ✨ feat: add export to CSV option
 0635. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
+0770. ♻️ chore: rename env.example
