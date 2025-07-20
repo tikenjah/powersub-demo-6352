@@ -3877,3 +3877,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0676. 🐛 fix: prevent crash on empty input
 0873. 🚀 perf: cache repeated calculations
+0553. 🐛 fix: correct typo in registration form
