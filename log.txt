@@ -6773,3 +6773,4 @@
 0175. 📚 docs: add API usage examples
 0081. 🐛 fix: fix null pointer exception on login
 0564. 📚 docs: clarify environment setup
+0514. 🐛 fix: fix broken CSS in mobile view
