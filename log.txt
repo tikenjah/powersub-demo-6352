@@ -3889,3 +3889,4 @@
 0149. ✨ feat: add export to CSV option
 0258. 🐛 fix: prevent crash on empty input
 0804. ♻️ chore: add GitHub actions badge
+0409. 🚀 perf: lazy-load components
