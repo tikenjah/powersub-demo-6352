@@ -10772,3 +10772,4 @@
 0170. ✅ test: increase coverage on auth module
 0483. 📚 docs: update README with setup steps
 0654. ✨ feat: create admin dashboard
+0790. 📚 docs: write FAQ section
