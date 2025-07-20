@@ -8755,3 +8755,4 @@
 0722. 📚 docs: add API usage examples
 0771. 🚀 perf: cache repeated calculations
 0603. 🐛 fix: fix broken CSS in mobile view
+0021. ✨ feat: support email verification
