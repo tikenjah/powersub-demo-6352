@@ -3892,3 +3892,4 @@
 0409. 🚀 perf: lazy-load components
 0686. 🎨 style: standardize quote style
 0473. 📚 docs: write FAQ section
+0967. ♻️ chore: add GitHub actions badge
