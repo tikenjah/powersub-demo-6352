@@ -3899,3 +3899,4 @@
 0091. ✨ feat: add user authentication
 0228. 🔧 refactor: remove redundant code blocks
 0388. 🎨 style: reformat files with black
+0217. 🚀 perf: reduce image load time
