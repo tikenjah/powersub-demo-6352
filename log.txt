@@ -6777,3 +6777,4 @@
 0714. 📚 docs: improve code comments in utils
 0788. 📚 docs: add API usage examples
 0442. 🎨 style: standardize quote style
+0790. 📚 docs: write FAQ section
