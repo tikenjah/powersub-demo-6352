@@ -3893,3 +3893,4 @@
 0686. 🎨 style: standardize quote style
 0473. 📚 docs: write FAQ section
 0967. ♻️ chore: add GitHub actions badge
+0223. 🔧 refactor: remove redundant code blocks
