@@ -3908,3 +3908,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0833. ✨ feat: add user authentication
 0665. ♻️ chore: update .gitignore
+0558. ✨ feat: enable dark mode toggle
