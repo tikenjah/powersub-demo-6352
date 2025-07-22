@@ -3913,3 +3913,4 @@
 0766. 🎨 style: reformat files with black
 0528. ♻️ chore: clean up unused files
 0708. ✅ test: add integration test for /submit endpoint
+0981. 🚀 perf: lazy-load components
