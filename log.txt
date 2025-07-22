@@ -3917,3 +3917,4 @@
 0247. 🎨 style: apply consistent indentation
 0660. 🐛 fix: correct typo in registration form
 0212. 🎨 style: standardize quote style
+0583. ✅ test: increase coverage on auth module
