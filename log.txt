@@ -6778,3 +6778,4 @@
 0788. 📚 docs: add API usage examples
 0442. 🎨 style: standardize quote style
 0790. 📚 docs: write FAQ section
+0181. ♻️ chore: add GitHub actions badge
