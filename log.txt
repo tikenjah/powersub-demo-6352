@@ -3935,3 +3935,4 @@
 0022. 📚 docs: document token refresh logic
 0447. ♻️ chore: bump dependencies
 0009. ✨ feat: enable dark mode toggle
+0290. ✅ test: test user registration edge cases
