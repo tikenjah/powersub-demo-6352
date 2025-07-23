@@ -5772,3 +5772,4 @@
 0529. 📚 docs: write FAQ section
 0707. 🎨 style: apply consistent indentation
 0809. ♻️ chore: rename env.example
+0658. 🎨 style: rename variables for clarity
