@@ -3919,3 +3919,4 @@
 0212. 🎨 style: standardize quote style
 0583. ✅ test: increase coverage on auth module
 0443. 🎨 style: standardize quote style
+0605. ✨ feat: support email verification
