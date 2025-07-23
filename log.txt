@@ -7789,3 +7789,4 @@
 0313. 🎨 style: apply consistent indentation
 0429. ✨ feat: add user authentication
 0946. ✅ test: add unit test for quiz service
+0628. ♻️ chore: add GitHub actions badge
