@@ -5771,3 +5771,4 @@
 0681. ✨ feat: create admin dashboard
 0529. 📚 docs: write FAQ section
 0707. 🎨 style: apply consistent indentation
+0809. ♻️ chore: rename env.example
