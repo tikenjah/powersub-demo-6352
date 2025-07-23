@@ -3930,3 +3930,4 @@
 0976. ✨ feat: implement quiz timer feature
 0718. 🐛 fix: resolve issue with date parsing
 0836. 🚀 perf: optimize database query for quiz results
+0491. 🚀 perf: lazy-load components
