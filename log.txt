@@ -6780,3 +6780,4 @@
 0790. 📚 docs: write FAQ section
 0181. ♻️ chore: add GitHub actions badge
 0730. ✅ test: test user registration edge cases
+0387. ✨ feat: enable dark mode toggle
