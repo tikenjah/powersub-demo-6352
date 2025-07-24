@@ -10779,3 +10779,4 @@
 0132. ✅ test: add unit test for quiz service
 0646. ✅ test: test user registration edge cases
 0122. ✨ feat: support email verification
+0356. 📚 docs: write FAQ section
