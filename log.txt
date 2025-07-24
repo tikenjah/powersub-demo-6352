@@ -5776,3 +5776,4 @@
 0490. ✨ feat: create admin dashboard
 0252. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
+0423. ✅ test: mock database connection in test suite
