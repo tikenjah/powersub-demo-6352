@@ -5775,3 +5775,4 @@
 0658. 🎨 style: rename variables for clarity
 0490. ✨ feat: create admin dashboard
 0252. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
