@@ -9780,3 +9780,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0930. 🎨 style: apply consistent indentation
 0788. 📚 docs: add API usage examples
+0866. 📚 docs: add API usage examples
