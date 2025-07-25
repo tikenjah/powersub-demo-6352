@@ -8766,3 +8766,4 @@
 0323. 📚 docs: clarify environment setup
 0930. 🎨 style: apply consistent indentation
 0738. 🐛 fix: prevent crash on empty input
+0693. 📚 docs: add API usage examples
