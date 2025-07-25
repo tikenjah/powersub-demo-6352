@@ -3959,3 +3959,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0928. 🎨 style: apply consistent indentation
 0394. 🚀 perf: lazy-load components
+0431. 🎨 style: reformat files with black
