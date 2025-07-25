@@ -3954,3 +3954,4 @@
 0273. 🚀 perf: reduce image load time
 0117. ✅ test: increase coverage on auth module
 0479. 🐛 fix: fix null pointer exception on login
+0043. ✅ test: add integration test for /submit endpoint
