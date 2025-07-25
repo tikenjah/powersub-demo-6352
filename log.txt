@@ -5778,3 +5778,4 @@
 0395. 📚 docs: write FAQ section
 0423. ✅ test: mock database connection in test suite
 0308. 🚀 perf: reduce image load time
+0665. ♻️ chore: update .gitignore
