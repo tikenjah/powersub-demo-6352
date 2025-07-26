@@ -3971,3 +3971,4 @@
 0823. ✨ feat: add user authentication
 0949. 📚 docs: write FAQ section
 0916. ♻️ chore: bump dependencies
+0501. ✨ feat: add export to CSV option
