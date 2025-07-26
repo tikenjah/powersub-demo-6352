@@ -5781,3 +5781,4 @@
 0665. ♻️ chore: update .gitignore
 0905. ♻️ chore: bump dependencies
 0137. 🎨 style: rename variables for clarity
+0637. 🎨 style: apply consistent indentation
