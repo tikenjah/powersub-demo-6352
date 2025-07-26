@@ -3969,3 +3969,4 @@
 0124. 🎨 style: reformat files with black
 0408. ♻️ chore: add GitHub actions badge
 0823. ✨ feat: add user authentication
+0949. 📚 docs: write FAQ section
