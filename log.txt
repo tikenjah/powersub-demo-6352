@@ -7792,3 +7792,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0664. ✅ test: add unit test for quiz service
 0219. ✅ test: increase coverage on auth module
+0658. 🎨 style: rename variables for clarity
