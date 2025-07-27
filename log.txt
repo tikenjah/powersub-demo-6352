@@ -3976,3 +3976,4 @@
 0630. 🚀 perf: lazy-load components
 0199. ✨ feat: create admin dashboard
 0212. 🎨 style: standardize quote style
+0489. 🔧 refactor: organize models into subfolders
