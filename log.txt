@@ -6797,3 +6797,4 @@
 0369. 🎨 style: standardize quote style
 0241. 📚 docs: add API usage examples
 0259. 🚀 perf: lazy-load components
+0749. ✨ feat: support email verification
