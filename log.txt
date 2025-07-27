@@ -8774,3 +8774,4 @@
 0994. 🚀 perf: reduce image load time
 0482. ✨ feat: add export to CSV option
 0757. 🔧 refactor: remove redundant code blocks
+0159. 🚀 perf: lazy-load components
