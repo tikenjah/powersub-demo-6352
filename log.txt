@@ -3977,3 +3977,4 @@
 0199. ✨ feat: create admin dashboard
 0212. 🎨 style: standardize quote style
 0489. 🔧 refactor: organize models into subfolders
+0390. 🎨 style: standardize quote style
