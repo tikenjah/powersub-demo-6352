@@ -3982,3 +3982,4 @@
 0042. 📚 docs: document token refresh logic
 0698. 🐛 fix: handle 500 error in quiz API
 0319. 🐛 fix: handle 500 error in quiz API
+0412. ✅ test: increase coverage on auth module
