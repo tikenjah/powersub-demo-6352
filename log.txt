@@ -10791,3 +10791,4 @@
 0373. 📚 docs: document token refresh logic
 0082. 🔧 refactor: refactor quiz grading logic
 0358. 🚀 perf: reduce image load time
+0836. 🚀 perf: optimize database query for quiz results
