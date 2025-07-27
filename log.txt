@@ -5787,3 +5787,4 @@
 0163. ✨ feat: implement quiz timer feature
 0219. ✅ test: increase coverage on auth module
 0908. ♻️ chore: bump dependencies
+0099. 🚀 perf: reduce image load time
