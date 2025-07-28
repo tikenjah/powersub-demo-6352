@@ -5789,3 +5789,4 @@
 0908. ♻️ chore: bump dependencies
 0099. 🚀 perf: reduce image load time
 0746. ♻️ chore: add GitHub actions badge
+0120. ✅ test: add integration test for /submit endpoint
