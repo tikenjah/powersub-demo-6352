@@ -3993,3 +3993,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0571. 🔧 refactor: clean up auth middleware
 0331. 🐛 fix: fix broken CSS in mobile view
+0381. ♻️ chore: clean up unused files
