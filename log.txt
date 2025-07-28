@@ -6798,3 +6798,4 @@
 0241. 📚 docs: add API usage examples
 0259. 🚀 perf: lazy-load components
 0749. ✨ feat: support email verification
+0890. 🔧 refactor: organize models into subfolders
