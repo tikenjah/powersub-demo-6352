@@ -10794,3 +10794,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0436. ✅ test: add integration test for /submit endpoint
 0935. 📚 docs: update README with setup steps
+0736. 🐛 fix: fix null pointer exception on login
