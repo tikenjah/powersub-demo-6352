@@ -3988,3 +3988,4 @@
 0348. ✅ test: test user registration edge cases
 0935. 📚 docs: update README with setup steps
 0850. ♻️ chore: rename env.example
+0263. 📚 docs: add API usage examples
