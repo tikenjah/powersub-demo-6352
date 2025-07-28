@@ -4000,3 +4000,4 @@
 0700. 🎨 style: rename variables for clarity
 0423. ✅ test: mock database connection in test suite
 0261. 🔧 refactor: refactor quiz grading logic
+0677. 📚 docs: add API usage examples
