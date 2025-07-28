@@ -3986,3 +3986,4 @@
 0912. 📚 docs: document token refresh logic
 0881. 🔧 refactor: split large controller into smaller functions
 0348. ✅ test: test user registration edge cases
+0935. 📚 docs: update README with setup steps
