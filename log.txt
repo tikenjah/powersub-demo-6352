@@ -9788,3 +9788,4 @@
 0885. ♻️ chore: update .gitignore
 0033. 🎨 style: apply consistent indentation
 0868. ✅ test: add unit test for quiz service
+0766. 🎨 style: reformat files with black
