@@ -4026,3 +4026,4 @@
 0149. ✨ feat: add export to CSV option
 0185. 📚 docs: write FAQ section
 0464. 🎨 style: remove trailing whitespace
+0795. 📚 docs: update README with setup steps
