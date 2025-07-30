@@ -6805,3 +6805,4 @@
 0702. ✨ feat: add user authentication
 0189. 📚 docs: clarify environment setup
 0401. 🚀 perf: reduce image load time
+0605. ✨ feat: support email verification
