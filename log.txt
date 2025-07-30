@@ -8782,3 +8782,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0530. 🔧 refactor: refactor quiz grading logic
 0799. ♻️ chore: clean up unused files
+0689. 🎨 style: reformat files with black
