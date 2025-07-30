@@ -4019,3 +4019,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0434. 📚 docs: document token refresh logic
 0744. 🔧 refactor: remove redundant code blocks
+0590. 🐛 fix: fix null pointer exception on login
