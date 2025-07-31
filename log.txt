@@ -4036,3 +4036,4 @@
 0796. 🔧 refactor: refactor quiz grading logic
 0360. ✨ feat: add export to CSV option
 0869. ♻️ chore: bump dependencies
+0611. ✅ test: test user registration edge cases
