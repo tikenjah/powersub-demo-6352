@@ -7810,3 +7810,4 @@
 0526. ✨ feat: add user authentication
 0261. 🔧 refactor: refactor quiz grading logic
 0893. 🐛 fix: handle 500 error in quiz API
+0273. 🚀 perf: reduce image load time
