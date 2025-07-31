@@ -4035,3 +4035,4 @@
 0944. ✨ feat: add user authentication
 0796. 🔧 refactor: refactor quiz grading logic
 0360. ✨ feat: add export to CSV option
+0869. ♻️ chore: bump dependencies
