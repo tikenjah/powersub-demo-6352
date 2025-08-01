@@ -7812,3 +7812,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0273. 🚀 perf: reduce image load time
 0203. 🚀 perf: lazy-load components
+0722. 📚 docs: add API usage examples
