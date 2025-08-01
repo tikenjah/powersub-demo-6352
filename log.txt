@@ -4057,3 +4057,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0067. 🔧 refactor: remove redundant code blocks
 0163. ✨ feat: implement quiz timer feature
+0737. 🐛 fix: handle 500 error in quiz API
