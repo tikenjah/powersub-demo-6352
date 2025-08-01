@@ -8785,3 +8785,4 @@
 0689. 🎨 style: reformat files with black
 0963. 🚀 perf: reduce image load time
 0868. ✅ test: add unit test for quiz service
+0637. 🎨 style: apply consistent indentation
