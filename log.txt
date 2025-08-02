@@ -8787,3 +8787,4 @@
 0868. ✅ test: add unit test for quiz service
 0637. 🎨 style: apply consistent indentation
 0562. 🔧 refactor: clean up auth middleware
+0681. ✨ feat: create admin dashboard
