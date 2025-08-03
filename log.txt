@@ -4079,3 +4079,4 @@
 0482. ✨ feat: add export to CSV option
 0714. 📚 docs: improve code comments in utils
 0147. ♻️ chore: bump dependencies
+0122. ✨ feat: support email verification
