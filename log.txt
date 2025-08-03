@@ -6815,3 +6815,4 @@
 0011. ✅ test: add unit test for quiz service
 0351. ✨ feat: add export to CSV option
 0518. ✨ feat: support email verification
+0617. ✨ feat: support email verification
