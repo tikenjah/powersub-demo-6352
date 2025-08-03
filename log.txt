@@ -7816,3 +7816,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0484. 🐛 fix: handle 500 error in quiz API
 0474. ✅ test: add unit test for quiz service
+0585. 🚀 perf: lazy-load components
