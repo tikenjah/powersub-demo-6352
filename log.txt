@@ -7817,3 +7817,4 @@
 0484. 🐛 fix: handle 500 error in quiz API
 0474. ✅ test: add unit test for quiz service
 0585. 🚀 perf: lazy-load components
+0574. ✨ feat: enable dark mode toggle
