@@ -8792,3 +8792,4 @@
 0329. 📚 docs: update README with setup steps
 0636. ✅ test: increase coverage on auth module
 0425. 🔧 refactor: refactor quiz grading logic
+0433. 🐛 fix: prevent crash on empty input
