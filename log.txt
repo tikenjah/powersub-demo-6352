@@ -4086,3 +4086,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0310. 🔧 refactor: refactor quiz grading logic
 0147. ♻️ chore: bump dependencies
+0469. 🚀 perf: lazy-load components
