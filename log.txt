@@ -8789,3 +8789,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0681. ✨ feat: create admin dashboard
 0308. 🚀 perf: reduce image load time
+0329. 📚 docs: update README with setup steps
