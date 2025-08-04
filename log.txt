@@ -6816,3 +6816,4 @@
 0351. ✨ feat: add export to CSV option
 0518. ✨ feat: support email verification
 0617. ✨ feat: support email verification
+0919. 🚀 perf: optimize database query for quiz results
