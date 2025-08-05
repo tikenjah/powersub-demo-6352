@@ -9808,3 +9808,4 @@
 0608. 🔧 refactor: remove redundant code blocks
 0682. ♻️ chore: rename env.example
 0054. ♻️ chore: update .gitignore
+0997. ✅ test: increase coverage on auth module
