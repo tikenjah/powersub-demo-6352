@@ -4101,3 +4101,4 @@
 0912. 📚 docs: document token refresh logic
 0025. 🚀 perf: optimize database query for quiz results
 0613. 🐛 fix: prevent crash on empty input
+0241. 📚 docs: add API usage examples
