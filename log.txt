@@ -4096,3 +4096,4 @@
 0100. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
 0532. 🔧 refactor: split large controller into smaller functions
+0585. 🚀 perf: lazy-load components
