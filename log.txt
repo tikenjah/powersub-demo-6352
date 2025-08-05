@@ -4095,3 +4095,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0100. ♻️ chore: update .gitignore
 0090. ✅ test: increase coverage on auth module
+0532. 🔧 refactor: split large controller into smaller functions
