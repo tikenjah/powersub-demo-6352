@@ -4104,3 +4104,4 @@
 0241. 📚 docs: add API usage examples
 0279. ✨ feat: support email verification
 0737. 🐛 fix: handle 500 error in quiz API
+0364. 🐛 fix: resolve issue with date parsing
