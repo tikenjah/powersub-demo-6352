@@ -10816,3 +10816,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0675. 🔧 refactor: organize models into subfolders
 0989. 📚 docs: write FAQ section
+0956. 📚 docs: clarify environment setup
