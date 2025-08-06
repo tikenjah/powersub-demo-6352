@@ -6823,3 +6823,4 @@
 0114. ♻️ chore: update .gitignore
 0543. ✨ feat: support email verification
 0895. ✨ feat: support email verification
+0152. ✨ feat: add user authentication
