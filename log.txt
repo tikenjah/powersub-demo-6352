@@ -4111,3 +4111,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0506. 🐛 fix: handle 500 error in quiz API
 0543. ✨ feat: support email verification
+0284. ✨ feat: implement quiz timer feature
