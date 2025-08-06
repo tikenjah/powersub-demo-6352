@@ -4109,3 +4109,4 @@
 0561. 📚 docs: write FAQ section
 0314. ✨ feat: implement quiz timer feature
 0988. 🐛 fix: fix broken CSS in mobile view
+0506. 🐛 fix: handle 500 error in quiz API
