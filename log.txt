@@ -10819,3 +10819,4 @@
 0956. 📚 docs: clarify environment setup
 0197. 📚 docs: update README with setup steps
 0062. ♻️ chore: update .gitignore
+0875. ✅ test: increase coverage on auth module
