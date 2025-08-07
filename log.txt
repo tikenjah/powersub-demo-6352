@@ -4126,3 +4126,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0949. 📚 docs: write FAQ section
 0140. 🐛 fix: handle 500 error in quiz API
+0650. ✅ test: add unit test for quiz service
