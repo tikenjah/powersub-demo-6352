@@ -5814,3 +5814,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0150. 🎨 style: remove trailing whitespace
 0065. ✅ test: add integration test for /submit endpoint
+0488. ♻️ chore: add GitHub actions badge
