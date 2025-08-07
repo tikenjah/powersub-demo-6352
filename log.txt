@@ -9810,3 +9810,4 @@
 0054. ♻️ chore: update .gitignore
 0997. ✅ test: increase coverage on auth module
 0584. 🚀 perf: lazy-load components
+0097. 🐛 fix: handle 500 error in quiz API
