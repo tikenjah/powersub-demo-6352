@@ -9811,3 +9811,4 @@
 0997. ✅ test: increase coverage on auth module
 0584. 🚀 perf: lazy-load components
 0097. 🐛 fix: handle 500 error in quiz API
+0306. 🎨 style: apply consistent indentation
