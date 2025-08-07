@@ -5813,3 +5813,4 @@
 0902. ✨ feat: enable dark mode toggle
 0255. 🔧 refactor: refactor quiz grading logic
 0150. 🎨 style: remove trailing whitespace
+0065. ✅ test: add integration test for /submit endpoint
