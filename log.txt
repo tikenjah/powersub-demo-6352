@@ -4131,3 +4131,4 @@
 0009. ✨ feat: enable dark mode toggle
 0783. 🐛 fix: handle 500 error in quiz API
 0672. 🐛 fix: fix broken CSS in mobile view
+0275. 🎨 style: standardize quote style
