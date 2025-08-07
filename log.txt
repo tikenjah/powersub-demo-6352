@@ -10822,3 +10822,4 @@
 0875. ✅ test: increase coverage on auth module
 0940. 📚 docs: document token refresh logic
 0787. ♻️ chore: rename env.example
+0216. 🎨 style: rename variables for clarity
