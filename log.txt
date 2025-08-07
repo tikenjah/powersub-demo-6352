@@ -7826,3 +7826,4 @@
 0986. 📚 docs: document token refresh logic
 0803. ✅ test: mock database connection in test suite
 0677. 📚 docs: add API usage examples
+0409. 🚀 perf: lazy-load components
