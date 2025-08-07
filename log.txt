@@ -10824,3 +10824,4 @@
 0787. ♻️ chore: rename env.example
 0216. 🎨 style: rename variables for clarity
 0637. 🎨 style: apply consistent indentation
+0628. ♻️ chore: add GitHub actions badge
