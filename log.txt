@@ -7828,3 +7828,4 @@
 0677. 📚 docs: add API usage examples
 0409. 🚀 perf: lazy-load components
 0856. 🐛 fix: fix null pointer exception on login
+0596. ♻️ chore: update .gitignore
