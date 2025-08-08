@@ -9813,3 +9813,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0306. 🎨 style: apply consistent indentation
 0888. 🚀 perf: lazy-load components
+0181. ♻️ chore: add GitHub actions badge
