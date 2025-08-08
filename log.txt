@@ -5816,3 +5816,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0488. ♻️ chore: add GitHub actions badge
 0585. 🚀 perf: lazy-load components
+0787. ♻️ chore: rename env.example
