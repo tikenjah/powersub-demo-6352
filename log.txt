@@ -8804,3 +8804,4 @@
 0102. ✨ feat: support email verification
 0556. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
+0379. ✨ feat: support email verification
