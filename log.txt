@@ -8806,3 +8806,4 @@
 0535. 📚 docs: write FAQ section
 0379. ✨ feat: support email verification
 0105. 🐛 fix: correct typo in registration form
+0531. 🐛 fix: prevent crash on empty input
