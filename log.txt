@@ -8807,3 +8807,4 @@
 0379. ✨ feat: support email verification
 0105. 🐛 fix: correct typo in registration form
 0531. 🐛 fix: prevent crash on empty input
+0772. 🐛 fix: fix null pointer exception on login
