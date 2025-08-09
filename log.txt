@@ -4160,3 +4160,4 @@
 0632. 🎨 style: remove trailing whitespace
 0299. 🐛 fix: resolve issue with date parsing
 0355. 🚀 perf: optimize database query for quiz results
+0362. 📚 docs: add API usage examples
