@@ -4157,3 +4157,4 @@
 0823. ✨ feat: add user authentication
 0307. ✨ feat: support email verification
 0947. 📚 docs: write FAQ section
+0632. 🎨 style: remove trailing whitespace
