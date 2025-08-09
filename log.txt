@@ -5818,3 +5818,4 @@
 0585. 🚀 perf: lazy-load components
 0787. ♻️ chore: rename env.example
 0388. 🎨 style: reformat files with black
+0122. ✨ feat: support email verification
