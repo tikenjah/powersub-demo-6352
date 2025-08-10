@@ -4180,3 +4180,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0899. 🚀 perf: cache repeated calculations
 0153. ♻️ chore: rename env.example
+0121. ✨ feat: support email verification
