@@ -4169,3 +4169,4 @@
 0755. 🚀 perf: cache repeated calculations
 0456. 🚀 perf: optimize database query for quiz results
 0460. 📚 docs: write FAQ section
+0207. 🐛 fix: prevent crash on empty input
