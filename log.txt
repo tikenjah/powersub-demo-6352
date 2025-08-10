@@ -5820,3 +5820,4 @@
 0388. 🎨 style: reformat files with black
 0122. ✨ feat: support email verification
 0409. 🚀 perf: lazy-load components
+0252. 🎨 style: remove trailing whitespace
