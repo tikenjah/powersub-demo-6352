@@ -6835,3 +6835,4 @@
 0705. 🔧 refactor: refactor quiz grading logic
 0003. ✅ test: increase coverage on auth module
 0298. ♻️ chore: update .gitignore
+0756. ✨ feat: support email verification
