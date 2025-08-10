@@ -7829,3 +7829,4 @@
 0409. 🚀 perf: lazy-load components
 0856. 🐛 fix: fix null pointer exception on login
 0596. ♻️ chore: update .gitignore
+0482. ✨ feat: add export to CSV option
