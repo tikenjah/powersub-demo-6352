@@ -8811,3 +8811,4 @@
 0984. ♻️ chore: clean up unused files
 0402. 🎨 style: reformat files with black
 0607. 🐛 fix: prevent crash on empty input
+0522. 🐛 fix: handle 500 error in quiz API
