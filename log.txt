@@ -7834,3 +7834,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0826. 📚 docs: clarify environment setup
 0167. 🚀 perf: reduce image load time
+0422. 🔧 refactor: organize models into subfolders
