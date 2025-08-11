@@ -4190,3 +4190,4 @@
 0094. 📚 docs: document token refresh logic
 0863. 🐛 fix: correct typo in registration form
 0518. ✨ feat: support email verification
+0559. 🔧 refactor: split large controller into smaller functions
