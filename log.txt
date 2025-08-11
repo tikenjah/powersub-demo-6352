@@ -6837,3 +6837,4 @@
 0298. ♻️ chore: update .gitignore
 0756. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
+0867. 🔧 refactor: refactor quiz grading logic
