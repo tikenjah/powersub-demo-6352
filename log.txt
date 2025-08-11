@@ -6838,3 +6838,4 @@
 0756. ✨ feat: support email verification
 0772. 🐛 fix: fix null pointer exception on login
 0867. 🔧 refactor: refactor quiz grading logic
+0041. 🐛 fix: fix broken CSS in mobile view
