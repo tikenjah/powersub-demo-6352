@@ -4187,3 +4187,4 @@
 0160. ♻️ chore: bump dependencies
 0156. 🎨 style: rename variables for clarity
 0855. 🎨 style: reformat files with black
+0094. 📚 docs: document token refresh logic
