@@ -4181,3 +4181,4 @@
 0899. 🚀 perf: cache repeated calculations
 0153. ♻️ chore: rename env.example
 0121. ✨ feat: support email verification
+0390. 🎨 style: standardize quote style
