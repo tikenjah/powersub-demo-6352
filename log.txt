@@ -5825,3 +5825,4 @@
 0612. ✅ test: test user registration edge cases
 0235. 🐛 fix: fix null pointer exception on login
 0307. ✨ feat: support email verification
+0942. ✅ test: increase coverage on auth module
