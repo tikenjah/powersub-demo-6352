@@ -4196,3 +4196,4 @@
 0636. ✅ test: increase coverage on auth module
 0239. 🎨 style: standardize quote style
 0563. 📚 docs: clarify environment setup
+0703. 🔧 refactor: clean up auth middleware
