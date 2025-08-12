@@ -6842,3 +6842,4 @@
 0819. 🚀 perf: reduce image load time
 0365. 🚀 perf: reduce image load time
 0685. ✅ test: test user registration edge cases
+0178. ✨ feat: support email verification
