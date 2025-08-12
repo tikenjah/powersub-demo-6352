@@ -8814,3 +8814,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0484. 🐛 fix: handle 500 error in quiz API
 0897. 🐛 fix: prevent crash on empty input
+0200. 🐛 fix: handle 500 error in quiz API
