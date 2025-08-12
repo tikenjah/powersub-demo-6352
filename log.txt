@@ -5823,3 +5823,4 @@
 0252. 🎨 style: remove trailing whitespace
 0142. ✨ feat: implement quiz timer feature
 0612. ✅ test: test user registration edge cases
+0235. 🐛 fix: fix null pointer exception on login
