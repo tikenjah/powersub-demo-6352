@@ -5824,3 +5824,4 @@
 0142. ✨ feat: implement quiz timer feature
 0612. ✅ test: test user registration edge cases
 0235. 🐛 fix: fix null pointer exception on login
+0307. ✨ feat: support email verification
