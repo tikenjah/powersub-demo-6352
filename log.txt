@@ -6844,3 +6844,4 @@
 0685. ✅ test: test user registration edge cases
 0178. ✨ feat: support email verification
 0709. ♻️ chore: bump dependencies
+0340. 🚀 perf: optimize database query for quiz results
