@@ -10833,3 +10833,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0045. 🎨 style: apply consistent indentation
 0471. ✨ feat: support email verification
+0518. ✨ feat: support email verification
