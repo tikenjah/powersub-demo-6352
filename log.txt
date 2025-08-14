@@ -4221,3 +4221,4 @@
 0687. 🎨 style: remove trailing whitespace
 0855. 🎨 style: reformat files with black
 0804. ♻️ chore: add GitHub actions badge
+0709. ♻️ chore: bump dependencies
