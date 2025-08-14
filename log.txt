@@ -4233,3 +4233,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0652. 🔧 refactor: organize models into subfolders
 0972. 🔧 refactor: refactor quiz grading logic
+0751. 🐛 fix: handle 500 error in quiz API
