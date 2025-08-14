@@ -7841,3 +7841,4 @@
 0360. ✨ feat: add export to CSV option
 0026. 🔧 refactor: clean up auth middleware
 0686. 🎨 style: standardize quote style
+0118. 🚀 perf: reduce image load time
