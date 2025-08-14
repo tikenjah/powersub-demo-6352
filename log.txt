@@ -4222,3 +4222,4 @@
 0855. 🎨 style: reformat files with black
 0804. ♻️ chore: add GitHub actions badge
 0709. ♻️ chore: bump dependencies
+0311. 🎨 style: apply consistent indentation
