@@ -4223,3 +4223,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0709. ♻️ chore: bump dependencies
 0311. 🎨 style: apply consistent indentation
+0144. ✅ test: increase coverage on auth module
