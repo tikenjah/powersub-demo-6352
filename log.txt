@@ -4227,3 +4227,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0176. 🔧 refactor: remove redundant code blocks
 0476. 🚀 perf: reduce image load time
+0431. 🎨 style: reformat files with black
