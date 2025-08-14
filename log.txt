@@ -10836,3 +10836,4 @@
 0518. ✨ feat: support email verification
 0073. 🔧 refactor: split large controller into smaller functions
 0164. 📚 docs: document token refresh logic
+0438. ♻️ chore: bump dependencies
