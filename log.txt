@@ -7842,3 +7842,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0686. 🎨 style: standardize quote style
 0118. 🚀 perf: reduce image load time
+0576. ♻️ chore: update .gitignore
