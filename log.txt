@@ -7844,3 +7844,4 @@
 0118. 🚀 perf: reduce image load time
 0576. ♻️ chore: update .gitignore
 0960. ✅ test: increase coverage on auth module
+0678. ✨ feat: add user authentication
