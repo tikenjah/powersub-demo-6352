@@ -8827,3 +8827,4 @@
 0086. 🐛 fix: correct typo in registration form
 0124. 🎨 style: reformat files with black
 0935. 📚 docs: update README with setup steps
+0568. 🐛 fix: handle 500 error in quiz API
