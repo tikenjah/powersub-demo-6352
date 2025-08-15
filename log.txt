@@ -4243,3 +4243,4 @@
 0214. 📚 docs: improve code comments in utils
 0778. 📚 docs: write FAQ section
 0900. 🐛 fix: handle 500 error in quiz API
+0019. ✨ feat: enable dark mode toggle
