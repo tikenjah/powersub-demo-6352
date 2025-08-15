@@ -4246,3 +4246,4 @@
 0019. ✨ feat: enable dark mode toggle
 0097. 🐛 fix: handle 500 error in quiz API
 0479. 🐛 fix: fix null pointer exception on login
+0272. 🔧 refactor: remove redundant code blocks
