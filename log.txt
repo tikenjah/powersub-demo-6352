@@ -9825,3 +9825,4 @@
 0858. ♻️ chore: clean up unused files
 0161. ✨ feat: create admin dashboard
 0235. 🐛 fix: fix null pointer exception on login
+0802. 🔧 refactor: remove redundant code blocks
