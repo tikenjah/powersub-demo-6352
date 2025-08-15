@@ -10839,3 +10839,4 @@
 0438. ♻️ chore: bump dependencies
 0058. ♻️ chore: add GitHub actions badge
 0237. 🎨 style: standardize quote style
+0019. ✨ feat: enable dark mode toggle
