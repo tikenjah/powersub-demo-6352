@@ -4237,3 +4237,4 @@
 0099. 🚀 perf: reduce image load time
 0847. ♻️ chore: clean up unused files
 0675. 🔧 refactor: organize models into subfolders
+0805. ♻️ chore: add GitHub actions badge
