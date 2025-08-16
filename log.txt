@@ -5832,3 +5832,4 @@
 0379. ✨ feat: support email verification
 0242. ♻️ chore: clean up unused files
 0747. 🔧 refactor: clean up auth middleware
+0816. 🔧 refactor: organize models into subfolders
