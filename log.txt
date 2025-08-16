@@ -4250,3 +4250,4 @@
 0914. ✅ test: test user registration edge cases
 0536. ✨ feat: add user authentication
 0096. 🐛 fix: prevent crash on empty input
+0594. 🎨 style: reformat files with black
