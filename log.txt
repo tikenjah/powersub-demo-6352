@@ -4254,3 +4254,4 @@
 0903. ✅ test: mock database connection in test suite
 0545. 🎨 style: standardize quote style
 0750. 🎨 style: apply consistent indentation
+0504. 📚 docs: document token refresh logic
