@@ -4252,3 +4252,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0594. 🎨 style: reformat files with black
 0903. ✅ test: mock database connection in test suite
+0545. 🎨 style: standardize quote style
