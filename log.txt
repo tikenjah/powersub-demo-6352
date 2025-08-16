@@ -7846,3 +7846,4 @@
 0960. ✅ test: increase coverage on auth module
 0678. ✨ feat: add user authentication
 0725. 🚀 perf: lazy-load components
+0591. ♻️ chore: clean up unused files
