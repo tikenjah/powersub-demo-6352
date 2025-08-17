@@ -6855,3 +6855,4 @@
 0132. ✅ test: add unit test for quiz service
 0850. ♻️ chore: rename env.example
 0781. 🚀 perf: reduce image load time
+0346. ✅ test: mock database connection in test suite
