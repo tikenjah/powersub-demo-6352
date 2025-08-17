@@ -4274,3 +4274,4 @@
 0929. ✨ feat: support email verification
 0283. ♻️ chore: add GitHub actions badge
 0492. 🎨 style: remove trailing whitespace
+0484. 🐛 fix: handle 500 error in quiz API
