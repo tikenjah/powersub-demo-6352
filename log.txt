@@ -5838,3 +5838,4 @@
 0829. 🔧 refactor: organize models into subfolders
 0998. 🐛 fix: fix null pointer exception on login
 0019. ✨ feat: enable dark mode toggle
+0887. 📚 docs: add API usage examples
