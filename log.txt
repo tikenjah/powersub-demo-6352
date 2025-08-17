@@ -4272,3 +4272,4 @@
 0576. ♻️ chore: update .gitignore
 0061. ✨ feat: create admin dashboard
 0929. ✨ feat: support email verification
+0283. ♻️ chore: add GitHub actions badge
