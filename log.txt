@@ -4271,3 +4271,4 @@
 0845. 🚀 perf: cache repeated calculations
 0576. ♻️ chore: update .gitignore
 0061. ✨ feat: create admin dashboard
+0929. ✨ feat: support email verification
