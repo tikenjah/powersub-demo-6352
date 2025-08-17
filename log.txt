@@ -8838,3 +8838,4 @@
 0990. ♻️ chore: rename env.example
 0729. 🔧 refactor: refactor quiz grading logic
 0053. ✅ test: increase coverage on auth module
+0568. 🐛 fix: handle 500 error in quiz API
