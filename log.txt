@@ -6854,3 +6854,4 @@
 0215. 🎨 style: reformat files with black
 0132. ✅ test: add unit test for quiz service
 0850. ♻️ chore: rename env.example
+0781. 🚀 perf: reduce image load time
