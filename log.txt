@@ -4264,3 +4264,4 @@
 0284. ✨ feat: implement quiz timer feature
 0411. ✅ test: add unit test for quiz service
 0221. ✨ feat: add user authentication
+0790. 📚 docs: write FAQ section
