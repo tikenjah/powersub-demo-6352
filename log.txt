@@ -4287,3 +4287,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0640. ♻️ chore: bump dependencies
 0199. ✨ feat: create admin dashboard
+0333. 🚀 perf: cache repeated calculations
