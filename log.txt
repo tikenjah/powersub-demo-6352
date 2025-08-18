@@ -9835,3 +9835,4 @@
 0923. ✨ feat: support email verification
 0592. 📚 docs: add API usage examples
 0361. ✨ feat: support email verification
+0434. 📚 docs: document token refresh logic
