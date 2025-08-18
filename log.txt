@@ -10845,3 +10845,4 @@
 0575. ✅ test: add unit test for quiz service
 0448. 🐛 fix: correct typo in registration form
 0008. 🚀 perf: reduce image load time
+0746. ♻️ chore: add GitHub actions badge
