@@ -8841,3 +8841,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0070. ✨ feat: implement quiz timer feature
 0326. 🚀 perf: cache repeated calculations
+0833. ✨ feat: add user authentication
