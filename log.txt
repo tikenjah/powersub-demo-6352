@@ -4282,3 +4282,4 @@
 0996. ✅ test: test user registration edge cases
 0162. ♻️ chore: add GitHub actions badge
 0012. 🚀 perf: cache repeated calculations
+0257. 📚 docs: clarify environment setup
