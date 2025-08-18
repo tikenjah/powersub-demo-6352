@@ -9834,3 +9834,4 @@
 0864. 🐛 fix: correct typo in registration form
 0923. ✨ feat: support email verification
 0592. 📚 docs: add API usage examples
+0361. ✨ feat: support email verification
