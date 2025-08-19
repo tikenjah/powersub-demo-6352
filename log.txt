@@ -6862,3 +6862,4 @@
 0196. ♻️ chore: bump dependencies
 0745. ✅ test: add unit test for quiz service
 0576. ♻️ chore: update .gitignore
+0159. 🚀 perf: lazy-load components
