@@ -4294,3 +4294,4 @@
 0788. 📚 docs: add API usage examples
 0561. 📚 docs: write FAQ section
 0606. 📚 docs: improve code comments in utils
+0102. ✨ feat: support email verification
