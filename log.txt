@@ -6861,3 +6861,4 @@
 0965. 🎨 style: reformat files with black
 0196. ♻️ chore: bump dependencies
 0745. ✅ test: add unit test for quiz service
+0576. ♻️ chore: update .gitignore
