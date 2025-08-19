@@ -4298,3 +4298,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0348. ✅ test: test user registration edge cases
 0641. 📚 docs: write FAQ section
+0316. 🐛 fix: fix broken CSS in mobile view
