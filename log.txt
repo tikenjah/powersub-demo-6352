@@ -4297,3 +4297,4 @@
 0102. ✨ feat: support email verification
 0676. 🐛 fix: prevent crash on empty input
 0348. ✅ test: test user registration edge cases
+0641. 📚 docs: write FAQ section
