@@ -4299,3 +4299,4 @@
 0348. ✅ test: test user registration edge cases
 0641. 📚 docs: write FAQ section
 0316. 🐛 fix: fix broken CSS in mobile view
+0474. ✅ test: add unit test for quiz service
