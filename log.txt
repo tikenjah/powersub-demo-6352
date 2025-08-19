@@ -10849,3 +10849,4 @@
 0188. 🎨 style: apply consistent indentation
 0405. ✅ test: mock database connection in test suite
 0927. ♻️ chore: bump dependencies
+0748. 🚀 perf: optimize database query for quiz results
