@@ -4305,3 +4305,4 @@
 0124. 🎨 style: reformat files with black
 0336. ✨ feat: add export to CSV option
 0794. ♻️ chore: clean up unused files
+0084. 🐛 fix: handle 500 error in quiz API
