@@ -9837,3 +9837,4 @@
 0361. ✨ feat: support email verification
 0434. 📚 docs: document token refresh logic
 0002. 🚀 perf: cache repeated calculations
+0953. 🎨 style: remove trailing whitespace
