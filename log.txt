@@ -4317,3 +4317,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0992. ♻️ chore: clean up unused files
 0328. 🐛 fix: resolve issue with date parsing
+0672. 🐛 fix: fix broken CSS in mobile view
