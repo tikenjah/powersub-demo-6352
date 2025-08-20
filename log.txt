@@ -8846,3 +8846,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0576. ♻️ chore: update .gitignore
 0110. 🐛 fix: prevent crash on empty input
+0270. ♻️ chore: rename env.example
