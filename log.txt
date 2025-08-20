@@ -4311,3 +4311,4 @@
 0462. ♻️ chore: update .gitignore
 0604. 📚 docs: add API usage examples
 0866. 📚 docs: add API usage examples
+0888. 🚀 perf: lazy-load components
