@@ -8844,3 +8844,4 @@
 0833. ✨ feat: add user authentication
 0010. ✨ feat: add user authentication
 0097. 🐛 fix: handle 500 error in quiz API
+0576. ♻️ chore: update .gitignore
