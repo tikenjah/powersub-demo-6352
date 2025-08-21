@@ -5852,3 +5852,4 @@
 0916. ♻️ chore: bump dependencies
 0978. 🐛 fix: prevent crash on empty input
 0958. 🐛 fix: prevent crash on empty input
+0066. 🔧 refactor: clean up auth middleware
