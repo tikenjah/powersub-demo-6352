@@ -8847,3 +8847,4 @@
 0576. ♻️ chore: update .gitignore
 0110. 🐛 fix: prevent crash on empty input
 0270. ♻️ chore: rename env.example
+0575. ✅ test: add unit test for quiz service
