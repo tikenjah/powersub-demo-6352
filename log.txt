@@ -5850,3 +5850,4 @@
 0023. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
 0916. ♻️ chore: bump dependencies
+0978. 🐛 fix: prevent crash on empty input
