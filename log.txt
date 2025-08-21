@@ -8849,3 +8849,4 @@
 0270. ♻️ chore: rename env.example
 0575. ✅ test: add unit test for quiz service
 0713. 🐛 fix: handle 500 error in quiz API
+0687. 🎨 style: remove trailing whitespace
