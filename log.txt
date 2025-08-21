@@ -10854,3 +10854,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0951. 🎨 style: rename variables for clarity
 0753. 🔧 refactor: remove redundant code blocks
+0229. 🚀 perf: optimize database query for quiz results
