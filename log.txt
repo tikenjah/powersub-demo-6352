@@ -7856,3 +7856,4 @@
 0451. ✨ feat: support email verification
 0624. ✅ test: add unit test for quiz service
 0727. ♻️ chore: add GitHub actions badge
+0362. 📚 docs: add API usage examples
