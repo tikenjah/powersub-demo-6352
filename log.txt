@@ -4339,3 +4339,4 @@
 0934. ✨ feat: support email verification
 0688. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
+0410. 🎨 style: reformat files with black
