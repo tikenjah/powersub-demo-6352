@@ -6871,3 +6871,4 @@
 0747. 🔧 refactor: clean up auth middleware
 0444. ✅ test: add unit test for quiz service
 0295. 🎨 style: remove trailing whitespace
+0935. 📚 docs: update README with setup steps
