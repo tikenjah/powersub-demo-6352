@@ -4340,3 +4340,4 @@
 0688. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
 0410. 🎨 style: reformat files with black
+0646. ✅ test: test user registration edge cases
