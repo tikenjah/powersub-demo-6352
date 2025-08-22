@@ -5856,3 +5856,4 @@
 0925. ✨ feat: add export to CSV option
 0260. ✨ feat: create admin dashboard
 0948. 🐛 fix: fix broken CSS in mobile view
+0058. ♻️ chore: add GitHub actions badge
