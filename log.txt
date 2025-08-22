@@ -10860,3 +10860,4 @@
 0658. 🎨 style: rename variables for clarity
 0024. 📚 docs: write FAQ section
 0239. 🎨 style: standardize quote style
+0604. 📚 docs: add API usage examples
