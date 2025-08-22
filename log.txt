@@ -8851,3 +8851,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0687. 🎨 style: remove trailing whitespace
 0444. ✅ test: add unit test for quiz service
+0668. 🚀 perf: optimize database query for quiz results
