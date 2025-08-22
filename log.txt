@@ -10861,3 +10861,4 @@
 0024. 📚 docs: write FAQ section
 0239. 🎨 style: standardize quote style
 0604. 📚 docs: add API usage examples
+0434. 📚 docs: document token refresh logic
