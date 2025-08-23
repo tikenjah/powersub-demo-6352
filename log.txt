@@ -4351,3 +4351,4 @@
 0901. ✨ feat: add user authentication
 0016. 🎨 style: apply consistent indentation
 0895. ✨ feat: support email verification
+0008. 🚀 perf: reduce image load time
