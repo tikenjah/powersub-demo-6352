@@ -9844,3 +9844,4 @@
 0414. 🔧 refactor: remove redundant code blocks
 0268. 🐛 fix: prevent crash on empty input
 0526. ✨ feat: add user authentication
+0127. 🐛 fix: fix null pointer exception on login
