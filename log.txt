@@ -5860,3 +5860,4 @@
 0169. 📚 docs: add API usage examples
 0938. 🎨 style: rename variables for clarity
 0144. ✅ test: increase coverage on auth module
+0372. ✨ feat: add user authentication
