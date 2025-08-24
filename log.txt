@@ -4358,3 +4358,4 @@
 0524. ♻️ chore: rename env.example
 0943. 🎨 style: rename variables for clarity
 0719. 🎨 style: apply consistent indentation
+0696. 🔧 refactor: clean up auth middleware
