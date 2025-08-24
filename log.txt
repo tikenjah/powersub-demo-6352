@@ -7863,3 +7863,4 @@
 0889. 🚀 perf: lazy-load components
 0817. 🔧 refactor: remove redundant code blocks
 0326. 🚀 perf: cache repeated calculations
+0294. 🐛 fix: prevent crash on empty input
