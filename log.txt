@@ -9849,3 +9849,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0443. 🎨 style: standardize quote style
 0997. ✅ test: increase coverage on auth module
+0498. ✅ test: mock database connection in test suite
