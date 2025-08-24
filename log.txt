@@ -4367,3 +4367,4 @@
 0616. 🚀 perf: lazy-load components
 0591. ♻️ chore: clean up unused files
 0999. 🔧 refactor: split large controller into smaller functions
+0154. 🐛 fix: prevent crash on empty input
