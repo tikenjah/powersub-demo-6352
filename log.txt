@@ -9846,3 +9846,4 @@
 0526. ✨ feat: add user authentication
 0127. 🐛 fix: fix null pointer exception on login
 0148. 🔧 refactor: organize models into subfolders
+0084. 🐛 fix: handle 500 error in quiz API
