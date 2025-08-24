@@ -10864,3 +10864,4 @@
 0434. 📚 docs: document token refresh logic
 0056. ♻️ chore: rename env.example
 0186. ✅ test: test user registration edge cases
+0509. ♻️ chore: bump dependencies
