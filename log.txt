@@ -5865,3 +5865,4 @@
 0461. ✨ feat: add user authentication
 0984. ♻️ chore: clean up unused files
 0119. 📚 docs: improve code comments in utils
+0652. 🔧 refactor: organize models into subfolders
