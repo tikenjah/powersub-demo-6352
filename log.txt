@@ -7866,3 +7866,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0522. 🐛 fix: handle 500 error in quiz API
 0393. 🚀 perf: lazy-load components
+0213. ✅ test: add integration test for /submit endpoint
