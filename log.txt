@@ -4380,3 +4380,4 @@
 0308. 🚀 perf: reduce image load time
 0972. 🔧 refactor: refactor quiz grading logic
 0052. 🎨 style: standardize quote style
+0113. ✨ feat: add user authentication
