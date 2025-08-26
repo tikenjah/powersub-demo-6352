@@ -6882,3 +6882,4 @@
 0209. ✨ feat: implement quiz timer feature
 0838. 🎨 style: standardize quote style
 0125. ✅ test: add integration test for /submit endpoint
+0996. ✅ test: test user registration edge cases
