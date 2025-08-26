@@ -10868,3 +10868,4 @@
 0694. 🎨 style: rename variables for clarity
 0602. 🔧 refactor: remove redundant code blocks
 0911. ✅ test: increase coverage on auth module
+0524. ♻️ chore: rename env.example
