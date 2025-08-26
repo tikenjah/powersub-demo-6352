@@ -5868,3 +5868,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0290. ✅ test: test user registration edge cases
 0944. ✨ feat: add user authentication
+0896. 🚀 perf: reduce image load time
