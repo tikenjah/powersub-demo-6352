@@ -4386,3 +4386,4 @@
 0281. ✨ feat: support email verification
 0701. 🔧 refactor: clean up auth middleware
 0892. ✅ test: add unit test for quiz service
+0334. 🚀 perf: cache repeated calculations
