@@ -8864,3 +8864,4 @@
 0858. ♻️ chore: clean up unused files
 0099. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
+0506. 🐛 fix: handle 500 error in quiz API
