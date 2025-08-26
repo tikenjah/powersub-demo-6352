@@ -7869,3 +7869,4 @@
 0213. ✅ test: add integration test for /submit endpoint
 0206. 🐛 fix: handle 500 error in quiz API
 0433. 🐛 fix: prevent crash on empty input
+0121. ✨ feat: support email verification
