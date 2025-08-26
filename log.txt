@@ -4389,3 +4389,4 @@
 0334. 🚀 perf: cache repeated calculations
 0818. 🔧 refactor: remove redundant code blocks
 0277. 🎨 style: standardize quote style
+0605. ✨ feat: support email verification
