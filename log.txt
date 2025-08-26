@@ -4394,3 +4394,4 @@
 0993. ✨ feat: implement quiz timer feature
 0962. ✨ feat: create admin dashboard
 0653. 🐛 fix: prevent crash on empty input
+0834. ✅ test: increase coverage on auth module
