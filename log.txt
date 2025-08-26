@@ -8865,3 +8865,4 @@
 0099. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
 0506. 🐛 fix: handle 500 error in quiz API
+0106. 🎨 style: reformat files with black
