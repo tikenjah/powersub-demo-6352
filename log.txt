@@ -5870,3 +5870,4 @@
 0944. ✨ feat: add user authentication
 0896. 🚀 perf: reduce image load time
 0218. 🔧 refactor: clean up auth middleware
+0008. 🚀 perf: reduce image load time
