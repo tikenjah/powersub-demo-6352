@@ -4411,3 +4411,4 @@
 0715. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
 0227. ✅ test: test user registration edge cases
+0279. ✨ feat: support email verification
