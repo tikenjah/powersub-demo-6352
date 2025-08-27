@@ -4413,3 +4413,4 @@
 0227. ✅ test: test user registration edge cases
 0279. ✨ feat: support email verification
 0388. 🎨 style: reformat files with black
+0384. 📚 docs: clarify environment setup
