@@ -6887,3 +6887,4 @@
 0722. 📚 docs: add API usage examples
 0904. ✨ feat: implement quiz timer feature
 0526. ✨ feat: add user authentication
+0710. 🐛 fix: fix broken CSS in mobile view
