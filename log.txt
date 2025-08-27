@@ -6891,3 +6891,4 @@
 0979. 🎨 style: standardize quote style
 0308. 🚀 perf: reduce image load time
 0257. 📚 docs: clarify environment setup
+0885. ♻️ chore: update .gitignore
