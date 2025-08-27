@@ -4414,3 +4414,4 @@
 0279. ✨ feat: support email verification
 0388. 🎨 style: reformat files with black
 0384. 📚 docs: clarify environment setup
+0244. ✨ feat: add export to CSV option
