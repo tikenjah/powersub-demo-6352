@@ -4410,3 +4410,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0715. ✨ feat: create admin dashboard
 0564. 📚 docs: clarify environment setup
+0227. ✅ test: test user registration edge cases
