@@ -4398,3 +4398,4 @@
 0924. ✅ test: mock database connection in test suite
 0356. 📚 docs: write FAQ section
 0723. 🔧 refactor: remove redundant code blocks
+0647. 🐛 fix: prevent crash on empty input
