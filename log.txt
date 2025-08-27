@@ -4417,3 +4417,4 @@
 0244. ✨ feat: add export to CSV option
 0317. ✅ test: test user registration edge cases
 0301. 🎨 style: apply consistent indentation
+0821. ✅ test: add integration test for /submit endpoint
