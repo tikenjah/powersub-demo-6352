@@ -4430,3 +4430,4 @@
 0088. 📚 docs: add API usage examples
 0681. ✨ feat: create admin dashboard
 0268. 🐛 fix: prevent crash on empty input
+0491. 🚀 perf: lazy-load components
