@@ -8871,3 +8871,4 @@
 0499. 🎨 style: reformat files with black
 0545. 🎨 style: standardize quote style
 0213. ✅ test: add integration test for /submit endpoint
+0901. ✨ feat: add user authentication
