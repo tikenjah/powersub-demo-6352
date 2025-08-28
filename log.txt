@@ -9859,3 +9859,4 @@
 0360. ✨ feat: add export to CSV option
 0982. 🚀 perf: lazy-load components
 0674. 🔧 refactor: split large controller into smaller functions
+0855. 🎨 style: reformat files with black
