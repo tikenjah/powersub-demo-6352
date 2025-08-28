@@ -8870,3 +8870,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0499. 🎨 style: reformat files with black
 0545. 🎨 style: standardize quote style
+0213. ✅ test: add integration test for /submit endpoint
