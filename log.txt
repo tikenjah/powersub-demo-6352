@@ -4446,3 +4446,4 @@
 0015. ✨ feat: implement quiz timer feature
 0711. 🐛 fix: fix broken CSS in mobile view
 0745. ✅ test: add unit test for quiz service
+0914. ✅ test: test user registration edge cases
