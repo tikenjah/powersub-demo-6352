@@ -9865,3 +9865,4 @@
 0447. ♻️ chore: bump dependencies
 0910. 🎨 style: remove trailing whitespace
 0415. 🐛 fix: handle 500 error in quiz API
+0939. 📚 docs: update README with setup steps
