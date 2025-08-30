@@ -5877,3 +5877,4 @@
 0214. 📚 docs: improve code comments in utils
 0239. 🎨 style: standardize quote style
 0966. 📚 docs: improve code comments in utils
+0660. 🐛 fix: correct typo in registration form
