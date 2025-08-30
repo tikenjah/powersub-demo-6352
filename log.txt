@@ -4463,3 +4463,4 @@
 0253. 📚 docs: update README with setup steps
 0050. ✨ feat: enable dark mode toggle
 0920. 🔧 refactor: organize models into subfolders
+0935. 📚 docs: update README with setup steps
