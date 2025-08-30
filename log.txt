@@ -7875,3 +7875,4 @@
 0834. ✅ test: increase coverage on auth module
 0350. 🚀 perf: cache repeated calculations
 0020. ✅ test: add integration test for /submit endpoint
+0799. ♻️ chore: clean up unused files
