@@ -10878,3 +10878,4 @@
 0679. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
 0480. ♻️ chore: add GitHub actions badge
+0291. 📚 docs: write FAQ section
