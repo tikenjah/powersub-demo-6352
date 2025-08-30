@@ -4448,3 +4448,4 @@
 0745. ✅ test: add unit test for quiz service
 0914. ✅ test: test user registration edge cases
 0197. 📚 docs: update README with setup steps
+0140. 🐛 fix: handle 500 error in quiz API
