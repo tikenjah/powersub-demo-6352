@@ -9867,3 +9867,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0939. 📚 docs: update README with setup steps
 0958. 🐛 fix: prevent crash on empty input
+0317. ✅ test: test user registration edge cases
