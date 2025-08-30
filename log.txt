@@ -6895,3 +6895,4 @@
 0601. ✨ feat: implement quiz timer feature
 0764. ✨ feat: add user authentication
 0936. 🔧 refactor: organize models into subfolders
+0690. 🚀 perf: lazy-load components
