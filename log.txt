@@ -6898,3 +6898,4 @@
 0690. 🚀 perf: lazy-load components
 0390. 🎨 style: standardize quote style
 0157. ✅ test: mock database connection in test suite
+0962. ✨ feat: create admin dashboard
