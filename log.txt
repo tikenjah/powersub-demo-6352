@@ -4472,3 +4472,4 @@
 0403. ✅ test: mock database connection in test suite
 0177. 📚 docs: add API usage examples
 0600. 🐛 fix: prevent crash on empty input
+0942. ✅ test: increase coverage on auth module
