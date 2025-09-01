@@ -8877,3 +8877,4 @@
 0681. ✨ feat: create admin dashboard
 0015. ✨ feat: implement quiz timer feature
 0412. ✅ test: increase coverage on auth module
+0349. ✅ test: increase coverage on auth module
