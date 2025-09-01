@@ -10885,3 +10885,4 @@
 0677. 📚 docs: add API usage examples
 0722. 📚 docs: add API usage examples
 0645. 🐛 fix: resolve issue with date parsing
+0692. ✅ test: add integration test for /submit endpoint
