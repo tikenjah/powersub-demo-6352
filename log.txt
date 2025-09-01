@@ -8876,3 +8876,4 @@
 0056. ♻️ chore: rename env.example
 0681. ✨ feat: create admin dashboard
 0015. ✨ feat: implement quiz timer feature
+0412. ✅ test: increase coverage on auth module
