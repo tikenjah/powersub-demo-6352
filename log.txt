@@ -10881,3 +10881,4 @@
 0291. 📚 docs: write FAQ section
 0271. ✅ test: add unit test for quiz service
 0459. 🔧 refactor: organize models into subfolders
+0597. 🚀 perf: cache repeated calculations
