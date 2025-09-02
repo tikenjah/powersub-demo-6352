@@ -4485,3 +4485,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0322. 🔧 refactor: split large controller into smaller functions
 0903. ✅ test: mock database connection in test suite
+0254. 🚀 perf: reduce image load time
