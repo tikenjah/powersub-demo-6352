@@ -8881,3 +8881,4 @@
 0432. 🎨 style: apply consistent indentation
 0328. 🐛 fix: resolve issue with date parsing
 0673. 🐛 fix: correct typo in registration form
+1000. ✅ test: increase coverage on auth module
