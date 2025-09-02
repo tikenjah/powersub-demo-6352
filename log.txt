@@ -9872,3 +9872,4 @@
 0873. 🚀 perf: cache repeated calculations
 0818. 🔧 refactor: remove redundant code blocks
 0877. 🚀 perf: optimize database query for quiz results
+0932. ✅ test: add integration test for /submit endpoint
