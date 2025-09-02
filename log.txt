@@ -4492,3 +4492,4 @@
 0863. 🐛 fix: correct typo in registration form
 0654. ✨ feat: create admin dashboard
 0024. 📚 docs: write FAQ section
+0492. 🎨 style: remove trailing whitespace
