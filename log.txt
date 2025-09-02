@@ -6902,3 +6902,4 @@
 0412. ✅ test: increase coverage on auth module
 0658. 🎨 style: rename variables for clarity
 0648. ♻️ chore: bump dependencies
+0962. ✨ feat: create admin dashboard
