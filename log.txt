@@ -4493,3 +4493,4 @@
 0654. ✨ feat: create admin dashboard
 0024. 📚 docs: write FAQ section
 0492. 🎨 style: remove trailing whitespace
+0237. 🎨 style: standardize quote style
