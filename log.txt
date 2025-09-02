@@ -6906,3 +6906,4 @@
 0166. 🚀 perf: cache repeated calculations
 0773. 📚 docs: document token refresh logic
 0270. ♻️ chore: rename env.example
+0973. 🔧 refactor: organize models into subfolders
