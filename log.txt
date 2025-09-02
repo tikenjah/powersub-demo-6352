@@ -4488,3 +4488,4 @@
 0254. 🚀 perf: reduce image load time
 0739. 🎨 style: remove trailing whitespace
 0333. 🚀 perf: cache repeated calculations
+0703. 🔧 refactor: clean up auth middleware
