@@ -4497,3 +4497,4 @@
 0297. 🎨 style: remove trailing whitespace
 0970. ♻️ chore: update .gitignore
 0383. 🐛 fix: fix broken CSS in mobile view
+0677. 📚 docs: add API usage examples
