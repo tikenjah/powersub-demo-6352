@@ -9876,3 +9876,4 @@
 0054. ♻️ chore: update .gitignore
 0084. 🐛 fix: handle 500 error in quiz API
 0560. 🎨 style: rename variables for clarity
+0403. ✅ test: mock database connection in test suite
