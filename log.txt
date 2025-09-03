@@ -6908,3 +6908,4 @@
 0270. ♻️ chore: rename env.example
 0973. 🔧 refactor: organize models into subfolders
 0007. 🎨 style: rename variables for clarity
+0197. 📚 docs: update README with setup steps
