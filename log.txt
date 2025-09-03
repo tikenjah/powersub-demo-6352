@@ -8882,3 +8882,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0673. 🐛 fix: correct typo in registration form
 1000. ✅ test: increase coverage on auth module
+0959. 🐛 fix: fix null pointer exception on login
