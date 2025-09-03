@@ -7884,3 +7884,4 @@
 0356. 📚 docs: write FAQ section
 0425. 🔧 refactor: refactor quiz grading logic
 0658. 🎨 style: rename variables for clarity
+0049. 🐛 fix: handle 500 error in quiz API
