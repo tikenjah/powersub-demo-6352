@@ -4495,3 +4495,4 @@
 0492. 🎨 style: remove trailing whitespace
 0237. 🎨 style: standardize quote style
 0297. 🎨 style: remove trailing whitespace
+0970. ♻️ chore: update .gitignore
