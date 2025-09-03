@@ -5890,3 +5890,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0333. 🚀 perf: cache repeated calculations
 0298. ♻️ chore: update .gitignore
+0080. ✨ feat: support email verification
