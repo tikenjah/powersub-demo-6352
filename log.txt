@@ -4515,3 +4515,4 @@
 0742. 📚 docs: clarify environment setup
 0556. ✨ feat: support email verification
 0640. ♻️ chore: bump dependencies
+0392. 🎨 style: remove trailing whitespace
