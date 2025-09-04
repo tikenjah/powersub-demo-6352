@@ -4517,3 +4517,4 @@
 0640. ♻️ chore: bump dependencies
 0392. 🎨 style: remove trailing whitespace
 0808. 🚀 perf: optimize database query for quiz results
+0337. 📚 docs: document token refresh logic
