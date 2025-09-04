@@ -9881,3 +9881,4 @@
 0681. ✨ feat: create admin dashboard
 0388. 🎨 style: reformat files with black
 0988. 🐛 fix: fix broken CSS in mobile view
+0423. ✅ test: mock database connection in test suite
