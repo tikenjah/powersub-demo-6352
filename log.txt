@@ -4512,3 +4512,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0336. ✨ feat: add export to CSV option
 0233. 🚀 perf: lazy-load components
+0742. 📚 docs: clarify environment setup
