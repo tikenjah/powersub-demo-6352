@@ -4508,3 +4508,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0189. 📚 docs: clarify environment setup
 0939. 📚 docs: update README with setup steps
+0498. ✅ test: mock database connection in test suite
