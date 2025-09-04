@@ -10894,3 +10894,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0826. 📚 docs: clarify environment setup
 0224. 🐛 fix: fix broken CSS in mobile view
+0029. 🚀 perf: lazy-load components
