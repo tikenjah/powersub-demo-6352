@@ -4513,3 +4513,4 @@
 0336. ✨ feat: add export to CSV option
 0233. 🚀 perf: lazy-load components
 0742. 📚 docs: clarify environment setup
+0556. ✨ feat: support email verification
