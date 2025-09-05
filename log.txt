@@ -7890,3 +7890,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0652. 🔧 refactor: organize models into subfolders
 0349. ✅ test: increase coverage on auth module
+0256. ✅ test: mock database connection in test suite
