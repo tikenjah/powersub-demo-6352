@@ -4523,3 +4523,4 @@
 0991. ♻️ chore: clean up unused files
 0772. 🐛 fix: fix null pointer exception on login
 0814. 🔧 refactor: remove redundant code blocks
+0218. 🔧 refactor: clean up auth middleware
