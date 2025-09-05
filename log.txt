@@ -5893,3 +5893,4 @@
 0080. ✨ feat: support email verification
 0802. 🔧 refactor: remove redundant code blocks
 0118. 🚀 perf: reduce image load time
+0241. 📚 docs: add API usage examples
