@@ -5895,3 +5895,4 @@
 0118. 🚀 perf: reduce image load time
 0241. 📚 docs: add API usage examples
 0528. ♻️ chore: clean up unused files
+0440. 📚 docs: update README with setup steps
