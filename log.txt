@@ -4535,3 +4535,4 @@
 0413. ✅ test: add integration test for /submit endpoint
 0443. 🎨 style: standardize quote style
 0746. ♻️ chore: add GitHub actions badge
+0754. 🐛 fix: handle 500 error in quiz API
