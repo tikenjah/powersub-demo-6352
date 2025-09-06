@@ -4546,3 +4546,4 @@
 0079. 🐛 fix: correct typo in registration form
 0092. 🚀 perf: reduce image load time
 0290. ✅ test: test user registration edge cases
+0591. ♻️ chore: clean up unused files
