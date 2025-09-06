@@ -9889,3 +9889,4 @@
 0984. ♻️ chore: clean up unused files
 0617. ✨ feat: support email verification
 0196. ♻️ chore: bump dependencies
+0117. ✅ test: increase coverage on auth module
