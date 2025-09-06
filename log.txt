@@ -5900,3 +5900,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0953. 🎨 style: remove trailing whitespace
 0990. ♻️ chore: rename env.example
+0967. ♻️ chore: add GitHub actions badge
