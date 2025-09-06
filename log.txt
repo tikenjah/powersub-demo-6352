@@ -5899,3 +5899,4 @@
 0451. ✨ feat: support email verification
 0110. 🐛 fix: prevent crash on empty input
 0953. 🎨 style: remove trailing whitespace
+0990. ♻️ chore: rename env.example
