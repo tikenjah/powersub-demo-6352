@@ -5896,3 +5896,4 @@
 0241. 📚 docs: add API usage examples
 0528. ♻️ chore: clean up unused files
 0440. 📚 docs: update README with setup steps
+0451. ✨ feat: support email verification
