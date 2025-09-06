@@ -5897,3 +5897,4 @@
 0528. ♻️ chore: clean up unused files
 0440. 📚 docs: update README with setup steps
 0451. ✨ feat: support email verification
+0110. 🐛 fix: prevent crash on empty input
