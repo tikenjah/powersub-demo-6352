@@ -10904,3 +10904,4 @@
 0341. 🚀 perf: lazy-load components
 0104. 🎨 style: apply consistent indentation
 0910. 🎨 style: remove trailing whitespace
+0036. 🔧 refactor: clean up auth middleware
