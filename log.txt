@@ -7894,3 +7894,4 @@
 0287. 📚 docs: write FAQ section
 0207. 🐛 fix: prevent crash on empty input
 0105. 🐛 fix: correct typo in registration form
+0980. 🎨 style: reformat files with black
