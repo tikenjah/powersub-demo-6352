@@ -7896,3 +7896,4 @@
 0105. 🐛 fix: correct typo in registration form
 0980. 🎨 style: reformat files with black
 0123. ✨ feat: implement quiz timer feature
+0566. 📚 docs: write FAQ section
