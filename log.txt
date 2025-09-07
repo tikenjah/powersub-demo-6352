@@ -10905,3 +10905,4 @@
 0104. 🎨 style: apply consistent indentation
 0910. 🎨 style: remove trailing whitespace
 0036. 🔧 refactor: clean up auth middleware
+0380. 🐛 fix: fix null pointer exception on login
