@@ -8889,3 +8889,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0657. 🎨 style: standardize quote style
 0479. 🐛 fix: fix null pointer exception on login
+0685. ✅ test: test user registration edge cases
