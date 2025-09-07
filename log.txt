@@ -5902,3 +5902,4 @@
 0990. ♻️ chore: rename env.example
 0967. ♻️ chore: add GitHub actions badge
 0353. ♻️ chore: rename env.example
+0694. 🎨 style: rename variables for clarity
