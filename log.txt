@@ -4556,3 +4556,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0379. ✨ feat: support email verification
 0949. 📚 docs: write FAQ section
+0998. 🐛 fix: fix null pointer exception on login
