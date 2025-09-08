@@ -4560,3 +4560,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0137. 🎨 style: rename variables for clarity
 0731. 🎨 style: standardize quote style
+0589. 🐛 fix: fix broken CSS in mobile view
