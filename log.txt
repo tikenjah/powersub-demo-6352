@@ -8892,3 +8892,4 @@
 0685. ✅ test: test user registration edge cases
 0143. ✨ feat: implement quiz timer feature
 0431. 🎨 style: reformat files with black
+0613. 🐛 fix: prevent crash on empty input
