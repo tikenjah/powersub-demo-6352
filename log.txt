@@ -9900,3 +9900,4 @@
 0886. ♻️ chore: clean up unused files
 0553. 🐛 fix: correct typo in registration form
 0384. 📚 docs: clarify environment setup
+0287. 📚 docs: write FAQ section
