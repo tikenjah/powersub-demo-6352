@@ -6924,3 +6924,4 @@
 0347. ♻️ chore: update .gitignore
 0117. ✅ test: increase coverage on auth module
 0377. ✨ feat: add user authentication
+0120. ✅ test: add integration test for /submit endpoint
