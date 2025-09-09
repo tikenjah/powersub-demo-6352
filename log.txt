@@ -10912,3 +10912,4 @@
 0199. ✨ feat: create admin dashboard
 0739. 🎨 style: remove trailing whitespace
 0104. 🎨 style: apply consistent indentation
+0037. 🐛 fix: correct typo in registration form
