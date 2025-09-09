@@ -7903,3 +7903,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0591. ♻️ chore: clean up unused files
 0320. 📚 docs: update README with setup steps
+0239. 🎨 style: standardize quote style
