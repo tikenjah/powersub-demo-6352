@@ -8896,3 +8896,4 @@
 0253. 📚 docs: update README with setup steps
 0555. ✨ feat: create admin dashboard
 0458. ✨ feat: create admin dashboard
+0686. 🎨 style: standardize quote style
