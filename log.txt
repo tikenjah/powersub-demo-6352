@@ -4584,3 +4584,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0830. 🎨 style: apply consistent indentation
 0774. 🔧 refactor: refactor quiz grading logic
+0265. 🎨 style: reformat files with black
