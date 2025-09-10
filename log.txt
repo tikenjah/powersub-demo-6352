@@ -9902,3 +9902,4 @@
 0384. 📚 docs: clarify environment setup
 0287. 📚 docs: write FAQ section
 0527. 🎨 style: remove trailing whitespace
+0120. ✅ test: add integration test for /submit endpoint
