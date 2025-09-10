@@ -7909,3 +7909,4 @@
 0214. 📚 docs: improve code comments in utils
 0901. ✨ feat: add user authentication
 0436. ✅ test: add integration test for /submit endpoint
+0706. ✨ feat: support email verification
