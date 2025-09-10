@@ -4591,3 +4591,4 @@
 0099. 🚀 perf: reduce image load time
 0929. ✨ feat: support email verification
 0713. 🐛 fix: handle 500 error in quiz API
+0003. ✅ test: increase coverage on auth module
