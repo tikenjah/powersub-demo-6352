@@ -4589,3 +4589,4 @@
 0462. ♻️ chore: update .gitignore
 0328. 🐛 fix: resolve issue with date parsing
 0099. 🚀 perf: reduce image load time
+0929. ✨ feat: support email verification
