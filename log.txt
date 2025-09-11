@@ -4593,3 +4593,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0003. ✅ test: increase coverage on auth module
 0679. ♻️ chore: bump dependencies
+0021. ✨ feat: support email verification
