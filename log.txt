@@ -4595,3 +4595,4 @@
 0679. ♻️ chore: bump dependencies
 0021. ✨ feat: support email verification
 0671. 🐛 fix: fix null pointer exception on login
+0280. ✅ test: add integration test for /submit endpoint
