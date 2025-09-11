@@ -6927,3 +6927,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0922. 📚 docs: write FAQ section
 0706. ✨ feat: support email verification
+0406. ✨ feat: add export to CSV option
