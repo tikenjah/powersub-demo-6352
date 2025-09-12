@@ -4604,3 +4604,4 @@
 0210. 🎨 style: apply consistent indentation
 0898. 🐛 fix: fix broken CSS in mobile view
 0522. 🐛 fix: handle 500 error in quiz API
+0532. 🔧 refactor: split large controller into smaller functions
