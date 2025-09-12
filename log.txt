@@ -6931,3 +6931,4 @@
 0797. 📚 docs: add API usage examples
 0050. ✨ feat: enable dark mode toggle
 0193. 🚀 perf: optimize database query for quiz results
+0703. 🔧 refactor: clean up auth middleware
