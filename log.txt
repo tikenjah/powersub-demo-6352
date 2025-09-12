@@ -4602,3 +4602,4 @@
 0688. 🚀 perf: reduce image load time
 0088. 📚 docs: add API usage examples
 0210. 🎨 style: apply consistent indentation
+0898. 🐛 fix: fix broken CSS in mobile view
