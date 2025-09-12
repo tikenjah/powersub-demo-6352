@@ -4599,3 +4599,4 @@
 0024. 📚 docs: write FAQ section
 0409. 🚀 perf: lazy-load components
 0343. 🚀 perf: optimize database query for quiz results
+0688. 🚀 perf: reduce image load time
