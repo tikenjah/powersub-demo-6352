@@ -9913,3 +9913,4 @@
 0502. 📚 docs: update README with setup steps
 0216. 🎨 style: rename variables for clarity
 0514. 🐛 fix: fix broken CSS in mobile view
+0551. 📚 docs: write FAQ section
