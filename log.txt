@@ -5921,3 +5921,4 @@
 0516. ✅ test: add unit test for quiz service
 0089. 🔧 refactor: remove redundant code blocks
 0703. 🔧 refactor: clean up auth middleware
+0518. ✨ feat: support email verification
