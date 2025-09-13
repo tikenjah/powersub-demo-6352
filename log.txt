@@ -9915,3 +9915,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0551. 📚 docs: write FAQ section
 0561. 📚 docs: write FAQ section
+0448. 🐛 fix: correct typo in registration form
