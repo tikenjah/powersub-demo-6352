@@ -4618,3 +4618,4 @@
 0378. 🐛 fix: prevent crash on empty input
 0457. 🐛 fix: handle 500 error in quiz API
 0535. 📚 docs: write FAQ section
+0012. 🚀 perf: cache repeated calculations
