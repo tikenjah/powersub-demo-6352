@@ -7917,3 +7917,4 @@
 0461. ✨ feat: add user authentication
 0069. 🎨 style: rename variables for clarity
 0945. ♻️ chore: add GitHub actions badge
+0576. ♻️ chore: update .gitignore
