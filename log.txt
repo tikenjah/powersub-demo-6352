@@ -4624,3 +4624,4 @@
 0262. 🎨 style: remove trailing whitespace
 0254. 🚀 perf: reduce image load time
 0697. ♻️ chore: bump dependencies
+0571. 🔧 refactor: clean up auth middleware
