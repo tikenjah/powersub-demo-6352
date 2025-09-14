@@ -4623,3 +4623,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0262. 🎨 style: remove trailing whitespace
 0254. 🚀 perf: reduce image load time
+0697. ♻️ chore: bump dependencies
