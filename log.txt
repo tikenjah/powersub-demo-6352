@@ -4631,3 +4631,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0924. ✅ test: mock database connection in test suite
 0077. ♻️ chore: rename env.example
+0749. ✨ feat: support email verification
