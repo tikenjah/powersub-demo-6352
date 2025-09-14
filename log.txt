@@ -4633,3 +4633,4 @@
 0077. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
 0060. ♻️ chore: clean up unused files
+0562. 🔧 refactor: clean up auth middleware
