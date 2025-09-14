@@ -7919,3 +7919,4 @@
 0945. ♻️ chore: add GitHub actions badge
 0576. ♻️ chore: update .gitignore
 0503. ♻️ chore: rename env.example
+0431. 🎨 style: reformat files with black
