@@ -5924,3 +5924,4 @@
 0518. ✨ feat: support email verification
 0079. 🐛 fix: correct typo in registration form
 0035. ✅ test: increase coverage on auth module
+0229. 🚀 perf: optimize database query for quiz results
