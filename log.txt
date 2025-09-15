@@ -8916,3 +8916,4 @@
 0669. ✨ feat: enable dark mode toggle
 0543. ✨ feat: support email verification
 0541. 🐛 fix: correct typo in registration form
+0412. ✅ test: increase coverage on auth module
