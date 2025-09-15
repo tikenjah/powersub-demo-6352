@@ -5928,3 +5928,4 @@
 0879. 🎨 style: standardize quote style
 0093. ✅ test: add unit test for quiz service
 0208. 🔧 refactor: clean up auth middleware
+0735. ♻️ chore: add GitHub actions badge
