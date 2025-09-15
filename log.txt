@@ -8913,3 +8913,4 @@
 0449. ✅ test: add unit test for quiz service
 0850. ♻️ chore: rename env.example
 0334. 🚀 perf: cache repeated calculations
+0669. ✨ feat: enable dark mode toggle
