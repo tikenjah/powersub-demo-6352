@@ -10929,3 +10929,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0037. 🐛 fix: correct typo in registration form
 0144. ✅ test: increase coverage on auth module
+0713. 🐛 fix: handle 500 error in quiz API
