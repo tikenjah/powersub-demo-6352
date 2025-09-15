@@ -8914,3 +8914,4 @@
 0850. ♻️ chore: rename env.example
 0334. 🚀 perf: cache repeated calculations
 0669. ✨ feat: enable dark mode toggle
+0543. ✨ feat: support email verification
