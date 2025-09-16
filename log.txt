@@ -4658,3 +4658,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0242. ♻️ chore: clean up unused files
 0246. ✅ test: add integration test for /submit endpoint
+0415. 🐛 fix: handle 500 error in quiz API
