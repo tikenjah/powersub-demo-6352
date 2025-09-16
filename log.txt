@@ -4645,3 +4645,4 @@
 0139. 📚 docs: document token refresh logic
 0810. 🔧 refactor: refactor quiz grading logic
 0311. 🎨 style: apply consistent indentation
+0050. ✨ feat: enable dark mode toggle
