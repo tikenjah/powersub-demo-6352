@@ -4657,3 +4657,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0808. 🚀 perf: optimize database query for quiz results
 0242. ♻️ chore: clean up unused files
+0246. ✅ test: add integration test for /submit endpoint
