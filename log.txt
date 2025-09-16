@@ -4650,3 +4650,4 @@
 0660. 🐛 fix: correct typo in registration form
 0459. 🔧 refactor: organize models into subfolders
 0114. ♻️ chore: update .gitignore
+0615. 🐛 fix: correct typo in registration form
