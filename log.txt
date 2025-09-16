@@ -10932,3 +10932,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0338. ♻️ chore: add GitHub actions badge
 0313. 🎨 style: apply consistent indentation
+0157. ✅ test: mock database connection in test suite
