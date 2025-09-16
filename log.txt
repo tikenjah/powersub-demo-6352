@@ -4648,3 +4648,4 @@
 0050. ✨ feat: enable dark mode toggle
 0225. 🚀 perf: reduce image load time
 0660. 🐛 fix: correct typo in registration form
+0459. 🔧 refactor: organize models into subfolders
