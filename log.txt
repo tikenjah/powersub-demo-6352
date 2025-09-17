@@ -4661,3 +4661,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0667. ✨ feat: add export to CSV option
 0332. 🎨 style: standardize quote style
+0857. 🎨 style: rename variables for clarity
