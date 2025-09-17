@@ -4664,3 +4664,4 @@
 0857. 🎨 style: rename variables for clarity
 0948. 🐛 fix: fix broken CSS in mobile view
 0959. 🐛 fix: fix null pointer exception on login
+0483. 📚 docs: update README with setup steps
