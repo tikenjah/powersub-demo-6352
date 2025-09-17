@@ -4666,3 +4666,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0483. 📚 docs: update README with setup steps
 0547. 📚 docs: write FAQ section
+0106. 🎨 style: reformat files with black
