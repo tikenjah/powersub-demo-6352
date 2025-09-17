@@ -10934,3 +10934,4 @@
 0313. 🎨 style: apply consistent indentation
 0157. ✅ test: mock database connection in test suite
 0101. 📚 docs: clarify environment setup
+0573. ✅ test: add integration test for /submit endpoint
