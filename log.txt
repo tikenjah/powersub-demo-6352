@@ -8923,3 +8923,4 @@
 0252. 🎨 style: remove trailing whitespace
 0156. 🎨 style: rename variables for clarity
 0079. 🐛 fix: correct typo in registration form
+0708. ✅ test: add integration test for /submit endpoint
