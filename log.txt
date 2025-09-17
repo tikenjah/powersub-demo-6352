@@ -6935,3 +6935,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0992. ♻️ chore: clean up unused files
 0517. ✅ test: mock database connection in test suite
+0428. 🐛 fix: fix null pointer exception on login
