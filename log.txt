@@ -7932,3 +7932,4 @@
 0370. 🚀 perf: reduce image load time
 0827. 🚀 perf: optimize database query for quiz results
 0800. 🚀 perf: optimize database query for quiz results
+0356. 📚 docs: write FAQ section
