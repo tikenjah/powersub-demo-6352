@@ -10937,3 +10937,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0239. 🎨 style: standardize quote style
 0483. 📚 docs: update README with setup steps
+0727. ♻️ chore: add GitHub actions badge
