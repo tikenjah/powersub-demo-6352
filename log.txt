@@ -9935,3 +9935,4 @@
 0447. ♻️ chore: bump dependencies
 0821. ✅ test: add integration test for /submit endpoint
 0415. 🐛 fix: handle 500 error in quiz API
+0480. ♻️ chore: add GitHub actions badge
