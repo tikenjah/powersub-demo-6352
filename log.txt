@@ -9933,3 +9933,4 @@
 0189. 📚 docs: clarify environment setup
 0332. 🎨 style: standardize quote style
 0447. ♻️ chore: bump dependencies
+0821. ✅ test: add integration test for /submit endpoint
