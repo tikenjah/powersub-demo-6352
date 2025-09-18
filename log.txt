@@ -7935,3 +7935,4 @@
 0356. 📚 docs: write FAQ section
 0417. 🎨 style: rename variables for clarity
 0513. ♻️ chore: bump dependencies
+0829. 🔧 refactor: organize models into subfolders
