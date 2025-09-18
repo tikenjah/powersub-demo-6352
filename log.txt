@@ -5932,3 +5932,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0260. ✨ feat: create admin dashboard
 0519. 📚 docs: document token refresh logic
+0344. ♻️ chore: add GitHub actions badge
