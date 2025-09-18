@@ -6938,3 +6938,4 @@
 0428. 🐛 fix: fix null pointer exception on login
 0490. ✨ feat: create admin dashboard
 0463. 🚀 perf: reduce image load time
+0956. 📚 docs: clarify environment setup
