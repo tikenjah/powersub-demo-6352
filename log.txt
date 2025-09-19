@@ -7940,3 +7940,4 @@
 0986. 📚 docs: document token refresh logic
 0248. 🐛 fix: handle 500 error in quiz API
 0803. ✅ test: mock database connection in test suite
+0859. ✨ feat: create admin dashboard
