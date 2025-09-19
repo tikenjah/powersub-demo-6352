@@ -4682,3 +4682,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0611. ✅ test: test user registration edge cases
 0440. 📚 docs: update README with setup steps
+0780. 📚 docs: add API usage examples
