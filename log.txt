@@ -6941,3 +6941,4 @@
 0956. 📚 docs: clarify environment setup
 0220. 🐛 fix: fix null pointer exception on login
 0135. ✅ test: test user registration edge cases
+0833. ✨ feat: add user authentication
