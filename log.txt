@@ -4700,3 +4700,4 @@
 0995. ✅ test: mock database connection in test suite
 0085. ✨ feat: support email verification
 0667. ✨ feat: add export to CSV option
+0525. ✅ test: mock database connection in test suite
