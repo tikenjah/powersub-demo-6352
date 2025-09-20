@@ -4705,3 +4705,4 @@
 0357. ✅ test: add unit test for quiz service
 0768. 🎨 style: remove trailing whitespace
 0990. ♻️ chore: rename env.example
+0258. 🐛 fix: prevent crash on empty input
