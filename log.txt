@@ -7944,3 +7944,4 @@
 0259. 🚀 perf: lazy-load components
 0950. 🎨 style: reformat files with black
 0533. ♻️ chore: add GitHub actions badge
+0253. 📚 docs: update README with setup steps
