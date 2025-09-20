@@ -4692,3 +4692,4 @@
 0517. ✅ test: mock database connection in test suite
 0859. ✨ feat: create admin dashboard
 0112. ✨ feat: enable dark mode toggle
+0986. 📚 docs: document token refresh logic
