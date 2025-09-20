@@ -7945,3 +7945,4 @@
 0950. 🎨 style: reformat files with black
 0533. ♻️ chore: add GitHub actions badge
 0253. 📚 docs: update README with setup steps
+0851. ✅ test: mock database connection in test suite
