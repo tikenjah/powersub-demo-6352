@@ -10941,3 +10941,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0028. 🎨 style: standardize quote style
 0541. 🐛 fix: correct typo in registration form
+0777. 📚 docs: document token refresh logic
