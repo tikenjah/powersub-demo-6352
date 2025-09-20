@@ -10942,3 +10942,4 @@
 0028. 🎨 style: standardize quote style
 0541. 🐛 fix: correct typo in registration form
 0777. 📚 docs: document token refresh logic
+0618. ✨ feat: support email verification
