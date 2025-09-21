@@ -6943,3 +6943,4 @@
 0135. ✅ test: test user registration edge cases
 0833. ✨ feat: add user authentication
 0522. 🐛 fix: handle 500 error in quiz API
+0781. 🚀 perf: reduce image load time
