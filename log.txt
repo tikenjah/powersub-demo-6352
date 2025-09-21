@@ -9938,3 +9938,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0053. ✅ test: increase coverage on auth module
 0226. 🚀 perf: lazy-load components
+0107. 🐛 fix: prevent crash on empty input
