@@ -10943,3 +10943,4 @@
 0541. 🐛 fix: correct typo in registration form
 0777. 📚 docs: document token refresh logic
 0618. ✨ feat: support email verification
+0578. ✅ test: add integration test for /submit endpoint
