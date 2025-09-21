@@ -8933,3 +8933,4 @@
 0365. 🚀 perf: reduce image load time
 0688. 🚀 perf: reduce image load time
 0398. 🚀 perf: cache repeated calculations
+0695. ✨ feat: create admin dashboard
