@@ -9939,3 +9939,4 @@
 0053. ✅ test: increase coverage on auth module
 0226. 🚀 perf: lazy-load components
 0107. 🐛 fix: prevent crash on empty input
+0290. ✅ test: test user registration edge cases
