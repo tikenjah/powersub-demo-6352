@@ -4717,3 +4717,4 @@
 0677. 📚 docs: add API usage examples
 0699. 🎨 style: standardize quote style
 0622. 🎨 style: apply consistent indentation
+0931. 🚀 perf: reduce image load time
