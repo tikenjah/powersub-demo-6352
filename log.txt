@@ -4711,3 +4711,4 @@
 0684. 🚀 perf: reduce image load time
 0741. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
+0735. ♻️ chore: add GitHub actions badge
