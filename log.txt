@@ -5941,3 +5941,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0939. 📚 docs: update README with setup steps
 0362. 📚 docs: add API usage examples
+0478. 🐛 fix: resolve issue with date parsing
