@@ -9940,3 +9940,4 @@
 0226. 🚀 perf: lazy-load components
 0107. 🐛 fix: prevent crash on empty input
 0290. ✅ test: test user registration edge cases
+0693. 📚 docs: add API usage examples
