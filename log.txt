@@ -4712,3 +4712,4 @@
 0741. 🎨 style: apply consistent indentation
 0622. 🎨 style: apply consistent indentation
 0735. ♻️ chore: add GitHub actions badge
+0935. 📚 docs: update README with setup steps
