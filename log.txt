@@ -4729,3 +4729,4 @@
 0194. 🎨 style: standardize quote style
 0095. ✅ test: mock database connection in test suite
 0930. 🎨 style: apply consistent indentation
+0258. 🐛 fix: prevent crash on empty input
