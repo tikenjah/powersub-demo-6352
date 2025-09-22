@@ -6947,3 +6947,4 @@
 0131. 📚 docs: write FAQ section
 0234. ♻️ chore: rename env.example
 0926. 🔧 refactor: organize models into subfolders
+0918. ✨ feat: enable dark mode toggle
