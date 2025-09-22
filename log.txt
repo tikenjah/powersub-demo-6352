@@ -4726,3 +4726,4 @@
 0158. 📚 docs: clarify environment setup
 0820. 📚 docs: add API usage examples
 0944. ✨ feat: add user authentication
+0194. 🎨 style: standardize quote style
