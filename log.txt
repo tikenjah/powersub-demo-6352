@@ -6949,3 +6949,4 @@
 0926. 🔧 refactor: organize models into subfolders
 0918. ✨ feat: enable dark mode toggle
 0865. ♻️ chore: add GitHub actions badge
+0935. 📚 docs: update README with setup steps
