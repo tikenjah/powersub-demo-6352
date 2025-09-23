@@ -6954,3 +6954,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0736. 🐛 fix: fix null pointer exception on login
 0449. ✅ test: add unit test for quiz service
+0196. ♻️ chore: bump dependencies
