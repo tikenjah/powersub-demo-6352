@@ -5948,3 +5948,4 @@
 0108. 🎨 style: remove trailing whitespace
 0640. ♻️ chore: bump dependencies
 0360. ✨ feat: add export to CSV option
+0395. 📚 docs: write FAQ section
