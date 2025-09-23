@@ -4747,3 +4747,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0970. ♻️ chore: update .gitignore
 0250. 📚 docs: update README with setup steps
+0063. 🐛 fix: handle 500 error in quiz API
