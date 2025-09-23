@@ -4741,3 +4741,4 @@
 0119. 📚 docs: improve code comments in utils
 0545. 🎨 style: standardize quote style
 0520. 🐛 fix: fix null pointer exception on login
+0372. ✨ feat: add user authentication
