@@ -4735,3 +4735,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0238. 🎨 style: apply consistent indentation
 0953. 🎨 style: remove trailing whitespace
+0118. 🚀 perf: reduce image load time
