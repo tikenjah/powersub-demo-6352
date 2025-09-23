@@ -4734,3 +4734,4 @@
 0048. 📚 docs: update README with setup steps
 0828. ♻️ chore: add GitHub actions badge
 0238. 🎨 style: apply consistent indentation
+0953. 🎨 style: remove trailing whitespace
