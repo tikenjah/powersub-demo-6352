@@ -6951,3 +6951,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0935. 📚 docs: update README with setup steps
 0064. 📚 docs: clarify environment setup
+0751. 🐛 fix: handle 500 error in quiz API
