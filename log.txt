@@ -6956,3 +6956,4 @@
 0449. ✅ test: add unit test for quiz service
 0196. ♻️ chore: bump dependencies
 0362. 📚 docs: add API usage examples
+0518. ✨ feat: support email verification
