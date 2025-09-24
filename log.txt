@@ -7954,3 +7954,4 @@
 0517. ✅ test: mock database connection in test suite
 0899. 🚀 perf: cache repeated calculations
 0852. ✨ feat: enable dark mode toggle
+0997. ✅ test: increase coverage on auth module
