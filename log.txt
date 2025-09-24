@@ -6959,3 +6959,4 @@
 0518. ✨ feat: support email verification
 0181. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
+0683. ✅ test: mock database connection in test suite
