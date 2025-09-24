@@ -4752,3 +4752,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0538. 🐛 fix: fix broken CSS in mobile view
 0672. 🐛 fix: fix broken CSS in mobile view
+0099. 🚀 perf: reduce image load time
