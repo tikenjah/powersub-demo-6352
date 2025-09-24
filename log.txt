@@ -4750,3 +4750,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0799. ♻️ chore: clean up unused files
 0565. ♻️ chore: add GitHub actions badge
+0538. 🐛 fix: fix broken CSS in mobile view
