@@ -5949,3 +5949,4 @@
 0640. ♻️ chore: bump dependencies
 0360. ✨ feat: add export to CSV option
 0395. 📚 docs: write FAQ section
+0387. ✨ feat: enable dark mode toggle
