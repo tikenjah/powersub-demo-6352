@@ -4755,3 +4755,4 @@
 0099. 🚀 perf: reduce image load time
 0169. 📚 docs: add API usage examples
 0885. ♻️ chore: update .gitignore
+0294. 🐛 fix: prevent crash on empty input
