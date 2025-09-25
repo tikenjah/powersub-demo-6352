@@ -4764,3 +4764,4 @@
 0369. 🎨 style: standardize quote style
 0084. 🐛 fix: handle 500 error in quiz API
 0751. 🐛 fix: handle 500 error in quiz API
+0505. ♻️ chore: add GitHub actions badge
