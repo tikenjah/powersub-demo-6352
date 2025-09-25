@@ -6960,3 +6960,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0727. ♻️ chore: add GitHub actions badge
 0683. ✅ test: mock database connection in test suite
+0482. ✨ feat: add export to CSV option
