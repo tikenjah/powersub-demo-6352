@@ -4762,3 +4762,4 @@
 0627. 📚 docs: document token refresh logic
 0823. ✨ feat: add user authentication
 0369. 🎨 style: standardize quote style
+0084. 🐛 fix: handle 500 error in quiz API
