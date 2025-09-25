@@ -6962,3 +6962,4 @@
 0683. ✅ test: mock database connection in test suite
 0482. ✨ feat: add export to CSV option
 0586. 🎨 style: remove trailing whitespace
+0659. 📚 docs: add API usage examples
