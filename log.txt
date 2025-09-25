@@ -4773,3 +4773,4 @@
 0820. 📚 docs: add API usage examples
 0971. 🎨 style: standardize quote style
 0662. ♻️ chore: clean up unused files
+0653. 🐛 fix: prevent crash on empty input
