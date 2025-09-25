@@ -4760,3 +4760,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0632. 🎨 style: remove trailing whitespace
 0627. 📚 docs: document token refresh logic
+0823. ✨ feat: add user authentication
