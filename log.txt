@@ -7958,3 +7958,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0278. 🔧 refactor: clean up auth middleware
 0310. 🔧 refactor: refactor quiz grading logic
+0659. 📚 docs: add API usage examples
