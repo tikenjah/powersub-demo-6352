@@ -5950,3 +5950,4 @@
 0360. ✨ feat: add export to CSV option
 0395. 📚 docs: write FAQ section
 0387. ✨ feat: enable dark mode toggle
+0798. 🚀 perf: reduce image load time
