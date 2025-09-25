@@ -4770,3 +4770,4 @@
 0257. 📚 docs: clarify environment setup
 0628. ♻️ chore: add GitHub actions badge
 0345. 📚 docs: document token refresh logic
+0820. 📚 docs: add API usage examples
