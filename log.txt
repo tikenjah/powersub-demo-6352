@@ -4775,3 +4775,4 @@
 0662. ♻️ chore: clean up unused files
 0653. 🐛 fix: prevent crash on empty input
 0152. ✨ feat: add user authentication
+0430. 🐛 fix: fix null pointer exception on login
