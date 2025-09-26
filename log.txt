@@ -7962,3 +7962,4 @@
 0135. ✅ test: test user registration edge cases
 0861. ♻️ chore: clean up unused files
 0764. ✨ feat: add user authentication
+0471. ✨ feat: support email verification
