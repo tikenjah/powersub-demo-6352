@@ -8943,3 +8943,4 @@
 0076. 🎨 style: reformat files with black
 0069. 🎨 style: rename variables for clarity
 0552. 🐛 fix: fix null pointer exception on login
+0474. ✅ test: add unit test for quiz service
