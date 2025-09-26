@@ -4777,3 +4777,4 @@
 0152. ✨ feat: add user authentication
 0430. 🐛 fix: fix null pointer exception on login
 0151. ✅ test: add unit test for quiz service
+0557. 🔧 refactor: clean up auth middleware
