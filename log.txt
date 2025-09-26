@@ -6964,3 +6964,4 @@
 0586. 🎨 style: remove trailing whitespace
 0659. 📚 docs: add API usage examples
 0893. 🐛 fix: handle 500 error in quiz API
+0821. ✅ test: add integration test for /submit endpoint
