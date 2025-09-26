@@ -7963,3 +7963,4 @@
 0861. ♻️ chore: clean up unused files
 0764. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
+0108. 🎨 style: remove trailing whitespace
