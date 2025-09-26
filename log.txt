@@ -4781,3 +4781,4 @@
 0934. ✨ feat: support email verification
 0097. 🐛 fix: handle 500 error in quiz API
 0740. 🐛 fix: resolve issue with date parsing
+0107. 🐛 fix: prevent crash on empty input
