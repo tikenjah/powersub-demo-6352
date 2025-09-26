@@ -4779,3 +4779,4 @@
 0151. ✅ test: add unit test for quiz service
 0557. 🔧 refactor: clean up auth middleware
 0934. ✨ feat: support email verification
+0097. 🐛 fix: handle 500 error in quiz API
