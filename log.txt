@@ -5960,3 +5960,4 @@
 0724. ✅ test: mock database connection in test suite
 0330. ✅ test: test user registration edge cases
 0135. ✅ test: test user registration edge cases
+0588. 🔧 refactor: organize models into subfolders
