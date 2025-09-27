@@ -4796,3 +4796,4 @@
 0204. 🎨 style: standardize quote style
 0632. 🎨 style: remove trailing whitespace
 0753. 🔧 refactor: remove redundant code blocks
+0762. 🚀 perf: lazy-load components
