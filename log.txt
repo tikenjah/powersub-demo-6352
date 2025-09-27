@@ -8946,3 +8946,4 @@
 0474. ✅ test: add unit test for quiz service
 0453. 🎨 style: standardize quote style
 0154. 🐛 fix: prevent crash on empty input
+0460. 📚 docs: write FAQ section
