@@ -7964,3 +7964,4 @@
 0764. ✨ feat: add user authentication
 0471. ✨ feat: support email verification
 0108. 🎨 style: remove trailing whitespace
+0884. 📚 docs: clarify environment setup
