@@ -5961,3 +5961,4 @@
 0330. ✅ test: test user registration edge cases
 0135. ✅ test: test user registration edge cases
 0588. 🔧 refactor: organize models into subfolders
+0709. ♻️ chore: bump dependencies
