@@ -5958,3 +5958,4 @@
 0284. ✨ feat: implement quiz timer feature
 0194. 🎨 style: standardize quote style
 0724. ✅ test: mock database connection in test suite
+0330. ✅ test: test user registration edge cases
