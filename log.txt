@@ -7970,3 +7970,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0950. 🎨 style: reformat files with black
 0788. 📚 docs: add API usage examples
+0798. 🚀 perf: reduce image load time
