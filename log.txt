@@ -4817,3 +4817,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0227. ✅ test: test user registration edge cases
 0538. 🐛 fix: fix broken CSS in mobile view
+0770. ♻️ chore: rename env.example
