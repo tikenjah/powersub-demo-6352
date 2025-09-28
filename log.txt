@@ -7967,3 +7967,4 @@
 0884. 📚 docs: clarify environment setup
 0061. ✨ feat: create admin dashboard
 0719. 🎨 style: apply consistent indentation
+0426. ✅ test: add integration test for /submit endpoint
