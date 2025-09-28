@@ -4809,3 +4809,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0987. ✨ feat: create admin dashboard
 0595. ✨ feat: enable dark mode toggle
+0603. 🐛 fix: fix broken CSS in mobile view
