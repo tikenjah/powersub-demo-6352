@@ -4810,3 +4810,4 @@
 0987. ✨ feat: create admin dashboard
 0595. ✨ feat: enable dark mode toggle
 0603. 🐛 fix: fix broken CSS in mobile view
+0206. 🐛 fix: handle 500 error in quiz API
