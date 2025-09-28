@@ -8954,3 +8954,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0044. ✅ test: add unit test for quiz service
 0988. 🐛 fix: fix broken CSS in mobile view
+0366. 🔧 refactor: remove redundant code blocks
