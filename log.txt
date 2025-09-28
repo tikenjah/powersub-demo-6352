@@ -4814,3 +4814,4 @@
 0010. ✨ feat: add user authentication
 0322. 🔧 refactor: split large controller into smaller functions
 0145. 📚 docs: improve code comments in utils
+0359. 🔧 refactor: clean up auth middleware
