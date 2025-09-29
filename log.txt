@@ -4824,3 +4824,4 @@
 0105. 🐛 fix: correct typo in registration form
 0384. 📚 docs: clarify environment setup
 0356. 📚 docs: write FAQ section
+0101. 📚 docs: clarify environment setup
