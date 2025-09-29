@@ -4822,3 +4822,4 @@
 0482. ✨ feat: add export to CSV option
 0623. 🎨 style: standardize quote style
 0105. 🐛 fix: correct typo in registration form
+0384. 📚 docs: clarify environment setup
