@@ -4826,3 +4826,4 @@
 0356. 📚 docs: write FAQ section
 0101. 📚 docs: clarify environment setup
 0499. 🎨 style: reformat files with black
+0312. ✨ feat: add user authentication
