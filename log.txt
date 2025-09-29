@@ -7974,3 +7974,4 @@
 0192. ✨ feat: enable dark mode toggle
 0964. ♻️ chore: clean up unused files
 0021. ✨ feat: support email verification
+0948. 🐛 fix: fix broken CSS in mobile view
