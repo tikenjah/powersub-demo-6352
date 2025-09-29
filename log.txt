@@ -7973,3 +7973,4 @@
 0798. 🚀 perf: reduce image load time
 0192. ✨ feat: enable dark mode toggle
 0964. ♻️ chore: clean up unused files
+0021. ✨ feat: support email verification
