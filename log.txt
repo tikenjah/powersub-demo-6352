@@ -6976,3 +6976,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0486. ✨ feat: add export to CSV option
 0557. 🔧 refactor: clean up auth middleware
+0575. ✅ test: add unit test for quiz service
