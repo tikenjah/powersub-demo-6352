@@ -4852,3 +4852,4 @@
 0974. ✨ feat: add export to CSV option
 0055. 📚 docs: update README with setup steps
 0771. 🚀 perf: cache repeated calculations
+0875. ✅ test: increase coverage on auth module
