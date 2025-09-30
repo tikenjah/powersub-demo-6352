@@ -4838,3 +4838,4 @@
 0992. ♻️ chore: clean up unused files
 0782. 📚 docs: improve code comments in utils
 0733. 🐛 fix: fix null pointer exception on login
+0200. 🐛 fix: handle 500 error in quiz API
