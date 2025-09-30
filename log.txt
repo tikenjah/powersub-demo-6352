@@ -4841,3 +4841,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0541. 🐛 fix: correct typo in registration form
 0125. ✅ test: add integration test for /submit endpoint
+0272. 🔧 refactor: remove redundant code blocks
