@@ -5965,3 +5965,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0224. 🐛 fix: fix broken CSS in mobile view
 0106. 🎨 style: reformat files with black
+0688. 🚀 perf: reduce image load time
