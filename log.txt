@@ -4863,3 +4863,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0135. ✅ test: test user registration edge cases
 0184. 📚 docs: improve code comments in utils
+0531. 🐛 fix: prevent crash on empty input
