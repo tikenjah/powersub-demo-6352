@@ -4864,3 +4864,4 @@
 0135. ✅ test: test user registration edge cases
 0184. 📚 docs: improve code comments in utils
 0531. 🐛 fix: prevent crash on empty input
+0095. ✅ test: mock database connection in test suite
