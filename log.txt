@@ -7976,3 +7976,4 @@
 0021. ✨ feat: support email verification
 0948. 🐛 fix: fix broken CSS in mobile view
 0783. 🐛 fix: handle 500 error in quiz API
+0857. 🎨 style: rename variables for clarity
