@@ -6979,3 +6979,4 @@
 0575. ✅ test: add unit test for quiz service
 0067. 🔧 refactor: remove redundant code blocks
 0786. ✨ feat: enable dark mode toggle
+0666. 🐛 fix: fix broken CSS in mobile view
