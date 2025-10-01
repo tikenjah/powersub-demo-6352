@@ -4861,3 +4861,4 @@
 0569. 📚 docs: document token refresh logic
 0364. 🐛 fix: resolve issue with date parsing
 0328. 🐛 fix: resolve issue with date parsing
+0135. ✅ test: test user registration edge cases
