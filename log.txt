@@ -9977,3 +9977,4 @@
 0770. ♻️ chore: rename env.example
 0628. ♻️ chore: add GitHub actions badge
 0560. 🎨 style: rename variables for clarity
+0538. 🐛 fix: fix broken CSS in mobile view
