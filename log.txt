@@ -5968,3 +5968,4 @@
 0688. 🚀 perf: reduce image load time
 0224. 🐛 fix: fix broken CSS in mobile view
 0951. 🎨 style: rename variables for clarity
+0351. ✨ feat: add export to CSV option
