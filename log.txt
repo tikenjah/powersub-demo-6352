@@ -8966,3 +8966,4 @@
 0286. ✅ test: mock database connection in test suite
 0766. 🎨 style: reformat files with black
 0238. 🎨 style: apply consistent indentation
+0675. 🔧 refactor: organize models into subfolders
