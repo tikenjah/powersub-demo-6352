@@ -4869,3 +4869,4 @@
 0042. 📚 docs: document token refresh logic
 0036. 🔧 refactor: clean up auth middleware
 0596. ♻️ chore: update .gitignore
+0759. 🔧 refactor: organize models into subfolders
