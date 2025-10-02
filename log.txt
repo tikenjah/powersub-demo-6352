@@ -4866,3 +4866,4 @@
 0531. 🐛 fix: prevent crash on empty input
 0095. ✅ test: mock database connection in test suite
 0535. 📚 docs: write FAQ section
+0042. 📚 docs: document token refresh logic
