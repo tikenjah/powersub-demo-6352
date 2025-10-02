@@ -8970,3 +8970,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0722. 📚 docs: add API usage examples
 0260. ✨ feat: create admin dashboard
+0996. ✅ test: test user registration edge cases
