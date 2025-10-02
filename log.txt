@@ -4873,3 +4873,4 @@
 0054. ♻️ chore: update .gitignore
 0020. ✅ test: add integration test for /submit endpoint
 0920. 🔧 refactor: organize models into subfolders
+0835. 🐛 fix: prevent crash on empty input
