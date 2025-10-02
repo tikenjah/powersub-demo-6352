@@ -7980,3 +7980,4 @@
 0627. 📚 docs: document token refresh logic
 0719. 🎨 style: apply consistent indentation
 0387. ✨ feat: enable dark mode toggle
+0647. 🐛 fix: prevent crash on empty input
