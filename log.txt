@@ -4881,3 +4881,4 @@
 0643. 🎨 style: apply consistent indentation
 0166. 🚀 perf: cache repeated calculations
 0457. 🐛 fix: handle 500 error in quiz API
+0836. 🚀 perf: optimize database query for quiz results
