@@ -4891,3 +4891,4 @@
 0230. ✨ feat: create admin dashboard
 0462. ♻️ chore: update .gitignore
 0313. 🎨 style: apply consistent indentation
+0592. 📚 docs: add API usage examples
