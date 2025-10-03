@@ -8975,3 +8975,4 @@
 0172. 📚 docs: add API usage examples
 0479. 🐛 fix: fix null pointer exception on login
 0391. 🐛 fix: fix null pointer exception on login
+0664. ✅ test: add unit test for quiz service
