@@ -5974,3 +5974,4 @@
 0785. ✨ feat: enable dark mode toggle
 0382. 📚 docs: improve code comments in utils
 0468. 📚 docs: update README with setup steps
+0531. 🐛 fix: prevent crash on empty input
