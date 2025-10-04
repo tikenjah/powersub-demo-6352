@@ -4900,3 +4900,4 @@
 0873. 🚀 perf: cache repeated calculations
 0480. ♻️ chore: add GitHub actions badge
 0374. 🎨 style: standardize quote style
+0970. ♻️ chore: update .gitignore
