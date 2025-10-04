@@ -4899,3 +4899,4 @@
 0153. ♻️ chore: rename env.example
 0873. 🚀 perf: cache repeated calculations
 0480. ♻️ chore: add GitHub actions badge
+0374. 🎨 style: standardize quote style
