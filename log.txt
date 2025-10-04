@@ -4902,3 +4902,4 @@
 0374. 🎨 style: standardize quote style
 0970. ♻️ chore: update .gitignore
 0955. 🔧 refactor: remove redundant code blocks
+0594. 🎨 style: reformat files with black
