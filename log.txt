@@ -4904,3 +4904,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0594. 🎨 style: reformat files with black
 0422. 🔧 refactor: organize models into subfolders
+0175. 📚 docs: add API usage examples
