@@ -4895,3 +4895,4 @@
 0694. 🎨 style: rename variables for clarity
 0596. ♻️ chore: update .gitignore
 0957. 🐛 fix: fix null pointer exception on login
+0942. ✅ test: increase coverage on auth module
