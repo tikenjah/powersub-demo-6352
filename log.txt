@@ -5973,3 +5973,4 @@
 0361. ✨ feat: support email verification
 0785. ✨ feat: enable dark mode toggle
 0382. 📚 docs: improve code comments in utils
+0468. 📚 docs: update README with setup steps
