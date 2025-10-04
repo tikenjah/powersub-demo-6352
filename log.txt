@@ -7984,3 +7984,4 @@
 0513. ♻️ chore: bump dependencies
 0163. ✨ feat: implement quiz timer feature
 0691. 🎨 style: rename variables for clarity
+0111. 📚 docs: update README with setup steps
