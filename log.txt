@@ -4897,3 +4897,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0942. ✅ test: increase coverage on auth module
 0153. ♻️ chore: rename env.example
+0873. 🚀 perf: cache repeated calculations
