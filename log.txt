@@ -5976,3 +5976,4 @@
 0468. 📚 docs: update README with setup steps
 0531. 🐛 fix: prevent crash on empty input
 0112. ✨ feat: enable dark mode toggle
+0680. ♻️ chore: add GitHub actions badge
