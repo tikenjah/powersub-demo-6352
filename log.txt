@@ -8979,3 +8979,4 @@
 0339. 📚 docs: update README with setup steps
 0291. 📚 docs: write FAQ section
 0657. 🎨 style: standardize quote style
+0467. ✅ test: add integration test for /submit endpoint
