@@ -4913,3 +4913,4 @@
 0690. 🚀 perf: lazy-load components
 0064. 📚 docs: clarify environment setup
 0156. 🎨 style: rename variables for clarity
+0736. 🐛 fix: fix null pointer exception on login
