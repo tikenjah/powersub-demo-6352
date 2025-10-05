@@ -8977,3 +8977,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0664. ✅ test: add unit test for quiz service
 0339. 📚 docs: update README with setup steps
+0291. 📚 docs: write FAQ section
