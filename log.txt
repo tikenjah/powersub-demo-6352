@@ -4916,3 +4916,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0837. 🚀 perf: cache repeated calculations
 0852. ✨ feat: enable dark mode toggle
+0054. ♻️ chore: update .gitignore
