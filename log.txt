@@ -9987,3 +9987,4 @@
 0884. 📚 docs: clarify environment setup
 0889. 🚀 perf: lazy-load components
 0852. ✨ feat: enable dark mode toggle
+0661. ✅ test: add integration test for /submit endpoint
