@@ -4928,3 +4928,4 @@
 0869. ♻️ chore: bump dependencies
 0132. ✅ test: add unit test for quiz service
 0243. 🔧 refactor: clean up auth middleware
+0493. ✨ feat: add user authentication
