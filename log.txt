@@ -4921,3 +4921,4 @@
 0554. 📚 docs: improve code comments in utils
 0246. ✅ test: add integration test for /submit endpoint
 0030. 🐛 fix: fix null pointer exception on login
+0887. 📚 docs: add API usage examples
