@@ -10982,3 +10982,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0151. ✅ test: add unit test for quiz service
 0929. ✨ feat: support email verification
+0140. 🐛 fix: handle 500 error in quiz API
