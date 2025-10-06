@@ -4923,3 +4923,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0887. 📚 docs: add API usage examples
 0811. 🎨 style: reformat files with black
+0057. 🚀 perf: optimize database query for quiz results
