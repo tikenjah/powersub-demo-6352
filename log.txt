@@ -10984,3 +10984,4 @@
 0929. ✨ feat: support email verification
 0140. 🐛 fix: handle 500 error in quiz API
 0432. 🎨 style: apply consistent indentation
+0525. ✅ test: mock database connection in test suite
