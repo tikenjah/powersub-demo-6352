@@ -9986,3 +9986,4 @@
 0687. 🎨 style: remove trailing whitespace
 0884. 📚 docs: clarify environment setup
 0889. 🚀 perf: lazy-load components
+0852. ✨ feat: enable dark mode toggle
