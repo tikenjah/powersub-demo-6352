@@ -4931,3 +4931,4 @@
 0493. ✨ feat: add user authentication
 0298. ♻️ chore: update .gitignore
 0128. ♻️ chore: rename env.example
+0689. 🎨 style: reformat files with black
