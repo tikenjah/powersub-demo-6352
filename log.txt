@@ -7988,3 +7988,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0547. 📚 docs: write FAQ section
 0958. 🐛 fix: prevent crash on empty input
+0352. ✨ feat: add export to CSV option
