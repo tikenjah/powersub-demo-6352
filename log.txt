@@ -4940,3 +4940,4 @@
 0412. ✅ test: increase coverage on auth module
 0738. 🐛 fix: prevent crash on empty input
 0965. 🎨 style: reformat files with black
+0177. 📚 docs: add API usage examples
