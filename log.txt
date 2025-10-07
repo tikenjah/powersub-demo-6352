@@ -4949,3 +4949,4 @@
 0714. 📚 docs: improve code comments in utils
 0156. 🎨 style: rename variables for clarity
 0597. 🚀 perf: cache repeated calculations
+0552. 🐛 fix: fix null pointer exception on login
