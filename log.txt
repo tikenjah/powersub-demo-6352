@@ -4935,3 +4935,4 @@
 0416. 🎨 style: rename variables for clarity
 0329. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
+0971. 🎨 style: standardize quote style
