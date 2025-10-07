@@ -4933,3 +4933,4 @@
 0128. ♻️ chore: rename env.example
 0689. 🎨 style: reformat files with black
 0416. 🎨 style: rename variables for clarity
+0329. 📚 docs: update README with setup steps
