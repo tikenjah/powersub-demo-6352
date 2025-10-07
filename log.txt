@@ -5982,3 +5982,4 @@
 0334. 🚀 perf: cache repeated calculations
 0399. ✅ test: mock database connection in test suite
 0072. 🚀 perf: optimize database query for quiz results
+0892. ✅ test: add unit test for quiz service
