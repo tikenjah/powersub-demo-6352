@@ -4936,3 +4936,4 @@
 0329. 📚 docs: update README with setup steps
 0960. ✅ test: increase coverage on auth module
 0971. 🎨 style: standardize quote style
+0945. ♻️ chore: add GitHub actions badge
