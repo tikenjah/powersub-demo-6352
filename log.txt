@@ -4961,3 +4961,4 @@
 0210. 🎨 style: apply consistent indentation
 0639. 🐛 fix: correct typo in registration form
 0258. 🐛 fix: prevent crash on empty input
+0947. 📚 docs: write FAQ section
