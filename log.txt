@@ -4964,3 +4964,4 @@
 0947. 📚 docs: write FAQ section
 0143. ✨ feat: implement quiz timer feature
 0626. 🎨 style: standardize quote style
+0566. 📚 docs: write FAQ section
