@@ -5987,3 +5987,4 @@
 0119. 📚 docs: improve code comments in utils
 0625. 🐛 fix: handle 500 error in quiz API
 0178. ✨ feat: support email verification
+0379. ✨ feat: support email verification
