@@ -4963,3 +4963,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0947. 📚 docs: write FAQ section
 0143. ✨ feat: implement quiz timer feature
+0626. 🎨 style: standardize quote style
