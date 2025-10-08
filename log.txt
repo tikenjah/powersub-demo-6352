@@ -9990,3 +9990,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0178. ✨ feat: support email verification
 0510. 🎨 style: rename variables for clarity
+0053. ✅ test: increase coverage on auth module
