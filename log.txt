@@ -6993,3 +6993,4 @@
 0196. ♻️ chore: bump dependencies
 0383. 🐛 fix: fix broken CSS in mobile view
 0158. 📚 docs: clarify environment setup
+0659. 📚 docs: add API usage examples
