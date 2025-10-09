@@ -6995,3 +6995,4 @@
 0158. 📚 docs: clarify environment setup
 0659. 📚 docs: add API usage examples
 0614. 🚀 perf: reduce image load time
+0944. ✨ feat: add user authentication
