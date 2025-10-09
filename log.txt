@@ -5988,3 +5988,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0178. ✨ feat: support email verification
 0379. ✨ feat: support email verification
+0933. 📚 docs: clarify environment setup
