@@ -8994,3 +8994,4 @@
 0660. 🐛 fix: correct typo in registration form
 0332. 🎨 style: standardize quote style
 0318. 🔧 refactor: refactor quiz grading logic
+0824. 🚀 perf: lazy-load components
