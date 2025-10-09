@@ -5989,3 +5989,4 @@
 0178. ✨ feat: support email verification
 0379. ✨ feat: support email verification
 0933. 📚 docs: clarify environment setup
+0501. ✨ feat: add export to CSV option
