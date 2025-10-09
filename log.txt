@@ -4973,3 +4973,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0601. ✨ feat: implement quiz timer feature
 0696. 🔧 refactor: clean up auth middleware
+0875. ✅ test: increase coverage on auth module
