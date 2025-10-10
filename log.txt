@@ -4980,3 +4980,4 @@
 0663. 🚀 perf: reduce image load time
 0490. ✨ feat: create admin dashboard
 0310. 🔧 refactor: refactor quiz grading logic
+0448. 🐛 fix: correct typo in registration form
