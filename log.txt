@@ -9993,3 +9993,4 @@
 0053. ✅ test: increase coverage on auth module
 0885. ♻️ chore: update .gitignore
 0525. ✅ test: mock database connection in test suite
+0627. 📚 docs: document token refresh logic
