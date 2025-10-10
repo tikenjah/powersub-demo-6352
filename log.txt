@@ -4981,3 +4981,4 @@
 0490. ✨ feat: create admin dashboard
 0310. 🔧 refactor: refactor quiz grading logic
 0448. 🐛 fix: correct typo in registration form
+0902. ✨ feat: enable dark mode toggle
