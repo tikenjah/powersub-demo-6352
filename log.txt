@@ -10992,3 +10992,4 @@
 0329. 📚 docs: update README with setup steps
 0504. 📚 docs: document token refresh logic
 0937. 🐛 fix: handle 500 error in quiz API
+0287. 📚 docs: write FAQ section
