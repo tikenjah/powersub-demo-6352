@@ -4987,3 +4987,4 @@
 0946. ✅ test: add unit test for quiz service
 0980. 🎨 style: reformat files with black
 0620. ✨ feat: implement quiz timer feature
+0551. 📚 docs: write FAQ section
