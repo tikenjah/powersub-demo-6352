@@ -7997,3 +7997,4 @@
 0316. 🐛 fix: fix broken CSS in mobile view
 0084. 🐛 fix: handle 500 error in quiz API
 0644. 🎨 style: apply consistent indentation
+0935. 📚 docs: update README with setup steps
