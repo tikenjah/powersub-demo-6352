@@ -4990,3 +4990,4 @@
 0551. 📚 docs: write FAQ section
 0228. 🔧 refactor: remove redundant code blocks
 0100. ♻️ chore: update .gitignore
+0117. ✅ test: increase coverage on auth module
